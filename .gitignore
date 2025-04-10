@@ -1,0 +1,9 @@
+cache/
+.DS_Store
+model/__pycache__/
+data/processed/distance_matrix*
+*.lprof
+*hidden*
+notes.txt
+*.log
+bullshit.ipynb
