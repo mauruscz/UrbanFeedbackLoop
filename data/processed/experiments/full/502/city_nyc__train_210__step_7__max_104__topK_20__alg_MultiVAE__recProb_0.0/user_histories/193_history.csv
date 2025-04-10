@@ -1,0 +1,229 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+30420,193,40.862659719587285,-73.89704296952105,10408,Electronics Store,2012-07-06 00:59:43+00:00,New York City,Retail,Computers and Electronics Retail
+30421,193,40.8620067358653,-73.8974965627943,11834,Paper / Office Supplies Store,2012-07-06 01:00:41+00:00,New York City,Retail,Office Supply Store
+30422,193,40.85719318333333,-73.90018794999999,31215,Mexican Restaurant,2012-07-06 05:44:17+00:00,New York City,Dining and Drinking,Restaurant
+30423,193,40.85759639739872,-73.899859,22219,Pizza Place,2012-07-06 05:44:40+00:00,New York City,Dining and Drinking,Restaurant
+30424,193,40.85700267373455,-73.90024106670047,28322,Other Great Outdoors,2012-07-06 05:44:55+00:00,New York City,Landmarks and Outdoors,Lighthouse
+30425,193,40.856134,-73.900861,34336,Ice Cream Shop,2012-07-06 05:46:42+00:00,New York City,Dining and Drinking,Dessert Shop
+30426,193,40.8572378656084,-73.900067,25476,Clothing Store,2012-07-06 11:49:45+00:00,New York City,Retail,Boutique
+30427,193,40.85752612012761,-73.90036164025489,36383,Deli / Bodega,2012-07-06 11:50:46+00:00,New York City,Dining and Drinking,Restaurant
+30428,193,40.85791856063654,-73.90079140663147,28848,Building,2012-07-06 11:52:15+00:00,New York City,Landmarks and Outdoors,Structure
+30429,193,40.85762068478154,-73.89990805363942,29136,Fried Chicken Joint,2012-07-06 11:53:36+00:00,New York City,Dining and Drinking,Restaurant
+30430,193,40.857267970732096,-73.9001721674931,32791,Flower Shop,2012-07-06 21:50:14+00:00,New York City,Retail,Flower Store
+30431,193,40.71839831653251,-73.98737898342362,29805,Clothing Store,2012-07-13 13:32:48+00:00,New York City,Retail,Fashion Retail
+30432,193,40.71882683268336,-73.98820996284485,3402,Fast Food Restaurant,2012-07-13 13:33:03+00:00,New York City,Dining and Drinking,Restaurant
+30433,193,40.71570266831386,-73.99416811828121,27428,Jewelry Store,2012-07-13 15:06:30+00:00,New York City,Retail,Fashion Retail
+30434,193,40.715144,-73.99479,35613,Moving Target,2012-07-13 15:06:46+00:00,New York City,Travel and Transportation,Moving Target
+30435,193,40.81103213724474,-73.93370747566223,29139,Bridge,2012-07-13 22:12:31+00:00,New York City,Landmarks and Outdoors,Bridge
+30436,193,40.71126472429789,-73.99287114236125,32536,Government Building,2012-04-23 12:55:06+00:00,New York City,Landmarks and Outdoors,Monument
+30437,193,40.71359395980835,-73.99667,6555,Library,2012-04-23 19:38:03+00:00,New York City,Community and Government,Library
+30438,193,40.713913411330914,-73.99833445058306,35009,Medical Center,2012-04-23 20:01:12+00:00,New York City,Health and Medicine,Physician
+30439,193,40.71551718935035,-74.00321960449219,2069,Coffee Shop,2012-04-23 20:44:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+30440,193,40.71488030283175,-74.00285074427426,6372,Park,2012-04-23 21:55:08+00:00,New York City,Landmarks and Outdoors,Park
+30441,193,40.712138622275134,-73.99926411567694,27721,Deli / Bodega,2012-04-23 22:21:18+00:00,New York City,Dining and Drinking,Restaurant
+30442,193,40.71149015323217,-73.99256124416165,32602,Deli / Bodega,2012-07-02 12:06:17+00:00,New York City,Dining and Drinking,Restaurant
+30443,193,40.83662033066391,-73.90240563774356,33599,Church,2012-07-02 20:02:19+00:00,New York City,Community and Government,Spiritual Center
+30444,193,40.85717392857144,-73.8999657,22456,African Restaurant,2012-07-02 21:55:12+00:00,New York City,Dining and Drinking,Restaurant
+30445,193,40.85759639739872,-73.899859,22219,Pizza Place,2012-07-09 01:54:08+00:00,New York City,Dining and Drinking,Restaurant
+30446,193,40.85700267373455,-73.90024106670047,28322,Other Great Outdoors,2012-07-09 01:54:24+00:00,New York City,Landmarks and Outdoors,Lighthouse
+30447,193,40.85762068478154,-73.89990805363942,29136,Fried Chicken Joint,2012-07-09 01:54:34+00:00,New York City,Dining and Drinking,Restaurant
+30448,193,40.8572378656084,-73.900067,25476,Clothing Store,2012-07-09 03:06:13+00:00,New York City,Retail,Boutique
+30449,193,40.8572376550194,-73.90024106670047,24123,Gym / Fitness Center,2012-07-09 03:06:22+00:00,New York City,Sports and Recreation,Gym and Studio
+30450,193,40.85758799246714,-73.90039034823303,35826,Salon / Barbershop,2012-07-09 03:06:28+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30451,193,40.85714776,-73.90026098000001,31216,General Entertainment,2012-07-09 03:20:48+00:00,New York City,Arts and Entertainment,General Entertainment
+30452,193,40.856134,-73.900861,34336,Ice Cream Shop,2012-07-09 03:21:41+00:00,New York City,Dining and Drinking,Dessert Shop
+30453,193,40.857267970732096,-73.9001721674931,32791,Flower Shop,2012-07-09 10:47:55+00:00,New York City,Retail,Flower Store
+30454,193,40.85591796483038,-73.90305443022132,32989,School,2012-07-09 12:08:50+00:00,New York City,Community and Government,Education
+30455,193,40.857159205853264,-73.90961113215137,23528,Library,2012-07-09 12:26:46+00:00,New York City,Community and Government,Library
+30456,193,40.71935601572622,-73.98493988647952,23267,Bar,2012-07-09 14:43:16+00:00,New York City,Dining and Drinking,Bar
+30457,193,40.71976697808711,-73.98681655911211,15162,High School,2012-07-09 14:44:25+00:00,New York City,Community and Government,Education
+30458,193,40.720184,-73.984548,2319,Bar,2012-07-09 14:44:52+00:00,New York City,Dining and Drinking,Bar
+30459,193,40.71914396431482,-73.98611783981323,30122,Theater,2012-07-09 14:50:13+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+30460,193,40.71839831653251,-73.98737898342362,29805,Clothing Store,2012-07-09 16:01:51+00:00,New York City,Retail,Fashion Retail
+30461,193,40.719222,-73.990248,6339,Coffee Shop,2012-07-09 16:02:07+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+30462,193,40.72074156049081,-73.98882520980104,35982,Scenic Lookout,2012-07-09 16:02:50+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+30463,193,40.71238144571767,-73.9930547855025,33040,Building,2012-07-09 16:17:08+00:00,New York City,Landmarks and Outdoors,Structure
+30464,193,40.71106719996377,-73.9927219321795,32536,Government Building,2012-07-09 16:17:28+00:00,New York City,Landmarks and Outdoors,Monument
+30465,193,40.715144,-73.99479,35613,Moving Target,2012-07-09 16:18:07+00:00,New York City,Travel and Transportation,Moving Target
+30466,193,40.71478585,-73.993512,9328,Museum,2012-07-09 17:17:09+00:00,New York City,Arts and Entertainment,Museum
+30467,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-07-09 17:17:45+00:00,New York City,Sports and Recreation,Skating
+30468,193,40.71106719996377,-73.9927219321795,32536,Government Building,2012-07-09 17:17:58+00:00,New York City,Landmarks and Outdoors,Monument
+30469,193,40.84983594088081,-73.92035007476807,30991,Neighborhood,2012-07-09 21:59:09+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+30470,193,40.85735053724709,-73.92219543457031,6674,Park,2012-07-09 21:59:32+00:00,New York City,Landmarks and Outdoors,Park
+30471,193,40.85885827685571,-73.92278702397915,35945,Athletic & Sport,2012-07-09 22:00:13+00:00,New York City,Sports and Recreation,Sports and Recreation
+30472,193,40.85731312802714,-73.89981044625522,36531,Playground,2012-07-09 22:43:14+00:00,New York City,Landmarks and Outdoors,Park
+30473,193,40.85775130413219,-73.90010326826138,36383,Deli / Bodega,2012-07-09 22:43:55+00:00,New York City,Dining and Drinking,Restaurant
+30474,193,40.836070145903015,-73.94627750734799,36525,Temple,2012-07-16 03:08:47+00:00,New York City,Community and Government,Spiritual Center
+30475,193,40.83552457429259,-73.94849896721212,15241,Park,2012-07-16 13:03:26+00:00,New York City,Landmarks and Outdoors,Park
+30476,193,40.836070145903015,-73.94627750734799,36525,Temple,2012-07-16 21:46:41+00:00,New York City,Community and Government,Spiritual Center
+30477,193,40.85758799246714,-73.90039034823303,35826,Salon / Barbershop,2012-06-18 03:14:10+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30478,193,40.84983594088081,-73.92035007476807,30991,Neighborhood,2012-06-18 11:42:47+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+30479,193,40.84736180781012,-73.91973282263861,31266,Music Venue,2012-06-18 11:44:35+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+30480,193,40.84752671350564,-73.92047915446452,28507,Medical Center,2012-06-18 11:44:49+00:00,New York City,Health and Medicine,Dentist
+30481,193,40.84674771428571,-73.9206566,29595,Building,2012-06-18 11:45:04+00:00,New York City,Landmarks and Outdoors,Structure
+30482,193,40.7114172,-73.99216295301382,24748,Building,2012-06-18 13:49:01+00:00,New York City,Landmarks and Outdoors,Structure
+30483,193,40.71106719996377,-73.9927219321795,32536,Government Building,2012-06-18 13:49:12+00:00,New York City,Landmarks and Outdoors,Monument
+30484,193,40.71162452162066,-73.99250959441304,16920,General Travel,2012-06-18 13:49:30+00:00,New York City,Travel and Transportation,General Travel
+30485,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-06-18 13:57:18+00:00,New York City,Sports and Recreation,Skating
+30486,193,40.71083120983339,-73.99130442966347,4989,Food & Drink Shop,2012-06-18 17:32:23+00:00,New York City,Retail,Food and Beverage Retail
+30487,193,40.70993581721866,-73.99194718513888,23480,Other Great Outdoors,2012-06-18 17:36:16+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+30488,193,40.7114172,-73.99216295301382,24748,Building,2012-06-18 17:51:20+00:00,New York City,Landmarks and Outdoors,Structure
+30489,193,40.712046,-73.993746,20712,Art Gallery,2012-06-18 17:51:51+00:00,New York City,Arts and Entertainment,Art Gallery
+30490,193,40.8572378656084,-73.900067,25476,Clothing Store,2012-06-25 11:13:16+00:00,New York City,Retail,Boutique
+30491,193,40.85758799246714,-73.90039034823303,35826,Salon / Barbershop,2012-06-25 11:13:42+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30492,193,40.85700267373455,-73.90024106670047,28322,Other Great Outdoors,2012-06-25 11:22:54+00:00,New York City,Landmarks and Outdoors,Lighthouse
+30493,193,40.85717392857144,-73.8999657,22456,African Restaurant,2012-06-25 11:23:17+00:00,New York City,Dining and Drinking,Restaurant
+30494,193,40.85721122841584,-73.90026977469638,31464,Bar,2012-06-25 11:29:41+00:00,New York City,Dining and Drinking,Bar
+30495,193,40.71551718935035,-74.00321960449219,2069,Coffee Shop,2012-05-14 16:49:56+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+30496,193,40.713913411330914,-73.99833445058306,35009,Medical Center,2012-05-14 18:05:59+00:00,New York City,Health and Medicine,Physician
+30497,193,40.71551718935035,-74.00321960449219,2069,Coffee Shop,2012-05-21 17:27:06+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+30498,193,40.73562636143956,-73.9835223264927,37021,Medical Center,2012-05-28 01:27:03+00:00,New York City,Health and Medicine,Hospital
+30499,193,40.836070145903015,-73.94678838797373,36525,Temple,2012-07-07 02:20:12+00:00,New York City,Community and Government,Spiritual Center
+30500,193,40.835604023151866,-73.94861377064605,26731,Government Building,2012-07-07 05:00:04+00:00,New York City,Community and Government,Government Building
+30501,193,40.83745997834024,-73.9476494196828,16640,Scenic Lookout,2012-07-07 05:53:43+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+30502,193,40.83655768575127,-73.94733370850119,31060,Animal Shelter,2012-07-07 05:54:06+00:00,New York City,Community and Government,Animal Shelter
+30503,193,40.71238144571767,-73.9930547855025,33040,Building,2012-07-07 07:57:19+00:00,New York City,Landmarks and Outdoors,Structure
+30504,193,40.71106719996377,-73.9927219321795,32536,Government Building,2012-07-07 07:57:34+00:00,New York City,Landmarks and Outdoors,Monument
+30505,193,40.715144,-73.99479,35613,Moving Target,2012-07-07 07:57:50+00:00,New York City,Travel and Transportation,Moving Target
+30506,193,40.71083120983339,-73.99130442966347,4989,Food & Drink Shop,2012-07-07 07:58:20+00:00,New York City,Retail,Food and Beverage Retail
+30507,193,40.7114172,-73.99216295301382,24748,Building,2012-07-07 12:25:53+00:00,New York City,Landmarks and Outdoors,Structure
+30508,193,40.71149015323217,-73.99256124416165,32602,Deli / Bodega,2012-07-07 12:26:04+00:00,New York City,Dining and Drinking,Restaurant
+30509,193,40.82827721161922,-73.92655344439045,751,Stadium,2012-07-14 00:19:38+00:00,New York City,Arts and Entertainment,Stadium
+30510,193,40.83202633476225,-73.86521417263877,32374,Theater,2012-07-14 04:06:21+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+30511,193,40.71083120983339,-73.99130442966347,4989,Food & Drink Shop,2012-06-30 23:08:55+00:00,New York City,Retail,Food and Beverage Retail
+30512,193,40.709632040889126,-73.99199309616185,23480,Other Great Outdoors,2012-05-12 01:17:03+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+30513,193,40.83081918135972,-73.94737963015963,28531,Salon / Barbershop,2012-04-22 01:30:17+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30514,193,40.71149365729999,-73.99287114236125,32536,Government Building,2012-04-22 08:39:17+00:00,New York City,Landmarks and Outdoors,Monument
+30515,193,40.66063138560393,-73.91189042431043,26192,Bar,2012-04-22 14:56:39+00:00,New York City,Dining and Drinking,Bar
+30516,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-04-22 14:57:33+00:00,New York City,Sports and Recreation,Skating
+30517,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-04-22 15:00:03+00:00,New York City,Sports and Recreation,Skating
+30518,193,40.7097771066105,-73.99171189097368,23480,Other Great Outdoors,2012-04-22 15:00:45+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+30519,193,40.71083120983339,-73.99130442966347,4989,Food & Drink Shop,2012-04-22 15:01:06+00:00,New York City,Retail,Food and Beverage Retail
+30520,193,40.71151286190621,-73.99194718513888,34354,Food & Drink Shop,2012-04-22 15:06:45+00:00,New York City,Retail,Food and Beverage Retail
+30521,193,40.71151286190621,-73.99194718513888,34354,Food & Drink Shop,2012-04-22 15:08:24+00:00,New York City,Retail,Food and Beverage Retail
+30522,193,40.71276303932798,-73.99146301148446,31770,School,2012-04-22 15:09:03+00:00,New York City,Community and Government,Education
+30523,193,40.719222,-73.990248,6339,Coffee Shop,2012-04-22 16:49:32+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+30524,193,40.71135654251132,-73.99224560659177,36278,Bar,2012-07-01 04:24:00+00:00,New York City,Dining and Drinking,Bar
+30525,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-07-01 04:30:39+00:00,New York City,Sports and Recreation,Skating
+30526,193,40.85417012964108,-73.9071882784982,18570,Fast Food Restaurant,2012-07-08 01:45:12+00:00,New York City,Dining and Drinking,Restaurant
+30527,193,40.836070145903015,-73.94678838797373,36525,Temple,2012-07-08 01:57:04+00:00,New York City,Community and Government,Spiritual Center
+30528,193,40.83655768575127,-73.94733370850119,31060,Animal Shelter,2012-07-08 03:36:47+00:00,New York City,Community and Government,Animal Shelter
+30529,193,40.83745997834024,-73.9476494196828,16640,Scenic Lookout,2012-07-08 03:37:07+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+30530,193,40.85762068478154,-73.89990805363942,29136,Fried Chicken Joint,2012-07-08 14:20:18+00:00,New York City,Dining and Drinking,Restaurant
+30531,193,40.8572376550194,-73.90024106670047,24123,Gym / Fitness Center,2012-07-08 14:20:30+00:00,New York City,Sports and Recreation,Gym and Studio
+30532,193,40.85759639739872,-73.899859,22219,Pizza Place,2012-07-08 14:21:08+00:00,New York City,Dining and Drinking,Restaurant
+30533,193,40.85775130413219,-73.90010326826138,36383,Deli / Bodega,2012-07-08 14:21:32+00:00,New York City,Dining and Drinking,Restaurant
+30534,193,40.85762068478154,-73.89990805363942,29136,Fried Chicken Joint,2012-07-08 14:37:10+00:00,New York City,Dining and Drinking,Restaurant
+30535,193,40.85700267373455,-73.90024106670047,28322,Other Great Outdoors,2012-07-08 16:57:25+00:00,New York City,Landmarks and Outdoors,Lighthouse
+30536,193,40.8572376550194,-73.90024106670047,24123,Gym / Fitness Center,2012-07-08 16:59:18+00:00,New York City,Sports and Recreation,Gym and Studio
+30537,193,40.85553972326223,-73.90965132141291,32494,General College & University,2012-07-08 22:03:15+00:00,New York City,Community and Government,Education
+30538,193,40.857159205853264,-73.90961113215137,23528,Library,2012-07-08 22:03:34+00:00,New York City,Community and Government,Library
+30539,193,40.836070145903015,-73.94627750734799,36525,Temple,2012-07-15 17:30:15+00:00,New York City,Community and Government,Spiritual Center
+30540,193,40.85758799246714,-73.90039034823303,35826,Salon / Barbershop,2012-06-17 14:08:26+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30541,193,40.85700267373455,-73.90024106670047,28322,Other Great Outdoors,2012-06-17 14:10:10+00:00,New York City,Landmarks and Outdoors,Lighthouse
+30542,193,40.85758799246714,-73.90039034823303,35826,Salon / Barbershop,2012-06-17 14:33:15+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30543,193,40.85714776,-73.90026098000001,31216,General Entertainment,2012-06-17 14:33:48+00:00,New York City,Arts and Entertainment,General Entertainment
+30544,193,40.85677432677969,-73.9103689854012,22637,College Academic Building,2012-06-17 19:47:40+00:00,New York City,Community and Government,Education
+30545,193,40.85869154610071,-73.90401900265879,27298,Government Building,2012-06-17 19:49:49+00:00,New York City,Community and Government,Government Building
+30546,193,40.834063132397326,-73.94127195391494,18885,Food & Drink Shop,2012-06-17 20:50:40+00:00,New York City,Retail,Food and Beverage Retail
+30547,193,40.83570780259029,-73.9458929109306,34110,Other Nightlife,2012-06-17 20:52:10+00:00,New York City,Nightlife Spot,Other Nightlife
+30548,193,40.83655768575127,-73.94733370850119,31060,Animal Shelter,2012-06-17 22:52:47+00:00,New York City,Community and Government,Animal Shelter
+30549,193,40.79529142598509,-73.92192588184304,33652,Bridge,2012-06-17 23:26:55+00:00,New York City,Landmarks and Outdoors,Bridge
+30550,193,40.76815223733211,-73.8660870499856,23035,Gym / Fitness Center,2012-06-17 23:43:52+00:00,New York City,Sports and Recreation,Gym and Studio
+30551,193,40.864525,-73.918813,30414,Food Truck,2012-07-05 01:33:26+00:00,New York City,Dining and Drinking,Food Truck
+30552,193,40.86173230582329,-73.91283988952637,3420,BBQ Joint,2012-07-05 01:35:37+00:00,New York City,Dining and Drinking,Restaurant
+30553,193,40.7372814277187,-73.8148935791105,23574,Food Truck,2012-07-05 01:38:24+00:00,New York City,Dining and Drinking,Food Truck
+30554,193,40.85752612012761,-73.90036164025489,36383,Deli / Bodega,2012-07-05 12:04:05+00:00,New York City,Dining and Drinking,Restaurant
+30555,193,40.85758799246714,-73.90039034823303,35826,Salon / Barbershop,2012-07-05 12:04:20+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30556,193,40.8572376550194,-73.90024106670047,24123,Gym / Fitness Center,2012-07-05 16:26:30+00:00,New York City,Sports and Recreation,Gym and Studio
+30557,193,40.85759639739872,-73.899859,22219,Pizza Place,2012-07-12 02:30:32+00:00,New York City,Dining and Drinking,Restaurant
+30558,193,40.847587,-73.9125007,12571,Breakfast Spot,2012-07-12 11:51:04+00:00,New York City,Dining and Drinking,Breakfast Spot
+30559,193,40.8450971,-73.91414721666666,23276,Food Truck,2012-07-12 11:53:15+00:00,New York City,Dining and Drinking,Food Truck
+30560,193,40.71976697808711,-73.98681655911211,15162,High School,2012-07-12 12:32:14+00:00,New York City,Community and Government,Education
+30561,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-07-12 13:00:10+00:00,New York City,Sports and Recreation,Skating
+30562,193,40.87440872192383,-73.88843536376953,31782,Theater,2012-06-21 03:46:07+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+30563,193,40.873308,-73.889282,22526,Food Truck,2012-06-21 03:46:43+00:00,New York City,Dining and Drinking,Food Truck
+30564,193,40.872882,-73.888944,28409,Chinese Restaurant,2012-06-21 03:48:02+00:00,New York City,Dining and Drinking,Restaurant
+30565,193,40.71083120983339,-73.99130442966347,4989,Food & Drink Shop,2012-06-21 11:27:38+00:00,New York City,Retail,Food and Beverage Retail
+30566,193,40.71106719996377,-73.9927219321795,32536,Government Building,2012-06-21 11:27:51+00:00,New York City,Landmarks and Outdoors,Monument
+30567,193,40.71135654251132,-73.99224560659177,36278,Bar,2012-06-21 11:28:05+00:00,New York City,Dining and Drinking,Bar
+30568,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-06-21 11:28:20+00:00,New York City,Sports and Recreation,Skating
+30569,193,40.71334219349639,-73.99140199090107,21219,College Academic Building,2012-06-21 13:23:33+00:00,New York City,Community and Government,Education
+30570,193,40.682682,-73.993186,4259,Food & Drink Shop,2012-06-21 14:47:54+00:00,New York City,Retail,Food and Beverage Retail
+30571,193,40.68198245401365,-73.99362866918537,32503,Salon / Barbershop,2012-06-21 14:49:24+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30572,193,40.68493407505351,-73.99451818549944,1550,Movie Theater,2012-06-21 15:28:32+00:00,New York City,Arts and Entertainment,Movie Theater
+30573,193,40.85869154610071,-73.90401900265879,27298,Government Building,2012-07-03 00:49:07+00:00,New York City,Community and Government,Government Building
+30574,193,40.85700267373455,-73.90024106670047,28322,Other Great Outdoors,2012-07-03 03:46:29+00:00,New York City,Landmarks and Outdoors,Lighthouse
+30575,193,40.85762068478154,-73.89990805363942,29136,Fried Chicken Joint,2012-07-03 04:11:28+00:00,New York City,Dining and Drinking,Restaurant
+30576,193,40.85721122841584,-73.90026977469638,31464,Bar,2012-07-03 07:22:52+00:00,New York City,Dining and Drinking,Bar
+30577,193,40.85762068478154,-73.89990805363942,29136,Fried Chicken Joint,2012-07-03 07:23:44+00:00,New York City,Dining and Drinking,Restaurant
+30578,193,40.71083120983339,-73.99130442966347,4989,Food & Drink Shop,2012-07-03 12:21:11+00:00,New York City,Retail,Food and Beverage Retail
+30579,193,40.722887741630174,-74.0064430441152,11833,College Academic Building,2012-07-03 20:37:28+00:00,New York City,Community and Government,Education
+30580,193,40.72207736028288,-74.00357097387314,241,French Restaurant,2012-07-03 20:38:27+00:00,New York City,Dining and Drinking,Restaurant
+30581,193,40.722887741630174,-74.0064430441152,11833,College Academic Building,2012-07-03 20:38:42+00:00,New York City,Community and Government,Education
+30582,193,40.75431505490786,-73.99174632428418,511,Hardware Store,2012-07-03 23:24:24+00:00,New York City,Retail,Hardware Store
+30583,193,40.75536938695056,-73.99210787367122,18684,Theater,2012-07-03 23:29:02+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+30584,193,40.85762068478154,-73.89990805363942,29136,Fried Chicken Joint,2012-07-10 00:12:43+00:00,New York City,Dining and Drinking,Restaurant
+30585,193,40.715144,-73.99479,35613,Moving Target,2012-07-17 03:17:28+00:00,New York City,Travel and Transportation,Moving Target
+30586,193,40.71620327896715,-73.99443784225998,23520,Park,2012-07-17 03:17:48+00:00,New York City,Landmarks and Outdoors,Park
+30587,193,40.71135654251132,-73.99224560659177,36278,Bar,2012-07-17 03:18:44+00:00,New York City,Dining and Drinking,Bar
+30588,193,40.71919185131639,-73.98779793107465,2051,Food & Drink Shop,2012-07-17 15:22:55+00:00,New York City,Retail,Food and Beverage Retail
+30589,193,40.71151286190621,-73.99194718513888,34354,Food & Drink Shop,2012-07-17 15:23:50+00:00,New York City,Retail,Food and Beverage Retail
+30590,193,40.72853116706377,-73.98772332402564,2466,BBQ Joint,2012-07-17 20:57:56+00:00,New York City,Dining and Drinking,Restaurant
+30591,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-07-24 13:50:31+00:00,New York City,Sports and Recreation,Skating
+30592,193,40.71115817355518,-73.9926932379005,26317,Other Great Outdoors,2012-06-26 16:47:59+00:00,New York City,Landmarks and Outdoors,Park
+30593,193,40.7114172,-73.99216295301382,24748,Building,2012-06-26 16:52:05+00:00,New York City,Landmarks and Outdoors,Structure
+30594,193,40.71160738587415,-73.9937606621895,31993,Art Gallery,2012-06-26 17:18:18+00:00,New York City,Arts and Entertainment,Art Gallery
+30595,193,40.71238144571767,-73.9930547855025,33040,Building,2012-06-26 17:19:04+00:00,New York City,Landmarks and Outdoors,Structure
+30596,193,40.71151286190621,-73.99194718513888,34354,Food & Drink Shop,2012-06-26 19:09:43+00:00,New York City,Retail,Food and Beverage Retail
+30597,193,40.714295404882414,-73.99264158818742,25581,Park,2012-06-26 19:46:54+00:00,New York City,Landmarks and Outdoors,Park
+30598,193,40.718062975609485,-73.99618816949595,10564,Food & Drink Shop,2012-06-26 20:26:09+00:00,New York City,Retail,Food and Beverage Retail
+30599,193,40.71658029883746,-73.99478790898571,5945,Hotel,2012-06-26 23:44:10+00:00,New York City,Travel and Transportation,Lodging
+30600,193,40.71551718935035,-74.00321960449219,2069,Coffee Shop,2012-05-15 12:54:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+30601,193,40.71334219349639,-73.99140199090107,21219,College Academic Building,2012-05-15 18:59:37+00:00,New York City,Community and Government,Education
+30602,193,40.71334219349639,-73.99140199090107,21219,College Academic Building,2012-05-22 12:18:06+00:00,New York City,Community and Government,Education
+30603,193,40.73299870199674,-73.98549556732178,27637,Breakfast Spot,2012-07-04 00:08:55+00:00,New York City,Dining and Drinking,Breakfast Spot
+30604,193,40.73696822247639,-73.9865755196171,3814,Sushi Restaurant,2012-07-04 00:09:46+00:00,New York City,Dining and Drinking,Restaurant
+30605,193,40.732582,-73.985455,16975,Spa / Massage,2012-07-04 00:10:57+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30606,193,40.73266261671031,-73.98566874928272,3950,Food & Drink Shop,2012-07-04 00:11:52+00:00,New York City,Retail,Food and Beverage Retail
+30607,193,40.730971772632174,-73.98551379443012,401,Vegetarian / Vegan Restaurant,2012-07-04 00:16:17+00:00,New York City,Dining and Drinking,Restaurant
+30608,193,40.72355544447054,-74.0060356141375,10945,Office,2012-07-04 01:02:49+00:00,New York City,Business and Professional Services,Office
+30609,193,40.83885838706269,-73.92967028289803,24942,Seafood Restaurant,2012-07-04 01:46:04+00:00,New York City,Dining and Drinking,Restaurant
+30610,193,40.85305272882648,-73.9034448529731,17573,Salon / Barbershop,2012-07-04 02:40:14+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30611,193,40.873308,-73.889282,22526,Food Truck,2012-07-04 10:23:59+00:00,New York City,Dining and Drinking,Food Truck
+30612,193,40.86355172873336,-73.91804495394365,10954,Food & Drink Shop,2012-07-04 10:43:27+00:00,New York City,Retail,Food and Beverage Retail
+30613,193,40.85477511284987,-73.90470798005013,28277,School,2012-07-04 12:01:03+00:00,New York City,Community and Government,Education
+30614,193,40.85985117343879,-73.90257788374451,19075,Gas Station / Garage,2012-07-04 12:08:43+00:00,New York City,Travel and Transportation,Fuel Station
+30615,193,40.712046,-73.993746,20712,Art Gallery,2012-07-11 02:33:14+00:00,New York City,Arts and Entertainment,Art Gallery
+30616,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-07-11 02:34:13+00:00,New York City,Sports and Recreation,Skating
+30617,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-07-11 12:19:53+00:00,New York City,Sports and Recreation,Skating
+30618,193,40.71149015323217,-73.99256124416165,32602,Deli / Bodega,2012-07-11 12:20:25+00:00,New York City,Dining and Drinking,Restaurant
+30619,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-07-11 12:20:45+00:00,New York City,Sports and Recreation,Skating
+30620,193,40.72064784326656,-73.98714368365702,11539,Medical Center,2012-07-11 13:37:47+00:00,New York City,Health and Medicine,Physician
+30621,193,40.72036368727871,-73.9870834350586,22756,Bar,2012-07-11 13:40:24+00:00,New York City,Dining and Drinking,Bar
+30622,193,40.719964151380175,-73.98799305706578,815,Candy Store,2012-07-11 21:09:24+00:00,New York City,Retail,Food and Beverage Retail
+30623,193,40.71083120983339,-73.99130442966347,4989,Food & Drink Shop,2012-07-11 21:28:52+00:00,New York City,Retail,Food and Beverage Retail
+30624,193,40.86173230582329,-73.91283988952637,3420,BBQ Joint,2012-07-11 22:04:45+00:00,New York City,Dining and Drinking,Restaurant
+30625,193,40.85758799246714,-73.90039034823303,35826,Salon / Barbershop,2012-07-11 23:12:49+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30626,193,40.71135654251132,-73.99224560659177,36278,Bar,2012-06-20 20:52:29+00:00,New York City,Dining and Drinking,Bar
+30627,193,40.71106719996377,-73.9927219321795,32536,Government Building,2012-06-20 22:37:03+00:00,New York City,Landmarks and Outdoors,Monument
+30628,193,40.71471297290656,-73.99354832557317,23561,Museum,2012-06-20 22:39:47+00:00,New York City,Arts and Entertainment,Museum
+30629,193,40.71622738445512,-73.99480512536556,3241,Tea Room,2012-06-20 22:40:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+30630,193,40.715144,-73.99479,35613,Moving Target,2012-06-20 22:40:26+00:00,New York City,Travel and Transportation,Moving Target
+30631,193,40.7114172,-73.99216295301382,24748,Building,2012-06-20 22:40:29+00:00,New York City,Landmarks and Outdoors,Structure
+30632,193,40.7114673282201,-73.99296283721924,10219,Athletic & Sport,2012-06-20 23:30:52+00:00,New York City,Sports and Recreation,Skating
+30633,193,40.85758799246714,-73.90039034823303,35826,Salon / Barbershop,2012-06-27 01:06:51+00:00,New York City,Business and Professional Services,Health and Beauty Service
+30634,193,40.85717392857144,-73.8999657,22456,African Restaurant,2012-06-27 01:24:22+00:00,New York City,Dining and Drinking,Restaurant
+30635,193,40.85762068478154,-73.89990805363942,29136,Fried Chicken Joint,2012-06-27 01:24:54+00:00,New York City,Dining and Drinking,Restaurant
+30636,193,40.85719318333333,-73.90018794999999,31215,Mexican Restaurant,2012-06-27 01:26:30+00:00,New York City,Dining and Drinking,Restaurant
+30637,193,40.85719318333333,-73.90018794999999,31215,Mexican Restaurant,2012-06-27 03:17:35+00:00,New York City,Dining and Drinking,Restaurant
+30638,193,40.857267970732096,-73.9001721674931,32791,Flower Shop,2012-06-27 03:18:19+00:00,New York City,Retail,Flower Store
+30639,193,40.86345751047403,-73.90025829149852,16207,Community College,2012-06-27 03:46:55+00:00,New York City,Community and Government,Education
+30640,193,40.86309223544323,-73.90022384190091,22109,College Academic Building,2012-06-27 03:47:18+00:00,New York City,Community and Government,Education
+30641,193,40.84873460998935,-73.93248896152076,31995,Miscellaneous Shop,2012-06-27 12:23:13+00:00,New York City,Retail,Miscellaneous Store
+30642,193,40.71334219349639,-73.99140199090107,21219,College Academic Building,2012-06-27 14:00:04+00:00,New York City,Community and Government,Education
+30643,193,40.718866,-74.00668,1334,Mexican Restaurant,2012-06-27 14:29:09+00:00,New York City,Dining and Drinking,Restaurant
+30644,193,40.71811691709943,-74.00469854910077,32300,Gym / Fitness Center,2012-06-27 14:29:52+00:00,New York City,Sports and Recreation,Gym and Studio
+30645,193,40.722895931194174,-74.00584050651699,36297,American Restaurant,2012-06-27 14:38:11+00:00,New York City,Dining and Drinking,Restaurant
+30646,193,40.71334219349639,-73.99140199090107,21219,College Academic Building,2012-05-16 12:41:46+00:00,New York City,Community and Government,Education
+30647,193,40.71551718935035,-74.00321960449219,2069,Coffee Shop,2012-05-16 12:49:32+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"

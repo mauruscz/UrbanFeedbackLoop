@@ -1,0 +1,117 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-07-13 07:33:48+00:00,New York City,Travel and Transportation,Lodging,,,,
+1,11,40.73709857380555,-73.99039768167009,3849,Coffee Shop,2012-06-01 09:53:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+2,11,40.72898242586681,-73.9958381652832,1292,University,2012-06-01 13:00:17+00:00,New York City,Community and Government,Education,,,,
+3,11,40.72941621727988,-73.99291131431343,11535,College Academic Building,2012-06-01 17:00:17+00:00,New York City,Community and Government,Education,,,,
+4,11,40.77424772550128,-73.98162840411491,1891,Gym / Fitness Center,2012-05-25 16:43:47+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+5,11,40.73441328403598,-74.01000022888184,17337,Gym / Fitness Center,2012-04-23 11:39:18+00:00,New York City,Sports and Recreation,Running and Track,,,,
+6,11,40.76280318635086,-73.97336953664879,4479,Sporting Goods Shop,2012-04-23 23:39:27+00:00,New York City,Retail,Sporting Goods Retail,,,,
+7,11,40.72085157020638,-73.88430118560791,17620,Gym / Fitness Center,2012-04-23 23:42:28+00:00,New York City,Sports and Recreation,Running and Track,,,,
+8,11,40.75745923000001,-73.96909338,24745,Building,2012-07-09 00:05:54+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+9,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-07-09 04:18:48+00:00,New York City,Travel and Transportation,Lodging,,,,
+10,11,40.75372797263211,-73.98368835767094,726,Park,2012-07-09 10:04:57+00:00,New York City,Landmarks and Outdoors,Park,,,,
+11,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-07-09 11:19:37+00:00,New York City,Travel and Transportation,Lodging,,,,
+12,11,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-07-09 15:11:17+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+13,11,40.74277008600937,-74.00768280029297,36555,Event Space,2012-07-16 00:51:35+00:00,New York City,Business and Professional Services,Event Space,,,,
+14,11,40.71403139778074,-74.00765385202588,24042,Mosque,2012-07-16 01:15:58+00:00,New York City,Community and Government,Spiritual Center,,,,
+15,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-07-16 04:39:32+00:00,New York City,Travel and Transportation,Lodging,,,,
+16,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-07-16 09:54:45+00:00,New York City,Travel and Transportation,Lodging,,,,
+17,11,40.733039526860495,-73.9997404238227,5055,Spa / Massage,2012-06-04 01:40:09+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+18,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-06-04 03:00:23+00:00,New York City,Travel and Transportation,Lodging,,,,
+19,11,40.72898242586681,-73.9958381652832,1292,University,2012-06-04 13:00:19+00:00,New York City,Community and Government,Education,,,,
+20,11,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-04 23:23:02+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+21,11,40.733039526860495,-73.9997404238227,5055,Spa / Massage,2012-05-28 01:40:10+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+22,11,40.72898242586681,-73.9958381652832,1292,University,2012-05-28 13:00:49+00:00,New York City,Community and Government,Education,,,,
+23,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-06-02 22:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+24,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-07-08 05:41:53+00:00,New York City,Travel and Transportation,Lodging,,,,
+25,11,40.72795460840525,-73.99326138382618,31230,Coffee Shop,2012-07-08 11:55:19+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+26,11,40.75407123579426,-73.98446354157814,2998,Bookstore,2012-07-08 12:39:03+00:00,New York City,Retail,Bookstore,,,,
+27,11,40.76744416223376,-73.97193431854248,3317,Zoo,2012-07-08 14:16:53+00:00,New York City,Arts and Entertainment,Zoo,,,,
+28,11,40.725871,-73.99074558333334,8428,Record Shop,2012-07-08 15:20:36+00:00,New York City,Retail,Record Store,,,,
+29,11,40.74818675066699,-73.98546788185718,27385,Bookstore,2012-07-22 13:53:41+00:00,New York City,Retail,Bookstore,,,,
+30,11,40.77424772550128,-73.98162840411491,1891,Gym / Fitness Center,2012-06-03 00:30:16+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+31,11,40.733039526860495,-73.9997404238227,5055,Spa / Massage,2012-06-03 01:40:13+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+32,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2012-06-03 19:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-06-03 22:33:27+00:00,New York City,Travel and Transportation,Lodging,,,,
+34,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-05-27 22:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+35,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2012-08-09 23:01:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-07-12 04:49:01+00:00,New York City,Travel and Transportation,Lodging,,,,
+37,11,40.71403139778074,-74.00765385202588,24042,Mosque,2012-07-12 09:15:31+00:00,New York City,Community and Government,Spiritual Center,,,,
+38,11,40.773351616237214,-73.96486350841194,25259,Food Truck,2012-07-12 12:48:14+00:00,New York City,Dining and Drinking,Food Truck,,,,
+39,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-05-31 22:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+40,11,40.72439705552265,-74.00142757808672,6953,Clothing Store,2012-09-06 00:08:22+00:00,New York City,Retail,Boutique,,,,
+41,11,40.73268976628568,-73.97463798522949,23696,Gym / Fitness Center,2012-04-24 13:09:12+00:00,New York City,Sports and Recreation,Running and Track,,,,
+42,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-08-14 22:16:55+00:00,New York City,Travel and Transportation,Lodging,,,,
+43,11,40.74215230390258,-73.99064540863037,3502,Hardware Store,2012-07-10 22:02:22+00:00,New York City,Retail,Hardware Store,,,,
+44,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-07-17 06:26:28+00:00,New York City,Travel and Transportation,Lodging,,,,
+45,11,40.71403139778074,-74.00765385202588,24042,Mosque,2012-07-17 10:15:45+00:00,New York City,Community and Government,Spiritual Center,,,,
+46,11,40.733039526860495,-73.9997404238227,5055,Spa / Massage,2012-05-29 01:40:09+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+47,11,40.702659,-73.904997,33512,Coffee Shop,2012-05-29 06:52:58+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+48,11,40.72898242586681,-73.9958381652832,1292,University,2012-05-29 13:00:21+00:00,New York City,Community and Government,Education,,,,
+49,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-05-29 22:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+50,11,40.84884561932444,-73.82208806672762,21453,Gym / Fitness Center,2012-04-25 12:22:49+00:00,New York City,Sports and Recreation,Running and Track,,,,
+51,11,40.741160589048285,-73.98811340332031,950,Burger Joint,2012-07-11 00:14:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+52,11,40.8134844303353,-74.07433032989502,15737,Stadium,2012-07-11 06:20:26+00:00,New York City,Arts and Entertainment,Stadium,,,,
+53,11,40.71403139778074,-74.00765385202588,24042,Mosque,2012-07-11 09:22:21+00:00,New York City,Community and Government,Spiritual Center,,,,
+54,11,40.77424772550128,-73.98162840411491,1891,Gym / Fitness Center,2012-05-30 00:30:16+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+55,11,40.733039526860495,-73.9997404238227,5055,Spa / Massage,2012-05-30 01:40:13+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+56,11,40.77253079341116,-73.98344197864982,129,Performing Arts Venue,2012-09-05 23:39:15+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+57,11,40.71532522653398,-74.00952456386844,25814,Hotel,2012-12-29 18:00:09+00:00,,Travel and Transportation,Lodging,60.0,8.0,nyc,Return
+58,11,40.714982329162254,-74.01557269097704,32973,Hotel,2012-12-31 18:00:09+00:00,,Travel and Transportation,Lodging,62.0,8.0,nyc,Explore
+59,11,40.77424772550128,-73.98162840411491,1891,Gym / Fitness Center,2013-01-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,63.0,9.0,nyc,Return
+60,11,40.75372797263211,-73.98368835767094,726,Park,2013-01-04 18:00:09+00:00,,Landmarks and Outdoors,Park,66.0,9.0,nyc,Return
+61,11,40.71403139778074,-74.00765385202588,24042,Mosque,2013-01-04 18:00:09+00:00,,Community and Government,Spiritual Center,66.0,9.0,nyc,Return
+62,11,40.71532522653398,-74.00952456386844,25814,Hotel,2013-01-04 18:00:09+00:00,,Travel and Transportation,Lodging,66.0,9.0,nyc,Return
+63,11,40.72898242586681,-73.9958381652832,1292,University,2013-01-04 18:00:09+00:00,,Community and Government,Education,66.0,9.0,nyc,Rec
+64,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-05 18:00:09+00:00,,Dining and Drinking,Restaurant,67.0,9.0,nyc,Return
+65,11,40.75574127251162,-73.98560561954304,5325,Building,2013-01-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,68.0,9.0,nyc,Explore
+66,11,40.74140750304299,-73.98843795061111,950,Burger Joint,2013-01-06 18:00:09+00:00,,Dining and Drinking,Restaurant,68.0,9.0,nyc,Return
+67,11,40.77424772550128,-73.98162840411491,1891,Gym / Fitness Center,2013-01-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,68.0,9.0,nyc,Return
+68,11,40.74846618156193,-73.97797250722803,4152,Hotel,2013-01-07 18:00:09+00:00,,Travel and Transportation,Lodging,69.0,9.0,nyc,Explore
+69,11,40.76744416223376,-73.97193431854248,3317,Zoo,2013-01-07 18:00:09+00:00,,Arts and Entertainment,Zoo,69.0,9.0,nyc,Return
+70,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Rec
+71,11,40.72941621727988,-73.99291131431343,11535,College Academic Building,2013-01-07 18:00:09+00:00,,Community and Government,Education,69.0,9.0,nyc,Return
+72,11,40.72201114788852,-74.00430259242555,297,Hotel,2013-01-07 18:00:09+00:00,,Travel and Transportation,Lodging,69.0,9.0,nyc,Explore
+73,11,40.718150884309296,-74.0069824571169,15895,Library,2013-01-08 18:00:09+00:00,,Community and Government,Library,70.0,10.0,nyc,Rec
+74,11,40.71696987660609,-74.00713739461277,15349,College Academic Building,2013-01-08 18:00:09+00:00,,Community and Government,Education,70.0,10.0,nyc,Rec
+75,11,40.702659,-73.904997,33512,Coffee Shop,2013-01-09 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",71.0,10.0,nyc,Return
+76,11,40.72941621727988,-73.99291131431343,11535,College Academic Building,2013-01-09 18:00:09+00:00,,Community and Government,Education,71.0,10.0,nyc,Return
+77,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-09 18:00:09+00:00,,Dining and Drinking,Restaurant,71.0,10.0,nyc,Return
+78,11,40.72941621727988,-73.99291131431343,11535,College Academic Building,2013-01-09 18:00:09+00:00,,Community and Government,Education,71.0,10.0,nyc,Return
+79,11,40.74140750304299,-73.98843795061111,950,Burger Joint,2013-01-10 18:00:09+00:00,,Dining and Drinking,Restaurant,72.0,10.0,nyc,Return
+80,11,40.71696987660609,-74.00713739461277,15349,College Academic Building,2013-01-10 18:00:09+00:00,,Community and Government,Education,72.0,10.0,nyc,Return
+81,11,40.74140750304299,-73.98843795061111,950,Burger Joint,2013-01-11 18:00:09+00:00,,Dining and Drinking,Restaurant,73.0,10.0,nyc,Return
+82,11,40.71532522653398,-74.00952456386844,25814,Hotel,2013-01-12 18:00:09+00:00,,Travel and Transportation,Lodging,74.0,10.0,nyc,Return
+83,11,40.71515230397314,-74.01477508365622,35362,Italian Restaurant,2013-01-12 18:00:09+00:00,,Dining and Drinking,Restaurant,74.0,10.0,nyc,Rec
+84,11,40.77424772550128,-73.98162840411491,1891,Gym / Fitness Center,2013-01-13 18:00:09+00:00,,Sports and Recreation,Gym and Studio,75.0,10.0,nyc,Return
+85,11,40.71696987660609,-74.00713739461277,15349,College Academic Building,2013-01-14 18:00:09+00:00,,Community and Government,Education,76.0,10.0,nyc,Return
+86,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-14 18:00:09+00:00,,Dining and Drinking,Restaurant,76.0,10.0,nyc,Return
+87,11,40.72898242586681,-73.9958381652832,1292,University,2013-01-14 18:00:09+00:00,,Community and Government,Education,76.0,10.0,nyc,Return
+88,11,40.72898242586681,-73.9958381652832,1292,University,2013-01-14 18:00:09+00:00,,Community and Government,Education,76.0,10.0,nyc,Return
+89,11,40.72941621727988,-73.99291131431343,11535,College Academic Building,2013-01-15 18:00:09+00:00,,Community and Government,Education,77.0,11.0,nyc,Return
+90,11,40.71532522653398,-74.00952456386844,25814,Hotel,2013-01-15 18:00:09+00:00,,Travel and Transportation,Lodging,77.0,11.0,nyc,Return
+91,11,40.74140750304299,-73.98843795061111,950,Burger Joint,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Return
+92,11,40.71532522653398,-74.00952456386844,25814,Hotel,2013-01-17 18:00:09+00:00,,Travel and Transportation,Lodging,79.0,11.0,nyc,Return
+93,11,40.74140750304299,-73.98843795061111,950,Burger Joint,2013-01-17 18:00:09+00:00,,Dining and Drinking,Restaurant,79.0,11.0,nyc,Return
+94,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-18 18:00:09+00:00,,Dining and Drinking,Restaurant,80.0,11.0,nyc,Return
+95,11,40.71532522653398,-74.00952456386844,25814,Hotel,2013-01-18 18:00:09+00:00,,Travel and Transportation,Lodging,80.0,11.0,nyc,Return
+96,11,40.714982329162254,-74.01557269097704,32973,Hotel,2013-01-18 18:00:09+00:00,,Travel and Transportation,Lodging,80.0,11.0,nyc,Rec
+97,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-18 18:00:09+00:00,,Dining and Drinking,Restaurant,80.0,11.0,nyc,Rec
+98,11,40.72898242586681,-73.9958381652832,1292,University,2013-01-21 18:00:09+00:00,,Community and Government,Education,83.0,11.0,nyc,Rec
+99,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-21 18:00:09+00:00,,Dining and Drinking,Restaurant,83.0,11.0,nyc,Return
+100,11,40.75364190878429,-73.98379780455603,529,Hotel,2013-01-22 18:00:09+00:00,,Travel and Transportation,Lodging,84.0,12.0,nyc,Explore
+101,11,40.72941621727988,-73.99291131431343,11535,College Academic Building,2013-01-22 18:00:09+00:00,,Community and Government,Education,84.0,12.0,nyc,Rec
+102,11,40.84884561932444,-73.82208806672762,21453,Gym / Fitness Center,2013-01-24 18:00:09+00:00,,Sports and Recreation,Running and Track,86.0,12.0,nyc,Return
+103,11,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-24 18:00:09+00:00,,Dining and Drinking,Restaurant,86.0,12.0,nyc,Return
+104,11,40.71532522653398,-74.00952456386844,25814,Hotel,2013-01-24 18:00:09+00:00,,Travel and Transportation,Lodging,86.0,12.0,nyc,Return
+105,11,40.71532522653398,-74.00952456386844,25814,Hotel,2013-01-25 18:00:09+00:00,,Travel and Transportation,Lodging,87.0,12.0,nyc,Return
+106,11,40.715284,-74.008876,1971,Wings Joint,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Explore
+107,11,40.715284,-74.008876,1971,Wings Joint,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Return
+108,11,40.71519190839823,-74.00929212570189,3004,Hotel,2013-01-25 18:00:09+00:00,,Travel and Transportation,Lodging,87.0,12.0,nyc,Explore
+109,11,40.73441328403598,-74.01000022888184,17337,Gym / Fitness Center,2013-01-26 18:00:09+00:00,,Sports and Recreation,Running and Track,88.0,12.0,nyc,Return
+110,11,40.730642,-73.992378,3758,Deli / Bodega,2013-01-26 18:00:09+00:00,,Dining and Drinking,Restaurant,88.0,12.0,nyc,Rec
+111,11,40.73087259189469,-74.00116934115263,11716,Fast Food Restaurant,2013-01-26 18:00:09+00:00,,Dining and Drinking,Restaurant,88.0,12.0,nyc,Explore
+112,11,40.71532522653398,-74.00952456386844,25814,Hotel,2013-01-26 18:00:09+00:00,,Travel and Transportation,Lodging,88.0,12.0,nyc,Return
+113,11,40.71553337,-74.01130608,17044,Parking,2013-01-27 18:00:09+00:00,,Travel and Transportation,Parking,89.0,12.0,nyc,Explore
+114,11,40.73441328403598,-74.01000022888184,17337,Gym / Fitness Center,2013-01-27 18:00:09+00:00,,Sports and Recreation,Running and Track,89.0,12.0,nyc,Rec
+115,11,40.75608700443638,-73.98178910128384,9966,Hotel,2013-01-28 18:00:09+00:00,,Travel and Transportation,Lodging,90.0,12.0,nyc,Explore

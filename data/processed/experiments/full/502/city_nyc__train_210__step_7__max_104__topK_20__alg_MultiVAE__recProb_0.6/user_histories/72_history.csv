@@ -1,0 +1,123 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-13 10:58:46+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+1,72,40.689649,-73.992413,2440,Food & Drink Shop,2012-04-13 15:01:12+00:00,New York City,Retail,Food and Beverage Retail,,,,
+2,72,40.66411940065872,-73.98395276079304,33595,Salon / Barbershop,2012-04-13 19:39:07+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+3,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-20 10:37:29+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+4,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-27 11:00:30+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+5,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-08-10 10:34:36+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+6,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-06 10:42:58+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+7,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-01 11:01:00+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+8,72,40.664897142398,-73.98326406544956,3195,Bagel Shop,2012-06-01 12:41:55+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+9,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-15 10:44:14+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+10,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-05-04 11:01:31+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+11,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-05-25 11:04:19+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+12,72,40.689649,-73.992413,2440,Food & Drink Shop,2012-05-25 15:10:36+00:00,New York City,Retail,Food and Beverage Retail,,,,
+13,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-10-12 10:37:56+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+14,72,40.70566047104496,-74.00287628173828,735,Harbor / Marina,2012-10-12 19:59:38+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+15,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-10-26 10:41:03+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+16,72,40.689649,-73.992413,2440,Food & Drink Shop,2012-09-14 14:43:21+00:00,New York City,Retail,Food and Beverage Retail,,,,
+17,72,40.73774268243683,-73.97831686468848,7686,Medical Center,2012-04-09 17:40:40+00:00,New York City,Health and Medicine,Dentist,,,,
+18,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-16 11:02:47+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+19,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-23 11:02:48+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+20,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-08-06 10:47:07+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+21,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-08-20 10:35:01+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+22,72,40.665796751366905,-73.97910888450723,5230,American Restaurant,2012-08-20 12:24:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+23,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-02 12:42:13+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+24,72,40.66414485555555,-73.980472,3616,Bakery,2012-07-02 12:50:06+00:00,New York City,Dining and Drinking,Bakery,,,,
+25,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-09 11:02:38+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+26,72,40.66414485555555,-73.980472,3616,Bakery,2012-07-09 12:46:23+00:00,New York City,Dining and Drinking,Bakery,,,,
+27,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-16 10:29:24+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+28,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-30 10:35:49+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+29,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-11 10:44:41+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+30,72,40.66414485555555,-73.980472,3616,Bakery,2012-06-11 12:44:53+00:00,New York City,Dining and Drinking,Bakery,,,,
+31,72,40.689649,-73.992413,2440,Food & Drink Shop,2012-06-11 18:02:57+00:00,New York City,Retail,Food and Beverage Retail,,,,
+32,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-18 10:58:30+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+33,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-25 10:26:06+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+34,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-05-07 11:02:07+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+35,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-05-14 11:05:57+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+36,72,40.66414485555555,-73.980472,3616,Bakery,2012-05-14 12:54:52+00:00,New York City,Dining and Drinking,Bakery,,,,
+37,72,40.74204093790964,-73.99044933198735,5994,Sandwich Place,2012-05-21 14:42:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-10-08 10:38:15+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+39,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-10-22 10:58:51+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+40,72,40.680938,-73.9944863319397,2583,Bagel Shop,2012-04-14 15:05:51+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+41,72,40.66779872366068,-73.9807617849235,20318,Spa / Massage,2012-04-14 19:03:55+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+42,72,40.6844985701064,-73.9919114112854,4260,Food & Drink Shop,2012-04-21 15:06:48+00:00,New York City,Retail,Food and Beverage Retail,,,,
+43,72,40.684767,-73.991643,26178,Bagel Shop,2012-04-28 15:13:39+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+44,72,40.66779872366068,-73.9807617849235,20318,Spa / Massage,2012-08-11 16:54:18+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+45,72,40.68225,-73.99594,4652,Gym / Fitness Center,2012-08-18 13:16:38+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+46,72,40.684767,-73.991643,26178,Bagel Shop,2012-06-09 14:51:35+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+47,72,40.664372,-73.989111,35454,Bar,2012-06-09 17:38:56+00:00,New York City,Dining and Drinking,Bar,,,,
+48,72,40.684767,-73.991643,26178,Bagel Shop,2012-05-05 14:51:54+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+49,72,40.66538399688387,-73.98285084705843,8277,Salon / Barbershop,2012-05-05 19:31:00+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+50,72,40.684767,-73.991643,26178,Bagel Shop,2012-05-12 15:06:55+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+51,72,40.689649,-73.992413,2440,Food & Drink Shop,2012-05-12 18:43:23+00:00,New York City,Retail,Food and Beverage Retail,,,,
+52,72,40.66779872366068,-73.9807617849235,20318,Spa / Massage,2012-10-27 18:53:22+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+53,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-08 12:24:00+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+54,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-15 12:07:28+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+55,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-22 12:28:24+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+56,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-29 12:23:46+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+57,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-08-05 11:40:31+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+58,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-08-12 12:16:26+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+59,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-08-19 12:08:57+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+60,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-08 12:15:50+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+61,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-15 11:45:17+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+62,72,40.664897142398,-73.98326406544956,3195,Bagel Shop,2012-07-15 15:41:07+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+63,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-22 12:03:02+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+64,72,40.66526,-73.982966,14243,Pet Store,2012-07-29 15:46:52+00:00,New York City,Retail,Pet Supplies Store,,,,
+65,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-03 12:30:27+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+66,72,40.66411940065872,-73.98395276079304,33595,Salon / Barbershop,2012-06-03 20:01:44+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+67,72,40.67420193066911,-74.01670575141907,1649,Food & Drink Shop,2012-06-03 22:13:58+00:00,New York City,Retail,Food and Beverage Retail,,,,
+68,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-10 12:00:46+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+69,72,40.66779872366068,-73.9807617849235,20318,Spa / Massage,2012-06-10 18:57:50+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+70,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-17 12:07:03+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+71,72,40.66742342487791,-73.98120403289795,18486,Flea Market,2012-06-17 15:39:42+00:00,New York City,Retail,Flea Market,,,,
+72,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-05-13 12:25:31+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+73,72,40.689649,-73.992413,2440,Food & Drink Shop,2012-07-05 13:37:32+00:00,New York City,Retail,Food and Beverage Retail,,,,
+74,72,40.689649,-73.992413,2440,Food & Drink Shop,2012-10-18 14:45:15+00:00,New York City,Retail,Food and Beverage Retail,,,,
+75,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-04-17 10:49:40+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+76,72,40.66414485555555,-73.980472,3616,Bakery,2012-04-17 12:31:37+00:00,New York City,Dining and Drinking,Bakery,,,,
+77,72,40.74632626799265,-74.00862364051108,4739,Gym / Fitness Center,2012-04-24 22:19:29+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+78,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-08-14 11:02:30+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+79,72,40.661168090780535,-73.97906870966743,26867,Park,2012-08-14 11:31:37+00:00,New York City,Landmarks and Outdoors,Park,,,,
+80,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-03 11:14:39+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+81,72,40.66742777824402,-73.980778,7694,Caf�,2012-07-03 12:34:40+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+82,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-07-17 12:36:38+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+83,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-05 10:57:52+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+84,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-06-12 11:21:05+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+85,72,40.6668316,-73.975247,3614,Medical Center,2012-06-12 19:26:42+00:00,New York City,Health and Medicine,Physician,,,,
+86,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-05-08 11:13:40+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+87,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-05-15 11:28:02+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+88,72,40.74204093790964,-73.99044933198735,5994,Sandwich Place,2012-05-22 12:58:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+89,72,40.73759699001751,-73.97859808949039,7686,Medical Center,2012-05-22 14:33:12+00:00,New York City,Health and Medicine,Dentist,,,,
+90,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-05-29 11:05:59+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+91,72,40.73759699001751,-73.97859808949039,7686,Medical Center,2012-05-29 18:07:26+00:00,New York City,Health and Medicine,Dentist,,,,
+92,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-10-16 10:39:18+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+93,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-10-23 11:28:58+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+94,72,40.74393865874401,-73.98399867372817,17425,Hotel,2012-04-18 18:11:34+00:00,New York City,Travel and Transportation,Lodging,,,,
+95,72,40.73883034768377,-73.98984674408754,979,American Restaurant,2012-04-25 22:49:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+96,72,40.672137,-73.983713,4082,Bagel Shop,2012-06-13 12:09:43+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+97,72,40.66411940065872,-73.98395276079304,33595,Salon / Barbershop,2012-09-12 18:15:18+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+98,72,40.728279,-73.992795,938,Gym / Fitness Center,2012-11-28 18:00:09+00:00,,Sports and Recreation,Gym and Studio,29.0,4.0,nyc,Rec
+99,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-12-02 18:00:09+00:00,,Sports and Recreation,Gym and Studio,33.0,4.0,nyc,Return
+100,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-12-03 18:00:09+00:00,,Sports and Recreation,Gym and Studio,34.0,4.0,nyc,Return
+101,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-12-04 18:00:09+00:00,,Sports and Recreation,Gym and Studio,35.0,5.0,nyc,Return
+102,72,40.68782812829168,-73.97807581453091,3308,Gym / Fitness Center,2012-12-09 18:00:09+00:00,,Sports and Recreation,Gym and Studio,40.0,5.0,nyc,Explore
+103,72,40.69068577836256,-73.98433154217956,10215,Gym / Fitness Center,2012-12-14 18:00:09+00:00,,Sports and Recreation,Gym and Studio,45.0,6.0,nyc,Rec
+104,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2012-12-17 18:00:09+00:00,,Sports and Recreation,Gym and Studio,48.0,6.0,nyc,Return
+105,72,40.64012,-74.01205,17791,Medical Center,2012-12-17 18:00:09+00:00,,Health and Medicine,Physician,48.0,6.0,nyc,Rec
+106,72,40.61779133791298,-74.03036512025987,18737,Gym / Fitness Center,2012-12-18 18:00:09+00:00,,Sports and Recreation,Gym and Studio,49.0,7.0,nyc,Rec
+107,72,40.62227986137512,-74.02728967477186,7790,Gym / Fitness Center,2012-12-23 18:00:09+00:00,,Sports and Recreation,Gym and Studio,54.0,7.0,nyc,Rec
+108,72,40.689649,-73.992413,2440,Food & Drink Shop,2012-12-30 18:00:09+00:00,,Retail,Food and Beverage Retail,61.0,8.0,nyc,Return
+109,72,40.66779872366068,-73.9807617849235,20318,Spa / Massage,2013-01-04 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,66.0,9.0,nyc,Return
+110,72,40.676854686891616,-73.97226182280386,3484,Gym / Fitness Center,2013-01-07 18:00:09+00:00,,Sports and Recreation,Gym and Studio,69.0,9.0,nyc,Rec
+111,72,40.67956402987482,-73.98416519165039,4141,Gym / Fitness Center,2013-01-11 18:00:09+00:00,,Sports and Recreation,Gym and Studio,73.0,10.0,nyc,Rec
+112,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2013-01-14 18:00:09+00:00,,Sports and Recreation,Gym and Studio,76.0,10.0,nyc,Return
+113,72,40.738949,-73.989828,5280,Gym / Fitness Center,2013-01-18 18:00:09+00:00,,Sports and Recreation,Gym and Studio,80.0,11.0,nyc,Rec
+114,72,40.73813869163153,-73.9907649725129,24614,Gym / Fitness Center,2013-01-21 18:00:09+00:00,,Sports and Recreation,Gym and Studio,83.0,11.0,nyc,Rec
+115,72,40.738949,-73.989828,5280,Gym / Fitness Center,2013-01-22 18:00:09+00:00,,Sports and Recreation,Gym and Studio,84.0,12.0,nyc,Rec
+116,72,40.66275977158627,-73.98301728235063,10067,Gym / Fitness Center,2013-01-28 18:00:09+00:00,,Sports and Recreation,Gym and Studio,90.0,12.0,nyc,Return
+117,72,40.67552674469119,-73.97461498967968,17684,Salon / Barbershop,2013-01-28 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,90.0,12.0,nyc,Rec
+118,72,40.68782812829168,-73.97807581453091,3308,Gym / Fitness Center,2013-01-29 18:00:09+00:00,,Sports and Recreation,Gym and Studio,91.0,13.0,nyc,Rec
+119,72,40.685664,-73.980521,13389,Gym / Fitness Center,2013-02-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,94.0,13.0,nyc,Explore
+120,72,40.68782812829168,-73.97807581453091,3308,Gym / Fitness Center,2013-02-04 18:00:09+00:00,,Sports and Recreation,Gym and Studio,97.0,13.0,nyc,Rec
+121,72,40.68782812829168,-73.97807581453091,3308,Gym / Fitness Center,2013-02-05 18:00:09+00:00,,Sports and Recreation,Gym and Studio,98.0,14.0,nyc,Rec

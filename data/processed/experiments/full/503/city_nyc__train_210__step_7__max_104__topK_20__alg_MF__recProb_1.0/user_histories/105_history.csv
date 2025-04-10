@@ -1,0 +1,108 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-04-13 03:14:09+00:00,New York City,Retail,Office Supply Store,,,,
+1,105,40.82816381252365,-74.13900375366211,10768,American Restaurant,2012-04-13 03:14:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,105,40.909263967590064,-74.03115749359131,6275,Hardware Store,2012-04-27 22:10:27+00:00,New York City,Retail,Hardware Store,,,,
+3,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-07-13 01:47:23+00:00,New York City,Retail,Office Supply Store,,,,
+4,105,40.818339,-74.15376147,24608,Bar,2012-07-13 03:13:58+00:00,New York City,Dining and Drinking,Bar,,,,
+5,105,40.83987941122479,-74.13427770137787,12152,Bar,2012-07-13 05:01:00+00:00,New York City,Dining and Drinking,Bar,,,,
+6,105,40.917335441802095,-74.0756607055664,3299,Mall,2012-10-19 14:13:06+00:00,New York City,Retail,Shopping Mall,,,,
+7,105,40.9514946738398,-74.0886640548706,22587,College Academic Building,2012-10-19 18:10:36+00:00,New York City,Community and Government,Education,,,,
+8,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-10-26 04:06:07+00:00,New York City,Retail,Office Supply Store,,,,
+9,105,40.82369327898771,-74.09949210727927,22565,Automotive Shop,2012-04-09 19:11:41+00:00,New York City,Retail,Automotive Shop,,,,
+10,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-04-09 19:11:52+00:00,New York City,Retail,Office Supply Store,,,,
+11,105,40.804645887165165,-74.10105792762423,12793,Community College,2012-04-23 14:22:24+00:00,New York City,Community and Government,Education,,,,
+12,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-04-23 22:17:10+00:00,New York City,Community and Government,Education,,,,
+13,105,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-07-02 23:26:55+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+14,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-07-09 12:44:49+00:00,New York City,Community and Government,Education,,,,
+15,105,40.928185,-73.9979457,20723,Post Office,2012-07-09 14:53:54+00:00,New York City,Community and Government,Government Building,,,,
+16,105,40.92423694,-73.99754,17846,Sandwich Place,2012-07-09 15:06:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,105,40.79803684318628,-74.14761933294126,20006,Fast Food Restaurant,2012-07-16 00:02:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-07-16 13:06:17+00:00,New York City,Community and Government,Education,,,,
+19,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-07-30 12:41:29+00:00,New York City,Community and Government,Education,,,,
+20,105,40.91338508182094,-74.00116934115263,14657,Food & Drink Shop,2012-05-07 02:26:56+00:00,New York City,Retail,Food and Beverage Retail,,,,
+21,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-05-14 23:57:47+00:00,New York City,Retail,Office Supply Store,,,,
+22,105,40.82704348747495,-74.13993716239929,9488,Food & Drink Shop,2012-05-14 23:58:07+00:00,New York City,Retail,Food and Beverage Retail,,,,
+23,105,40.77552917709761,-73.97142385887315,35777,Moving Target,2012-05-28 23:25:24+00:00,New York City,Travel and Transportation,Moving Target,,,,
+24,105,40.89301295382077,-73.97320032119751,11081,Ice Cream Shop,2012-05-28 23:32:30+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+25,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-10-22 13:54:08+00:00,New York City,Community and Government,Education,,,,
+26,105,40.917335441802095,-74.0756607055664,3299,Mall,2012-04-07 16:02:43+00:00,New York City,Retail,Shopping Mall,,,,
+27,105,40.91646845985943,-74.07585409441195,24164,Video Game Store,2012-04-07 16:39:12+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+28,105,40.916489477111625,-74.07642772844432,20975,Pizza Place,2012-04-07 16:40:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+29,105,40.707287092735534,-73.8357424736023,13238,Food & Drink Shop,2012-04-14 19:58:09+00:00,New York City,Retail,Food and Beverage Retail,,,,
+30,105,40.75645736467708,-73.8460636138916,2664,Stadium,2012-04-14 20:27:36+00:00,New York City,Arts and Entertainment,Stadium,,,,
+31,105,40.758002,-73.863011,11126,Automotive Shop,2012-04-14 21:56:41+00:00,New York City,Retail,Automotive Shop,,,,
+32,105,40.75883271430973,-73.86693121057186,28838,Bakery,2012-04-14 22:22:28+00:00,New York City,Dining and Drinking,Bakery,,,,
+33,105,40.91501091666667,-74.001566,13566,Food & Drink Shop,2012-08-11 15:30:25+00:00,New York City,Retail,Food and Beverage Retail,,,,
+34,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-08-18 23:22:59+00:00,New York City,Retail,Office Supply Store,,,,
+35,105,40.81184597757699,-74.07886565363968,27631,Park,2012-07-07 00:22:55+00:00,New York City,Arts and Entertainment,Amusement Park,,,,
+36,105,40.89301295382077,-73.97320032119751,11081,Ice Cream Shop,2012-06-02 22:57:22+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+37,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-06-16 21:17:54+00:00,New York City,Retail,Office Supply Store,,,,
+38,105,40.890757932748805,-74.02711180233878,20083,American Restaurant,2012-05-05 15:40:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-05-26 02:41:02+00:00,New York City,Retail,Office Supply Store,,,,
+40,105,40.91614489846025,-74.07550991315618,12035,Burger Joint,2012-09-15 00:09:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,105,40.924479,-73.996851,26473,Bar,2012-04-15 00:44:19+00:00,New York City,Dining and Drinking,Bar,,,,
+42,105,40.91377607816172,-73.99657845497131,12805,Food & Drink Shop,2012-04-15 16:45:57+00:00,New York City,Retail,Food and Beverage Retail,,,,
+43,105,40.84666901678074,-74.11012566358961,13251,Bowling Alley,2012-04-22 23:40:11+00:00,New York City,Arts and Entertainment,Bowling Alley,,,,
+44,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-04-29 03:01:40+00:00,New York City,Retail,Office Supply Store,,,,
+45,105,40.82816381252365,-74.13900375366211,10768,American Restaurant,2012-04-29 03:01:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-08-05 21:22:43+00:00,New York City,Retail,Office Supply Store,,,,
+47,105,40.82816381252365,-74.13900375366211,10768,American Restaurant,2012-07-08 03:35:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+48,105,40.890757932748805,-74.02711180233878,20083,American Restaurant,2012-07-15 13:39:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-07-15 19:55:19+00:00,New York City,Retail,Office Supply Store,,,,
+50,105,40.81650952533058,-74.13154580333443,33116,Bar,2012-07-15 23:18:35+00:00,New York City,Dining and Drinking,Bar,,,,
+51,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-06-10 18:35:54+00:00,New York City,Retail,Office Supply Store,,,,
+52,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-06-17 22:36:50+00:00,New York City,Retail,Office Supply Store,,,,
+53,105,40.67655349616292,-73.84368181228638,16981,Neighborhood,2012-05-13 22:58:58+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+54,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-07-05 13:02:18+00:00,New York City,Community and Government,Education,,,,
+55,105,40.928185,-73.9979457,20723,Post Office,2012-07-05 16:23:50+00:00,New York City,Community and Government,Government Building,,,,
+56,105,40.92423694,-73.99754,17846,Sandwich Place,2012-07-05 16:24:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+57,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-07-12 14:20:53+00:00,New York City,Community and Government,Education,,,,
+58,105,40.81650952533058,-74.13154580333443,33116,Bar,2012-07-26 22:47:21+00:00,New York City,Dining and Drinking,Bar,,,,
+59,105,40.92423694,-73.99754,17846,Sandwich Place,2012-10-11 17:39:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,105,40.82816381252365,-74.13900375366211,10768,American Restaurant,2012-04-10 03:42:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+61,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-07-03 12:47:06+00:00,New York City,Community and Government,Education,,,,
+62,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-07-17 03:18:41+00:00,New York City,Retail,Office Supply Store,,,,
+63,105,40.82816381252365,-74.13900375366211,10768,American Restaurant,2012-07-17 03:18:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+64,105,40.91338508182094,-74.00116934115263,14657,Food & Drink Shop,2012-07-24 16:45:52+00:00,New York City,Retail,Food and Beverage Retail,,,,
+65,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-06-12 02:17:26+00:00,New York City,Retail,Office Supply Store,,,,
+66,105,40.9199660468801,-74.06660556793213,10436,American Restaurant,2012-06-12 03:39:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+67,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-06-26 18:10:54+00:00,New York City,Retail,Office Supply Store,,,,
+68,105,40.928185,-73.9979457,20723,Post Office,2012-06-26 19:26:16+00:00,New York City,Community and Government,Government Building,,,,
+69,105,40.84852098203587,-73.87776172536414,1662,Zoo,2012-05-08 15:25:22+00:00,New York City,Arts and Entertainment,Zoo,,,,
+70,105,40.95029540247504,-74.0872049331665,23325,College Academic Building,2012-05-15 19:22:54+00:00,New York City,Community and Government,Education,,,,
+71,105,40.89825547301105,-73.97433949845926,32560,Latin American Restaurant,2012-05-29 00:12:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,105,40.81556023812991,-74.16242433340283,14093,Burger Joint,2012-05-29 18:16:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+73,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-04-04 02:11:53+00:00,New York City,Community and Government,Education,,,,
+74,105,40.95029540247504,-74.0872049331665,23325,College Academic Building,2012-04-04 02:12:03+00:00,New York City,Community and Government,Education,,,,
+75,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-04-11 01:34:04+00:00,New York City,Community and Government,Education,,,,
+76,105,40.95029540247504,-74.0872049331665,23325,College Academic Building,2012-04-11 01:34:14+00:00,New York City,Community and Government,Education,,,,
+77,105,40.95105710437937,-74.08986568450928,7914,Community College,2012-07-18 12:39:59+00:00,New York City,Community and Government,Education,,,,
+78,105,40.94575483333333,-74.14064813333333,13911,Food & Drink Shop,2012-06-27 00:02:39+00:00,New York City,Retail,Food and Beverage Retail,,,,
+79,105,40.82660915346994,-74.13912177085876,9753,Paper / Office Supplies Store,2012-09-05 23:19:46+00:00,New York City,Retail,Office Supply Store,,,,
+80,105,40.84509448879971,-74.13512992462903,22451,Government Building,2012-11-05 18:00:09+00:00,,Community and Government,Government Building,6.0,0.0,nyc,Rec
+81,105,40.86263297107318,-74.19686920057805,32235,College Academic Building,2012-11-06 18:00:09+00:00,,Community and Government,Education,7.0,1.0,nyc,Rec
+82,105,40.86278639604565,-74.19696092269378,32899,Sushi Restaurant,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Rec
+83,105,40.86340379301123,-74.19755101203918,9025,Diner,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Rec
+84,105,40.917335441802095,-74.0756607055664,3299,Mall,2012-11-12 18:00:09+00:00,,Retail,Shopping Mall,13.0,1.0,nyc,Rec
+85,105,40.91646845985943,-74.07585409441195,24164,Video Game Store,2012-11-12 18:00:09+00:00,,Retail,Computers and Electronics Retail,13.0,1.0,nyc,Rec
+86,105,40.85240510815383,-73.93472780129922,8671,Paper / Office Supplies Store,2012-11-16 18:00:09+00:00,,Retail,Office Supply Store,17.0,2.0,nyc,Rec
+87,105,40.8620067358653,-73.8974965627943,11834,Paper / Office Supplies Store,2012-11-18 18:00:09+00:00,,Retail,Office Supply Store,19.0,2.0,nyc,Rec
+88,105,40.854907,-73.90528,28277,School,2012-11-19 18:00:09+00:00,,Community and Government,Education,20.0,2.0,nyc,Rec
+89,105,40.86168142110424,-73.89172608881557,22875,Mall,2012-11-20 18:00:09+00:00,,Retail,Shopping Mall,21.0,3.0,nyc,Rec
+90,105,40.86199,-73.89747399978357,20421,Electronics Store,2012-11-20 18:00:09+00:00,,Retail,Computers and Electronics Retail,21.0,3.0,nyc,Rec
+91,105,40.85983740156108,-73.90040183142311,37082,Middle School,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Rec
+92,105,40.85240510815383,-73.93472780129922,8671,Paper / Office Supplies Store,2012-11-26 18:00:09+00:00,,Retail,Office Supply Store,27.0,3.0,nyc,Rec
+93,105,40.86754750973508,-73.9244059608629,20247,Deli / Bodega,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Rec
+94,105,40.82723996688574,-73.94570922281969,27555,Deli / Bodega,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Rec
+95,105,40.83437745561647,-73.93871172403861,24304,Plaza,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,Plaza,32.0,4.0,nyc,Rec
+96,105,40.822904743507415,-73.92985398621455,19271,Mall,2012-12-02 18:00:09+00:00,,Retail,Shopping Mall,33.0,4.0,nyc,Rec
+97,105,40.802321434021,-73.967963,1230,Bar,2012-12-16 18:00:09+00:00,,Dining and Drinking,Bar,47.0,6.0,nyc,Rec
+98,105,40.806427752738266,-73.96321177482605,6499,College Academic Building,2012-12-18 18:00:09+00:00,,Community and Government,Education,49.0,7.0,nyc,Rec
+99,105,40.81389513165474,-73.98294841259204,5342,Paper / Office Supplies Store,2012-12-19 18:00:09+00:00,,Retail,Office Supply Store,50.0,7.0,nyc,Rec
+100,105,40.77985900763059,-73.9555835723877,5996,Paper / Office Supplies Store,2012-12-22 18:00:09+00:00,,Retail,Office Supply Store,53.0,7.0,nyc,Rec
+101,105,40.79483544823571,-73.96598274410916,7327,Arts & Crafts Store,2012-12-22 18:00:09+00:00,,Retail,Arts and Crafts Store,53.0,7.0,nyc,Rec
+102,105,40.76583655959176,-73.98107170216927,7378,Arts & Crafts Store,2012-12-22 18:00:09+00:00,,Retail,Arts and Crafts Store,53.0,7.0,nyc,Rec
+103,105,40.765682095761896,-73.97971150609682,608,Bar,2012-12-30 18:00:09+00:00,,Dining and Drinking,Bar,61.0,8.0,nyc,Rec
+104,105,40.744206,-73.999277,34478,Paper / Office Supplies Store,2013-01-04 18:00:09+00:00,,Retail,Office Supply Store,66.0,9.0,nyc,Rec
+105,105,40.741778511511214,-73.98538179575334,8971,Deli / Bodega,2013-01-08 18:00:09+00:00,,Dining and Drinking,Restaurant,70.0,10.0,nyc,Rec
+106,105,40.73117376417802,-73.98250685152055,5034,Pizza Place,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Rec

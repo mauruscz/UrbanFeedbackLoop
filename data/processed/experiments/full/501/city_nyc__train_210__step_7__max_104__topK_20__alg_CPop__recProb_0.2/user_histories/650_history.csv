@@ -1,0 +1,76 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,650,40.75909046091092,-73.98592472076416,5186,Theater,2012-04-27 23:55:46+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+1,650,40.75845677498381,-73.98914046612941,18884,Burger Joint,2012-07-13 22:45:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,650,40.75911104842909,-73.98771643638611,33662,Theater,2012-07-13 23:52:54+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+3,650,40.76835422968893,-73.9802598953247,7559,Playground,2012-05-04 17:53:32+00:00,New York City,Landmarks and Outdoors,Park,,,,
+4,650,40.769076,-73.984595,6434,Coffee Shop,2012-05-04 20:52:25+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+5,650,40.72912513547399,-73.9886186067,3090,Tea Room,2012-05-11 02:07:50+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+6,650,40.757294529128494,-73.98826852871554,34396,Theater,2012-05-25 23:58:49+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+7,650,40.78089970281194,-73.98125535659763,6554,Coffee Shop,2012-10-12 11:05:48+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+8,650,40.76664320018611,-73.98281067300078,23206,Department Store,2012-04-09 17:57:59+00:00,New York City,Retail,Department Store,,,,
+9,650,40.76982362659668,-73.95452605531987,6306,Coffee Shop,2012-04-09 21:07:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+10,650,40.782860080688806,-73.95289014999135,1851,Event Space,2012-04-09 23:45:19+00:00,New York City,Business and Professional Services,Event Space,,,,
+11,650,40.76559062742547,-73.98348215257546,5575,Bakery,2012-06-11 12:21:43+00:00,New York City,Dining and Drinking,Bakery,,,,
+12,650,40.78759205697023,-73.97501674700247,32200,Coffee Shop,2012-05-07 21:17:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+13,650,40.90878,-73.771864,13866,Seafood Restaurant,2012-06-09 23:43:19+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,650,40.91079432529744,-73.7805841783632,10344,Chinese Restaurant,2012-05-12 22:51:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,650,40.91193999019654,-73.77949835499888,9300,Movie Theater,2012-04-22 23:06:11+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+16,650,40.76201600107077,-73.98665428161621,4318,Coffee Shop,2012-06-10 16:59:09+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+17,650,40.76404824,-73.9884,5562,Sushi Restaurant,2012-06-10 17:35:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,650,40.90021449448842,-73.78108978271484,14230,University,2012-05-06 19:04:17+00:00,New York City,Community and Government,Education,,,,
+19,650,40.75697749071767,-73.98931503295898,8230,Coffee Shop,2012-05-27 13:56:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+20,650,40.65007121740027,-73.7922477722168,9466,Diner,2012-04-12 10:37:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,650,40.76721247735522,-73.98406180399604,6158,Coffee Shop,2012-07-12 18:00:11+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+22,650,40.785275,-73.976747,3793,Indian Restaurant,2012-06-14 01:00:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+23,650,40.756070596303616,-73.98452667169322,1155,Concert Hall,2012-06-21 00:36:12+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+24,650,40.75890595870294,-73.97889079241885,15249,Coffee Shop,2012-05-03 12:06:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+25,650,40.76260109365134,-73.97697687149048,6877,Ramen /  Noodle House,2012-05-03 17:06:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+26,650,40.68312,-73.975979,12936,Stadium,2012-10-11 23:05:48+00:00,New York City,Arts and Entertainment,Stadium,,,,
+27,650,40.77762296,-73.9822,5163,Coffee Shop,2012-10-25 11:08:18+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+28,650,40.76502267205817,-73.98019552230835,616,Concert Hall,2012-04-03 22:45:12+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+29,650,40.76918232696832,-73.98905476854135,9835,Caf�,2012-04-24 12:31:06+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+30,650,40.75730686938239,-73.98558266326891,35014,Theater,2012-04-24 17:44:53+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+31,650,40.75911104842909,-73.98771643638611,33662,Theater,2012-04-24 22:55:22+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+32,650,40.7609629991725,-73.98632300172633,3372,Thai Restaurant,2012-06-12 21:54:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,650,40.782860080688806,-73.95289014999135,1851,Event Space,2012-05-01 23:48:08+00:00,New York City,Business and Professional Services,Event Space,,,,
+34,650,40.76720039204909,-73.9814829826355,16232,Tea Room,2012-05-08 21:31:19+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+35,650,40.76060088532793,-73.98582370401029,3327,Theater,2012-05-08 22:57:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+36,650,40.75925595047761,-73.98877929802003,3605,Sushi Restaurant,2012-05-29 21:55:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+37,650,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-05-29 22:53:36+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+38,650,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-04-11 23:16:50+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+39,650,40.76806170936614,-73.98184776306152,1792,Food & Drink Shop,2012-04-25 16:37:18+00:00,New York City,Retail,Food and Beverage Retail,,,,
+40,650,40.75843513011933,-73.975165,18383,College Stadium,2012-04-25 21:14:38+00:00,New York City,Community and Government,Education,,,,
+41,650,40.75933222917979,-73.98917824029922,2811,Theater,2012-07-11 00:36:51+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+42,650,40.76071577689616,-73.99081707000732,1968,Thai Restaurant,2012-07-11 23:18:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,650,40.76763917773765,-73.98598909378052,17697,Food & Drink Shop,2012-06-06 12:34:01+00:00,New York City,Retail,Food and Beverage Retail,,,,
+44,650,40.75657661668861,-73.98429710753892,6207,French Restaurant,2012-06-13 02:36:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,650,40.767105912741656,-73.98372319595289,7393,Diner,2012-06-13 17:33:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,650,40.75924321328913,-73.977585238863,21558,Burger Joint,2012-05-09 01:46:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,650,40.76238860409968,-73.98595570238331,6298,Drugstore / Pharmacy,2012-05-16 21:01:49+00:00,New York City,Retail,Pharmacy,,,,
+48,650,40.76044707055429,-73.98752245874954,9356,Coffee Shop,2012-05-23 23:16:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+49,650,40.75911104842909,-73.98771643638611,33662,Theater,2012-05-23 23:55:46+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+50,650,40.76721247735522,-73.98406180399604,6158,Coffee Shop,2012-09-05 12:26:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+51,650,40.76763917773765,-73.98598909378052,17697,Food & Drink Shop,2012-09-05 12:33:06+00:00,New York City,Retail,Food and Beverage Retail,,,,
+52,650,40.76559062742547,-73.98348215257546,5575,Bakery,2012-11-07 18:00:09+00:00,,Dining and Drinking,Bakery,8.0,1.0,nyc,Return
+53,650,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Movie Theater,18.0,2.0,nyc,Return
+54,650,40.76404824,-73.9884,5562,Sushi Restaurant,2012-11-21 18:00:09+00:00,,Dining and Drinking,Restaurant,22.0,3.0,nyc,Return
+55,650,40.76107321234245,-73.98419380357997,9065,Movie Theater,2012-11-28 18:00:09+00:00,,Arts and Entertainment,Movie Theater,29.0,4.0,nyc,Explore
+56,650,40.75990312387116,-73.99047374725342,36151,Theater,2012-12-06 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,37.0,5.0,nyc,Explore
+57,650,40.76502267205817,-73.98019552230835,616,Concert Hall,2012-12-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,39.0,5.0,nyc,Return
+58,650,40.785275,-73.976747,3793,Indian Restaurant,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Return
+59,650,40.76763917773765,-73.98598909378052,17697,Food & Drink Shop,2012-12-21 18:00:09+00:00,,Retail,Food and Beverage Retail,52.0,7.0,nyc,Return
+60,650,40.767148050282806,-73.98367154382603,6158,Coffee Shop,2012-12-21 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",52.0,7.0,nyc,Return
+61,650,40.76763917773765,-73.98598909378052,17697,Food & Drink Shop,2012-12-27 18:00:09+00:00,,Retail,Food and Beverage Retail,58.0,8.0,nyc,Return
+62,650,40.76355592117652,-73.97286772727966,1297,Toy / Game Store,2012-12-27 18:00:09+00:00,,Retail,Toy Store,58.0,8.0,nyc,Rec
+63,650,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-12-28 18:00:09+00:00,,Arts and Entertainment,Movie Theater,59.0,8.0,nyc,Return
+64,650,40.78759205697023,-73.97501674700247,32200,Coffee Shop,2012-12-31 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",62.0,8.0,nyc,Return
+65,650,40.76071577689616,-73.99081707000732,1968,Thai Restaurant,2012-12-31 18:00:09+00:00,,Dining and Drinking,Restaurant,62.0,8.0,nyc,Return
+66,650,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-01-02 18:00:09+00:00,,Dining and Drinking,Restaurant,64.0,9.0,nyc,Rec
+67,650,40.70964742200671,-74.01051729615469,5324,Coffee Shop,2013-01-03 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",65.0,9.0,nyc,Rec
+68,650,40.67284025644557,-73.8707270170631,15722,Chinese Restaurant,2013-01-03 18:00:09+00:00,,Dining and Drinking,Restaurant,65.0,9.0,nyc,Rec
+69,650,40.72097354037951,-73.95568013191223,27227,Hotel,2013-01-11 18:00:09+00:00,,Travel and Transportation,Lodging,73.0,10.0,nyc,Explore
+70,650,40.74001066406892,-73.99476495381016,5365,Department Store,2013-01-12 18:00:09+00:00,,Retail,Department Store,74.0,10.0,nyc,Explore
+71,650,40.76006061232576,-73.97693369182005,13212,Coffee Shop,2013-01-13 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",75.0,10.0,nyc,Explore
+72,650,40.72085990169618,-73.98799305706578,1298,Music Venue,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,75.0,10.0,nyc,Explore
+73,650,40.769076,-73.984595,6434,Coffee Shop,2013-01-13 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",75.0,10.0,nyc,Return
+74,650,40.72085990169618,-73.98799305706578,1298,Music Venue,2013-01-21 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,83.0,11.0,nyc,Return

@@ -1,0 +1,599 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-06 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+1,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-13 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+2,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-13 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+3,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-13 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+4,689,40.75006726071233,-74.00270154186394,890,Bar,2012-04-20 02:30:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+5,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-20 04:15:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+6,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-20 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+7,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-20 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+8,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-27 13:30:15+00:00,New York City,Travel and Transportation,Lodging,,,,
+9,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-27 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-08-10 04:15:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+11,689,40.75006726071233,-74.00270154186394,890,Bar,2012-08-10 04:19:37+00:00,New York City,Arts and Entertainment,Night Club,,,,
+12,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-10 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+13,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-08-17 00:45:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+14,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-08-17 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-07-06 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+16,689,40.75006726071233,-74.00270154186394,890,Bar,2012-07-06 02:30:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+17,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-06 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+18,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-06 23:15:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-07-13 00:45:12+00:00,New York City,Arts and Entertainment,Night Club,,,,
+20,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-07-13 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+21,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-13 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+22,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-13 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+23,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-13 23:15:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-20 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+25,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-27 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+26,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-01 13:30:13+00:00,New York City,Travel and Transportation,Lodging,,,,
+27,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-06-08 00:45:20+00:00,New York City,Arts and Entertainment,Night Club,,,,
+28,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-08 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+29,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-08 23:15:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-15 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+31,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-04 04:15:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+32,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-04 06:33:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+33,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-04 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+34,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-04 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-11 00:45:19+00:00,New York City,Arts and Entertainment,Night Club,,,,
+36,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-11 02:30:11+00:00,New York City,Arts and Entertainment,Night Club,,,,
+37,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-11 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+38,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-11 06:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+39,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-11 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+40,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-11 23:15:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-18 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+42,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-18 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-25 13:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+44,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-25 23:15:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-10-12 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+46,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-12 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+47,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-12 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+48,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-10-12 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,689,40.75006726071233,-74.00270154186394,890,Bar,2012-10-19 02:30:07+00:00,New York City,Arts and Entertainment,Night Club,,,,
+50,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-10-26 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+51,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-26 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+52,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-26 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+53,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-09 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+54,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-16 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+55,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-04-23 00:45:11+00:00,New York City,Arts and Entertainment,Night Club,,,,
+56,689,40.75006726071233,-74.00270154186394,890,Bar,2012-04-23 02:30:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+57,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-23 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+58,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-23 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+59,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-23 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-08-06 00:45:16+00:00,New York City,Arts and Entertainment,Night Club,,,,
+61,689,40.75006726071233,-74.00270154186394,890,Bar,2012-08-06 02:30:11+00:00,New York City,Arts and Entertainment,Night Club,,,,
+62,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-06 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+63,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-06 13:30:12+00:00,New York City,Travel and Transportation,Lodging,,,,
+64,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-08-13 00:45:19+00:00,New York City,Arts and Entertainment,Night Club,,,,
+65,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-08-13 23:15:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+66,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-08-20 00:45:11+00:00,New York City,Arts and Entertainment,Night Club,,,,
+67,689,40.75006726071233,-74.00270154186394,890,Bar,2012-08-20 02:30:12+00:00,New York City,Arts and Entertainment,Night Club,,,,
+68,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-20 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+69,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-02 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+70,689,40.75006726071233,-74.00270154186394,890,Bar,2012-07-09 02:30:07+00:00,New York City,Arts and Entertainment,Night Club,,,,
+71,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-09 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+72,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-09 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+73,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-07-16 00:45:11+00:00,New York City,Arts and Entertainment,Night Club,,,,
+74,689,40.75006726071233,-74.00270154186394,890,Bar,2012-07-16 02:30:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+75,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-16 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+76,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-16 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+77,689,40.75006726071233,-74.00270154186394,890,Bar,2012-07-30 02:30:07+00:00,New York City,Arts and Entertainment,Night Club,,,,
+78,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-30 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+79,689,40.75006726071233,-74.00270154186394,890,Bar,2012-06-04 02:30:11+00:00,New York City,Arts and Entertainment,Night Club,,,,
+80,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-04 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+81,689,40.75006726071233,-74.00270154186394,890,Bar,2012-06-11 02:30:13+00:00,New York City,Arts and Entertainment,Night Club,,,,
+82,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-11 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+83,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-11 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+84,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-11 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+85,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-18 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+86,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-18 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+87,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-07 02:30:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+88,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-07 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+89,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-07 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+90,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-14 00:45:20+00:00,New York City,Arts and Entertainment,Night Club,,,,
+91,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-14 02:30:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+92,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-14 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+93,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-14 13:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+94,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-14 23:15:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+95,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-21 13:30:12+00:00,New York City,Travel and Transportation,Lodging,,,,
+96,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-28 00:45:12+00:00,New York City,Arts and Entertainment,Night Club,,,,
+97,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-28 02:30:12+00:00,New York City,Arts and Entertainment,Night Club,,,,
+98,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-28 06:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+99,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-28 13:30:14+00:00,New York City,Travel and Transportation,Lodging,,,,
+100,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-28 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+101,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-08 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+102,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-22 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+103,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-10-29 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+104,689,40.75006726071233,-74.00270154186394,890,Bar,2012-10-29 02:30:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+105,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-29 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+106,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-29 13:30:16+00:00,New York City,Travel and Transportation,Lodging,,,,
+107,689,40.75006726071233,-74.00270154186394,890,Bar,2012-09-10 02:30:06+00:00,New York City,Arts and Entertainment,Night Club,,,,
+108,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-07 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+109,689,40.7307695395171,-73.99069610553344,4129,Ramen /  Noodle House,2012-04-07 18:30:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+110,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-04-07 23:30:06+00:00,New York City,Dining and Drinking,Bar,,,,
+111,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-04-14 00:45:10+00:00,New York City,Arts and Entertainment,Night Club,,,,
+112,689,40.75006726071233,-74.00270154186394,890,Bar,2012-04-14 02:30:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+113,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-14 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+114,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-14 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+115,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-14 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+116,689,40.73084600517945,-73.99070184444935,4129,Ramen /  Noodle House,2012-04-14 18:30:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+117,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-04-14 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+118,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-04-21 00:45:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+119,689,40.75006726071233,-74.00270154186394,890,Bar,2012-04-21 02:30:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+120,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-21 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+121,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-21 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+122,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-21 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+123,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-04-21 23:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+124,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-04-28 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+125,689,40.75006726071233,-74.00270154186394,890,Bar,2012-04-28 02:30:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+126,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-28 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+127,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-28 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+128,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-04-28 23:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+129,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-08-11 00:45:10+00:00,New York City,Arts and Entertainment,Night Club,,,,
+130,689,40.75006726071233,-74.00270154186394,890,Bar,2012-08-11 02:30:11+00:00,New York City,Arts and Entertainment,Night Club,,,,
+131,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-11 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+132,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-11 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+133,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-08-11 18:30:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+134,689,40.75006726071233,-74.00270154186394,890,Bar,2012-08-18 02:30:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+135,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-18 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+136,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-08-18 18:30:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+137,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-18 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+138,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-07-07 00:45:05+00:00,New York City,Arts and Entertainment,Night Club,,,,
+139,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-07 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+140,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-07 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+141,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-07 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+142,689,40.75006726071233,-74.00270154186394,890,Bar,2012-07-14 02:30:10+00:00,New York City,Arts and Entertainment,Night Club,,,,
+143,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-07-14 04:15:03+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+144,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-07-21 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+145,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-21 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+146,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-07-28 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+147,689,40.75006726071233,-74.00270154186394,890,Bar,2012-07-28 02:30:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+148,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-28 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+149,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-28 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+150,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-28 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+151,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-06-02 23:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+152,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-06-09 00:45:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+153,689,40.75006726071233,-74.00270154186394,890,Bar,2012-06-09 02:30:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+154,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-06-09 04:15:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+155,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-09 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+156,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-06-09 18:30:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+157,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-06-16 23:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+158,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-06-30 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+159,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-05 00:45:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+160,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-05 02:30:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+161,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-05 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+162,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-05 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+163,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-12 00:45:12+00:00,New York City,Arts and Entertainment,Night Club,,,,
+164,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-12 02:30:22+00:00,New York City,Arts and Entertainment,Night Club,,,,
+165,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-12 04:15:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+166,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-12 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+167,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-12 13:30:13+00:00,New York City,Travel and Transportation,Lodging,,,,
+168,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-05-12 18:30:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+169,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-19 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+170,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-19 02:30:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+171,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-19 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+172,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-19 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+173,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-19 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+174,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-05-19 18:30:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+175,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-26 00:45:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+176,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-26 02:30:13+00:00,New York City,Arts and Entertainment,Night Club,,,,
+177,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-26 06:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+178,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-05-26 23:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+179,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-10-13 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+180,689,40.75006726071233,-74.00270154186394,890,Bar,2012-10-13 02:30:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+181,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-13 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+182,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-13 13:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+183,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-10-27 00:45:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+184,689,40.75006726071233,-74.00270154186394,890,Bar,2012-10-27 02:30:10+00:00,New York City,Arts and Entertainment,Night Club,,,,
+185,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-27 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+186,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-10-27 18:30:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+187,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-09-15 00:45:10+00:00,New York City,Arts and Entertainment,Night Club,,,,
+188,689,40.75006726071233,-74.00270154186394,890,Bar,2012-09-15 02:30:10+00:00,New York City,Arts and Entertainment,Night Club,,,,
+189,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-09-15 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+190,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-09-15 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+191,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-09-15 23:30:02+00:00,New York City,Dining and Drinking,Bar,,,,
+192,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-04-08 00:45:06+00:00,New York City,Arts and Entertainment,Night Club,,,,
+193,689,40.75006726071233,-74.00270154186394,890,Bar,2012-04-08 02:30:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+194,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-08 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+195,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-08 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+196,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-08 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+197,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-04-08 23:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+198,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-15 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+199,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-15 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+200,689,40.73084600517945,-73.99070184444935,4129,Ramen /  Noodle House,2012-04-15 18:30:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+201,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-04-22 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+202,689,40.75006726071233,-74.00270154186394,890,Bar,2012-04-22 02:30:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+203,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-22 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+204,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-22 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+205,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-22 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+206,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-04-22 23:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+207,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-04-29 00:45:07+00:00,New York City,Arts and Entertainment,Night Club,,,,
+208,689,40.75006726071233,-74.00270154186394,890,Bar,2012-04-29 02:30:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+209,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-29 04:15:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+210,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-29 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+211,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-29 13:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+212,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-05 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+213,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-08-05 18:30:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+214,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-05 23:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+215,689,40.75006726071233,-74.00270154186394,890,Bar,2012-08-12 02:30:19+00:00,New York City,Arts and Entertainment,Night Club,,,,
+216,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-08-12 04:15:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+217,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-12 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+218,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-12 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+219,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-12 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+220,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-08-19 00:45:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+221,689,40.75006726071233,-74.00270154186394,890,Bar,2012-08-19 02:30:10+00:00,New York City,Arts and Entertainment,Night Club,,,,
+222,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-08-19 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+223,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-19 13:30:03+00:00,New York City,Travel and Transportation,Lodging,,,,
+224,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-08-19 18:30:10+00:00,New York City,Dining and Drinking,Restaurant,,,,
+225,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-07-01 00:47:11+00:00,New York City,Arts and Entertainment,Night Club,,,,
+226,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-07-01 04:15:03+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+227,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-07-08 00:45:08+00:00,New York City,Arts and Entertainment,Night Club,,,,
+228,689,40.75006726071233,-74.00270154186394,890,Bar,2012-07-08 02:30:07+00:00,New York City,Arts and Entertainment,Night Club,,,,
+229,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-08 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+230,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-08 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+231,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-07-08 18:30:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+232,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-08 23:30:02+00:00,New York City,Dining and Drinking,Bar,,,,
+233,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-15 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+234,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-22 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+235,689,40.75006726071233,-74.00270154186394,890,Bar,2012-07-29 02:30:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+236,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-07-29 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+237,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-29 06:30:03+00:00,New York City,Travel and Transportation,Lodging,,,,
+238,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-29 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+239,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-07-29 18:30:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+240,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-06-03 00:45:16+00:00,New York City,Arts and Entertainment,Night Club,,,,
+241,689,40.75006726071233,-74.00270154186394,890,Bar,2012-06-03 02:30:36+00:00,New York City,Arts and Entertainment,Night Club,,,,
+242,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-03 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+243,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-03 13:33:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+244,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-06-03 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+245,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-06-10 00:45:41+00:00,New York City,Arts and Entertainment,Night Club,,,,
+246,689,40.75006726071233,-74.00270154186394,890,Bar,2012-06-10 02:30:14+00:00,New York City,Arts and Entertainment,Night Club,,,,
+247,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-06-10 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+248,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-10 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+249,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-10 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+250,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-06-17 00:45:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+251,689,40.75006726071233,-74.00270154186394,890,Bar,2012-06-17 02:30:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+252,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-06-17 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+253,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-17 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+254,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-17 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+255,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-06-17 18:30:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+256,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-06 00:45:06+00:00,New York City,Arts and Entertainment,Night Club,,,,
+257,689,40.73084600517945,-73.99070184444935,4129,Ramen /  Noodle House,2012-05-06 18:30:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+258,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-05-06 23:30:03+00:00,New York City,Dining and Drinking,Bar,,,,
+259,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-13 00:45:16+00:00,New York City,Arts and Entertainment,Night Club,,,,
+260,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-13 02:30:13+00:00,New York City,Arts and Entertainment,Night Club,,,,
+261,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-13 04:15:08+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+262,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-13 06:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+263,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-13 13:30:13+00:00,New York City,Travel and Transportation,Lodging,,,,
+264,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-05-13 23:30:06+00:00,New York City,Dining and Drinking,Bar,,,,
+265,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-05-27 00:45:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+266,689,40.75006726071233,-74.00270154186394,890,Bar,2012-05-27 02:30:10+00:00,New York City,Arts and Entertainment,Night Club,,,,
+267,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-27 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+268,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-27 06:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+269,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-27 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+270,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-05-27 18:30:08+00:00,New York City,Dining and Drinking,Restaurant,,,,
+271,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-05-27 23:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+272,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-10-28 00:45:06+00:00,New York City,Arts and Entertainment,Night Club,,,,
+273,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-28 06:30:03+00:00,New York City,Travel and Transportation,Lodging,,,,
+274,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-10-28 18:30:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+275,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-09-09 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+276,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-09-09 23:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+277,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-09-16 00:45:09+00:00,New York City,Arts and Entertainment,Night Club,,,,
+278,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-09-16 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+279,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-12 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+280,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-12 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+281,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-19 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+282,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-19 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+283,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-19 13:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+284,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-19 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+285,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-26 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+286,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-26 06:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+287,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-26 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+288,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-08-09 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+289,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-07-05 04:15:03+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+290,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-05 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+291,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-05 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+292,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-05 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+293,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-07-12 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+294,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-12 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+295,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-12 13:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+296,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-26 23:15:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+297,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-06-07 04:15:08+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+298,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-07 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+299,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-07 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+300,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-06-14 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+301,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-14 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+302,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-06-21 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+303,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-21 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+304,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-21 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+305,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-03 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+306,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-03 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+307,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-10 23:15:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+308,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-17 04:15:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+309,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-17 06:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+310,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-17 13:30:12+00:00,New York City,Travel and Transportation,Lodging,,,,
+311,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-24 04:15:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+312,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-24 06:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+313,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-10-11 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+314,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-10-18 23:15:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+315,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-25 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+316,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-25 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+317,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-10-25 23:15:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+318,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-09-06 04:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+319,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-09-06 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+320,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-03 23:15:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+321,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-10 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+322,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-10 23:15:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+323,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-17 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+324,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-17 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+325,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-24 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+326,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-24 13:30:54+00:00,New York City,Travel and Transportation,Lodging,,,,
+327,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-24 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+328,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-14 06:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+329,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-08-14 13:30:16+00:00,New York City,Travel and Transportation,Lodging,,,,
+330,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-08-14 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+331,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-03 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+332,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-17 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+333,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-17 13:33:29+00:00,New York City,Travel and Transportation,Lodging,,,,
+334,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-17 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+335,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-05 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+336,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-05 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+337,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-12 13:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+338,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-12 23:15:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+339,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-26 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+340,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-08 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+341,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-08 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+342,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-15 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+343,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-15 13:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+344,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-22 06:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+345,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-22 13:30:12+00:00,New York City,Travel and Transportation,Lodging,,,,
+346,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-29 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+347,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-29 13:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+348,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-29 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+349,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-16 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+350,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-23 06:30:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+351,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-23 13:30:12+00:00,New York City,Travel and Transportation,Lodging,,,,
+352,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-30 13:30:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+353,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-04 06:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+354,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-04 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+355,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-11 06:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+356,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-11 23:15:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+357,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-18 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+358,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-04-25 13:30:31+00:00,New York City,Travel and Transportation,Lodging,,,,
+359,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-04-25 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+360,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-04 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+361,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-04 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+362,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-04 23:15:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+363,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-11 06:31:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+364,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-11 13:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+365,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-11 23:15:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+366,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-18 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+367,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-07-18 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+368,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-06 13:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+369,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-06 23:15:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+370,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-13 06:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+371,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-13 13:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+372,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-13 23:15:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+373,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-06-20 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+374,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-27 06:30:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+375,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-06-27 13:33:51+00:00,New York City,Travel and Transportation,Lodging,,,,
+376,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-02 06:30:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+377,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-09 06:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+378,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-09 13:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+379,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-09 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+380,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-16 06:30:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+381,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-16 13:30:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+382,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-16 23:15:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+383,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-05-23 23:15:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+384,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-05-30 06:30:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+385,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-24 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+386,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-10-24 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+387,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-09-05 13:30:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+388,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-09-05 23:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+389,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-10-31 18:00:09+00:00,,Travel and Transportation,Lodging,1.0,0.0,nyc,Return
+390,689,40.758328,-73.985457,1496,Hotel,2012-10-31 18:00:09+00:00,,Travel and Transportation,Lodging,1.0,0.0,nyc,Rec
+391,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-10-31 18:00:09+00:00,,Dining and Drinking,Restaurant,1.0,0.0,nyc,Return
+392,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-11-01 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,2.0,0.0,nyc,Rec
+393,689,40.7365071557598,-73.98880407214165,1701,Hotel,2012-11-01 18:00:09+00:00,,Travel and Transportation,Lodging,2.0,0.0,nyc,Explore
+394,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-11-01 18:00:09+00:00,,Dining and Drinking,Restaurant,2.0,0.0,nyc,Return
+395,689,40.74498461062788,-73.99423698401398,6774,Hotel,2012-11-02 18:00:09+00:00,,Travel and Transportation,Lodging,3.0,0.0,nyc,Explore
+396,689,40.743107753743374,-73.98923841533589,21614,Fried Chicken Joint,2012-11-06 18:00:09+00:00,,Dining and Drinking,Restaurant,7.0,1.0,nyc,Rec
+397,689,40.746915580644455,-73.99043083190918,22342,Spanish Restaurant,2012-11-07 18:00:09+00:00,,Dining and Drinking,Restaurant,8.0,1.0,nyc,Explore
+398,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-07 18:00:09+00:00,,Travel and Transportation,Lodging,8.0,1.0,nyc,Return
+399,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-11-10 18:00:09+00:00,,Dining and Drinking,Restaurant,11.0,1.0,nyc,Return
+400,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-11-10 18:00:09+00:00,,Arts and Entertainment,Night Club,11.0,1.0,nyc,Return
+401,689,40.76340897941592,-73.99658414294873,496,Bar,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bar,12.0,1.0,nyc,Rec
+402,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-11-11 18:00:09+00:00,,Arts and Entertainment,Night Club,12.0,1.0,nyc,Rec
+403,689,40.76009835453067,-73.99602174562668,13180,Hotel,2012-11-11 18:00:09+00:00,,Travel and Transportation,Lodging,12.0,1.0,nyc,Rec
+404,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-11 18:00:09+00:00,,Travel and Transportation,Lodging,12.0,1.0,nyc,Return
+405,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Return
+406,689,40.713517,-73.961712,4727,Bar,2012-11-12 18:00:09+00:00,,Dining and Drinking,Bar,13.0,1.0,nyc,Rec
+407,689,40.7107667,-73.95655,2260,Hotel,2012-11-12 18:00:09+00:00,,Travel and Transportation,Lodging,13.0,1.0,nyc,Rec
+408,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-11-13 18:00:09+00:00,,Dining and Drinking,Restaurant,14.0,2.0,nyc,Rec
+409,689,40.72783447937824,-73.9908969674878,31496,Hotel,2012-11-13 18:00:09+00:00,,Travel and Transportation,Lodging,14.0,2.0,nyc,Rec
+410,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-11-16 18:00:09+00:00,,Dining and Drinking,Restaurant,17.0,2.0,nyc,Return
+411,689,40.75006726071233,-74.00270154186394,890,Bar,2012-11-16 18:00:09+00:00,,Arts and Entertainment,Night Club,17.0,2.0,nyc,Rec
+412,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-11-16 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,17.0,2.0,nyc,Rec
+413,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-11-16 18:00:09+00:00,,Travel and Transportation,Lodging,17.0,2.0,nyc,Explore
+414,689,40.75006726071233,-74.00270154186394,890,Bar,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Night Club,18.0,2.0,nyc,Return
+415,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Night Club,18.0,2.0,nyc,Rec
+416,689,40.77308312955881,-73.98281335830688,1384,Concert Hall,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,18.0,2.0,nyc,Rec
+417,689,40.758328,-73.985457,1496,Hotel,2012-11-17 18:00:09+00:00,,Travel and Transportation,Lodging,18.0,2.0,nyc,Rec
+418,689,40.76233786262521,-73.98240319279851,657,Bar,2012-11-18 18:00:09+00:00,,Dining and Drinking,Bar,19.0,2.0,nyc,Rec
+419,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-11-18 18:00:09+00:00,,Arts and Entertainment,Night Club,19.0,2.0,nyc,Return
+420,689,40.71122636460861,-74.00935241323653,26757,Bar,2012-11-18 18:00:09+00:00,,Arts and Entertainment,Night Club,19.0,2.0,nyc,Explore
+421,689,40.71749323698053,-74.00106579065323,2258,Music Venue,2012-11-18 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,19.0,2.0,nyc,Rec
+422,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-18 18:00:09+00:00,,Travel and Transportation,Lodging,19.0,2.0,nyc,Return
+423,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-19 18:00:09+00:00,,Travel and Transportation,Lodging,20.0,2.0,nyc,Return
+424,689,40.76117085825042,-73.98682594299316,8422,Hotel,2012-11-20 18:00:09+00:00,,Travel and Transportation,Lodging,21.0,3.0,nyc,Explore
+425,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-11-21 18:00:09+00:00,,Dining and Drinking,Restaurant,22.0,3.0,nyc,Rec
+426,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-11-21 18:00:09+00:00,,Travel and Transportation,Lodging,22.0,3.0,nyc,Rec
+427,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-11-22 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,23.0,3.0,nyc,Return
+428,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-22 18:00:09+00:00,,Travel and Transportation,Lodging,23.0,3.0,nyc,Rec
+429,689,40.7693242097396,-73.98282408714294,3206,Italian Restaurant,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Rec
+430,689,40.75006726071233,-74.00270154186394,890,Bar,2012-11-23 18:00:09+00:00,,Arts and Entertainment,Night Club,24.0,3.0,nyc,Return
+431,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-11-23 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,24.0,3.0,nyc,Return
+432,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-23 18:00:09+00:00,,Travel and Transportation,Lodging,24.0,3.0,nyc,Return
+433,689,40.71982701192806,-74.00000095367432,23481,Hotel,2012-11-23 18:00:09+00:00,,Travel and Transportation,Lodging,24.0,3.0,nyc,Explore
+434,689,40.72617632455752,-73.9915626798901,6171,Hotel,2012-11-24 18:00:09+00:00,,Travel and Transportation,Lodging,25.0,3.0,nyc,Rec
+435,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-11-24 18:00:09+00:00,,Dining and Drinking,Restaurant,25.0,3.0,nyc,Rec
+436,689,40.73743415035814,-73.99128147407096,3237,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Return
+437,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-11-25 18:00:09+00:00,,Arts and Entertainment,Night Club,26.0,3.0,nyc,Rec
+438,689,40.76450442773193,-73.99580941151471,5851,Hotel,2012-11-25 18:00:09+00:00,,Travel and Transportation,Lodging,26.0,3.0,nyc,Rec
+439,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-25 18:00:09+00:00,,Travel and Transportation,Lodging,26.0,3.0,nyc,Return
+440,689,40.713517,-73.961712,4727,Bar,2012-11-26 18:00:09+00:00,,Dining and Drinking,Bar,27.0,3.0,nyc,Rec
+441,689,40.75006726071233,-74.00270154186394,890,Bar,2012-11-26 18:00:09+00:00,,Arts and Entertainment,Night Club,27.0,3.0,nyc,Return
+442,689,40.75006726071233,-74.00270154186394,890,Bar,2012-11-26 18:00:09+00:00,,Arts and Entertainment,Night Club,27.0,3.0,nyc,Return
+443,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-26 18:00:09+00:00,,Travel and Transportation,Lodging,27.0,3.0,nyc,Return
+444,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-11-27 18:00:09+00:00,,Dining and Drinking,Restaurant,28.0,4.0,nyc,Return
+445,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-11-28 18:00:09+00:00,,Dining and Drinking,Restaurant,29.0,4.0,nyc,Return
+446,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-11-29 18:00:09+00:00,,Dining and Drinking,Restaurant,30.0,4.0,nyc,Return
+447,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-11-29 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,30.0,4.0,nyc,Return
+448,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-11-29 18:00:09+00:00,,Travel and Transportation,Lodging,30.0,4.0,nyc,Rec
+449,689,40.75006726071233,-74.00270154186394,890,Bar,2012-12-01 18:00:09+00:00,,Arts and Entertainment,Night Club,32.0,4.0,nyc,Rec
+450,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-12-01 18:00:09+00:00,,Arts and Entertainment,Night Club,32.0,4.0,nyc,Return
+451,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-12-02 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,33.0,4.0,nyc,Return
+452,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-02 18:00:09+00:00,,Travel and Transportation,Lodging,33.0,4.0,nyc,Rec
+453,689,40.74587751338479,-73.98814227092514,3348,Hotel,2012-12-03 18:00:09+00:00,,Travel and Transportation,Lodging,34.0,4.0,nyc,Explore
+454,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-04 18:00:09+00:00,,Dining and Drinking,Restaurant,35.0,5.0,nyc,Return
+455,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-12-04 18:00:09+00:00,,Travel and Transportation,Lodging,35.0,5.0,nyc,Return
+456,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Return
+457,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-12-06 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,37.0,5.0,nyc,Return
+458,689,40.74392590512986,-73.98929006596519,25804,Hotel,2012-12-06 18:00:09+00:00,,Travel and Transportation,Lodging,37.0,5.0,nyc,Rec
+459,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-06 18:00:09+00:00,,Travel and Transportation,Lodging,37.0,5.0,nyc,Rec
+460,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-12-07 18:00:09+00:00,,Arts and Entertainment,Night Club,38.0,5.0,nyc,Rec
+461,689,40.76401977376754,-73.9975740281675,2277,Bar,2012-12-07 18:00:09+00:00,,Arts and Entertainment,Night Club,38.0,5.0,nyc,Rec
+462,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-12-07 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,38.0,5.0,nyc,Return
+463,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-07 18:00:09+00:00,,Travel and Transportation,Lodging,38.0,5.0,nyc,Rec
+464,689,40.746915580644455,-73.99043083190918,22342,Spanish Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Rec
+465,689,40.74221733386824,-73.98579597473145,23745,Bar,2012-12-08 18:00:09+00:00,,Arts and Entertainment,Night Club,39.0,5.0,nyc,Explore
+466,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-12-08 18:00:09+00:00,,Arts and Entertainment,Night Club,39.0,5.0,nyc,Return
+467,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-12-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,39.0,5.0,nyc,Return
+468,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-08 18:00:09+00:00,,Travel and Transportation,Lodging,39.0,5.0,nyc,Rec
+469,689,40.73466775058902,-73.98776349705562,283,Bar,2012-12-09 18:00:09+00:00,,Dining and Drinking,Bar,40.0,5.0,nyc,Explore
+470,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-09 18:00:09+00:00,,Travel and Transportation,Lodging,40.0,5.0,nyc,Rec
+471,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-12-09 18:00:09+00:00,,Travel and Transportation,Lodging,40.0,5.0,nyc,Rec
+472,689,40.76252443306419,-73.97711735020103,691,French Restaurant,2012-12-09 18:00:09+00:00,,Dining and Drinking,Restaurant,40.0,5.0,nyc,Rec
+473,689,40.76366645514404,-73.99250385555122,1271,Bar,2012-12-10 18:00:09+00:00,,Dining and Drinking,Bar,41.0,5.0,nyc,Rec
+474,689,40.75006726071233,-74.00270154186394,890,Bar,2012-12-10 18:00:09+00:00,,Arts and Entertainment,Night Club,41.0,5.0,nyc,Rec
+475,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-10 18:00:09+00:00,,Travel and Transportation,Lodging,41.0,5.0,nyc,Rec
+476,689,40.7384337749997,-73.9856285758144,7908,Italian Restaurant,2012-12-11 18:00:09+00:00,,Dining and Drinking,Restaurant,42.0,6.0,nyc,Rec
+477,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-11 18:00:09+00:00,,Travel and Transportation,Lodging,42.0,6.0,nyc,Rec
+478,689,40.74392590512986,-73.98929006596519,25804,Hotel,2012-12-11 18:00:09+00:00,,Travel and Transportation,Lodging,42.0,6.0,nyc,Rec
+479,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-13 18:00:09+00:00,,Dining and Drinking,Restaurant,44.0,6.0,nyc,Return
+480,689,40.722298,-73.988823,15171,Concert Hall,2012-12-13 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,44.0,6.0,nyc,Explore
+481,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-12-13 18:00:09+00:00,,Travel and Transportation,Lodging,44.0,6.0,nyc,Return
+482,689,40.7625685886431,-73.9822769165039,4087,Hotel,2012-12-14 18:00:09+00:00,,Travel and Transportation,Lodging,45.0,6.0,nyc,Rec
+483,689,40.75006726071233,-74.00270154186394,890,Bar,2012-12-15 18:00:09+00:00,,Arts and Entertainment,Night Club,46.0,6.0,nyc,Return
+484,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-12-15 18:00:09+00:00,,Arts and Entertainment,Night Club,46.0,6.0,nyc,Rec
+485,689,40.75933222917979,-73.98917824029922,2811,Theater,2012-12-15 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,46.0,6.0,nyc,Rec
+486,689,40.758328,-73.985457,1496,Hotel,2012-12-15 18:00:09+00:00,,Travel and Transportation,Lodging,46.0,6.0,nyc,Rec
+487,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-15 18:00:09+00:00,,Travel and Transportation,Lodging,46.0,6.0,nyc,Rec
+488,689,40.7384337749997,-73.9856285758144,7908,Italian Restaurant,2012-12-15 18:00:09+00:00,,Dining and Drinking,Restaurant,46.0,6.0,nyc,Rec
+489,689,40.75980560484052,-73.97828578948975,18145,Bar,2012-12-16 18:00:09+00:00,,Dining and Drinking,Bar,47.0,6.0,nyc,Explore
+490,689,40.738486841424326,-73.98580648682452,2268,Hotel,2012-12-16 18:00:09+00:00,,Travel and Transportation,Lodging,47.0,6.0,nyc,Rec
+491,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Rec
+492,689,40.73064099842995,-73.98425102233887,17233,Beer Garden,2012-12-17 18:00:09+00:00,,Dining and Drinking,Bar,48.0,6.0,nyc,Explore
+493,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-12-17 18:00:09+00:00,,Arts and Entertainment,Night Club,48.0,6.0,nyc,Return
+494,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-12-17 18:00:09+00:00,,Arts and Entertainment,Night Club,48.0,6.0,nyc,Return
+495,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-12-17 18:00:09+00:00,,Travel and Transportation,Lodging,48.0,6.0,nyc,Return
+496,689,40.76231520631249,-73.97861530732206,7932,Hotel,2012-12-18 18:00:09+00:00,,Travel and Transportation,Lodging,49.0,7.0,nyc,Rec
+497,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Return
+498,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-12-19 18:00:09+00:00,,Travel and Transportation,Lodging,50.0,7.0,nyc,Return
+499,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Return
+500,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-12-21 18:00:09+00:00,,Dining and Drinking,Restaurant,52.0,7.0,nyc,Rec
+501,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-12-22 18:00:09+00:00,,Dining and Drinking,Restaurant,53.0,7.0,nyc,Rec
+502,689,40.75006726071233,-74.00270154186394,890,Bar,2012-12-22 18:00:09+00:00,,Arts and Entertainment,Night Club,53.0,7.0,nyc,Rec
+503,689,40.763121171621314,-73.9840579032898,36205,Theater,2012-12-22 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,53.0,7.0,nyc,Explore
+504,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-12-22 18:00:09+00:00,,Travel and Transportation,Lodging,53.0,7.0,nyc,Rec
+505,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-22 18:00:09+00:00,,Dining and Drinking,Restaurant,53.0,7.0,nyc,Return
+506,689,40.72875747345976,-73.98756263182158,4647,Bar,2012-12-23 18:00:09+00:00,,Dining and Drinking,Bar,54.0,7.0,nyc,Rec
+507,689,40.73169799836348,-73.98922693741638,182,Music Venue,2012-12-23 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,54.0,7.0,nyc,Rec
+508,689,40.75106081688148,-73.98459434509277,8731,Hotel,2012-12-23 18:00:09+00:00,,Travel and Transportation,Lodging,54.0,7.0,nyc,Explore
+509,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-29 18:00:09+00:00,,Dining and Drinking,Restaurant,60.0,8.0,nyc,Return
+510,689,40.7365071557598,-73.98880407214165,1701,Hotel,2012-12-29 18:00:09+00:00,,Travel and Transportation,Lodging,60.0,8.0,nyc,Rec
+511,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-12-29 18:00:09+00:00,,Dining and Drinking,Restaurant,60.0,8.0,nyc,Rec
+512,689,40.75006726071233,-74.00270154186394,890,Bar,2012-12-30 18:00:09+00:00,,Arts and Entertainment,Night Club,61.0,8.0,nyc,Rec
+513,689,40.76362499327396,-73.99757623672485,1479,Bar,2012-12-30 18:00:09+00:00,,Arts and Entertainment,Night Club,61.0,8.0,nyc,Rec
+514,689,40.758328,-73.985457,1496,Hotel,2012-12-30 18:00:09+00:00,,Travel and Transportation,Lodging,61.0,8.0,nyc,Return
+515,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2012-12-30 18:00:09+00:00,,Dining and Drinking,Restaurant,61.0,8.0,nyc,Return
+516,689,40.76224486711165,-73.9792871763928,3335,Hotel,2012-12-31 18:00:09+00:00,,Travel and Transportation,Lodging,62.0,8.0,nyc,Return
+517,689,40.75972275496964,-73.99175780205297,8014,Italian Restaurant,2013-01-01 18:00:09+00:00,,Dining and Drinking,Restaurant,63.0,9.0,nyc,Explore
+518,689,40.759458456654,-73.99512649750574,25933,Hotel,2013-01-01 18:00:09+00:00,,Travel and Transportation,Lodging,63.0,9.0,nyc,Rec
+519,689,40.75813150583918,-73.9877700805664,33840,Performing Arts Venue,2013-01-03 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,65.0,9.0,nyc,Rec
+520,689,40.73085850344144,-73.99070758336508,4129,Ramen /  Noodle House,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Return
+521,689,40.76362499327396,-73.99757623672485,1479,Bar,2013-01-04 18:00:09+00:00,,Arts and Entertainment,Night Club,66.0,9.0,nyc,Return
+522,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-01-05 18:00:09+00:00,,Dining and Drinking,Restaurant,67.0,9.0,nyc,Return
+523,689,40.73169799836348,-73.98922693741638,182,Music Venue,2013-01-05 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,67.0,9.0,nyc,Rec
+524,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-05 18:00:09+00:00,,Travel and Transportation,Lodging,67.0,9.0,nyc,Return
+525,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-05 18:00:09+00:00,,Travel and Transportation,Lodging,67.0,9.0,nyc,Return
+526,689,40.73743415035814,-73.99128147407096,3237,Bar,2013-01-06 18:00:09+00:00,,Dining and Drinking,Bar,68.0,9.0,nyc,Return
+527,689,40.738486841424326,-73.98580648682452,2268,Hotel,2013-01-06 18:00:09+00:00,,Travel and Transportation,Lodging,68.0,9.0,nyc,Rec
+528,689,40.75006726071233,-74.00270154186394,890,Bar,2013-01-07 18:00:09+00:00,,Arts and Entertainment,Night Club,69.0,9.0,nyc,Return
+529,689,40.74594832167498,-74.00501132011414,3482,Hotel,2013-01-07 18:00:09+00:00,,Travel and Transportation,Lodging,69.0,9.0,nyc,Rec
+530,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-07 18:00:09+00:00,,Travel and Transportation,Lodging,69.0,9.0,nyc,Return
+531,689,40.76252443306419,-73.97711735020103,691,French Restaurant,2013-01-08 18:00:09+00:00,,Dining and Drinking,Restaurant,70.0,10.0,nyc,Rec
+532,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-08 18:00:09+00:00,,Travel and Transportation,Lodging,70.0,10.0,nyc,Return
+533,689,40.76231520631249,-73.97861530732206,7932,Hotel,2013-01-08 18:00:09+00:00,,Travel and Transportation,Lodging,70.0,10.0,nyc,Rec
+534,689,40.765365,-73.978326,15260,Hotel,2013-01-09 18:00:09+00:00,,Travel and Transportation,Lodging,71.0,10.0,nyc,Explore
+535,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-09 18:00:09+00:00,,Travel and Transportation,Lodging,71.0,10.0,nyc,Rec
+536,689,40.76203873229087,-73.97945323993258,13837,Middle Eastern Restaurant,2013-01-10 18:00:09+00:00,,Dining and Drinking,Restaurant,72.0,10.0,nyc,Rec
+537,689,40.75006726071233,-74.00270154186394,890,Bar,2013-01-11 18:00:09+00:00,,Arts and Entertainment,Night Club,73.0,10.0,nyc,Return
+538,689,40.76362499327396,-73.99757623672485,1479,Bar,2013-01-11 18:00:09+00:00,,Arts and Entertainment,Night Club,73.0,10.0,nyc,Return
+539,689,40.723127,-73.988454,11366,Bar,2013-01-12 18:00:09+00:00,,Arts and Entertainment,Night Club,74.0,10.0,nyc,Explore
+540,689,40.72093306371737,-73.98790123309466,46,Music Venue,2013-01-12 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,74.0,10.0,nyc,Rec
+541,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-12 18:00:09+00:00,,Travel and Transportation,Lodging,74.0,10.0,nyc,Return
+542,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-13 18:00:09+00:00,,Travel and Transportation,Lodging,75.0,10.0,nyc,Return
+543,689,40.758175595113386,-73.97539554599564,2539,Hotel,2013-01-13 18:00:09+00:00,,Travel and Transportation,Lodging,75.0,10.0,nyc,Explore
+544,689,40.76252443306419,-73.97711735020103,691,French Restaurant,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Return
+545,689,40.7550422616903,-73.98584666025559,4945,Bar,2013-01-14 18:00:09+00:00,,Arts and Entertainment,Night Club,76.0,10.0,nyc,Explore
+546,689,40.738486841424326,-73.98580648682452,2268,Hotel,2013-01-14 18:00:09+00:00,,Travel and Transportation,Lodging,76.0,10.0,nyc,Rec
+547,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-01-17 18:00:09+00:00,,Dining and Drinking,Restaurant,79.0,11.0,nyc,Return
+548,689,40.749498690366586,-73.99487399086954,5225,Theater,2013-01-17 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,79.0,11.0,nyc,Explore
+549,689,40.72029728839815,-73.98828574568053,1156,Bar,2013-01-18 18:00:09+00:00,,Arts and Entertainment,Night Club,80.0,11.0,nyc,Explore
+550,689,40.75006726071233,-74.00270154186394,890,Bar,2013-01-18 18:00:09+00:00,,Arts and Entertainment,Night Club,80.0,11.0,nyc,Return
+551,689,40.73169799836348,-73.98922693741638,182,Music Venue,2013-01-18 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,80.0,11.0,nyc,Rec
+552,689,40.74704563119764,-73.98993730545044,16730,Hotel,2013-01-18 18:00:09+00:00,,Travel and Transportation,Lodging,80.0,11.0,nyc,Explore
+553,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-18 18:00:09+00:00,,Travel and Transportation,Lodging,80.0,11.0,nyc,Return
+554,689,40.76231520631249,-73.97861530732206,7932,Hotel,2013-01-21 18:00:09+00:00,,Travel and Transportation,Lodging,83.0,11.0,nyc,Rec
+555,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-21 18:00:09+00:00,,Travel and Transportation,Lodging,83.0,11.0,nyc,Rec
+556,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-01-22 18:00:09+00:00,,Dining and Drinking,Restaurant,84.0,12.0,nyc,Return
+557,689,40.7316328701106,-73.98935794830322,35645,Bar,2013-01-25 18:00:09+00:00,,Arts and Entertainment,Night Club,87.0,12.0,nyc,Explore
+558,689,40.75006726071233,-74.00270154186394,890,Bar,2013-01-25 18:00:09+00:00,,Arts and Entertainment,Night Club,87.0,12.0,nyc,Return
+559,689,40.749498690366586,-73.99487399086954,5225,Theater,2013-01-25 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,87.0,12.0,nyc,Rec
+560,689,40.76231520631249,-73.97861530732206,7932,Hotel,2013-01-25 18:00:09+00:00,,Travel and Transportation,Lodging,87.0,12.0,nyc,Rec
+561,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-25 18:00:09+00:00,,Travel and Transportation,Lodging,87.0,12.0,nyc,Rec
+562,689,40.76252443306419,-73.97711735020103,691,French Restaurant,2013-01-26 18:00:09+00:00,,Dining and Drinking,Restaurant,88.0,12.0,nyc,Rec
+563,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-26 18:00:09+00:00,,Travel and Transportation,Lodging,88.0,12.0,nyc,Return
+564,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-01-26 18:00:09+00:00,,Dining and Drinking,Restaurant,88.0,12.0,nyc,Return
+565,689,40.7550422616903,-73.98584666025559,4945,Bar,2013-01-27 18:00:09+00:00,,Arts and Entertainment,Night Club,89.0,12.0,nyc,Return
+566,689,40.738486841424326,-73.98580648682452,2268,Hotel,2013-01-27 18:00:09+00:00,,Travel and Transportation,Lodging,89.0,12.0,nyc,Rec
+567,689,40.74392590512986,-73.98929006596519,25804,Hotel,2013-01-27 18:00:09+00:00,,Travel and Transportation,Lodging,89.0,12.0,nyc,Rec
+568,689,40.72875747345976,-73.98756263182158,4647,Bar,2013-01-28 18:00:09+00:00,,Dining and Drinking,Bar,90.0,12.0,nyc,Return
+569,689,40.75006726071233,-74.00270154186394,890,Bar,2013-01-28 18:00:09+00:00,,Arts and Entertainment,Night Club,90.0,12.0,nyc,Return
+570,689,40.75006726071233,-74.00270154186394,890,Bar,2013-01-28 18:00:09+00:00,,Arts and Entertainment,Night Club,90.0,12.0,nyc,Return
+571,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-28 18:00:09+00:00,,Travel and Transportation,Lodging,90.0,12.0,nyc,Return
+572,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-29 18:00:09+00:00,,Travel and Transportation,Lodging,91.0,13.0,nyc,Return
+573,689,40.76203873229087,-73.97945323993258,13837,Middle Eastern Restaurant,2013-01-31 18:00:09+00:00,,Dining and Drinking,Restaurant,93.0,13.0,nyc,Rec
+574,689,40.73169799836348,-73.98922693741638,182,Music Venue,2013-01-31 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,93.0,13.0,nyc,Return
+575,689,40.72783447937824,-73.9908969674878,31496,Hotel,2013-01-31 18:00:09+00:00,,Travel and Transportation,Lodging,93.0,13.0,nyc,Return
+576,689,40.734616222968825,-73.9961078269564,22934,Hotel,2013-01-31 18:00:09+00:00,,Travel and Transportation,Lodging,93.0,13.0,nyc,Rec
+577,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Return
+578,689,40.738486841424326,-73.98580648682452,2268,Hotel,2013-02-01 18:00:09+00:00,,Travel and Transportation,Lodging,94.0,13.0,nyc,Rec
+579,689,40.7384337749997,-73.9856285758144,7908,Italian Restaurant,2013-02-02 18:00:09+00:00,,Dining and Drinking,Restaurant,95.0,13.0,nyc,Rec
+580,689,40.7316328701106,-73.98935794830322,35645,Bar,2013-02-02 18:00:09+00:00,,Arts and Entertainment,Night Club,95.0,13.0,nyc,Rec
+581,689,40.71427455929432,-73.95585772942792,5980,Music Venue,2013-02-02 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,95.0,13.0,nyc,Explore
+582,689,40.72097354037951,-73.95568013191223,27227,Hotel,2013-02-02 18:00:09+00:00,,Travel and Transportation,Lodging,95.0,13.0,nyc,Rec
+583,689,40.7316328701106,-73.98935794830322,35645,Bar,2013-02-03 18:00:09+00:00,,Arts and Entertainment,Night Club,96.0,13.0,nyc,Rec
+584,689,40.73169799836348,-73.98922693741638,182,Music Venue,2013-02-03 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,96.0,13.0,nyc,Return
+585,689,40.736658,-73.986259,35304,Moving Target,2013-02-03 18:00:09+00:00,,Travel and Transportation,Moving Target,96.0,13.0,nyc,Explore
+586,689,40.76252443306419,-73.97711735020103,691,French Restaurant,2013-02-03 18:00:09+00:00,,Dining and Drinking,Restaurant,96.0,13.0,nyc,Rec
+587,689,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-02-05 18:00:09+00:00,,Dining and Drinking,Restaurant,98.0,14.0,nyc,Return
+588,689,40.76224486711165,-73.9792871763928,3335,Hotel,2013-02-05 18:00:09+00:00,,Travel and Transportation,Lodging,98.0,14.0,nyc,Return
+589,689,40.75655767884747,-73.98170875271617,7757,Pizza Place,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Explore
+590,689,40.722298,-73.988823,15171,Concert Hall,2013-02-07 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,100.0,14.0,nyc,Return
+591,689,40.72206051019107,-73.98854399996996,10314,Hotel,2013-02-07 18:00:09+00:00,,Travel and Transportation,Lodging,100.0,14.0,nyc,Rec
+592,689,40.738486841424326,-73.98580648682452,2268,Hotel,2013-02-07 18:00:09+00:00,,Travel and Transportation,Lodging,100.0,14.0,nyc,Rec
+593,689,40.7384337749997,-73.9856285758144,7908,Italian Restaurant,2013-02-08 18:00:09+00:00,,Dining and Drinking,Restaurant,101.0,14.0,nyc,Rec
+594,689,40.75006726071233,-74.00270154186394,890,Bar,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Night Club,101.0,14.0,nyc,Return
+595,689,40.73169799836348,-73.98922693741638,182,Music Venue,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,101.0,14.0,nyc,Return
+596,689,40.738486841424326,-73.98580648682452,2268,Hotel,2013-02-08 18:00:09+00:00,,Travel and Transportation,Lodging,101.0,14.0,nyc,Rec
+597,689,40.7384337749997,-73.9856285758144,7908,Italian Restaurant,2013-02-10 18:00:09+00:00,,Dining and Drinking,Restaurant,103.0,14.0,nyc,Rec

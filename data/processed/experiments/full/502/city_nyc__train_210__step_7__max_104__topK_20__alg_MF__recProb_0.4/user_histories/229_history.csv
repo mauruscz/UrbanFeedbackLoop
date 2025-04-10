@@ -1,0 +1,143 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,229,40.71406997380725,-73.96157199408522,31678,Coffee Shop,2012-04-06 15:08:50+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+1,229,40.69705195512047,-73.93480816942602,4462,Food & Drink Shop,2012-08-10 11:07:24+00:00,New York City,Retail,Food and Beverage Retail,,,,
+2,229,40.673615,-73.99171,2316,Music Venue,2012-08-10 21:53:03+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+3,229,40.67312,-73.989684,24712,Bar,2012-08-17 23:42:25+00:00,New York City,Dining and Drinking,Bar,,,,
+4,229,40.704495,-73.929126,5446,Taco Place,2012-07-06 02:04:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,229,40.67312,-73.989684,24712,Bar,2012-07-06 22:35:07+00:00,New York City,Dining and Drinking,Bar,,,,
+6,229,40.70759614636528,-73.92180919647217,13312,Bar,2012-07-13 23:25:55+00:00,New York City,Dining and Drinking,Bar,,,,
+7,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-20 13:45:16+00:00,New York City,Business and Professional Services,Design Studio,,,,
+8,229,40.6723059714534,-73.99008750915527,14755,Dessert Shop,2012-10-12 12:11:20+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+9,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-10-12 20:00:15+00:00,New York City,Business and Professional Services,Design Studio,,,,
+10,229,40.70293955093353,-73.93347060983648,37117,Restaurant,2012-10-26 03:04:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,229,40.672167,-73.990332,20446,Chinese Restaurant,2012-09-14 17:50:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,229,40.74285240592211,-74.00749891494839,32123,Flea Market,2012-04-09 14:12:12+00:00,New York City,Retail,Flea Market,,,,
+13,229,40.717971324920654,-73.98863911628723,3788,Bakery,2012-04-09 17:12:10+00:00,New York City,Dining and Drinking,Bakery,,,,
+14,229,40.69705195512047,-73.93480816942602,4462,Food & Drink Shop,2012-04-23 14:49:24+00:00,New York City,Retail,Food and Beverage Retail,,,,
+15,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-08-06 12:55:55+00:00,New York City,Business and Professional Services,Design Studio,,,,
+16,229,40.673136,-73.991018,5305,Electronics Store,2012-08-13 19:02:00+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+17,229,40.683043,-73.992982,26638,Spa / Massage,2012-07-02 23:04:32+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+18,229,40.67501613800784,-73.99943053672995,35241,Bakery,2012-07-09 12:33:16+00:00,New York City,Dining and Drinking,Bakery,,,,
+19,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-09 13:16:11+00:00,New York City,Business and Professional Services,Design Studio,,,,
+20,229,40.71360004181956,-73.96191895008087,1481,Burger Joint,2012-07-16 00:42:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-16 14:25:35+00:00,New York City,Business and Professional Services,Design Studio,,,,
+22,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-30 14:17:38+00:00,New York City,Business and Professional Services,Design Studio,,,,
+23,229,40.67023470841829,-73.98552527257162,2089,Mexican Restaurant,2012-07-30 17:38:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-10-08 13:28:35+00:00,New York City,Business and Professional Services,Design Studio,,,,
+25,229,40.71819072,-73.958401,9458,Food & Drink Shop,2012-04-07 12:29:06+00:00,New York City,Retail,Food and Beverage Retail,,,,
+26,229,40.71985685897994,-73.96130486969331,3289,Flea Market,2012-04-07 14:36:00+00:00,New York City,Retail,Flea Market,,,,
+27,229,40.69750179526211,-73.93144416077938,11006,Coffee Shop,2012-08-11 13:29:53+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+28,229,40.71985685897994,-73.96130486969331,3289,Flea Market,2012-08-11 18:34:02+00:00,New York City,Retail,Flea Market,,,,
+29,229,40.70065837046107,-73.94138102125218,7700,Drugstore / Pharmacy,2012-08-18 23:18:31+00:00,New York City,Retail,Pharmacy,,,,
+30,229,40.701512716703405,-73.9272763831584,32703,Bar,2012-07-14 02:08:44+00:00,New York City,Dining and Drinking,Bar,,,,
+31,229,40.718569,-73.956909,4221,Food & Drink Shop,2012-07-21 00:16:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+32,229,40.714718,-73.949522,3307,Southern / Soul Food Restaurant,2012-07-21 23:52:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,229,40.719385,-73.952769,2672,Sandwich Place,2012-07-28 15:25:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+34,229,40.719809,-73.9527,7082,Food & Drink Shop,2012-07-28 15:56:24+00:00,New York City,Retail,Food and Beverage Retail,,,,
+35,229,40.67738706666667,-73.9830869436264,6650,Diner,2012-10-27 06:52:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,229,40.69751400754178,-73.93639256283682,37122,Caf�,2012-10-27 19:14:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+37,229,40.69751400754178,-73.93639256283682,37122,Caf�,2012-09-15 00:06:18+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+38,229,40.71985685897994,-73.96130486969331,3289,Flea Market,2012-09-15 19:44:37+00:00,New York City,Retail,Flea Market,,,,
+39,229,40.69750179526211,-73.93144416077938,11006,Coffee Shop,2012-08-05 15:05:18+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+40,229,40.7168149,-73.961606,23425,Art Gallery,2012-08-05 19:53:09+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+41,229,40.71730681258844,-73.96300384088624,36610,Miscellaneous Shop,2012-08-05 19:58:12+00:00,New York City,Retail,Miscellaneous Store,,,,
+42,229,40.701512716703405,-73.9272763831584,32703,Bar,2012-08-12 02:43:22+00:00,New York City,Dining and Drinking,Bar,,,,
+43,229,40.71985685897994,-73.96130486969331,3289,Flea Market,2012-08-19 19:22:13+00:00,New York City,Retail,Flea Market,,,,
+44,229,40.713852,-73.957991,17623,American Restaurant,2012-07-01 00:49:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,229,40.707531,-73.95508623333335,2185,Taco Place,2012-07-01 02:29:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,229,40.71819072,-73.958401,9458,Food & Drink Shop,2012-07-08 12:45:50+00:00,New York City,Retail,Food and Beverage Retail,,,,
+47,229,40.71985685897994,-73.96130486969331,3289,Flea Market,2012-07-08 14:57:39+00:00,New York City,Retail,Flea Market,,,,
+48,229,40.71985685897994,-73.96130486969331,3289,Flea Market,2012-07-22 13:56:59+00:00,New York City,Retail,Flea Market,,,,
+49,229,40.7191382695468,-73.95422183537754,6050,Food & Drink Shop,2012-07-29 19:24:59+00:00,New York City,Retail,Food and Beverage Retail,,,,
+50,229,40.71985685897994,-73.96130486969331,3289,Flea Market,2012-06-17 15:10:17+00:00,New York City,Retail,Flea Market,,,,
+51,229,40.705256,-73.92829865,17087,Salon / Barbershop,2012-08-09 23:32:39+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+52,229,40.70921036482356,-73.95907207736607,35573,Food & Drink Shop,2012-07-12 11:15:10+00:00,New York City,Retail,Food and Beverage Retail,,,,
+53,229,40.67064594572918,-73.99155735969543,30944,Bar,2012-07-12 22:59:29+00:00,New York City,Dining and Drinking,Bar,,,,
+54,229,40.67739971396978,-73.96390914916992,28344,Bar,2012-09-06 00:41:18+00:00,New York City,Dining and Drinking,Bar,,,,
+55,229,40.74224984882722,-74.00609493255615,2841,Coffee Shop,2012-04-10 22:22:25+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+56,229,40.74285240592211,-74.00749891494839,32123,Flea Market,2012-04-10 22:54:48+00:00,New York City,Retail,Flea Market,,,,
+57,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-08-14 13:48:24+00:00,New York City,Business and Professional Services,Design Studio,,,,
+58,229,40.70484714530104,-73.92798900604248,32666,Bar,2012-08-14 23:39:11+00:00,New York City,Dining and Drinking,Bar,,,,
+59,229,40.67745,-73.998358,17588,Record Shop,2012-07-03 13:09:11+00:00,New York City,Retail,Record Store,,,,
+60,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-03 13:34:22+00:00,New York City,Business and Professional Services,Design Studio,,,,
+61,229,40.67064594572918,-73.99155735969543,30944,Bar,2012-07-03 22:50:55+00:00,New York City,Dining and Drinking,Bar,,,,
+62,229,40.688290194838,-73.9898065714936,24763,Mexican Restaurant,2012-07-17 00:50:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+63,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-17 18:51:36+00:00,New York City,Business and Professional Services,Design Studio,,,,
+64,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-24 13:05:42+00:00,New York City,Business and Professional Services,Design Studio,,,,
+65,229,40.704495,-73.929126,5446,Taco Place,2012-06-12 16:41:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+66,229,40.70523754289766,-73.92876148223877,26109,Coffee Shop,2012-06-12 17:21:09+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+67,229,40.730029,-73.956604,2079,Bar,2012-04-04 21:29:35+00:00,New York City,Dining and Drinking,Bar,,,,
+68,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-08-22 16:31:48+00:00,New York City,Business and Professional Services,Design Studio,,,,
+69,229,40.704495,-73.929126,5446,Taco Place,2012-07-11 00:02:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+70,229,40.67745,-73.998358,17588,Record Shop,2012-07-11 12:26:36+00:00,New York City,Retail,Record Store,,,,
+71,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-11 15:26:39+00:00,New York City,Business and Professional Services,Design Studio,,,,
+72,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-07-18 13:04:00+00:00,New York City,Business and Professional Services,Design Studio,,,,
+73,229,40.701512716703405,-73.9272763831584,32703,Bar,2012-06-27 00:58:32+00:00,New York City,Dining and Drinking,Bar,,,,
+74,229,40.71944883095595,-73.99315808469217,1838,Bar,2012-06-27 02:50:20+00:00,New York City,Dining and Drinking,Bar,,,,
+75,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-06-27 13:21:07+00:00,New York City,Business and Professional Services,Design Studio,,,,
+76,229,40.67501613800784,-73.99943053672995,35241,Bakery,2012-10-17 11:32:02+00:00,New York City,Dining and Drinking,Bakery,,,,
+77,229,40.75338271988277,-73.97444280771313,25283,Tea Room,2012-10-31 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",1.0,0.0,nyc,Rec
+78,229,40.74808126651352,-73.98283936875711,33360,Design Studio,2012-10-31 18:00:09+00:00,,Business and Professional Services,Design Studio,1.0,0.0,nyc,Rec
+79,229,40.75085448056053,-73.94619714398068,35013,Design Studio,2012-11-01 18:00:09+00:00,,Business and Professional Services,Design Studio,2.0,0.0,nyc,Rec
+80,229,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-11-05 18:00:09+00:00,,Business and Professional Services,Design Studio,6.0,0.0,nyc,Return
+81,229,40.701512716703405,-73.9272763831584,32703,Bar,2012-11-06 18:00:09+00:00,,Dining and Drinking,Bar,7.0,1.0,nyc,Return
+82,229,40.719385,-73.952769,2672,Sandwich Place,2012-11-06 18:00:09+00:00,,Dining and Drinking,Restaurant,7.0,1.0,nyc,Return
+83,229,40.71348448915188,-73.95874490511197,8901,Design Studio,2012-11-07 18:00:09+00:00,,Business and Professional Services,Design Studio,8.0,1.0,nyc,Rec
+84,229,40.673136,-73.991018,5305,Electronics Store,2012-11-07 18:00:09+00:00,,Retail,Computers and Electronics Retail,8.0,1.0,nyc,Return
+85,229,40.672167,-73.990332,20446,Chinese Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Rec
+86,229,40.704495,-73.929126,5446,Taco Place,2012-11-18 18:00:09+00:00,,Dining and Drinking,Restaurant,19.0,2.0,nyc,Return
+87,229,40.70759614636528,-73.92180919647217,13312,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Return
+88,229,40.76688552090382,-73.92162948846817,5441,Diner,2012-11-28 18:00:09+00:00,,Dining and Drinking,Restaurant,29.0,4.0,nyc,Rec
+89,229,40.756912,-73.975423,2086,Steakhouse,2012-12-03 18:00:09+00:00,,Dining and Drinking,Restaurant,34.0,4.0,nyc,Explore
+90,229,40.730029,-73.956604,2079,Bar,2012-12-03 18:00:09+00:00,,Dining and Drinking,Bar,34.0,4.0,nyc,Return
+91,229,40.71819072,-73.958401,9458,Food & Drink Shop,2012-12-05 18:00:09+00:00,,Retail,Food and Beverage Retail,36.0,5.0,nyc,Return
+92,229,40.67023470841829,-73.98552527257162,2089,Taco Place,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Return
+93,229,40.66954409922458,-73.98600735389587,3220,Diner,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Explore
+94,229,40.71819072,-73.958401,9458,Food & Drink Shop,2012-12-07 18:00:09+00:00,,Retail,Food and Beverage Retail,38.0,5.0,nyc,Return
+95,229,40.71406997380725,-73.96157199408522,31678,Coffee Shop,2012-12-07 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",38.0,5.0,nyc,Return
+96,229,40.72098907275997,-73.98104874535339,3277,Deli / Bodega,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Explore
+97,229,40.71535454907293,-73.98957252502441,15398,Flea Market,2012-12-08 18:00:09+00:00,,Retail,Flea Market,39.0,5.0,nyc,Rec
+98,229,40.69647535895586,-73.98827426770404,32049,Flea Market,2012-12-10 18:00:09+00:00,,Retail,Flea Market,41.0,5.0,nyc,Rec
+99,229,40.67312,-73.989684,24712,Bar,2012-12-11 18:00:09+00:00,,Dining and Drinking,Bar,42.0,6.0,nyc,Return
+100,229,40.71535454907293,-73.98957252502441,15398,Flea Market,2012-12-11 18:00:09+00:00,,Retail,Flea Market,42.0,6.0,nyc,Return
+101,229,40.707531,-73.95508623333335,2185,Taco Place,2012-12-11 18:00:09+00:00,,Dining and Drinking,Restaurant,42.0,6.0,nyc,Return
+102,229,40.766647842986686,-73.92088115215302,6906,Coffee Shop,2012-12-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",42.0,6.0,nyc,Rec
+103,229,40.75689742618175,-73.99493137877062,11380,Flea Market,2012-12-15 18:00:09+00:00,,Retail,Flea Market,46.0,6.0,nyc,Rec
+104,229,40.756876,-73.99371338,9498,Thai Restaurant,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Rec
+105,229,40.69750179526211,-73.93144416077938,11006,Coffee Shop,2012-12-17 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",48.0,6.0,nyc,Return
+106,229,40.716069008205125,-73.9497388406914,14297,Deli / Bodega,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Rec
+107,229,40.672167,-73.990332,20446,Chinese Restaurant,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Return
+108,229,40.632195,-73.94833087920928,11724,Coffee Shop,2012-12-21 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",52.0,7.0,nyc,Rec
+109,229,40.687415187557306,-73.96922528743744,2253,Flea Market,2012-12-21 18:00:09+00:00,,Retail,Flea Market,52.0,7.0,nyc,Rec
+110,229,40.68441074366335,-73.97673281526508,8498,Ice Cream Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Dessert Shop,54.0,7.0,nyc,Rec
+111,229,40.68526484582348,-73.97782328547032,9746,Flea Market,2012-12-27 18:00:09+00:00,,Retail,Flea Market,58.0,8.0,nyc,Rec
+112,229,40.701512716703405,-73.9272763831584,32703,Bar,2012-12-28 18:00:09+00:00,,Dining and Drinking,Bar,59.0,8.0,nyc,Return
+113,229,40.701512716703405,-73.9272763831584,32703,Bar,2012-12-29 18:00:09+00:00,,Dining and Drinking,Bar,60.0,8.0,nyc,Return
+114,229,40.69879568992435,-73.91824722290039,9723,Fast Food Restaurant,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Rec
+115,229,40.76705894100101,-73.9219832914375,5073,Food & Drink Shop,2013-01-05 18:00:09+00:00,,Retail,Food and Beverage Retail,67.0,9.0,nyc,Rec
+116,229,40.76662365086325,-73.92212107439501,30423,Bar,2013-01-06 18:00:09+00:00,,Dining and Drinking,Bar,68.0,9.0,nyc,Rec
+117,229,40.767225,-73.908868,30519,Bar,2013-01-06 18:00:09+00:00,,Dining and Drinking,Bar,68.0,9.0,nyc,Explore
+118,229,40.756912,-73.975423,2086,Steakhouse,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Return
+119,229,40.7632138239065,-73.98908346336458,13918,Thrift / Vintage Store,2013-01-07 18:00:09+00:00,,Retail,Vintage and Thrift Store,69.0,9.0,nyc,Rec
+120,229,40.716069008205125,-73.9497388406914,14297,Deli / Bodega,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Return
+121,229,40.67312,-73.989684,24712,Bar,2013-01-08 18:00:09+00:00,,Dining and Drinking,Bar,70.0,10.0,nyc,Return
+122,229,40.70759614636528,-73.92180919647217,13312,Bar,2013-01-10 18:00:09+00:00,,Dining and Drinking,Bar,72.0,10.0,nyc,Return
+123,229,40.67312,-73.989684,24712,Bar,2013-01-10 18:00:09+00:00,,Dining and Drinking,Bar,72.0,10.0,nyc,Return
+124,229,40.67196838568416,-73.97742153400876,3387,Coffee Shop,2013-01-10 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",72.0,10.0,nyc,Rec
+125,229,40.75274100802376,-73.97330797224723,24777,German Restaurant,2013-01-11 18:00:09+00:00,,Dining and Drinking,Restaurant,73.0,10.0,nyc,Rec
+126,229,40.7462390539103,-73.98058960845994,32066,Other Nightlife,2013-01-11 18:00:09+00:00,,Nightlife Spot,Other Nightlife,73.0,10.0,nyc,Rec
+127,229,40.71730681258844,-73.96300384088624,36610,Miscellaneous Shop,2013-01-11 18:00:09+00:00,,Retail,Miscellaneous Store,73.0,10.0,nyc,Return
+128,229,40.71535454907293,-73.98957252502441,15398,Flea Market,2013-01-13 18:00:09+00:00,,Retail,Flea Market,75.0,10.0,nyc,Rec
+129,229,40.71945037152671,-73.98781514808185,1098,Bar,2013-01-14 18:00:09+00:00,,Dining and Drinking,Bar,76.0,10.0,nyc,Rec
+130,229,40.69750179526211,-73.93144416077938,11006,Coffee Shop,2013-01-15 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",77.0,11.0,nyc,Return
+131,229,40.716069008205125,-73.9497388406914,14297,Deli / Bodega,2013-01-18 18:00:09+00:00,,Dining and Drinking,Restaurant,80.0,11.0,nyc,Return
+132,229,40.756876,-73.99371338,9498,Thai Restaurant,2013-01-24 18:00:09+00:00,,Dining and Drinking,Restaurant,86.0,12.0,nyc,Return
+133,229,40.71441897635021,-73.94948053437223,8491,Pizza Place,2013-01-24 18:00:09+00:00,,Dining and Drinking,Restaurant,86.0,12.0,nyc,Rec
+134,229,40.73169799836348,-73.98922693741638,182,Music Venue,2013-01-31 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,93.0,13.0,nyc,Rec
+135,229,40.731463098592265,-73.98277049893474,5790,Hot Dog Joint,2013-01-31 18:00:09+00:00,,Dining and Drinking,Restaurant,93.0,13.0,nyc,Rec
+136,229,40.701512716703405,-73.9272763831584,32703,Bar,2013-02-01 18:00:09+00:00,,Dining and Drinking,Bar,94.0,13.0,nyc,Return
+137,229,40.753384484535445,-73.97450594111876,7188,Bookstore,2013-02-01 18:00:09+00:00,,Retail,Bookstore,94.0,13.0,nyc,Rec
+138,229,40.71535454907293,-73.98957252502441,15398,Flea Market,2013-02-02 18:00:09+00:00,,Retail,Flea Market,95.0,13.0,nyc,Return
+139,229,40.76266834615508,-73.96865740411552,3597,Furniture / Home Store,2013-02-05 18:00:09+00:00,,Retail,Furniture and Home Store,98.0,14.0,nyc,Rec
+140,229,40.756912,-73.975423,2086,Steakhouse,2013-02-06 18:00:09+00:00,,Dining and Drinking,Restaurant,99.0,14.0,nyc,Return
+141,229,40.688290194838,-73.9898065714936,24763,Mexican Restaurant,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Return

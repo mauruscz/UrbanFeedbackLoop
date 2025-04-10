@@ -1,0 +1,53 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+38981,258,40.62466960781309,-73.99884223937988,12478,Burger Joint,2012-04-13 00:07:23+00:00,New York City,Dining and Drinking,Restaurant
+38982,258,40.64333941,-74.01214276,22744,Clothing Store,2012-05-04 18:45:32+00:00,New York City,Retail,Fashion Retail
+38983,258,40.62848481939688,-74.01692689433807,13029,Italian Restaurant,2012-05-04 23:32:33+00:00,New York City,Dining and Drinking,Restaurant
+38984,258,40.616019,-73.929812,10503,Chinese Restaurant,2012-05-18 22:22:09+00:00,New York City,Dining and Drinking,Restaurant
+38985,258,40.613933801651,-74.03295457363129,9446,Laundry Service,2012-05-25 18:37:55+00:00,New York City,Business and Professional Services,Laundry Service
+38986,258,40.6523954512296,-73.86983119037848,8027,Department Store,2012-05-25 21:38:15+00:00,New York City,Retail,Department Store
+38987,258,40.65078753290479,-73.87275695800781,15896,Clothing Store,2012-05-25 22:59:57+00:00,New York City,Retail,Fashion Retail
+38988,258,40.620465,-74.00710102,19828,Tanning Salon,2012-04-23 23:30:39+00:00,New York City,Business and Professional Services,Health and Beauty Service
+38989,258,40.632685,-74.02725574,9502,Pizza Place,2012-06-11 16:49:04+00:00,New York City,Dining and Drinking,Restaurant
+38990,258,40.632118554770855,-74.02780033986679,34130,Deli / Bodega,2012-06-18 16:29:49+00:00,New York City,Dining and Drinking,Restaurant
+38991,258,40.632795,-74.0273,18401,Wings Joint,2012-05-14 16:23:46+00:00,New York City,Dining and Drinking,Restaurant
+38992,258,40.5708544273041,-74.10993066312204,8466,Convenience Store,2012-04-21 06:11:45+00:00,New York City,Retail,Convenience Store
+38993,258,40.61001858166589,-73.92026424407959,3856,Mall,2012-04-21 18:15:25+00:00,New York City,Retail,Shopping Mall
+38994,258,40.616019,-73.929812,10503,Chinese Restaurant,2012-06-02 22:28:24+00:00,New York City,Dining and Drinking,Restaurant
+38995,258,40.60874557495117,-74.00859832763672,36103,Other Nightlife,2012-06-09 05:53:03+00:00,New York City,Nightlife Spot,Other Nightlife
+38996,258,40.62658,-74.023973,9383,Bar,2012-06-09 06:17:59+00:00,New York City,Dining and Drinking,Bar
+38997,258,40.632942,-74.02120003333333,10042,Bar,2012-06-09 08:38:12+00:00,New York City,Dining and Drinking,Bar
+38998,258,40.60233803273628,-74.06333122960736,17737,Bridge,2012-06-09 17:54:46+00:00,New York City,Landmarks and Outdoors,Bridge
+38999,258,40.616019,-73.929812,10503,Chinese Restaurant,2012-06-16 22:35:58+00:00,New York City,Dining and Drinking,Restaurant
+39000,258,40.62904026856572,-73.99963349103928,9481,Food & Drink Shop,2012-05-05 00:53:56+00:00,New York City,Retail,Food and Beverage Retail
+39001,258,40.628416,-74.006169,34907,Pizza Place,2012-05-05 01:57:40+00:00,New York City,Dining and Drinking,Restaurant
+39002,258,40.63470358616227,-74.02629129186919,6895,Bar,2012-05-05 23:48:22+00:00,New York City,Dining and Drinking,Bar
+39003,258,40.639652516059975,-74.03231620788574,14366,Park,2012-05-19 15:44:52+00:00,New York City,Landmarks and Outdoors,Park
+39004,258,40.60996563539849,-74.00120377276397,11583,Food & Drink Shop,2012-05-19 17:38:40+00:00,New York City,Retail,Food and Beverage Retail
+39005,258,40.625615,-74.023974,24194,Bar,2012-04-15 00:01:19+00:00,New York City,Dining and Drinking,Bar
+39006,258,40.622557719108514,-74.00477314954206,18456,Drugstore / Pharmacy,2012-06-03 15:38:42+00:00,New York City,Retail,Pharmacy
+39007,258,40.61769966417118,-73.99179797423834,6586,Department Store,2012-06-03 15:58:06+00:00,New York City,Retail,Department Store
+39008,258,40.62068142423511,-74.0072005172603,19828,Tanning Salon,2012-06-03 16:30:46+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39009,258,40.622557719108514,-74.00477314954206,18456,Drugstore / Pharmacy,2012-06-03 17:06:12+00:00,New York City,Retail,Pharmacy
+39010,258,40.62393569946289,-74.00997924804688,35944,Neighborhood,2012-06-03 22:05:46+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+39011,258,40.61999149978978,-74.00695950340314,11280,Bank,2012-06-03 22:31:08+00:00,New York City,Business and Professional Services,Financial Service
+39012,258,40.661280884565485,-73.72556172309093,20245,Department Store,2012-06-17 16:11:03+00:00,New York City,Retail,Department Store
+39013,258,40.62068142423511,-74.0072005172603,19828,Tanning Salon,2012-06-17 18:59:50+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39014,258,40.595398,-74.00017797,13640,Fast Food Restaurant,2012-06-17 21:47:41+00:00,New York City,Dining and Drinking,Restaurant
+39015,258,40.6311,-74.027756,3205,Bar,2012-05-27 05:57:25+00:00,New York City,Dining and Drinking,Bar
+39016,258,40.620465,-74.00710102,19828,Tanning Salon,2012-04-19 21:30:10+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39017,258,40.620465,-74.00710102,19828,Tanning Salon,2012-05-03 20:59:35+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39018,258,40.63400906248271,-74.02693966756806,30164,Thai Restaurant,2012-05-03 23:22:17+00:00,New York City,Dining and Drinking,Restaurant
+39019,258,40.62068142423511,-74.0072005172603,19828,Tanning Salon,2012-05-17 22:28:35+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39020,258,40.620465,-74.00710102,19828,Tanning Salon,2012-04-03 21:26:35+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39021,258,40.59345799648531,-73.99991512298584,16203,Sporting Goods Shop,2012-06-12 22:25:17+00:00,New York City,Retail,Sporting Goods Retail
+39022,258,40.61736902239986,-74.00331556642239,23500,Cosmetics Shop,2012-06-26 22:57:16+00:00,New York City,Retail,Cosmetics Store
+39023,258,40.620465,-74.00710102,19828,Tanning Salon,2012-05-01 20:05:33+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39024,258,40.632795,-74.0273,18401,Wings Joint,2012-04-11 16:43:22+00:00,New York City,Dining and Drinking,Restaurant
+39025,258,40.62834867469804,-74.00620202930364,14440,Italian Restaurant,2012-04-11 23:20:10+00:00,New York City,Dining and Drinking,Restaurant
+39026,258,40.620465,-74.00710102,19828,Tanning Salon,2012-04-18 00:29:54+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39027,258,40.61921351441456,-74.03255224227905,20330,Bank,2012-04-18 20:03:18+00:00,New York City,Business and Professional Services,Financial Service
+39028,258,40.620465,-74.00710102,19828,Tanning Salon,2012-04-18 21:39:48+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39029,258,40.61558230398971,-74.03412903073142,10871,Italian Restaurant,2012-06-06 21:29:13+00:00,New York City,Dining and Drinking,Restaurant
+39030,258,40.62068142423511,-74.0072005172603,19828,Tanning Salon,2012-05-16 20:50:14+00:00,New York City,Business and Professional Services,Health and Beauty Service
+39031,258,40.610703127364665,-73.9844807588843,28174,Automotive Shop,2012-05-23 20:56:57+00:00,New York City,Retail,Automotive Shop
+39032,258,40.61999149978978,-74.00695950340314,11280,Bank,2012-05-23 23:13:37+00:00,New York City,Business and Professional Services,Financial Service

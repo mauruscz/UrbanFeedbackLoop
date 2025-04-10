@@ -1,0 +1,63 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,626,40.758409593390965,-73.9855424897826,17530,Clothing Store,2012-04-13 22:59:25+00:00,New York City,Retail,Fashion Retail,,,,
+1,626,40.758409593390965,-73.9855424897826,17530,Clothing Store,2012-04-20 17:08:14+00:00,New York City,Retail,Fashion Retail,,,,
+2,626,40.74611903850168,-73.99409351370946,1875,Burger Joint,2012-07-27 22:39:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,626,40.75627920344459,-73.9862082207571,34235,Drugstore / Pharmacy,2012-06-01 13:33:21+00:00,New York City,Retail,Pharmacy,,,,
+4,626,40.85236366654604,-74.17351297681873,17714,Government Building,2012-06-08 16:29:35+00:00,New York City,Landmarks and Outdoors,Monument,,,,
+5,626,40.85819445595398,-74.10136699676514,9635,Government Building,2012-06-08 17:56:50+00:00,New York City,Community and Government,Government Building,,,,
+6,626,40.86679532183928,-74.10016536712646,20741,Department Store,2012-06-08 20:13:59+00:00,New York City,Retail,Department Store,,,,
+7,626,40.7582564039573,-73.98385519576951,18356,Salon / Barbershop,2012-10-26 22:41:47+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+8,626,40.75061379403183,-73.98856401443481,1028,Department Store,2012-05-14 22:58:31+00:00,New York City,Retail,Department Store,,,,
+9,626,40.824648526250215,-74.13560271263123,6934,Department Store,2012-05-28 21:36:14+00:00,New York City,Retail,Department Store,,,,
+10,626,40.87341395170496,-74.12253645269759,14944,Spanish Restaurant,2012-04-14 16:17:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,626,40.672061,-73.97736961666666,3602,Gift Shop,2012-08-18 22:46:15+00:00,New York City,Retail,Gift Store,,,,
+12,626,40.67429294771745,-73.98189240653575,1687,Pizza Place,2012-08-18 22:50:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+13,626,40.7452748056754,-73.99255501211807,709,Bar,2012-07-28 02:19:09+00:00,New York City,Dining and Drinking,Bar,,,,
+14,626,40.80290955799356,-74.1953959078547,23462,Medical Center,2012-07-28 15:15:23+00:00,New York City,Health and Medicine,Dentist,,,,
+15,626,40.74218830848454,-73.98792418909154,902,Park,2012-06-09 18:12:52+00:00,New York City,Landmarks and Outdoors,Park,,,,
+16,626,40.73736019949263,-73.98403310842231,33602,Furniture / Home Store,2012-06-09 19:54:15+00:00,New York City,Retail,Furniture and Home Store,,,,
+17,626,40.74352,-73.99402,5218,Clothing Store,2012-06-09 21:15:18+00:00,New York City,Retail,Fashion Retail,,,,
+18,626,40.74249415,-73.99164126,7488,Thrift / Vintage Store,2012-06-09 21:17:35+00:00,New York City,Retail,Vintage and Thrift Store,,,,
+19,626,40.68649405801772,-73.984957103743,18506,Clothing Store,2012-06-09 22:55:52+00:00,New York City,Retail,Boutique,,,,
+20,626,40.85564996195085,-74.1769472258173,15891,Food & Drink Shop,2012-06-30 20:32:26+00:00,New York City,Retail,Food and Beverage Retail,,,,
+21,626,40.855944576834645,-74.17665482979841,14492,Food & Drink Shop,2012-06-30 20:33:48+00:00,New York City,Retail,Food and Beverage Retail,,,,
+22,626,40.72798238419726,-73.99503350257874,8689,Bar,2012-05-12 22:42:29+00:00,New York City,Dining and Drinking,Bar,,,,
+23,626,40.80381274223328,-74.19446,7611,Diner,2012-10-27 20:52:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,626,40.71495,-73.956656,7979,Tattoo Parlor,2012-09-15 20:09:14+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+25,626,40.804571240948775,-74.1411854997146,14723,Arts & Crafts Store,2012-08-19 20:27:27+00:00,New York City,Retail,Arts and Crafts Store,,,,
+26,626,40.79337100376773,-74.14450566061828,20323,Food & Drink Shop,2012-08-19 20:38:15+00:00,New York City,Retail,Food and Beverage Retail,,,,
+27,626,40.801839,-74.170766,25912,Food & Drink Shop,2012-08-19 20:49:00+00:00,New York City,Retail,Food and Beverage Retail,,,,
+28,626,40.68678257979012,-73.97806433594444,28543,Art Gallery,2012-07-29 22:59:31+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+29,626,40.73738738472749,-73.9883947864229,5196,BBQ Joint,2012-06-03 20:21:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,626,40.75061379403183,-73.98856401443481,1028,Department Store,2012-06-03 21:34:12+00:00,New York City,Retail,Department Store,,,,
+31,626,40.84131403911399,-74.15986061096191,23389,Mall,2012-06-03 22:30:38+00:00,New York City,Retail,Shopping Mall,,,,
+32,626,40.85619774347772,-74.17788747655638,13587,Flower Shop,2012-06-17 19:45:58+00:00,New York City,Retail,Flower Store,,,,
+33,626,40.8385543312904,-74.15413677692413,17865,Food & Drink Shop,2012-06-17 20:01:14+00:00,New York City,Retail,Food and Beverage Retail,,,,
+34,626,40.824648526250215,-74.13560271263123,6934,Department Store,2012-06-17 20:52:21+00:00,New York City,Retail,Department Store,,,,
+35,626,40.80726451596516,-74.17600123703015,14005,Cemetery,2012-06-17 21:31:56+00:00,New York City,Community and Government,Cemetery,,,,
+36,626,40.82772080277371,-74.18715786407817,8495,Greek Restaurant,2012-05-27 19:13:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+37,626,40.7581988617573,-73.98558266326891,17530,Clothing Store,2012-07-05 17:16:00+00:00,New York City,Retail,Fashion Retail,,,,
+38,626,40.7581988617573,-73.98558266326891,17530,Clothing Store,2012-06-07 17:47:14+00:00,New York City,Retail,Fashion Retail,,,,
+39,626,40.76093732606297,-73.98651239017553,6577,Thai Restaurant,2012-06-07 17:47:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+40,626,40.70924711909085,-74.01355147361755,15167,Hotel,2012-10-25 01:51:37+00:00,New York City,Travel and Transportation,Lodging,,,,
+41,626,40.84014523570922,-74.15842294692993,19641,Arts & Crafts Store,2012-04-10 23:32:55+00:00,New York City,Retail,Arts and Crafts Store,,,,
+42,626,40.84126418920937,-74.16001616412115,16792,Sporting Goods Shop,2012-05-01 18:13:48+00:00,New York City,Retail,Sporting Goods Retail,,,,
+43,626,40.8415611,-74.15981,14933,Miscellaneous Shop,2012-05-01 18:14:12+00:00,New York City,Retail,Miscellaneous Store,,,,
+44,626,40.85619774347772,-74.17788747655638,13587,Flower Shop,2012-05-01 19:03:03+00:00,New York City,Retail,Flower Store,,,,
+45,626,40.791881646152014,-74.1958236694336,11459,Post Office,2012-05-01 19:34:35+00:00,New York City,Community and Government,Government Building,,,,
+46,626,40.7924155444187,-74.19722462352279,7156,Pizza Place,2012-05-01 19:45:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,626,40.79452278604292,-74.19733354332057,23264,Food & Drink Shop,2012-05-01 21:00:50+00:00,New York City,Retail,Food and Beverage Retail,,,,
+48,626,40.75710752159198,-73.98347854614258,5164,Deli / Bodega,2012-05-29 17:07:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,626,40.80290955799356,-74.1953959078547,23462,Medical Center,2012-10-16 18:24:18+00:00,New York City,Health and Medicine,Dentist,,,,
+50,626,40.75502699708263,-73.98214817047119,8150,Post Office,2012-07-11 17:17:21+00:00,New York City,Community and Government,Government Building,,,,
+51,626,40.75710752159198,-73.98347854614258,5164,Deli / Bodega,2012-07-11 17:26:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+52,626,40.74611903850168,-73.99409351370946,1875,Burger Joint,2012-11-05 18:00:09+00:00,,Dining and Drinking,Restaurant,6.0,0.0,nyc,Return
+53,626,40.755666467820014,-73.98954257995278,2979,Donut Shop,2012-11-07 18:00:09+00:00,,Dining and Drinking,Donut Shop,8.0,1.0,nyc,Explore
+54,626,40.801839,-74.170766,25912,Food & Drink Shop,2012-11-23 18:00:09+00:00,,Retail,Food and Beverage Retail,24.0,3.0,nyc,Rec
+55,626,40.79452278604292,-74.19733354332057,23264,Food & Drink Shop,2012-12-01 18:00:09+00:00,,Retail,Food and Beverage Retail,32.0,4.0,nyc,Return
+56,626,40.71495,-73.956656,7979,Tattoo Parlor,2012-12-27 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,58.0,8.0,nyc,Return
+57,626,40.76624216897493,-73.9569310979948,35090,Nail Salon,2013-01-07 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,69.0,9.0,nyc,Rec
+58,626,40.804571240948775,-74.1411854997146,14723,Arts & Crafts Store,2013-01-26 18:00:09+00:00,,Retail,Arts and Crafts Store,88.0,12.0,nyc,Return
+59,626,40.804571240948775,-74.1411854997146,14723,Arts & Crafts Store,2013-01-30 18:00:09+00:00,,Retail,Arts and Crafts Store,92.0,13.0,nyc,Return
+60,626,40.8377843193101,-74.1840505873695,8454,Food & Drink Shop,2013-02-03 18:00:09+00:00,,Retail,Food and Beverage Retail,96.0,13.0,nyc,Explore
+61,626,40.8626410807892,-74.1406774520874,11648,Food & Drink Shop,2013-02-03 18:00:09+00:00,,Retail,Food and Beverage Retail,96.0,13.0,nyc,Rec

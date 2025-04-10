@@ -1,0 +1,72 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,896,40.83530746910283,-73.84786605834961,19125,Medical Center,2012-08-17 14:11:36+00:00,New York City,Health and Medicine,Physician,,,,
+1,896,40.83482472655548,-73.84738825092386,35712,Medical Center,2012-08-17 18:24:01+00:00,New York City,Health and Medicine,Physician,,,,
+2,896,40.83530746910283,-73.84786605834961,19125,Medical Center,2012-07-06 14:42:04+00:00,New York City,Health and Medicine,Physician,,,,
+3,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-12 12:12:40+00:00,New York City,Health and Medicine,Medical Center,,,,
+4,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-19 12:16:48+00:00,New York City,Health and Medicine,Medical Center,,,,
+5,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-26 13:01:41+00:00,New York City,Health and Medicine,Medical Center,,,,
+6,896,40.9737520845313,-73.88172927257777,30805,Medical Center,2012-08-13 02:34:44+00:00,New York City,Health and Medicine,Physician,,,,
+7,896,40.82755768282148,-73.82366188430154,12275,Fast Food Restaurant,2012-08-13 03:04:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,896,40.84066627337625,-73.84275921999041,19579,Park,2012-08-13 13:50:47+00:00,New York City,Landmarks and Outdoors,Park,,,,
+9,896,40.83530746910283,-73.84786605834961,19125,Medical Center,2012-08-13 14:10:30+00:00,New York City,Health and Medicine,Physician,,,,
+10,896,40.83530746910283,-73.84786605834961,19125,Medical Center,2012-08-13 14:10:31+00:00,New York City,Health and Medicine,Physician,,,,
+11,896,40.83482472655548,-73.84738825092386,35712,Medical Center,2012-08-13 18:57:54+00:00,New York City,Health and Medicine,Physician,,,,
+12,896,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-08-13 23:38:08+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+13,896,40.8468655738243,-73.84413242340088,9851,Food & Drink Shop,2012-06-18 12:35:27+00:00,New York City,Retail,Food and Beverage Retail,,,,
+14,896,40.83677238506567,-73.8464808315873,21882,Coffee Shop,2012-06-18 13:59:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+15,896,40.83530746910283,-73.84786605834961,19125,Medical Center,2012-06-18 15:21:59+00:00,New York City,Health and Medicine,Physician,,,,
+16,896,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-06-25 11:42:32+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+17,896,40.73523203815407,-73.86070615882429,30403,Other Great Outdoors,2012-06-25 11:43:02+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+18,896,40.84066627337625,-73.84275921999041,19579,Park,2012-06-25 11:59:04+00:00,New York City,Landmarks and Outdoors,Park,,,,
+19,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-08 12:13:07+00:00,New York City,Health and Medicine,Medical Center,,,,
+20,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-22 12:23:58+00:00,New York City,Health and Medicine,Medical Center,,,,
+21,896,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-08-11 23:46:03+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+22,896,40.86576950253472,-73.86263571624869,12397,Breakfast Spot,2012-08-18 13:47:57+00:00,New York City,Dining and Drinking,Breakfast Spot,,,,
+23,896,40.856987203438365,-73.86776962497729,34514,Neighborhood,2012-08-18 14:59:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+24,896,40.86657328602514,-73.826482088148,22086,Clothing Store,2012-08-18 16:07:25+00:00,New York City,Retail,Fashion Retail,,,,
+25,896,40.86687293478104,-73.82667163197559,22228,Department Store,2012-08-18 16:33:28+00:00,New York City,Retail,Department Store,,,,
+26,896,40.868125922072615,-73.8257646560669,16656,Food & Drink Shop,2012-08-18 18:03:33+00:00,New York City,Retail,Food and Beverage Retail,,,,
+27,896,40.822659424913184,-73.8096284866333,11084,Neighborhood,2012-06-16 19:50:24+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+28,896,40.8468655738243,-73.84413242340088,9851,Food & Drink Shop,2012-08-19 02:30:56+00:00,New York City,Retail,Food and Beverage Retail,,,,
+29,896,40.868160987845286,-73.82656250070308,17601,Bank,2012-06-17 13:25:11+00:00,New York City,Business and Professional Services,Financial Service,,,,
+30,896,40.843128636754855,-73.83684929436912,14501,Park,2012-06-21 01:36:31+00:00,New York City,Landmarks and Outdoors,Park,,,,
+31,896,40.83677238506567,-73.8464808315873,21882,Coffee Shop,2012-06-21 14:33:42+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+32,896,40.83530746910283,-73.84786605834961,19125,Medical Center,2012-06-21 14:34:05+00:00,New York City,Health and Medicine,Physician,,,,
+33,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-25 12:34:45+00:00,New York City,Health and Medicine,Medical Center,,,,
+34,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-09-13 12:00:00+00:00,New York City,Health and Medicine,Medical Center,,,,
+35,896,40.972413592111344,-73.8810396194458,22249,American Restaurant,2012-09-13 17:13:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,896,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-08-14 23:20:01+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+37,896,40.84066627337625,-73.84275921999041,19579,Park,2012-07-24 09:55:07+00:00,New York City,Landmarks and Outdoors,Park,,,,
+38,896,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-07-24 10:08:12+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+39,896,40.93043943457298,-73.89721870422363,22618,Government Building,2012-07-24 11:19:39+00:00,New York City,Community and Government,Government Building,,,,
+40,896,40.933811317591925,-73.89799118041992,18259,Plaza,2012-07-24 11:20:38+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+41,896,40.9737520845313,-73.88172927257777,30805,Medical Center,2012-07-24 11:50:36+00:00,New York City,Health and Medicine,Physician,,,,
+42,896,40.83677238506567,-73.8464808315873,21882,Coffee Shop,2012-06-12 13:55:18+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+43,896,40.83530746910283,-73.84786605834961,19125,Medical Center,2012-06-12 15:09:11+00:00,New York City,Health and Medicine,Physician,,,,
+44,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-16 12:00:52+00:00,New York City,Health and Medicine,Medical Center,,,,
+45,896,40.973739387240094,-73.87931181530807,37198,Medical Center,2012-10-30 12:20:38+00:00,New York City,Health and Medicine,Medical Center,,,,
+46,896,40.84637142157456,-73.831794990275,10641,Donut Shop,2012-06-20 23:09:46+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+47,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-17 12:05:08+00:00,New York City,Health and Medicine,Medical Center,,,,
+48,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-10-24 12:40:55+00:00,New York City,Health and Medicine,Medical Center,,,,
+49,896,40.84066627337625,-73.84275921999041,19579,Park,2012-09-05 13:55:15+00:00,New York City,Landmarks and Outdoors,Park,,,,
+50,896,40.83530746910283,-73.84786605834961,19125,Medical Center,2012-09-05 14:10:53+00:00,New York City,Health and Medicine,Physician,,,,
+51,896,40.82557754741235,-73.8396693101044,23491,Medical Center,2012-11-01 18:00:09+00:00,,Health and Medicine,Medical Center,2.0,0.0,nyc,Rec
+52,896,40.7646651291205,-73.9548110961914,4261,Medical Center,2012-11-02 18:00:09+00:00,,Health and Medicine,Hospital,3.0,0.0,nyc,Explore
+53,896,40.718928,-73.98945450782776,10639,Medical Center,2012-11-06 18:00:09+00:00,,Health and Medicine,Medical Center,7.0,1.0,nyc,Explore
+54,896,40.71648,-73.99660873,10171,Medical Center,2012-11-07 18:00:09+00:00,,Health and Medicine,Medical Center,8.0,1.0,nyc,Rec
+55,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-11-12 18:00:09+00:00,,Health and Medicine,Medical Center,13.0,1.0,nyc,Return
+56,896,40.71648,-73.99660873,10171,Medical Center,2012-11-13 18:00:09+00:00,,Health and Medicine,Medical Center,14.0,2.0,nyc,Return
+57,896,40.72435179241814,-73.99184962417858,11693,Gym / Fitness Center,2012-11-20 18:00:09+00:00,,Sports and Recreation,Gym and Studio,21.0,3.0,nyc,Rec
+58,896,40.97149974418423,-73.87811743110963,37198,Medical Center,2012-11-21 18:00:09+00:00,,Health and Medicine,Medical Center,22.0,3.0,nyc,Return
+59,896,40.949319,-73.824929,12265,Medical Center,2012-11-23 18:00:09+00:00,,Health and Medicine,Medical Center,24.0,3.0,nyc,Explore
+60,896,40.86225160733068,-73.89434337615967,13050,Gym / Fitness Center,2012-11-27 18:00:09+00:00,,Sports and Recreation,Gym and Studio,28.0,4.0,nyc,Rec
+61,896,40.88085464893606,-73.87888114876816,26272,Medical Center,2012-11-28 18:00:09+00:00,,Health and Medicine,Medical Center,29.0,4.0,nyc,Rec
+62,896,40.82755768282148,-73.82366188430154,12275,Fast Food Restaurant,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Return
+63,896,40.825515097780304,-73.8397210004446,20776,Medical Center,2012-12-04 18:00:09+00:00,,Health and Medicine,Medical Center,35.0,5.0,nyc,Rec
+64,896,40.82557754741235,-73.8396693101044,23491,Medical Center,2012-12-05 18:00:09+00:00,,Health and Medicine,Medical Center,36.0,5.0,nyc,Rec
+65,896,40.82557754741235,-73.8396693101044,23491,Medical Center,2012-12-07 18:00:09+00:00,,Health and Medicine,Medical Center,38.0,5.0,nyc,Return
+66,896,40.825515097780304,-73.8397210004446,20776,Medical Center,2012-12-17 18:00:09+00:00,,Health and Medicine,Medical Center,48.0,6.0,nyc,Return
+67,896,40.825515097780304,-73.8397210004446,20776,Medical Center,2012-12-18 18:00:09+00:00,,Health and Medicine,Medical Center,49.0,7.0,nyc,Rec
+68,896,40.82557754741235,-73.8396693101044,23491,Medical Center,2012-12-21 18:00:09+00:00,,Health and Medicine,Medical Center,52.0,7.0,nyc,Rec
+69,896,40.825515097780304,-73.8397210004446,20776,Medical Center,2012-12-31 18:00:09+00:00,,Health and Medicine,Medical Center,62.0,8.0,nyc,Rec
+70,896,40.825515097780304,-73.8397210004446,20776,Medical Center,2013-01-02 18:00:09+00:00,,Health and Medicine,Medical Center,64.0,9.0,nyc,Explore

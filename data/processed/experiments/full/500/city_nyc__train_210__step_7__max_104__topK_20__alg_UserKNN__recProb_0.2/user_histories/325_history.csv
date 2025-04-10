@@ -1,0 +1,32 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,325,40.82827721161922,-73.92655344439045,751,Stadium,2012-04-27 22:38:27+00:00,New York City,Arts and Entertainment,Stadium,,,,
+1,325,40.82827721161922,-73.92655344439045,751,Stadium,2012-07-27 22:45:59+00:00,New York City,Arts and Entertainment,Stadium,,,,
+2,325,40.828413358858334,-73.92549098547816,15005,Bar,2012-05-11 21:54:35+00:00,New York City,Dining and Drinking,Bar,,,,
+3,325,40.82827721161922,-73.92655344439045,751,Stadium,2012-05-11 22:22:38+00:00,New York City,Arts and Entertainment,Stadium,,,,
+4,325,40.82827721161922,-73.92655344439045,751,Stadium,2012-05-18 22:43:15+00:00,New York City,Arts and Entertainment,Stadium,,,,
+5,325,40.82827721161922,-73.92655344439045,751,Stadium,2012-10-12 20:55:51+00:00,New York City,Arts and Entertainment,Stadium,,,,
+6,325,40.82827721161922,-73.92655344439045,751,Stadium,2012-09-14 22:25:13+00:00,New York City,Arts and Entertainment,Stadium,,,,
+7,325,40.8278914786923,-73.92472170939209,5992,Bar,2012-05-12 02:24:14+00:00,New York City,Dining and Drinking,Bar,,,,
+8,325,40.82839741960333,-73.92538765006168,15005,Bar,2012-10-13 01:33:36+00:00,New York City,Dining and Drinking,Bar,,,,
+9,325,40.75019050236675,-73.9949600727147,4408,Pizza Place,2012-04-29 00:54:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,325,40.75957805987928,-73.99188995361328,19927,Bar,2012-04-29 01:54:31+00:00,New York City,Dining and Drinking,Bar,,,,
+11,325,40.71507988486874,-74.0081358776865,1217,Bar,2012-10-28 03:01:11+00:00,New York City,Dining and Drinking,Bar,,,,
+12,325,40.73432174524848,-74.17026213497408,27539,Bar,2012-04-19 21:19:56+00:00,New York City,Dining and Drinking,Bar,,,,
+13,325,40.73308000062968,-74.1708254814148,3114,Stadium,2012-04-19 22:51:53+00:00,New York City,Arts and Entertainment,Stadium,,,,
+14,325,40.74753570734198,-73.98621969885711,3637,Ice Cream Shop,2012-09-06 00:07:43+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+15,325,40.748315,-73.986064,1872,Bar,2012-05-29 00:52:18+00:00,New York City,Dining and Drinking,Bar,,,,
+16,325,40.750085490425846,-73.99082779884338,19510,Sandwich Place,2012-04-18 22:20:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,325,40.82827721161922,-73.92655344439045,751,Stadium,2012-04-18 23:24:25+00:00,New York City,Arts and Entertainment,Stadium,,,,
+18,325,40.75876539294497,-73.95249366760254,7166,American Restaurant,2012-07-11 22:55:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,325,40.750085490425846,-73.99082779884338,19510,Sandwich Place,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Return
+20,325,40.729755,-73.982863,2236,Bar,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bar,12.0,1.0,nyc,Explore
+21,325,40.710657,-73.969355,123,Italian Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Explore
+22,325,40.747846,-73.986864,2304,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Explore
+23,325,40.748315,-73.986064,1872,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Return
+24,325,40.77300701660423,-73.9158862978038,31,Beer Garden,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Rec
+25,325,40.748315,-73.986064,1872,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Return
+26,325,40.75827778801546,-73.98802757263184,7051,Theater,2012-12-09 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,40.0,5.0,nyc,Rec
+27,325,40.753302,-73.978714,1931,Bar,2012-12-09 18:00:09+00:00,,Dining and Drinking,Bar,40.0,5.0,nyc,Explore
+28,325,40.75323289876655,-73.97859692573547,1059,Bar,2012-12-09 18:00:09+00:00,,Dining and Drinking,Bar,40.0,5.0,nyc,Rec
+29,325,40.75019614115674,-73.99493711755977,4408,Pizza Place,2013-01-21 18:00:09+00:00,,Dining and Drinking,Restaurant,83.0,11.0,nyc,Return
+30,325,40.82827721161922,-73.92655344439045,751,Stadium,2013-02-05 18:00:09+00:00,,Arts and Entertainment,Stadium,98.0,14.0,nyc,Return

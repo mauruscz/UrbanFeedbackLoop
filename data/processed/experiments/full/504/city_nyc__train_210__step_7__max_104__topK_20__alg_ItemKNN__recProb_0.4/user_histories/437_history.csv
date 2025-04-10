@@ -1,0 +1,82 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,437,40.7721893770263,-73.95859837532043,35189,Bar,2012-10-26 00:02:20+00:00,New York City,Dining and Drinking,Bar,,,,
+1,437,40.75315436423719,-73.98905476854135,8595,Mexican Restaurant,2012-10-26 15:12:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,437,40.77268095647125,-73.95842347218186,3678,Seafood Restaurant,2012-10-22 16:33:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,437,40.77695809965832,-73.95523781331305,16319,Gym / Fitness Center,2012-10-22 21:12:44+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+4,437,40.77711180576767,-73.97910888450723,963,Spanish Restaurant,2012-10-27 01:22:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,437,40.74555003448087,-73.9570426940918,31261,Mexican Restaurant,2012-10-27 22:09:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,437,40.74569924445447,-73.99105765689987,31038,Bar,2012-10-28 02:41:58+00:00,New York City,Dining and Drinking,Bar,,,,
+7,437,40.762852,-73.965793,5429,Italian Restaurant,2012-10-25 02:01:10+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,437,40.75625012037101,-73.9677161116947,1842,Bar,2012-10-25 02:03:10+00:00,New York City,Dining and Drinking,Bar,,,,
+9,437,40.776381,-73.956388,4210,Seafood Restaurant,2012-10-23 00:36:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,437,40.74555003448087,-73.9570426940918,31261,Mexican Restaurant,2012-10-31 18:00:09+00:00,,Dining and Drinking,Restaurant,1.0,0.0,nyc,Return
+11,437,40.74616314072863,-73.95722383384106,9735,Asian Restaurant,2012-11-01 18:00:09+00:00,,Dining and Drinking,Restaurant,2.0,0.0,nyc,Rec
+12,437,40.762852,-73.965793,5429,Italian Restaurant,2012-11-05 18:00:09+00:00,,Dining and Drinking,Restaurant,6.0,0.0,nyc,Rec
+13,437,40.76344627982584,-73.96523084802386,29609,Vegetarian / Vegan Restaurant,2012-11-05 18:00:09+00:00,,Dining and Drinking,Restaurant,6.0,0.0,nyc,Rec
+14,437,40.763274,-73.96887781,10779,Cosmetics Shop,2012-11-06 18:00:09+00:00,,Retail,Cosmetics Store,7.0,1.0,nyc,Rec
+15,437,40.76326555068746,-73.96865740411552,30689,Greek Restaurant,2012-11-10 18:00:09+00:00,,Dining and Drinking,Restaurant,11.0,1.0,nyc,Explore
+16,437,40.776381,-73.956388,4210,Seafood Restaurant,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Rec
+17,437,40.77268095647125,-73.95842347218186,3678,Seafood Restaurant,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Rec
+18,437,40.74616314072863,-73.95722383384106,9735,Asian Restaurant,2012-11-12 18:00:09+00:00,,Dining and Drinking,Restaurant,13.0,1.0,nyc,Return
+19,437,40.75231,-73.975419,1330,Gym / Fitness Center,2012-11-12 18:00:09+00:00,,Sports and Recreation,Gym and Studio,13.0,1.0,nyc,Explore
+20,437,40.75172062,-73.970707,287,Bar,2012-11-15 18:00:09+00:00,,Dining and Drinking,Bar,16.0,2.0,nyc,Rec
+21,437,40.74616314072863,-73.95722383384106,9735,Asian Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Rec
+22,437,40.75911759196612,-73.97041370572528,23654,Japanese Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Explore
+23,437,40.7721893770263,-73.95859837532043,35189,Bar,2012-11-21 18:00:09+00:00,,Dining and Drinking,Bar,22.0,3.0,nyc,Return
+24,437,40.75953410589191,-73.96153446126954,23373,Department Store,2012-11-23 18:00:09+00:00,,Retail,Department Store,24.0,3.0,nyc,Explore
+25,437,40.762852,-73.965793,5429,Italian Restaurant,2012-11-25 18:00:09+00:00,,Dining and Drinking,Restaurant,26.0,3.0,nyc,Rec
+26,437,40.74616314072863,-73.95722383384106,9735,Asian Restaurant,2012-11-25 18:00:09+00:00,,Dining and Drinking,Restaurant,26.0,3.0,nyc,Return
+27,437,40.737188,-74.029756,2746,Bar,2012-11-26 18:00:09+00:00,,Dining and Drinking,Juice Bar,27.0,3.0,nyc,Rec
+28,437,40.74238,-74.029361,5977,Indian Restaurant,2012-11-29 18:00:09+00:00,,Dining and Drinking,Restaurant,30.0,4.0,nyc,Explore
+29,437,40.760863,-73.990128625,484,Eastern European Restaurant,2012-11-30 18:00:09+00:00,,Dining and Drinking,Restaurant,31.0,4.0,nyc,Rec
+30,437,40.762852,-73.965793,5429,Italian Restaurant,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Rec
+31,437,40.765579034069255,-73.965684281892,3890,Soup Place,2012-12-02 18:00:09+00:00,,Dining and Drinking,Restaurant,33.0,4.0,nyc,Rec
+32,437,40.776381,-73.956388,4210,Seafood Restaurant,2012-12-02 18:00:09+00:00,,Dining and Drinking,Restaurant,33.0,4.0,nyc,Rec
+33,437,40.7721893770263,-73.95859837532043,35189,Bar,2012-12-02 18:00:09+00:00,,Dining and Drinking,Bar,33.0,4.0,nyc,Rec
+34,437,40.762852,-73.965793,5429,Italian Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Return
+35,437,40.727905054584,-73.98776349705562,26764,Ice Cream Shop,2012-12-07 18:00:09+00:00,,Dining and Drinking,Dessert Shop,38.0,5.0,nyc,Rec
+36,437,40.72222988826503,-73.98581796494854,30029,Bar,2012-12-11 18:00:09+00:00,,Arts and Entertainment,Night Club,42.0,6.0,nyc,Explore
+37,437,40.72524741313851,-74.00254660077628,6257,French Restaurant,2012-12-12 18:00:09+00:00,,Dining and Drinking,Restaurant,43.0,6.0,nyc,Rec
+38,437,40.72470181801607,-73.99234316735065,1025,Bar,2012-12-14 18:00:09+00:00,,Dining and Drinking,Bar,45.0,6.0,nyc,Explore
+39,437,40.74804762205928,-73.98736750539292,908,Korean Restaurant,2012-12-14 18:00:09+00:00,,Dining and Drinking,Restaurant,45.0,6.0,nyc,Explore
+40,437,40.752988,-74.024596,28182,Dessert Shop,2012-12-15 18:00:09+00:00,,Dining and Drinking,Dessert Shop,46.0,6.0,nyc,Rec
+41,437,40.776381,-73.956388,4210,Seafood Restaurant,2012-12-15 18:00:09+00:00,,Dining and Drinking,Restaurant,46.0,6.0,nyc,Return
+42,437,40.77649552864123,-73.95676374435425,30673,Mexican Restaurant,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Rec
+43,437,40.77695809965832,-73.95523781331305,16319,Gym / Fitness Center,2012-12-18 18:00:09+00:00,,Sports and Recreation,Gym and Studio,49.0,7.0,nyc,Return
+44,437,40.776381,-73.956388,4210,Seafood Restaurant,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Rec
+45,437,40.76326555068746,-73.96865740411552,30689,Greek Restaurant,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Return
+46,437,40.753288906167775,-73.99280801499084,7048,Clothing Store,2012-12-21 18:00:09+00:00,,Retail,Fashion Retail,52.0,7.0,nyc,Explore
+47,437,40.75427,-73.992184,21309,Gym / Fitness Center,2012-12-27 18:00:09+00:00,,Sports and Recreation,Gym and Studio,58.0,8.0,nyc,Rec
+48,437,40.74936729280843,-73.98189814571478,2481,Museum,2012-12-27 18:00:09+00:00,,Arts and Entertainment,Museum,58.0,8.0,nyc,Explore
+49,437,40.744070661162304,-73.98738384246826,1916,Museum,2012-12-27 18:00:09+00:00,,Arts and Entertainment,Museum,58.0,8.0,nyc,Explore
+50,437,40.745274,-73.986856,6956,Fast Food Restaurant,2012-12-28 18:00:09+00:00,,Dining and Drinking,Restaurant,59.0,8.0,nyc,Rec
+51,437,40.74762569235189,-73.98533014407252,6283,Bar,2012-12-28 18:00:09+00:00,,Dining and Drinking,Juice Bar,59.0,8.0,nyc,Rec
+52,437,40.74611901545656,-73.99307012557983,31835,Gym / Fitness Center,2012-12-28 18:00:09+00:00,,Sports and Recreation,Gym and Studio,59.0,8.0,nyc,Explore
+53,437,40.74804762205928,-73.98736750539292,908,Korean Restaurant,2012-12-29 18:00:09+00:00,,Dining and Drinking,Restaurant,60.0,8.0,nyc,Return
+54,437,40.71056828033833,-74.01106817427426,3192,Department Store,2012-12-29 18:00:09+00:00,,Retail,Department Store,60.0,8.0,nyc,Explore
+55,437,40.70843628024056,-74.01514806591153,16836,Food & Drink Shop,2012-12-30 18:00:09+00:00,,Retail,Food and Beverage Retail,61.0,8.0,nyc,Explore
+56,437,40.74540596,-74.002022,3556,Vegetarian / Vegan Restaurant,2012-12-31 18:00:09+00:00,,Dining and Drinking,Restaurant,62.0,8.0,nyc,Rec
+57,437,40.75723755221195,-73.97983074188232,11561,Neighborhood,2013-01-01 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,63.0,9.0,nyc,Explore
+58,437,40.75231,-73.975419,1330,Gym / Fitness Center,2013-01-03 18:00:09+00:00,,Sports and Recreation,Gym and Studio,65.0,9.0,nyc,Return
+59,437,40.74616314072863,-73.95722383384106,9735,Asian Restaurant,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Return
+60,437,40.74555003448087,-73.9570426940918,31261,Mexican Restaurant,2013-01-05 18:00:09+00:00,,Dining and Drinking,Restaurant,67.0,9.0,nyc,Rec
+61,437,40.72581151031744,-73.98489475250244,1902,Bar,2013-01-06 18:00:09+00:00,,Dining and Drinking,Bar,68.0,9.0,nyc,Explore
+62,437,40.762852,-73.965793,5429,Italian Restaurant,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Rec
+63,437,40.72222988826503,-73.98581796494854,30029,Bar,2013-01-10 18:00:09+00:00,,Arts and Entertainment,Night Club,72.0,10.0,nyc,Return
+64,437,40.72524741313851,-74.00254660077628,6257,French Restaurant,2013-01-12 18:00:09+00:00,,Dining and Drinking,Restaurant,74.0,10.0,nyc,Rec
+65,437,40.74555003448087,-73.9570426940918,31261,Mexican Restaurant,2013-01-12 18:00:09+00:00,,Dining and Drinking,Restaurant,74.0,10.0,nyc,Return
+66,437,40.73314276782482,-73.9872010738706,35922,Donut Shop,2013-01-14 18:00:09+00:00,,Dining and Drinking,Donut Shop,76.0,10.0,nyc,Explore
+67,437,40.72524741313851,-74.00254660077628,6257,French Restaurant,2013-01-15 18:00:09+00:00,,Dining and Drinking,Restaurant,77.0,11.0,nyc,Rec
+68,437,40.752881387988616,-73.97764205932617,12134,Bakery,2013-01-16 18:00:09+00:00,,Dining and Drinking,Bakery,78.0,11.0,nyc,Explore
+69,437,40.74616314072863,-73.95722383384106,9735,Asian Restaurant,2013-01-17 18:00:09+00:00,,Dining and Drinking,Restaurant,79.0,11.0,nyc,Return
+70,437,40.74555003448087,-73.9570426940918,31261,Mexican Restaurant,2013-01-18 18:00:09+00:00,,Dining and Drinking,Restaurant,80.0,11.0,nyc,Rec
+71,437,40.74616314072863,-73.95722383384106,9735,Asian Restaurant,2013-01-18 18:00:09+00:00,,Dining and Drinking,Restaurant,80.0,11.0,nyc,Rec
+72,437,40.74517970957415,-73.95568553070673,26100,Food & Drink Shop,2013-01-18 18:00:09+00:00,,Retail,Food and Beverage Retail,80.0,11.0,nyc,Rec
+73,437,40.74555003448087,-73.9570426940918,31261,Mexican Restaurant,2013-01-26 18:00:09+00:00,,Dining and Drinking,Restaurant,88.0,12.0,nyc,Rec
+74,437,40.776381,-73.956388,4210,Seafood Restaurant,2013-01-28 18:00:09+00:00,,Dining and Drinking,Restaurant,90.0,12.0,nyc,Return
+75,437,40.74555003448087,-73.9570426940918,31261,Mexican Restaurant,2013-01-29 18:00:09+00:00,,Dining and Drinking,Restaurant,91.0,13.0,nyc,Return
+76,437,40.74264482169876,-73.95374541450516,6191,Asian Restaurant,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Explore
+77,437,40.762852,-73.965793,5429,Italian Restaurant,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Rec
+78,437,40.762762512171065,-73.97173953064508,21290,Bar,2013-02-02 18:00:09+00:00,,Arts and Entertainment,Night Club,95.0,13.0,nyc,Explore
+79,437,40.736525362305095,-73.98339032644736,21507,Government Building,2013-02-04 18:00:09+00:00,,Community and Government,Government Building,97.0,13.0,nyc,Explore
+80,437,40.738478007566,-73.98219108581543,4985,Sushi Restaurant,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Explore

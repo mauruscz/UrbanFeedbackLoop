@@ -1,0 +1,106 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,603,40.60819814987087,-74.16416163615763,16428,Drugstore / Pharmacy,2012-04-13 21:58:22+00:00,New York City,Retail,Pharmacy,,,,
+1,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-04-20 16:53:12+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+2,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-04-27 15:08:44+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+3,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-07-20 23:38:50+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+4,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-06-01 14:03:36+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+5,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-06-01 17:00:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-06-08 16:55:03+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+7,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-06-08 16:55:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-06-15 14:04:14+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+9,603,40.57287008538299,-74.10759064170995,22328,Tanning Salon,2012-05-04 00:48:28+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+10,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-04 17:12:52+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+11,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-18 15:13:26+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+12,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-10-12 20:34:34+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+13,603,40.60819814987087,-74.16416163615763,16428,Drugstore / Pharmacy,2012-10-19 18:53:36+00:00,New York City,Retail,Pharmacy,,,,
+14,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-09-14 22:06:29+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+15,603,40.60797946422443,-74.16352520039953,21129,Deli / Bodega,2012-09-14 22:07:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-09-14 22:07:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,603,40.60819814987087,-74.16416163615763,16428,Drugstore / Pharmacy,2012-09-14 22:08:01+00:00,New York City,Retail,Pharmacy,,,,
+18,603,40.63200196864813,-74.08879485411602,16510,Gym / Fitness Center,2012-04-23 21:54:57+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+19,603,40.78782018739577,-73.79104614257812,37651,Other Great Outdoors,2012-10-29 06:40:32+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+20,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-04-07 13:16:35+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+21,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-04-14 15:27:26+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+22,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-04-21 14:15:41+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+23,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-19 20:49:04+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+24,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-10-27 17:39:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+25,603,40.57287008538299,-74.10759064170995,22328,Tanning Salon,2012-09-15 22:05:02+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+26,603,40.717302,-74.151919,10603,Restaurant,2012-04-08 03:00:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+27,603,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-08 16:50:58+00:00,New York City,Travel and Transportation,Pier,,,,
+28,603,40.626455,-74.13019455,12605,Bar,2012-04-12 01:37:55+00:00,New York City,Dining and Drinking,Bar,,,,
+29,603,40.60819814987087,-74.16416163615763,16428,Drugstore / Pharmacy,2012-08-16 17:32:36+00:00,New York City,Retail,Pharmacy,,,,
+30,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-07-05 19:08:10+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+31,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-07-05 19:08:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,603,40.626455,-74.13019455,12605,Bar,2012-07-12 02:53:33+00:00,New York City,Dining and Drinking,Bar,,,,
+33,603,40.62639592066599,-74.13007736206055,36143,Art Gallery,2012-07-12 02:55:19+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+34,603,40.60804731666666,-74.16284797,16621,Pizza Place,2012-07-12 18:40:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,603,40.626455,-74.13019455,12605,Bar,2012-06-07 02:27:19+00:00,New York City,Dining and Drinking,Bar,,,,
+36,603,40.626455,-74.13019455,12605,Bar,2012-06-14 03:00:56+00:00,New York City,Dining and Drinking,Bar,,,,
+37,603,40.626455,-74.13019455,12605,Bar,2012-06-21 03:01:37+00:00,New York City,Dining and Drinking,Bar,,,,
+38,603,40.626455,-74.13019455,12605,Bar,2012-05-17 02:45:57+00:00,New York City,Dining and Drinking,Bar,,,,
+39,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-17 15:05:27+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+40,603,40.57287008538299,-74.10759064170995,22328,Tanning Salon,2012-05-24 02:19:14+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+41,603,40.626455,-74.13019455,12605,Bar,2012-05-24 03:37:02+00:00,New York City,Dining and Drinking,Bar,,,,
+42,603,40.60797946422443,-74.16352520039953,21129,Deli / Bodega,2012-10-11 20:43:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-10-18 18:55:31+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+44,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-10-18 18:55:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,603,40.60797946422443,-74.16352520039953,21129,Deli / Bodega,2012-10-18 18:56:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-10-25 17:15:51+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+47,603,40.626455,-74.13019455,12605,Bar,2012-09-06 03:23:17+00:00,New York City,Dining and Drinking,Bar,,,,
+48,603,40.57287008538299,-74.10759064170995,22328,Tanning Salon,2012-04-10 01:05:03+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+49,603,40.61437433333333,-74.17680601666666,24294,Bar,2012-04-17 22:15:53+00:00,New York City,Arts and Entertainment,Night Club,,,,
+50,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-06-05 14:25:39+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+51,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-06-12 14:23:00+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+52,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-06-26 17:32:27+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+53,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-06-26 17:32:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+54,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-01 17:00:54+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+55,603,40.60789273511395,-74.16350841522217,11815,Japanese Restaurant,2012-05-01 17:02:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+56,603,40.63232739738133,-74.08681020305463,16510,Gym / Fitness Center,2012-05-01 21:54:13+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+57,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-08 15:00:01+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+58,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-05-08 15:00:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+59,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-15 14:29:57+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+60,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-22 14:32:00+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+61,603,40.60789273511395,-74.16350841522217,11815,Japanese Restaurant,2012-05-29 16:11:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+62,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-10-23 14:34:01+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+63,603,40.607729079767545,-74.16323278323945,21129,Deli / Bodega,2012-04-18 16:55:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+64,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-04-25 16:25:28+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+65,603,40.60784121784798,-74.16298050139834,25126,Chinese Restaurant,2012-04-25 16:26:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+66,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-07-11 18:10:10+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+67,603,40.60797946422443,-74.16352520039953,21129,Deli / Bodega,2012-07-11 18:10:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+68,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-07-11 18:10:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+69,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-07-18 23:32:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+70,603,40.60819814987087,-74.16416163615763,16428,Drugstore / Pharmacy,2012-06-06 14:46:45+00:00,New York City,Retail,Pharmacy,,,,
+71,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-06-13 15:01:34+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+72,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-09 15:05:09+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+73,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-05-16 17:20:23+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+74,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-05-16 17:52:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+75,603,40.60804731666666,-74.16284797,16621,Pizza Place,2012-10-24 19:47:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+76,603,40.72306982876064,-74.00795224900666,2313,General Entertainment,2012-10-24 22:32:36+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+77,603,40.60804731666666,-74.16284797,16621,Pizza Place,2012-11-06 18:00:09+00:00,,Dining and Drinking,Restaurant,7.0,1.0,nyc,Return
+78,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-11-07 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,8.0,1.0,nyc,Rec
+79,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Return
+80,603,40.729496669085655,-74.16672170162201,12933,BBQ Joint,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Explore
+81,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-11-21 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,22.0,3.0,nyc,Return
+82,603,40.60797946422443,-74.16352520039953,21129,Deli / Bodega,2012-11-25 18:00:09+00:00,,Dining and Drinking,Restaurant,26.0,3.0,nyc,Return
+83,603,40.60797946422443,-74.16352520039953,21129,Deli / Bodega,2012-11-27 18:00:09+00:00,,Dining and Drinking,Restaurant,28.0,4.0,nyc,Return
+84,603,40.57287008538299,-74.10759064170995,22328,Tanning Salon,2012-11-29 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,30.0,4.0,nyc,Return
+85,603,40.57202664243788,-74.1129015306244,22128,Tattoo Parlor,2012-12-04 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,35.0,5.0,nyc,Explore
+86,603,40.57417417158632,-74.11692187677832,14906,Italian Restaurant,2012-12-04 18:00:09+00:00,,Dining and Drinking,Restaurant,35.0,5.0,nyc,Explore
+87,603,40.6444055420497,-74.0729570388794,3974,Ferry,2012-12-08 18:00:09+00:00,,Travel and Transportation,Pier,39.0,5.0,nyc,Return
+88,603,40.71532522653398,-74.00952456386844,25814,Hotel,2012-12-09 18:00:09+00:00,,Travel and Transportation,Lodging,40.0,5.0,nyc,Explore
+89,603,40.57287008538299,-74.10759064170995,22328,Tanning Salon,2012-12-12 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,43.0,6.0,nyc,Return
+90,603,40.614734548357205,-74.17708482378428,13460,Hotel,2012-12-15 18:00:09+00:00,,Travel and Transportation,Lodging,46.0,6.0,nyc,Explore
+91,603,40.61472766,-74.1770154,22735,Italian Restaurant,2012-12-28 18:00:09+00:00,,Dining and Drinking,Restaurant,59.0,8.0,nyc,Rec
+92,603,40.614734548357205,-74.17708482378428,13460,Hotel,2012-12-29 18:00:09+00:00,,Travel and Transportation,Lodging,60.0,8.0,nyc,Explore
+93,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2012-12-31 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,62.0,8.0,nyc,Return
+94,603,40.61297510639093,-74.15865898132324,16775,Salon / Barbershop,2013-01-03 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,65.0,9.0,nyc,Explore
+95,603,40.61178463885875,-74.1586801900948,11624,Sushi Restaurant,2013-01-06 18:00:09+00:00,,Dining and Drinking,Restaurant,68.0,9.0,nyc,Explore
+96,603,40.624587,-74.142421,10941,Bar,2013-01-07 18:00:09+00:00,,Dining and Drinking,Bar,69.0,9.0,nyc,Rec
+97,603,40.63848910464437,-74.1330482753488,36829,Salon / Barbershop,2013-01-08 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,70.0,10.0,nyc,Explore
+98,603,40.61297510639093,-74.15865898132324,16775,Salon / Barbershop,2013-01-09 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,71.0,10.0,nyc,Rec
+99,603,40.614734548357205,-74.17708482378428,13460,Hotel,2013-01-12 18:00:09+00:00,,Travel and Transportation,Lodging,74.0,10.0,nyc,Return
+100,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Return
+101,603,40.60732664579937,-74.16343867778778,19051,Deli / Bodega,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Return
+102,603,40.63848910464437,-74.1330482753488,36829,Salon / Barbershop,2013-01-24 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,86.0,12.0,nyc,Return
+103,603,40.60832376488109,-74.16391841234065,20501,Salon / Barbershop,2013-02-01 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,94.0,13.0,nyc,Return
+104,603,40.61297510639093,-74.15865898132324,16775,Salon / Barbershop,2013-02-07 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,100.0,14.0,nyc,Rec

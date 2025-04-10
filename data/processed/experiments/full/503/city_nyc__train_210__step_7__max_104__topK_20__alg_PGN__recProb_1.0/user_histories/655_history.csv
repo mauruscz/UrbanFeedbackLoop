@@ -1,0 +1,56 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+102918,655,40.746317,-73.983226,2856,Deli / Bodega,2012-08-10 12:48:40+00:00,New York City,Dining and Drinking,Restaurant
+102919,655,40.74907894406079,-73.98399867372817,5873,Coffee Shop,2012-08-10 20:48:05+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+102920,655,40.71561359263402,-74.00799241779545,5747,Bakery,2012-07-13 12:07:23+00:00,New York City,Dining and Drinking,Bakery
+102921,655,40.71479924175967,-74.00598970648,7505,Coffee Shop,2012-07-13 12:09:40+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+102922,655,40.77585595604612,-73.73184272103451,12788,Medical Center,2012-10-19 16:30:00+00:00,New York City,Health and Medicine,Physician
+102923,655,40.74866717767752,-73.98837625980377,3577,Park,2012-08-06 12:40:07+00:00,New York City,Landmarks and Outdoors,Park
+102924,655,40.74828059076867,-73.98556262254715,1434,Building,2012-08-06 12:44:29+00:00,New York City,Landmarks and Outdoors,Structure
+102925,655,40.74907894406079,-73.98399867372817,5873,Coffee Shop,2012-08-20 12:47:39+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+102926,655,40.74675914704002,-73.93337875991237,35528,Moving Target,2012-07-16 21:14:24+00:00,New York City,Travel and Transportation,Moving Target
+102927,655,40.74508,-73.982476,4247,Sandwich Place,2012-07-30 12:50:06+00:00,New York City,Dining and Drinking,Restaurant
+102928,655,40.74485099404667,-73.9788007736206,10114,Fast Food Restaurant,2012-07-30 12:55:10+00:00,New York City,Dining and Drinking,Restaurant
+102929,655,40.741933755026,-73.97469534121134,3733,Medical Center,2012-07-30 18:46:18+00:00,New York City,Health and Medicine,Hospital
+102930,655,40.741933755026,-73.97469534121134,3733,Medical Center,2012-07-30 19:29:16+00:00,New York City,Health and Medicine,Hospital
+102931,655,40.74895076073203,-73.98866451851946,3444,Mall,2012-07-30 20:40:25+00:00,New York City,Retail,Shopping Mall
+102932,655,40.741933755026,-73.97469534121134,3733,Medical Center,2012-07-07 13:38:12+00:00,New York City,Health and Medicine,Hospital
+102933,655,40.78510117447226,-73.70870607590595,18338,Medical Center,2012-10-27 01:04:38+00:00,New York City,Health and Medicine,Physician
+102934,655,40.88866569850145,-74.21736717224121,21093,Pizza Place,2012-07-29 22:43:36+00:00,New York City,Dining and Drinking,Restaurant
+102935,655,40.74675914704002,-73.93337875991237,35528,Moving Target,2012-08-09 15:41:30+00:00,New York City,Travel and Transportation,Moving Target
+102936,655,40.745306184001095,-73.94837379455566,19043,Neighborhood,2012-08-09 15:42:07+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+102937,655,40.71497841624534,-74.00541585983157,15833,Government Building,2012-08-16 16:44:11+00:00,New York City,Community and Government,Government Building
+102938,655,40.74775100898164,-73.9928367092527,648,American Restaurant,2012-07-12 12:26:09+00:00,New York City,Dining and Drinking,Restaurant
+102939,655,40.74709103405563,-73.99132962266418,6930,Hotel,2012-07-12 12:27:56+00:00,New York City,Travel and Transportation,Lodging
+102940,655,40.74394724308328,-73.98885905742645,33179,Coffee Shop,2012-07-12 12:38:14+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+102941,655,40.743854,-73.987898,4217,Gym / Fitness Center,2012-07-12 12:39:17+00:00,New York City,Sports and Recreation,Gym and Studio
+102942,655,40.74365597019452,-73.97662950724082,5046,Coffee Shop,2012-07-12 15:58:46+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+102943,655,40.715242414476805,-73.87930607309377,20866,Neighborhood,2012-07-19 00:27:17+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+102944,655,40.74696317219398,-73.96962165011914,36657,Other Great Outdoors,2012-07-19 00:39:35+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+102945,655,40.743210194840415,-73.97323179019648,17744,Medical School,2012-10-18 18:08:05+00:00,New York City,Community and Government,Education
+102946,655,40.72405145675921,-73.85577881020954,22702,Scenic Lookout,2012-10-18 21:40:25+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+102947,655,40.74982540095488,-73.98796319961548,2836,Plaza,2012-10-25 12:28:45+00:00,New York City,Landmarks and Outdoors,Plaza
+102948,655,40.74828059076867,-73.98556262254715,1434,Building,2012-10-25 12:32:42+00:00,New York City,Landmarks and Outdoors,Structure
+102949,655,40.7455724555673,-73.97807581453091,37259,Australian Restaurant,2012-10-25 12:41:31+00:00,New York City,Dining and Drinking,Restaurant
+102950,655,40.74365597019452,-73.97662950724082,5046,Coffee Shop,2012-10-25 12:45:04+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+102951,655,40.743210194840415,-73.97323179019648,17744,Medical School,2012-10-25 12:47:36+00:00,New York City,Community and Government,Education
+102952,655,40.74831361076324,-73.98822069168091,10073,Neighborhood,2012-09-13 12:42:03+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+102953,655,40.745853994225605,-73.98236301864728,18969,Bank,2012-09-13 12:49:40+00:00,New York City,Business and Professional Services,Financial Service
+102954,655,40.743210194840415,-73.97323179019648,17744,Medical School,2012-09-13 13:01:28+00:00,New York City,Community and Government,Education
+102955,655,40.74982540095488,-73.98796319961548,2836,Plaza,2012-08-14 12:41:52+00:00,New York City,Landmarks and Outdoors,Plaza
+102956,655,40.74792207651048,-73.98508336362796,6168,Fast Food Restaurant,2012-08-14 12:48:05+00:00,New York City,Dining and Drinking,Restaurant
+102957,655,40.74508,-73.982476,4247,Sandwich Place,2012-08-14 16:59:14+00:00,New York City,Dining and Drinking,Restaurant
+102958,655,40.74828059076867,-73.98556262254715,1434,Building,2012-08-14 20:59:15+00:00,New York City,Landmarks and Outdoors,Structure
+102959,655,40.741933755026,-73.97469534121134,3733,Medical Center,2012-07-17 14:08:07+00:00,New York City,Health and Medicine,Hospital
+102960,655,40.745306184001095,-73.94837379455566,19043,Neighborhood,2012-07-17 21:33:58+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+102961,655,40.74831361076324,-73.98822069168091,10073,Neighborhood,2012-07-24 12:46:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+102962,655,40.74485099404667,-73.9788007736206,10114,Fast Food Restaurant,2012-07-24 12:58:19+00:00,New York City,Dining and Drinking,Restaurant
+102963,655,40.741933755026,-73.97469534121134,3733,Medical Center,2012-07-24 20:18:12+00:00,New York City,Health and Medicine,Hospital
+102964,655,40.74165443061321,-73.97473551696459,20868,College Academic Building,2012-10-16 13:40:34+00:00,New York City,Community and Government,Education
+102965,655,40.741933755026,-73.97469534121134,3733,Medical Center,2012-07-11 14:11:59+00:00,New York City,Health and Medicine,Hospital
+102966,655,40.741933755026,-73.97469534121134,3733,Medical Center,2012-07-18 17:30:33+00:00,New York City,Health and Medicine,Hospital
+102967,655,40.742478340000005,-73.977508,21567,Ramen /  Noodle House,2012-07-18 17:45:54+00:00,New York City,Dining and Drinking,Restaurant
+102968,655,40.74993699988914,-73.99164302433415,30542,Professional & Other Places,2012-09-05 12:39:40+00:00,New York City,Business and Professional Services,Business and Professional Services
+102969,655,40.74866717767752,-73.98837625980377,3577,Park,2012-09-05 12:43:20+00:00,New York City,Landmarks and Outdoors,Park
+102970,655,40.74387706348806,-73.97558494521256,16178,Building,2012-09-05 13:01:05+00:00,New York City,Landmarks and Outdoors,Structure
+102971,655,40.747744648563874,-73.9853024482727,10422,Coffee Shop,2012-09-05 20:34:15+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+102972,655,40.747871081163495,-73.98922119845638,36457,Coffee Shop,2012-09-05 20:38:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"

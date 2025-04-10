@@ -1,0 +1,119 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,79,40.72547161917389,-73.98378318991934,108,Caf�,2012-04-13 23:39:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+1,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-04-27 16:35:04+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+2,79,40.7499947979727,-73.97225034387054,462,Mexican Restaurant,2012-08-17 22:55:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-07-06 10:50:26+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+4,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-04 22:15:05+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+5,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-11 23:40:10+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+6,79,40.7678666951022,-73.96425247192383,15786,College Academic Building,2012-05-25 13:35:34+00:00,New York City,Community and Government,Education,,,,
+7,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-25 20:21:39+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+8,79,40.760353,-73.989636,2332,Bar,2012-10-12 02:50:12+00:00,New York City,Dining and Drinking,Bar,,,,
+9,79,40.72898801666667,-73.988404,137,Bar,2012-10-12 04:27:08+00:00,New York City,Dining and Drinking,Bar,,,,
+10,79,40.753645495975405,-73.99337042174062,4256,Performing Arts Venue,2012-10-12 21:13:47+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+11,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-10-26 10:36:53+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+12,79,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-10-26 13:03:48+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+13,79,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-09-14 13:50:27+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+14,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-08-20 14:53:21+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+15,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-07-16 12:36:04+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+16,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-07-16 16:41:52+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+17,79,40.75372344121215,-73.99315808469217,7008,Theater,2012-06-04 23:08:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+18,79,40.7588958925549,-73.9792121911996,10410,Building,2012-06-11 09:21:20+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+19,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-07 00:09:53+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+20,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-14 03:44:56+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+21,79,40.74460612269326,-73.99676778253321,1503,Spanish Restaurant,2012-05-14 23:45:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-21 16:01:37+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+23,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-28 12:28:54+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+24,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-28 16:21:26+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+25,79,40.742862660166125,-73.99238907827885,6841,Event Space,2012-10-22 22:05:17+00:00,New York City,Business and Professional Services,Event Space,,,,
+26,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-10-29 07:12:59+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+27,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-07-28 07:20:32+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+28,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-05 01:27:58+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+29,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-19 04:03:31+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+30,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-19 22:19:23+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+31,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-26 02:02:51+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+32,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-26 23:03:47+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+33,79,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-10-27 20:44:28+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+34,79,40.7387931693528,-74.00003883314184,591,Bar,2012-09-15 01:57:18+00:00,New York City,Dining and Drinking,Bar,,,,
+35,79,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-08-05 14:44:58+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+36,79,40.64552179953653,-74.00978278952569,12118,Bagel Shop,2012-08-12 07:42:15+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+37,79,40.62050136078452,-74.03196593883797,4759,Diner,2012-08-19 15:04:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-07-01 00:38:19+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+39,79,40.7499947979727,-73.97225034387054,462,Mexican Restaurant,2012-07-29 01:53:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+40,79,40.663164,-73.99130693333333,7807,Bar,2012-06-10 02:39:28+00:00,New York City,Dining and Drinking,Bar,,,,
+41,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-27 16:56:40+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+42,79,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-09-09 14:40:10+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+43,79,40.74515,-73.992267,15867,General Entertainment,2012-04-19 14:26:23+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+44,79,40.753645495975405,-73.99337042174062,4256,Performing Arts Venue,2012-06-07 00:36:09+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+45,79,40.7569743825982,-73.98877355904663,898,Movie Theater,2012-05-03 20:05:40+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+46,79,40.74515,-73.992267,15867,General Entertainment,2012-05-17 16:56:15+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+47,79,40.757042207227045,-73.99813359642076,37495,General Entertainment,2012-10-11 19:19:08+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+48,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-10-25 00:10:41+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+49,79,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-10-25 18:11:53+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+50,79,40.72547161917389,-73.98378318991934,108,Caf�,2012-09-06 00:54:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+51,79,40.74751347786481,-73.99787535504552,1208,Comedy Club,2012-04-03 23:08:06+00:00,New York City,Arts and Entertainment,Comedy Club,,,,
+52,79,40.74515,-73.992267,15867,General Entertainment,2012-04-10 15:11:42+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+53,79,40.7443775904305,-73.99620538575003,1278,BBQ Joint,2012-04-24 00:31:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+54,79,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-08-14 10:47:55+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+55,79,40.63655922179823,-74.00048644624879,22495,Chinese Restaurant,2012-07-03 02:34:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+56,79,40.7443775904305,-73.99620538575003,1278,BBQ Joint,2012-06-12 01:43:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+57,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-06-12 22:19:58+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+58,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-15 13:10:56+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+59,79,40.74515,-73.992267,15867,General Entertainment,2012-05-15 15:35:19+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+60,79,40.705953265881305,-73.99656772613525,3916,Bridge,2012-05-15 22:42:42+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+61,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-05-15 23:54:17+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+62,79,40.72574081337552,-73.99028290313753,2157,Bar,2012-04-11 23:57:43+00:00,New York City,Dining and Drinking,Bar,,,,
+63,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-07-18 15:08:14+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+64,79,40.646437,-73.998105,25148,General Entertainment,2012-06-27 01:24:29+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+65,79,40.71194233294506,-74.00806127855658,18934,Electronics Store,2012-11-02 18:00:09+00:00,,Retail,Computers and Electronics Retail,3.0,0.0,nyc,Rec
+66,79,40.7148694149892,-74.01538906944295,2895,Movie Theater,2012-11-06 18:00:09+00:00,,Arts and Entertainment,Movie Theater,7.0,1.0,nyc,Rec
+67,79,40.71194233294506,-74.00806127855658,18934,Electronics Store,2012-11-06 18:00:09+00:00,,Retail,Computers and Electronics Retail,7.0,1.0,nyc,Rec
+68,79,40.71194233294506,-74.00806127855658,18934,Electronics Store,2012-11-07 18:00:09+00:00,,Retail,Computers and Electronics Retail,8.0,1.0,nyc,Rec
+69,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-11-09 18:00:09+00:00,,Retail,Computers and Electronics Retail,10.0,1.0,nyc,Return
+70,79,40.76803326982161,-73.98186922073364,2490,Plaza,2012-11-11 18:00:09+00:00,,Landmarks and Outdoors,Plaza,12.0,1.0,nyc,Rec
+71,79,40.71178,-74.008477,19293,Caf�,2012-11-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",12.0,1.0,nyc,Rec
+72,79,40.7387931693528,-74.00003883314184,591,Bar,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bar,12.0,1.0,nyc,Return
+73,79,40.709456,-74.0063757,17365,Deli / Bodega,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Rec
+74,79,40.709734,-74.008903,665,Bar,2012-11-12 18:00:09+00:00,,Dining and Drinking,Bar,13.0,1.0,nyc,Rec
+75,79,40.70875101828792,-74.00949597358704,29789,Historic Site,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,18.0,2.0,nyc,Rec
+76,79,40.71194233294506,-74.00806127855658,18934,Electronics Store,2012-11-23 18:00:09+00:00,,Retail,Computers and Electronics Retail,24.0,3.0,nyc,Rec
+77,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-11-24 18:00:09+00:00,,Retail,Computers and Electronics Retail,25.0,3.0,nyc,Return
+78,79,40.754035474213005,-73.97596836090088,26946,Bridge,2012-11-25 18:00:09+00:00,,Landmarks and Outdoors,Bridge,26.0,3.0,nyc,Rec
+79,79,40.72547161917389,-73.98378318991934,108,Caf�,2012-11-25 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",26.0,3.0,nyc,Return
+80,79,40.73743415035814,-73.99128147407096,3237,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Rec
+81,79,40.740015,-73.982205,1087,Bar,2012-11-27 18:00:09+00:00,,Dining and Drinking,Bar,28.0,4.0,nyc,Rec
+82,79,40.734269,-73.990084,7961,Electronics Store,2012-11-30 18:00:09+00:00,,Retail,Computers and Electronics Retail,31.0,4.0,nyc,Rec
+83,79,40.753005134448905,-73.99641771942332,7104,Camera Store,2012-12-01 18:00:09+00:00,,Retail,Computers and Electronics Retail,32.0,4.0,nyc,Rec
+84,79,40.786619,-73.970965,29443,Historic Site,2012-12-02 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,33.0,4.0,nyc,Explore
+85,79,40.74130690856319,-73.98935794830322,3235,Historic Site,2012-12-05 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,36.0,5.0,nyc,Rec
+86,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,37.0,5.0,nyc,Rec
+87,79,40.61453046413094,-73.9913446019438,35265,Comedy Club,2012-12-06 18:00:09+00:00,,Arts and Entertainment,Comedy Club,37.0,5.0,nyc,Rec
+88,79,40.63776202060348,-74.00221376394177,32964,Historic Site,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,38.0,5.0,nyc,Rec
+89,79,40.657947,-73.997452,6375,Electronics Store,2012-12-08 18:00:09+00:00,,Retail,Computers and Electronics Retail,39.0,5.0,nyc,Rec
+90,79,40.75297891717686,-73.9728569984436,32048,Event Space,2012-12-11 18:00:09+00:00,,Business and Professional Services,Event Space,42.0,6.0,nyc,Rec
+91,79,40.75274100802376,-73.97330797224723,24777,German Restaurant,2012-12-11 18:00:09+00:00,,Dining and Drinking,Restaurant,42.0,6.0,nyc,Rec
+92,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-12-12 18:00:09+00:00,,Retail,Computers and Electronics Retail,43.0,6.0,nyc,Rec
+93,79,40.74130690856319,-73.98935794830322,3235,Historic Site,2012-12-13 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,44.0,6.0,nyc,Rec
+94,79,40.71122335281535,-74.00815486907959,1688,Electronics Store,2012-12-13 18:00:09+00:00,,Retail,Computers and Electronics Retail,44.0,6.0,nyc,Rec
+95,79,40.74130690856319,-73.98935794830322,3235,Historic Site,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,48.0,6.0,nyc,Rec
+96,79,40.741190550641626,-73.98966309787518,17904,Mobile Phone Shop,2012-12-18 18:00:09+00:00,,Retail,Computers and Electronics Retail,49.0,7.0,nyc,Rec
+97,79,40.741190550641626,-73.98966309787518,17904,Mobile Phone Shop,2012-12-22 18:00:09+00:00,,Retail,Computers and Electronics Retail,53.0,7.0,nyc,Rec
+98,79,40.734269,-73.990084,7961,Electronics Store,2012-12-30 18:00:09+00:00,,Retail,Computers and Electronics Retail,61.0,8.0,nyc,Rec
+99,79,40.73544621898588,-73.99217674014386,30479,Electronics Store,2013-01-05 18:00:09+00:00,,Retail,Computers and Electronics Retail,67.0,9.0,nyc,Rec
+100,79,40.71021491165874,-74.00571405887604,17140,Deli / Bodega,2013-01-06 18:00:09+00:00,,Dining and Drinking,Restaurant,68.0,9.0,nyc,Rec
+101,79,40.73743415035814,-73.99128147407096,3237,Bar,2013-01-06 18:00:09+00:00,,Dining and Drinking,Bar,68.0,9.0,nyc,Rec
+102,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-01-06 18:00:09+00:00,,Retail,Computers and Electronics Retail,68.0,9.0,nyc,Rec
+103,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-01-10 18:00:09+00:00,,Retail,Computers and Electronics Retail,72.0,10.0,nyc,Return
+104,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-01-12 18:00:09+00:00,,Retail,Computers and Electronics Retail,74.0,10.0,nyc,Rec
+105,79,40.763512849967526,-73.9869198616602,1723,Bar,2013-01-13 18:00:09+00:00,,Dining and Drinking,Bar,75.0,10.0,nyc,Rec
+106,79,40.77922532171094,-73.98907899856567,28246,Historic Site,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,76.0,10.0,nyc,Rec
+107,79,40.75971348902614,-73.97945323993258,25886,Event Space,2013-01-14 18:00:09+00:00,,Business and Professional Services,Event Space,76.0,10.0,nyc,Explore
+108,79,40.75837793616776,-73.9696618269312,5080,Bookstore,2013-01-18 18:00:09+00:00,,Retail,Bookstore,80.0,11.0,nyc,Rec
+109,79,40.74992833317928,-73.93810897441571,31340,Historic Site,2013-01-25 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,87.0,12.0,nyc,Rec
+110,79,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-01-26 18:00:09+00:00,,Retail,Computers and Electronics Retail,88.0,12.0,nyc,Rec
+111,79,40.74427916680205,-73.99640624193349,8059,Comedy Club,2013-01-28 18:00:09+00:00,,Arts and Entertainment,Comedy Club,90.0,12.0,nyc,Rec
+112,79,40.75323752383464,-73.97326048738216,10387,Office,2013-01-28 18:00:09+00:00,,Business and Professional Services,Office,90.0,12.0,nyc,Rec
+113,79,40.75297891717686,-73.9728569984436,32048,Event Space,2013-01-29 18:00:09+00:00,,Business and Professional Services,Event Space,91.0,13.0,nyc,Rec
+114,79,40.74130690856319,-73.98935794830322,3235,Historic Site,2013-02-03 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,96.0,13.0,nyc,Rec
+115,79,40.753005134448905,-73.99641771942332,7104,Camera Store,2013-02-05 18:00:09+00:00,,Retail,Computers and Electronics Retail,98.0,14.0,nyc,Rec
+116,79,40.741190550641626,-73.98966309787518,17904,Mobile Phone Shop,2013-02-06 18:00:09+00:00,,Retail,Computers and Electronics Retail,99.0,14.0,nyc,Rec
+117,79,40.74130690856319,-73.98935794830322,3235,Historic Site,2013-02-08 18:00:09+00:00,,Landmarks and Outdoors,Historic and Protected Site,101.0,14.0,nyc,Rec

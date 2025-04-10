@@ -1,0 +1,454 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-27 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+1,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-04-27 17:30:10+00:00,New York City,Sports and Recreation,Running and Track,,,,
+2,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-04-27 17:40:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+3,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-04-27 17:50:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+4,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-04-27 18:00:20+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+5,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-10 17:30:08+00:00,New York City,Dining and Drinking,Bar,,,,
+6,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-08-10 17:40:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+7,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-08-10 17:50:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+8,730,40.758328,-73.985457,1496,Hotel,2012-08-10 18:00:29+00:00,New York City,Travel and Transportation,Lodging,,,,
+9,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-08-17 17:00:19+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+10,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-17 17:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+11,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-08-17 17:40:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+12,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-06 17:04:10+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+13,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-06 17:45:00+00:00,New York City,Business and Professional Services,Financial Service,,,,
+14,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-06 17:57:09+00:00,New York City,Business and Professional Services,Financial Service,,,,
+15,730,40.758328,-73.985457,1496,Hotel,2012-07-06 18:00:41+00:00,New York City,Travel and Transportation,Lodging,,,,
+16,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-06 18:01:04+00:00,New York City,Dining and Drinking,Bar,,,,
+17,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-13 17:00:49+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+18,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-13 17:30:10+00:00,New York City,Dining and Drinking,Bar,,,,
+19,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-13 17:40:10+00:00,New York City,Business and Professional Services,Financial Service,,,,
+20,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-13 17:50:10+00:00,New York City,Business and Professional Services,Financial Service,,,,
+21,730,40.758328,-73.985457,1496,Hotel,2012-07-13 18:01:14+00:00,New York City,Travel and Transportation,Lodging,,,,
+22,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-06-01 17:40:10+00:00,New York City,Business and Professional Services,Financial Service,,,,
+23,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-06-08 18:00:27+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+24,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-04 16:50:05+00:00,New York City,Arts and Entertainment,Casino,,,,
+25,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-04 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+26,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-04 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+27,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-04 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+28,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-04 18:00:16+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+29,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-11 16:50:08+00:00,New York City,Arts and Entertainment,Casino,,,,
+30,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-11 17:00:20+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+31,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-11 17:40:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+32,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-11 17:50:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+33,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-11 18:00:17+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+34,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-25 16:50:11+00:00,New York City,Arts and Entertainment,Casino,,,,
+35,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-25 17:01:28+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+36,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-25 17:50:10+00:00,New York City,Business and Professional Services,Financial Service,,,,
+37,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-25 18:00:13+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+38,730,40.75671096305903,-74.00100198012031,1295,Convention Center,2012-10-12 06:36:56+00:00,New York City,Business and Professional Services,Convention Center,,,,
+39,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-10-12 17:40:03+00:00,New York City,Business and Professional Services,Financial Service,,,,
+40,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-10-12 17:50:03+00:00,New York City,Business and Professional Services,Financial Service,,,,
+41,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-19 17:00:14+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+42,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-10-19 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+43,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-10-19 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+44,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-26 18:46:23+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+45,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-10-26 18:50:57+00:00,New York City,Dining and Drinking,Bar,,,,
+46,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-10-26 18:53:10+00:00,New York City,Business and Professional Services,Financial Service,,,,
+47,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-10-26 18:53:13+00:00,New York City,Business and Professional Services,Financial Service,,,,
+48,730,40.758328,-73.985457,1496,Hotel,2012-10-26 18:53:28+00:00,New York City,Travel and Transportation,Lodging,,,,
+49,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-10-26 18:55:21+00:00,New York City,Dining and Drinking,Bar,,,,
+50,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-09-14 17:00:20+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+51,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-09-14 17:40:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+52,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-09-14 17:50:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+53,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-23 17:00:14+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+54,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-04-23 17:30:08+00:00,New York City,Sports and Recreation,Running and Track,,,,
+55,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-08-13 17:40:09+00:00,New York City,Business and Professional Services,Financial Service,,,,
+56,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-08-13 17:50:09+00:00,New York City,Business and Professional Services,Financial Service,,,,
+57,730,40.758328,-73.985457,1496,Hotel,2012-08-13 18:00:17+00:00,New York City,Travel and Transportation,Lodging,,,,
+58,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-02 17:00:17+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+59,730,40.758328,-73.985457,1496,Hotel,2012-07-02 18:00:17+00:00,New York City,Travel and Transportation,Lodging,,,,
+60,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-09 17:00:16+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+61,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-09 17:30:18+00:00,New York City,Dining and Drinking,Bar,,,,
+62,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-09 17:40:16+00:00,New York City,Business and Professional Services,Financial Service,,,,
+63,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-09 17:50:16+00:00,New York City,Business and Professional Services,Financial Service,,,,
+64,730,40.758328,-73.985457,1496,Hotel,2012-07-09 18:00:13+00:00,New York City,Travel and Transportation,Lodging,,,,
+65,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-16 17:30:07+00:00,New York City,Dining and Drinking,Bar,,,,
+66,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-16 17:40:07+00:00,New York City,Business and Professional Services,Financial Service,,,,
+67,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-16 17:50:07+00:00,New York City,Business and Professional Services,Financial Service,,,,
+68,730,40.758328,-73.985457,1496,Hotel,2012-07-16 18:00:21+00:00,New York City,Travel and Transportation,Lodging,,,,
+69,730,40.82827721161922,-73.92655344439045,751,Stadium,2012-07-30 00:55:56+00:00,New York City,Arts and Entertainment,Stadium,,,,
+70,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-30 17:30:11+00:00,New York City,Dining and Drinking,Bar,,,,
+71,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-30 17:40:11+00:00,New York City,Business and Professional Services,Financial Service,,,,
+72,730,40.758328,-73.985457,1496,Hotel,2012-07-30 18:11:22+00:00,New York City,Travel and Transportation,Lodging,,,,
+73,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-06-11 17:40:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+74,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-06-11 17:50:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+75,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-06-11 18:00:21+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+76,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-18 17:00:17+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+77,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-06-18 17:30:06+00:00,New York City,Dining and Drinking,Bar,,,,
+78,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-06-18 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+79,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-06-18 17:50:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+80,730,40.758328,-73.985457,1496,Hotel,2012-06-18 18:00:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+81,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-14 16:50:08+00:00,New York City,Arts and Entertainment,Casino,,,,
+82,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-14 17:01:26+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+83,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-05-14 17:30:10+00:00,New York City,Sports and Recreation,Running and Track,,,,
+84,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-14 17:40:11+00:00,New York City,Business and Professional Services,Financial Service,,,,
+85,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-14 17:50:10+00:00,New York City,Business and Professional Services,Financial Service,,,,
+86,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-14 18:00:18+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+87,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-21 16:50:08+00:00,New York City,Arts and Entertainment,Casino,,,,
+88,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-21 17:00:12+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+89,730,40.8420090916172,-73.94169674214531,10516,Gym / Fitness Center,2012-05-21 17:30:09+00:00,New York City,Sports and Recreation,Running and Track,,,,
+90,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-21 17:40:09+00:00,New York City,Business and Professional Services,Financial Service,,,,
+91,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-21 18:00:26+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+92,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-28 16:50:09+00:00,New York City,Arts and Entertainment,Casino,,,,
+93,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-28 17:50:08+00:00,New York City,Business and Professional Services,Financial Service,,,,
+94,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-28 18:00:21+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+95,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-08 17:00:17+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+96,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-10-08 17:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+97,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-10-08 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+98,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-22 17:00:15+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+99,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-10-22 17:48:07+00:00,New York City,Dining and Drinking,Bar,,,,
+100,730,40.758328,-73.985457,1496,Hotel,2012-10-22 20:57:43+00:00,New York City,Travel and Transportation,Lodging,,,,
+101,730,40.918617842976126,-73.86543813495955,13445,Casino,2012-04-28 16:50:06+00:00,New York City,Arts and Entertainment,Casino,,,,
+102,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-04-28 18:01:13+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+103,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-08-11 17:00:19+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+104,730,40.758328,-73.985457,1496,Hotel,2012-08-11 18:00:16+00:00,New York City,Travel and Transportation,Lodging,,,,
+105,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-18 17:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+106,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-07 17:00:15+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+107,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-07 17:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+108,730,40.758328,-73.985457,1496,Hotel,2012-07-07 18:01:12+00:00,New York City,Travel and Transportation,Lodging,,,,
+109,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-28 17:30:06+00:00,New York City,Dining and Drinking,Bar,,,,
+110,730,40.758328,-73.985457,1496,Hotel,2012-07-28 18:00:17+00:00,New York City,Travel and Transportation,Lodging,,,,
+111,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-09 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+112,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-06-09 18:01:13+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+113,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-05 16:50:05+00:00,New York City,Arts and Entertainment,Casino,,,,
+114,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-05 17:00:17+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+115,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-05-05 17:30:07+00:00,New York City,Sports and Recreation,Running and Track,,,,
+116,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-05 18:00:15+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+117,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-12 16:50:11+00:00,New York City,Arts and Entertainment,Casino,,,,
+118,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-05-12 17:30:11+00:00,New York City,Sports and Recreation,Running and Track,,,,
+119,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-12 18:01:19+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+120,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-19 17:01:34+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+121,730,40.8420090916172,-73.94169674214531,10516,Gym / Fitness Center,2012-05-19 17:30:11+00:00,New York City,Sports and Recreation,Running and Track,,,,
+122,730,40.758328,-73.985457,1496,Hotel,2012-10-27 18:00:13+00:00,New York City,Travel and Transportation,Lodging,,,,
+123,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-09-15 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+124,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-09-15 17:52:02+00:00,New York City,Dining and Drinking,Bar,,,,
+125,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-15 14:17:52+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+126,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-22 11:45:31+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+127,730,40.73685214795608,-74.15033340454102,12976,Stadium,2012-04-29 01:44:10+00:00,New York City,Arts and Entertainment,Stadium,,,,
+128,730,40.7350636564899,-74.16526794433594,7670,Hotel,2012-04-29 01:45:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+129,730,40.740511866666665,-74.17218326666666,7671,Bar,2012-04-29 01:45:29+00:00,New York City,Dining and Drinking,Bar,,,,
+130,730,40.918617842976126,-73.86543813495955,13445,Casino,2012-04-29 16:50:04+00:00,New York City,Arts and Entertainment,Casino,,,,
+131,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-04-29 17:30:06+00:00,New York City,Sports and Recreation,Running and Track,,,,
+132,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-04-29 18:00:13+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+133,730,40.758328,-73.985457,1496,Hotel,2012-08-05 18:04:45+00:00,New York City,Travel and Transportation,Lodging,,,,
+134,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-12 17:30:08+00:00,New York City,Dining and Drinking,Bar,,,,
+135,730,40.758328,-73.985457,1496,Hotel,2012-08-12 18:00:19+00:00,New York City,Travel and Transportation,Lodging,,,,
+136,730,40.758328,-73.985457,1496,Hotel,2012-08-19 18:00:17+00:00,New York City,Travel and Transportation,Lodging,,,,
+137,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-08 17:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+138,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-15 17:00:17+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+139,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-15 17:30:07+00:00,New York City,Dining and Drinking,Bar,,,,
+140,730,40.758328,-73.985457,1496,Hotel,2012-07-15 18:01:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+141,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-29 17:00:15+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+142,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-29 17:30:06+00:00,New York City,Dining and Drinking,Bar,,,,
+143,730,40.758328,-73.985457,1496,Hotel,2012-07-29 18:03:59+00:00,New York City,Travel and Transportation,Lodging,,,,
+144,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-06-03 16:50:05+00:00,New York City,Arts and Entertainment,Casino,,,,
+145,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-03 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+146,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-06-10 16:50:06+00:00,New York City,Arts and Entertainment,Casino,,,,
+147,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-10 17:00:19+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+148,730,40.758328,-73.985457,1496,Hotel,2012-06-17 18:00:16+00:00,New York City,Travel and Transportation,Lodging,,,,
+149,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-06 16:50:05+00:00,New York City,Arts and Entertainment,Casino,,,,
+150,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-06 17:00:15+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+151,730,40.74101186443186,-73.98191536325086,2176,Bar,2012-05-13 05:37:35+00:00,New York City,Dining and Drinking,Bar,,,,
+152,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-13 17:00:21+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+153,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-05-13 17:30:12+00:00,New York City,Sports and Recreation,Running and Track,,,,
+154,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-13 18:01:19+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+155,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-27 16:50:09+00:00,New York City,Arts and Entertainment,Casino,,,,
+156,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-27 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+157,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-09-09 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+158,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-08-09 17:01:29+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+159,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-09 17:30:12+00:00,New York City,Dining and Drinking,Bar,,,,
+160,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-08-16 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+161,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-16 17:30:07+00:00,New York City,Dining and Drinking,Bar,,,,
+162,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-08-16 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+163,730,40.758328,-73.985457,1496,Hotel,2012-08-16 18:00:19+00:00,New York City,Travel and Transportation,Lodging,,,,
+164,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-05 17:00:15+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+165,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-05 17:40:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+166,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-12 17:30:08+00:00,New York City,Dining and Drinking,Bar,,,,
+167,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-12 17:40:08+00:00,New York City,Business and Professional Services,Financial Service,,,,
+168,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-12 17:50:08+00:00,New York City,Business and Professional Services,Financial Service,,,,
+169,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-06-07 16:50:30+00:00,New York City,Arts and Entertainment,Casino,,,,
+170,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-06-07 17:40:20+00:00,New York City,Business and Professional Services,Financial Service,,,,
+171,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-06-07 17:50:20+00:00,New York City,Business and Professional Services,Financial Service,,,,
+172,730,40.75169333099049,-73.97658359254557,3009,Hotel,2012-06-14 01:56:44+00:00,New York City,Travel and Transportation,Lodging,,,,
+173,730,40.75333652297646,-73.98098945617676,3243,Clothing Store,2012-06-21 01:52:49+00:00,New York City,Retail,Fashion Retail,,,,
+174,730,40.918617842976126,-73.86543813495955,13445,Casino,2012-05-03 16:50:05+00:00,New York City,Arts and Entertainment,Casino,,,,
+175,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-03 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+176,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-05-03 17:30:06+00:00,New York City,Sports and Recreation,Running and Track,,,,
+177,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-03 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+178,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-03 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+179,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-03 18:00:15+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+180,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-10 16:50:06+00:00,New York City,Arts and Entertainment,Casino,,,,
+181,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-10 17:00:19+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+182,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-05-10 17:30:08+00:00,New York City,Sports and Recreation,Running and Track,,,,
+183,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-10 17:43:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+184,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-10 17:50:07+00:00,New York City,Business and Professional Services,Financial Service,,,,
+185,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-10 18:00:13+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+186,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-17 17:50:16+00:00,New York City,Business and Professional Services,Financial Service,,,,
+187,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-17 18:01:18+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+188,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-31 16:50:12+00:00,New York City,Arts and Entertainment,Casino,,,,
+189,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-31 17:00:21+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+190,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-31 17:40:13+00:00,New York City,Business and Professional Services,Financial Service,,,,
+191,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-31 17:50:14+00:00,New York City,Business and Professional Services,Financial Service,,,,
+192,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-31 18:01:05+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+193,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-10-11 17:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+194,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-10-11 17:50:03+00:00,New York City,Business and Professional Services,Financial Service,,,,
+195,730,40.758328,-73.985457,1496,Hotel,2012-10-11 18:01:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+196,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-18 17:00:15+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+197,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-10-18 17:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+198,730,40.758328,-73.985457,1496,Hotel,2012-10-18 18:01:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+199,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-10-25 17:30:06+00:00,New York City,Dining and Drinking,Bar,,,,
+200,730,40.758328,-73.985457,1496,Hotel,2012-10-25 18:00:15+00:00,New York City,Travel and Transportation,Lodging,,,,
+201,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-09-06 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+202,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-09-13 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+203,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-08-14 17:01:24+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+204,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-08-14 17:30:09+00:00,New York City,Dining and Drinking,Bar,,,,
+205,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-08-14 17:50:08+00:00,New York City,Business and Professional Services,Financial Service,,,,
+206,730,40.758328,-73.985457,1496,Hotel,2012-08-14 18:00:52+00:00,New York City,Travel and Transportation,Lodging,,,,
+207,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-03 17:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+208,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-03 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+209,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-03 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+210,730,40.758328,-73.985457,1496,Hotel,2012-07-03 18:00:11+00:00,New York City,Travel and Transportation,Lodging,,,,
+211,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-17 17:30:09+00:00,New York City,Dining and Drinking,Bar,,,,
+212,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-17 17:40:07+00:00,New York City,Business and Professional Services,Financial Service,,,,
+213,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-24 17:30:07+00:00,New York City,Dining and Drinking,Bar,,,,
+214,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-24 17:50:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+215,730,40.72036368727871,-73.9870834350586,22756,Bar,2012-06-05 12:05:50+00:00,New York City,Dining and Drinking,Bar,,,,
+216,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-06-12 16:50:11+00:00,New York City,Arts and Entertainment,Casino,,,,
+217,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-12 17:00:17+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+218,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-06-12 18:00:19+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+219,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-26 17:00:18+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+220,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-06-26 17:30:05+00:00,New York City,Dining and Drinking,Bar,,,,
+221,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-06-26 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+222,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-06-26 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+223,730,40.758328,-73.985457,1496,Hotel,2012-06-26 18:00:17+00:00,New York City,Travel and Transportation,Lodging,,,,
+224,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-01 17:00:17+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+225,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-01 17:40:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+226,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-01 17:50:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+227,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-01 18:00:17+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+228,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-08 16:50:07+00:00,New York City,Arts and Entertainment,Casino,,,,
+229,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-08 17:00:13+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+230,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-08 17:40:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+231,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-08 17:50:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+232,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-08 18:00:11+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+233,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-15 16:50:07+00:00,New York City,Arts and Entertainment,Casino,,,,
+234,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-15 17:01:11+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+235,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-05-15 17:30:11+00:00,New York City,Sports and Recreation,Running and Track,,,,
+236,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-15 17:40:09+00:00,New York City,Business and Professional Services,Financial Service,,,,
+237,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-15 17:50:53+00:00,New York City,Business and Professional Services,Financial Service,,,,
+238,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-15 18:01:08+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+239,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-29 16:50:09+00:00,New York City,Arts and Entertainment,Casino,,,,
+240,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-29 17:00:22+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+241,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-29 17:50:16+00:00,New York City,Business and Professional Services,Financial Service,,,,
+242,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-29 18:01:15+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+243,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-16 17:00:15+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+244,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-10-16 17:40:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+245,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-10-16 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+246,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-10-23 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+247,730,40.758328,-73.985457,1496,Hotel,2012-10-23 18:00:14+00:00,New York City,Travel and Transportation,Lodging,,,,
+248,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-30 17:00:38+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+249,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-10-30 17:30:04+00:00,New York City,Dining and Drinking,Bar,,,,
+250,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-10-30 17:40:03+00:00,New York City,Business and Professional Services,Financial Service,,,,
+251,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-25 00:03:26+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+252,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-04-25 00:03:55+00:00,New York City,Sports and Recreation,Running and Track,,,,
+253,730,40.918617842976126,-73.86543813495955,13445,Casino,2012-04-25 16:50:07+00:00,New York City,Arts and Entertainment,Casino,,,,
+254,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-25 17:00:19+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+255,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-04-25 17:30:09+00:00,New York City,Sports and Recreation,Running and Track,,,,
+256,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-04-25 18:01:09+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+257,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-04 17:00:14+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+258,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-04 17:30:07+00:00,New York City,Dining and Drinking,Bar,,,,
+259,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-04 17:40:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+260,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-04 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+261,730,40.758328,-73.985457,1496,Hotel,2012-07-04 18:00:18+00:00,New York City,Travel and Transportation,Lodging,,,,
+262,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-11 17:00:12+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+263,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-07-11 17:30:06+00:00,New York City,Dining and Drinking,Bar,,,,
+264,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-11 17:40:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+265,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-11 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+266,730,40.758328,-73.985457,1496,Hotel,2012-07-11 18:00:18+00:00,New York City,Travel and Transportation,Lodging,,,,
+267,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-07-18 17:40:05+00:00,New York City,Business and Professional Services,Financial Service,,,,
+268,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-07-18 17:50:07+00:00,New York City,Business and Professional Services,Financial Service,,,,
+269,730,40.758328,-73.985457,1496,Hotel,2012-07-18 18:00:19+00:00,New York City,Travel and Transportation,Lodging,,,,
+270,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-06-06 16:50:08+00:00,New York City,Arts and Entertainment,Casino,,,,
+271,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-06 17:00:13+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+272,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-06-06 17:40:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+273,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-06-06 17:50:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+274,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-06-06 18:00:20+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+275,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-06-13 16:50:08+00:00,New York City,Arts and Entertainment,Casino,,,,
+276,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-13 17:00:19+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+277,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-06-13 18:00:21+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+278,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-06-27 17:30:08+00:00,New York City,Dining and Drinking,Bar,,,,
+279,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-09 16:50:08+00:00,New York City,Arts and Entertainment,Casino,,,,
+280,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-09 17:00:19+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+281,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-09 17:40:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+282,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-09 17:50:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+283,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-09 18:01:06+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+284,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-16 16:50:08+00:00,New York City,Arts and Entertainment,Casino,,,,
+285,730,40.84227990817094,-73.94179432849904,10516,Gym / Fitness Center,2012-05-16 17:30:08+00:00,New York City,Sports and Recreation,Running and Track,,,,
+286,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-16 17:50:11+00:00,New York City,Business and Professional Services,Financial Service,,,,
+287,730,40.91902658090872,-73.86536922350342,13445,Casino,2012-05-23 16:50:09+00:00,New York City,Arts and Entertainment,Casino,,,,
+288,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-23 17:01:26+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+289,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-05-23 17:40:09+00:00,New York City,Business and Professional Services,Financial Service,,,,
+290,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-05-23 17:50:09+00:00,New York City,Business and Professional Services,Financial Service,,,,
+291,730,40.74989042341799,-73.9923620223999,3570,Donut Shop,2012-05-23 18:00:47+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+292,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-10-24 17:50:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+293,730,40.758328,-73.985457,1496,Hotel,2012-10-24 18:01:12+00:00,New York City,Travel and Transportation,Lodging,,,,
+294,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-09-05 17:40:03+00:00,New York City,Business and Professional Services,Financial Service,,,,
+295,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-09-05 17:50:03+00:00,New York City,Business and Professional Services,Financial Service,,,,
+296,730,40.758328,-73.985457,1496,Hotel,2012-09-05 18:01:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+297,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-09-12 17:40:08+00:00,New York City,Business and Professional Services,Financial Service,,,,
+298,730,40.86801060402115,-73.92042748543044,28005,Bar,2012-10-31 18:00:09+00:00,,Dining and Drinking,Bar,1.0,0.0,nyc,Rec
+299,730,40.86781,-73.920887,6798,Bank,2012-10-31 18:00:09+00:00,,Business and Professional Services,Financial Service,1.0,0.0,nyc,Rec
+300,730,40.844056606292725,-73.888522,24016,Clothing Store,2012-11-01 18:00:09+00:00,,Retail,Fashion Retail,2.0,0.0,nyc,Rec
+301,730,40.85364398444654,-73.90760165850426,13331,Bank,2012-11-01 18:00:09+00:00,,Business and Professional Services,Financial Service,2.0,0.0,nyc,Rec
+302,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-11-01 18:00:09+00:00,,Business and Professional Services,Financial Service,2.0,0.0,nyc,Rec
+303,730,40.80848989621616,-73.96377870453499,32011,Hotel,2012-11-01 18:00:09+00:00,,Travel and Transportation,Lodging,2.0,0.0,nyc,Rec
+304,730,40.75999389342078,-73.99179223535523,500,Bar,2012-11-05 18:00:09+00:00,,Dining and Drinking,Bar,6.0,0.0,nyc,Rec
+305,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-11-06 18:00:09+00:00,,Landmarks and Outdoors,Plaza,7.0,1.0,nyc,Rec
+306,730,40.74554200153562,-73.98246058442858,8185,Bank,2012-11-06 18:00:09+00:00,,Business and Professional Services,Financial Service,7.0,1.0,nyc,Rec
+307,730,40.75169333099049,-73.97658359254557,3009,Hotel,2012-11-06 18:00:09+00:00,,Travel and Transportation,Lodging,7.0,1.0,nyc,Rec
+308,730,40.75875624280933,-73.97866122153226,2357,Plaza,2012-11-07 18:00:09+00:00,,Landmarks and Outdoors,Plaza,8.0,1.0,nyc,Rec
+309,730,40.75875624280933,-73.97866122153226,2357,Plaza,2012-11-09 18:00:09+00:00,,Landmarks and Outdoors,Plaza,10.0,1.0,nyc,Rec
+310,730,40.74157843,-73.989482,12645,Bank,2012-11-09 18:00:09+00:00,,Business and Professional Services,Financial Service,10.0,1.0,nyc,Rec
+311,730,40.75925299429778,-73.98515224456787,1473,Hotel,2012-11-09 18:00:09+00:00,,Travel and Transportation,Lodging,10.0,1.0,nyc,Rec
+312,730,40.71855465714273,-73.98899737888202,22624,Bar,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bar,12.0,1.0,nyc,Rec
+313,730,40.71988372267161,-73.98809635898077,1427,Hotel,2012-11-11 18:00:09+00:00,,Travel and Transportation,Lodging,12.0,1.0,nyc,Rec
+314,730,40.73743415035814,-73.99128147407096,3237,Bar,2012-11-12 18:00:09+00:00,,Dining and Drinking,Bar,13.0,1.0,nyc,Rec
+315,730,40.74101186443186,-73.98191536325086,2176,Bar,2012-11-15 18:00:09+00:00,,Dining and Drinking,Bar,16.0,2.0,nyc,Rec
+316,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-11-15 18:00:09+00:00,,Business and Professional Services,Financial Service,16.0,2.0,nyc,Rec
+317,730,40.83437745561647,-73.93871172403861,24304,Plaza,2012-11-16 18:00:09+00:00,,Landmarks and Outdoors,Plaza,17.0,2.0,nyc,Rec
+318,730,40.86781,-73.920887,6798,Bank,2012-11-16 18:00:09+00:00,,Business and Professional Services,Financial Service,17.0,2.0,nyc,Rec
+319,730,40.72201114788852,-74.00430259242555,297,Hotel,2012-11-16 18:00:09+00:00,,Travel and Transportation,Lodging,17.0,2.0,nyc,Rec
+320,730,40.75875624280933,-73.97866122153226,2357,Plaza,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,Plaza,18.0,2.0,nyc,Rec
+321,730,40.72036368727871,-73.9870834350586,22756,Bar,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Rec
+322,730,40.70691981218295,-74.00888760575609,12621,Plaza,2012-11-19 18:00:09+00:00,,Landmarks and Outdoors,Plaza,20.0,2.0,nyc,Rec
+323,730,40.70534572585503,-74.00799815619315,18733,Bar,2012-11-19 18:00:09+00:00,,Dining and Drinking,Bar,20.0,2.0,nyc,Rec
+324,730,40.70910886186152,-74.01047229766846,12308,Bank,2012-11-19 18:00:09+00:00,,Business and Professional Services,Financial Service,20.0,2.0,nyc,Rec
+325,730,40.74088398082356,-74.00765959043375,2652,Hotel,2012-11-19 18:00:09+00:00,,Travel and Transportation,Lodging,20.0,2.0,nyc,Rec
+326,730,40.74157843,-73.989482,12645,Bank,2012-11-20 18:00:09+00:00,,Business and Professional Services,Financial Service,21.0,3.0,nyc,Rec
+327,730,40.75169333099049,-73.97658359254557,3009,Hotel,2012-11-20 18:00:09+00:00,,Travel and Transportation,Lodging,21.0,3.0,nyc,Rec
+328,730,40.74101186443186,-73.98191536325086,2176,Bar,2012-11-21 18:00:09+00:00,,Dining and Drinking,Bar,22.0,3.0,nyc,Rec
+329,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-11-21 18:00:09+00:00,,Business and Professional Services,Financial Service,22.0,3.0,nyc,Rec
+330,730,40.75925299429778,-73.98515224456787,1473,Hotel,2012-11-21 18:00:09+00:00,,Travel and Transportation,Lodging,22.0,3.0,nyc,Rec
+331,730,40.760753,-73.990799,587,Bar,2012-11-22 18:00:09+00:00,,Dining and Drinking,Bar,23.0,3.0,nyc,Rec
+332,730,40.76152415379213,-73.98393554343956,8421,Bank,2012-11-22 18:00:09+00:00,,Business and Professional Services,Financial Service,23.0,3.0,nyc,Rec
+333,730,40.76233786262521,-73.98240319279851,657,Bar,2012-11-23 18:00:09+00:00,,Dining and Drinking,Bar,24.0,3.0,nyc,Rec
+334,730,40.74157843,-73.989482,12645,Bank,2012-11-23 18:00:09+00:00,,Business and Professional Services,Financial Service,24.0,3.0,nyc,Rec
+335,730,40.734680344893626,-73.99061002177434,21730,Bank,2012-11-23 18:00:09+00:00,,Business and Professional Services,Financial Service,24.0,3.0,nyc,Rec
+336,730,40.72201114788852,-74.00430259242555,297,Hotel,2012-11-23 18:00:09+00:00,,Travel and Transportation,Lodging,24.0,3.0,nyc,Rec
+337,730,40.74982540095488,-73.98796319961548,2836,Plaza,2012-11-24 18:00:09+00:00,,Landmarks and Outdoors,Plaza,25.0,3.0,nyc,Rec
+338,730,40.72006790651271,-73.98831322789192,2111,Bar,2012-11-24 18:00:09+00:00,,Dining and Drinking,Bar,25.0,3.0,nyc,Rec
+339,730,40.7722274447236,-73.98302876064133,6957,Plaza,2012-11-25 18:00:09+00:00,,Landmarks and Outdoors,Plaza,26.0,3.0,nyc,Rec
+340,730,40.766826609362575,-73.98624658584595,2881,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Rec
+341,730,40.759525734570886,-73.97853495742781,2121,Bar,2012-11-26 18:00:09+00:00,,Dining and Drinking,Bar,27.0,3.0,nyc,Rec
+342,730,40.74157843,-73.989482,12645,Bank,2012-11-26 18:00:09+00:00,,Business and Professional Services,Financial Service,27.0,3.0,nyc,Rec
+343,730,40.7365071557598,-73.98880407214165,1701,Hotel,2012-11-26 18:00:09+00:00,,Travel and Transportation,Lodging,27.0,3.0,nyc,Rec
+344,730,40.73506400832858,-73.99091992312634,22013,Plaza,2012-11-27 18:00:09+00:00,,Landmarks and Outdoors,Plaza,28.0,4.0,nyc,Rec
+345,730,40.70910886186152,-74.01047229766846,12308,Bank,2012-11-27 18:00:09+00:00,,Business and Professional Services,Financial Service,28.0,4.0,nyc,Rec
+346,730,40.71933912149095,-74.00487184524536,633,Hotel,2012-11-27 18:00:09+00:00,,Travel and Transportation,Lodging,28.0,4.0,nyc,Rec
+347,730,40.75925299429778,-73.98515224456787,1473,Hotel,2012-11-28 18:00:09+00:00,,Travel and Transportation,Lodging,29.0,4.0,nyc,Rec
+348,730,40.76803326982161,-73.98186922073364,2490,Plaza,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,Plaza,32.0,4.0,nyc,Rec
+349,730,40.75169333099049,-73.97658359254557,3009,Hotel,2012-12-01 18:00:09+00:00,,Travel and Transportation,Lodging,32.0,4.0,nyc,Rec
+350,730,40.70691981218295,-74.00888760575609,12621,Plaza,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Plaza,34.0,4.0,nyc,Rec
+351,730,40.70443641202592,-74.01012361049652,1035,Bar,2012-12-03 18:00:09+00:00,,Dining and Drinking,Bar,34.0,4.0,nyc,Rec
+352,730,40.69232474202854,-73.98860692977905,16063,Plaza,2012-12-04 18:00:09+00:00,,Landmarks and Outdoors,Plaza,35.0,5.0,nyc,Rec
+353,730,40.693782,-73.990309,4562,Bank,2012-12-04 18:00:09+00:00,,Business and Professional Services,Financial Service,35.0,5.0,nyc,Rec
+354,730,40.69342700320799,-73.98847818374634,4053,Hotel,2012-12-04 18:00:09+00:00,,Travel and Transportation,Lodging,35.0,5.0,nyc,Rec
+355,730,40.7133335138603,-74.01606043481961,3326,Plaza,2012-12-05 18:00:09+00:00,,Landmarks and Outdoors,Plaza,36.0,5.0,nyc,Rec
+356,730,40.73878324326924,-73.98893998920552,102,Bar,2012-12-05 18:00:09+00:00,,Dining and Drinking,Bar,36.0,5.0,nyc,Rec
+357,730,40.74157843,-73.989482,12645,Bank,2012-12-05 18:00:09+00:00,,Business and Professional Services,Financial Service,36.0,5.0,nyc,Rec
+358,730,40.76224486711165,-73.9792871763928,3335,Hotel,2012-12-05 18:00:09+00:00,,Travel and Transportation,Lodging,36.0,5.0,nyc,Rec
+359,730,40.75476692694091,-73.98682594299316,8538,Bank,2012-12-06 18:00:09+00:00,,Business and Professional Services,Financial Service,37.0,5.0,nyc,Rec
+360,730,40.74088398082356,-74.00765959043375,2652,Hotel,2012-12-06 18:00:09+00:00,,Travel and Transportation,Lodging,37.0,5.0,nyc,Rec
+361,730,40.740727951827786,-74.00861104297583,1013,Bar,2012-12-07 18:00:09+00:00,,Dining and Drinking,Bar,38.0,5.0,nyc,Rec
+362,730,40.74157843,-73.989482,12645,Bank,2012-12-07 18:00:09+00:00,,Business and Professional Services,Financial Service,38.0,5.0,nyc,Rec
+363,730,40.75925299429778,-73.98515224456787,1473,Hotel,2012-12-07 18:00:09+00:00,,Travel and Transportation,Lodging,38.0,5.0,nyc,Rec
+364,730,40.74982540095488,-73.98796319961548,2836,Plaza,2012-12-08 18:00:09+00:00,,Landmarks and Outdoors,Plaza,39.0,5.0,nyc,Rec
+365,730,40.749767,-73.985442,618,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Rec
+366,730,40.72036368727871,-73.9870834350586,22756,Bar,2012-12-09 18:00:09+00:00,,Dining and Drinking,Bar,40.0,5.0,nyc,Rec
+367,730,40.75781551309476,-73.97343267040648,34221,Plaza,2012-12-10 18:00:09+00:00,,Landmarks and Outdoors,Plaza,41.0,5.0,nyc,Rec
+368,730,40.75496338233205,-73.97804711806346,25959,Bank,2012-12-10 18:00:09+00:00,,Business and Professional Services,Financial Service,41.0,5.0,nyc,Rec
+369,730,40.75489764008126,-73.97982055170644,15773,Bank,2012-12-11 18:00:09+00:00,,Business and Professional Services,Financial Service,42.0,6.0,nyc,Rec
+370,730,40.734680344893626,-73.99061002177434,21730,Bank,2012-12-12 18:00:09+00:00,,Business and Professional Services,Financial Service,43.0,6.0,nyc,Rec
+371,730,40.72201114788852,-74.00430259242555,297,Hotel,2012-12-12 18:00:09+00:00,,Travel and Transportation,Lodging,43.0,6.0,nyc,Rec
+372,730,40.72223927041919,-74.00553636777052,3053,Plaza,2012-12-13 18:00:09+00:00,,Landmarks and Outdoors,Plaza,44.0,6.0,nyc,Rec
+373,730,40.7226064349689,-74.00365987839697,1241,Bar,2012-12-13 18:00:09+00:00,,Dining and Drinking,Bar,44.0,6.0,nyc,Rec
+374,730,40.70910886186152,-74.01047229766846,12308,Bank,2012-12-13 18:00:09+00:00,,Business and Professional Services,Financial Service,44.0,6.0,nyc,Rec
+375,730,40.70691981218295,-74.00888760575609,12621,Plaza,2012-12-14 18:00:09+00:00,,Landmarks and Outdoors,Plaza,45.0,6.0,nyc,Rec
+376,730,40.70534572585503,-74.00799815619315,18733,Bar,2012-12-14 18:00:09+00:00,,Dining and Drinking,Bar,45.0,6.0,nyc,Rec
+377,730,40.70436104822411,-74.00776862015051,22438,Plaza,2012-12-16 18:00:09+00:00,,Landmarks and Outdoors,Plaza,47.0,6.0,nyc,Rec
+378,730,40.70924711909085,-74.01355147361755,15167,Hotel,2012-12-16 18:00:09+00:00,,Travel and Transportation,Lodging,47.0,6.0,nyc,Rec
+379,730,40.71337843796241,-73.99828433990479,14887,Plaza,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Plaza,48.0,6.0,nyc,Rec
+380,730,40.84350462709147,-73.93913651788439,12688,Bank,2012-12-17 18:00:09+00:00,,Business and Professional Services,Financial Service,48.0,6.0,nyc,Rec
+381,730,40.80848989621616,-73.96377870453499,32011,Hotel,2012-12-17 18:00:09+00:00,,Travel and Transportation,Lodging,48.0,6.0,nyc,Rec
+382,730,40.80416079748833,-73.93693791264512,11646,Bank,2012-12-18 18:00:09+00:00,,Business and Professional Services,Financial Service,49.0,7.0,nyc,Rec
+383,730,40.828413358858334,-73.92549098547816,15005,Bar,2012-12-19 18:00:09+00:00,,Dining and Drinking,Bar,50.0,7.0,nyc,Rec
+384,730,40.81011509621309,-73.95118534970048,11780,Bank,2012-12-19 18:00:09+00:00,,Business and Professional Services,Financial Service,50.0,7.0,nyc,Rec
+385,730,40.759242388649234,-73.97523484348355,4856,Hotel,2012-12-19 18:00:09+00:00,,Travel and Transportation,Lodging,50.0,7.0,nyc,Rec
+386,730,40.74982540095488,-73.98796319961548,2836,Plaza,2012-12-21 18:00:09+00:00,,Landmarks and Outdoors,Plaza,52.0,7.0,nyc,Rec
+387,730,40.734680344893626,-73.99061002177434,21730,Bank,2012-12-21 18:00:09+00:00,,Business and Professional Services,Financial Service,52.0,7.0,nyc,Rec
+388,730,40.7365071557598,-73.98880407214165,1701,Hotel,2012-12-21 18:00:09+00:00,,Travel and Transportation,Lodging,52.0,7.0,nyc,Rec
+389,730,40.72449429624432,-73.99334746639536,196,Bar,2012-12-22 18:00:09+00:00,,Dining and Drinking,Bar,53.0,7.0,nyc,Rec
+390,730,40.7365071557598,-73.98880407214165,1701,Hotel,2012-12-22 18:00:09+00:00,,Travel and Transportation,Lodging,53.0,7.0,nyc,Rec
+391,730,40.73794147828757,-73.97990584373474,16915,Plaza,2012-12-27 18:00:09+00:00,,Landmarks and Outdoors,Plaza,58.0,8.0,nyc,Rec
+392,730,40.70910886186152,-74.01047229766846,12308,Bank,2012-12-27 18:00:09+00:00,,Business and Professional Services,Financial Service,58.0,8.0,nyc,Rec
+393,730,40.72036368727871,-73.9870834350586,22756,Bar,2012-12-28 18:00:09+00:00,,Dining and Drinking,Bar,59.0,8.0,nyc,Rec
+394,730,40.756489872673846,-73.98626804351807,2360,Plaza,2012-12-29 18:00:09+00:00,,Landmarks and Outdoors,Plaza,60.0,8.0,nyc,Rec
+395,730,40.72302551137589,-73.99736460996738,6662,Hotel,2012-12-29 18:00:09+00:00,,Travel and Transportation,Lodging,60.0,8.0,nyc,Rec
+396,730,40.67173541430371,-73.96379592369183,17556,Plaza,2012-12-30 18:00:09+00:00,,Landmarks and Outdoors,Plaza,61.0,8.0,nyc,Rec
+397,730,40.71988372267161,-73.98809635898077,1427,Hotel,2012-12-30 18:00:09+00:00,,Travel and Transportation,Lodging,61.0,8.0,nyc,Rec
+398,730,40.73506400832858,-73.99091992312634,22013,Plaza,2013-01-02 18:00:09+00:00,,Landmarks and Outdoors,Plaza,64.0,9.0,nyc,Rec
+399,730,40.693782,-73.990309,4562,Bank,2013-01-02 18:00:09+00:00,,Business and Professional Services,Financial Service,64.0,9.0,nyc,Rec
+400,730,40.740511866666665,-74.17218326666666,7671,Bar,2013-01-03 18:00:09+00:00,,Dining and Drinking,Bar,65.0,9.0,nyc,Rec
+401,730,40.72820347085946,-74.1552111998664,30187,Bank,2013-01-03 18:00:09+00:00,,Business and Professional Services,Financial Service,65.0,9.0,nyc,Rec
+402,730,40.71855465714273,-73.98899737888202,22624,Bar,2013-01-04 18:00:09+00:00,,Dining and Drinking,Bar,66.0,9.0,nyc,Rec
+403,730,40.71988372267161,-73.98809635898077,1427,Hotel,2013-01-05 18:00:09+00:00,,Travel and Transportation,Lodging,67.0,9.0,nyc,Rec
+404,730,40.73878324326924,-73.98893998920552,102,Bar,2013-01-07 18:00:09+00:00,,Dining and Drinking,Bar,69.0,9.0,nyc,Rec
+405,730,40.74982540095488,-73.98783445358276,17767,Plaza,2013-01-08 18:00:09+00:00,,Landmarks and Outdoors,Plaza,70.0,10.0,nyc,Rec
+406,730,40.758328,-73.985457,1496,Hotel,2013-01-09 18:00:09+00:00,,Travel and Transportation,Lodging,71.0,10.0,nyc,Rec
+407,730,40.758328,-73.985457,1496,Hotel,2013-01-10 18:00:09+00:00,,Travel and Transportation,Lodging,72.0,10.0,nyc,Rec
+408,730,40.75999389342078,-73.99179223535523,500,Bar,2013-01-11 18:00:09+00:00,,Dining and Drinking,Bar,73.0,10.0,nyc,Rec
+409,730,40.75925299429778,-73.98515224456787,1473,Hotel,2013-01-11 18:00:09+00:00,,Travel and Transportation,Lodging,73.0,10.0,nyc,Rec
+410,730,40.758328,-73.985457,1496,Hotel,2013-01-12 18:00:09+00:00,,Travel and Transportation,Lodging,74.0,10.0,nyc,Rec
+411,730,40.759525734570886,-73.97853495742781,2121,Bar,2013-01-13 18:00:09+00:00,,Dining and Drinking,Bar,75.0,10.0,nyc,Rec
+412,730,40.75999389342078,-73.99179223535523,500,Bar,2013-01-14 18:00:09+00:00,,Dining and Drinking,Bar,76.0,10.0,nyc,Rec
+413,730,40.7588009993803,-73.98849808812169,5288,Hotel,2013-01-15 18:00:09+00:00,,Travel and Transportation,Lodging,77.0,11.0,nyc,Rec
+414,730,40.7625685886431,-73.9822769165039,4087,Hotel,2013-01-16 18:00:09+00:00,,Travel and Transportation,Lodging,78.0,11.0,nyc,Rec
+415,730,40.73506400832858,-73.99091992312634,22013,Plaza,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,Plaza,79.0,11.0,nyc,Rec
+416,730,40.7385297801453,-73.98550231628789,3256,Hotel,2013-01-17 18:00:09+00:00,,Dining and Drinking,Bar,79.0,11.0,nyc,Rec
+417,730,40.766826609362575,-73.98624658584595,2881,Bar,2013-01-18 18:00:09+00:00,,Dining and Drinking,Bar,80.0,11.0,nyc,Rec
+418,730,40.76808295805425,-73.98498579917869,649,Hotel,2013-01-18 18:00:09+00:00,,Travel and Transportation,Lodging,80.0,11.0,nyc,Rec
+419,730,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-21 18:00:09+00:00,,Landmarks and Outdoors,Plaza,83.0,11.0,nyc,Rec
+420,730,40.760753,-73.990799,587,Bar,2013-01-21 18:00:09+00:00,,Dining and Drinking,Bar,83.0,11.0,nyc,Rec
+421,730,40.75863536531348,-73.98515224456787,15443,Bank,2013-01-21 18:00:09+00:00,,Business and Professional Services,Financial Service,83.0,11.0,nyc,Rec
+422,730,40.693782,-73.990309,4562,Bank,2013-01-24 18:00:09+00:00,,Business and Professional Services,Financial Service,86.0,12.0,nyc,Rec
+423,730,40.682031,-73.958545,29899,Hotel,2013-01-24 18:00:09+00:00,,Travel and Transportation,Lodging,86.0,12.0,nyc,Rec
+424,730,40.68858054872551,-73.95791262231656,19588,Bar,2013-01-25 18:00:09+00:00,,Dining and Drinking,Bar,87.0,12.0,nyc,Rec
+425,730,40.70910886186152,-74.01047229766846,12308,Bank,2013-01-25 18:00:09+00:00,,Business and Professional Services,Financial Service,87.0,12.0,nyc,Rec
+426,730,40.70691981218295,-74.00888760575609,12621,Plaza,2013-01-26 18:00:09+00:00,,Landmarks and Outdoors,Plaza,88.0,12.0,nyc,Rec
+427,730,40.74101186443186,-73.98191536325086,2176,Bar,2013-01-26 18:00:09+00:00,,Dining and Drinking,Bar,88.0,12.0,nyc,Rec
+428,730,40.7365071557598,-73.98880407214165,1701,Hotel,2013-01-26 18:00:09+00:00,,Travel and Transportation,Lodging,88.0,12.0,nyc,Rec
+429,730,40.80848989621616,-73.96377870453499,32011,Hotel,2013-01-27 18:00:09+00:00,,Travel and Transportation,Lodging,89.0,12.0,nyc,Rec
+430,730,40.80070777919297,-73.95825127574912,9783,Plaza,2013-01-28 18:00:09+00:00,,Landmarks and Outdoors,Plaza,90.0,12.0,nyc,Rec
+431,730,40.70910886186152,-74.01047229766846,12308,Bank,2013-01-28 18:00:09+00:00,,Business and Professional Services,Financial Service,90.0,12.0,nyc,Rec
+432,730,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-28 18:00:09+00:00,,Travel and Transportation,Lodging,90.0,12.0,nyc,Rec
+433,730,40.75781551309476,-73.97343267040648,34221,Plaza,2013-01-29 18:00:09+00:00,,Landmarks and Outdoors,Plaza,91.0,13.0,nyc,Rec
+434,730,40.74863872983442,-73.97566795349121,2118,Bar,2013-01-29 18:00:09+00:00,,Dining and Drinking,Bar,91.0,13.0,nyc,Rec
+435,730,40.80416079748833,-73.93693791264512,11646,Bank,2013-01-29 18:00:09+00:00,,Business and Professional Services,Financial Service,91.0,13.0,nyc,Rec
+436,730,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-29 18:00:09+00:00,,Travel and Transportation,Lodging,91.0,13.0,nyc,Rec
+437,730,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-31 18:00:09+00:00,,Landmarks and Outdoors,Plaza,93.0,13.0,nyc,Rec
+438,730,40.75532586360673,-73.96831876895718,106,Bar,2013-01-31 18:00:09+00:00,,Dining and Drinking,Bar,93.0,13.0,nyc,Rec
+439,730,40.76224486711165,-73.9792871763928,3335,Hotel,2013-01-31 18:00:09+00:00,,Travel and Transportation,Lodging,93.0,13.0,nyc,Rec
+440,730,40.75599818752485,-73.99114966392517,29191,Bar,2013-02-01 18:00:09+00:00,,Dining and Drinking,Bar,94.0,13.0,nyc,Rec
+441,730,40.80848989621616,-73.96377870453499,32011,Hotel,2013-02-01 18:00:09+00:00,,Travel and Transportation,Lodging,94.0,13.0,nyc,Rec
+442,730,40.820815,-73.975865,9799,Hotel,2013-02-02 18:00:09+00:00,,Travel and Transportation,Lodging,95.0,13.0,nyc,Rec
+443,730,40.75781551309476,-73.97343267040648,34221,Plaza,2013-02-03 18:00:09+00:00,,Landmarks and Outdoors,Plaza,96.0,13.0,nyc,Rec
+444,730,40.74101186443186,-73.98191536325086,2176,Bar,2013-02-03 18:00:09+00:00,,Dining and Drinking,Bar,96.0,13.0,nyc,Rec
+445,730,40.76224486711165,-73.9792871763928,3335,Hotel,2013-02-03 18:00:09+00:00,,Travel and Transportation,Lodging,96.0,13.0,nyc,Rec
+446,730,40.80848989621616,-73.96377870453499,32011,Hotel,2013-02-04 18:00:09+00:00,,Travel and Transportation,Lodging,97.0,13.0,nyc,Rec
+447,730,40.80070777919297,-73.95825127574912,9783,Plaza,2013-02-05 18:00:09+00:00,,Landmarks and Outdoors,Plaza,98.0,14.0,nyc,Rec
+448,730,40.806318,-73.95388,7029,Bar,2013-02-06 18:00:09+00:00,,Dining and Drinking,Bar,99.0,14.0,nyc,Rec
+449,730,40.80848989621616,-73.96377870453499,32011,Hotel,2013-02-06 18:00:09+00:00,,Travel and Transportation,Lodging,99.0,14.0,nyc,Rec
+450,730,40.74185966827029,-73.98905754089355,36642,Plaza,2013-02-07 18:00:09+00:00,,Landmarks and Outdoors,Plaza,100.0,14.0,nyc,Rec
+451,730,40.73743415035814,-73.99128147407096,3237,Bar,2013-02-07 18:00:09+00:00,,Dining and Drinking,Bar,100.0,14.0,nyc,Rec
+452,730,40.72988184075125,-73.99101957678795,3827,Plaza,2013-02-10 18:00:09+00:00,,Landmarks and Outdoors,Plaza,103.0,14.0,nyc,Rec

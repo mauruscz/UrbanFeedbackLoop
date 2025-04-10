@@ -1,0 +1,155 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,682,40.73841297394456,-74.00210380554199,23307,French Restaurant,2012-04-13 02:32:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,682,40.77033928261004,-73.95377411459097,24500,Bar,2012-04-13 03:54:02+00:00,New York City,Dining and Drinking,Bar,,,,
+2,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-04-13 16:59:59+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+3,682,40.768247,-73.98183,1082,Bar,2012-04-13 22:35:17+00:00,New York City,Dining and Drinking,Bar,,,,
+4,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-04-20 00:31:35+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+5,682,40.77393538272802,-73.95468677509598,7095,Mexican Restaurant,2012-04-20 01:18:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,682,40.7043034492768,-74.01017299652374,722,Gastropub,2012-04-20 02:29:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,682,40.70632957156552,-74.00925486114296,2358,Italian Restaurant,2012-04-20 03:56:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,682,40.70614374280977,-74.00943275021737,31315,Library,2012-04-20 03:59:19+00:00,New York City,Community and Government,Library,,,,
+9,682,40.749695355837886,-73.97648334503174,4553,Bar,2012-04-20 04:31:49+00:00,New York City,Dining and Drinking,Bar,,,,
+10,682,40.74476840533305,-73.97534389163138,6945,Medical Center,2012-06-01 12:38:02+00:00,New York City,Health and Medicine,Physician,,,,
+11,682,40.75901857243343,-73.96270118344978,8324,Asian Restaurant,2012-05-11 00:55:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,682,40.77355485829142,-73.95565683090494,16352,Tapas Restaurant,2012-05-11 04:12:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+13,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-25 14:43:46+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+14,682,40.73757,-74.0017,2530,Gym / Fitness Center,2012-05-25 17:39:55+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+15,682,40.77034507451395,-73.9537167144151,24500,Bar,2012-05-25 23:13:19+00:00,New York City,Dining and Drinking,Bar,,,,
+16,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-04-16 16:16:34+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+17,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-07 18:48:18+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+18,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-14 15:42:26+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+19,682,40.755869,-73.980651,23358,Cuban Restaurant,2012-05-14 15:53:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-21 14:43:14+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+21,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-21 22:15:53+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+22,682,40.7183993492746,-73.96020282632394,2213,Bar,2012-05-28 01:50:40+00:00,New York City,Dining and Drinking,Bar,,,,
+23,682,40.783258791664096,-73.97812172886994,1486,French Restaurant,2012-04-07 17:51:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,682,40.749695355837886,-73.97648334503174,4553,Bar,2012-04-14 04:30:20+00:00,New York City,Dining and Drinking,Bar,,,,
+25,682,40.73968518262072,-74.00601983070374,7,French Restaurant,2012-04-14 15:03:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+26,682,40.73945661315229,-74.00804980176478,29754,Clothing Store,2012-04-14 16:39:35+00:00,New York City,Retail,Fashion Retail,,,,
+27,682,40.73358404993655,-74.00448560714722,30504,Clothing Store,2012-04-14 17:43:41+00:00,New York City,Retail,Fashion Retail,,,,
+28,682,40.72934573333696,-74.00371726366585,438,American Restaurant,2012-04-14 18:00:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+29,682,40.719607,-73.986764,672,American Restaurant,2012-04-14 21:21:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,682,40.75086599645483,-73.98664398454908,231,Steakhouse,2012-05-05 00:08:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,682,40.749695355837886,-73.97648334503174,4553,Bar,2012-05-05 03:47:02+00:00,New York City,Dining and Drinking,Bar,,,,
+32,682,40.77393538272802,-73.95468677509598,7095,Mexican Restaurant,2012-05-05 18:50:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,682,40.67625243531423,-73.98015260696411,1658,Bar,2012-05-19 02:18:11+00:00,New York City,Dining and Drinking,Bar,,,,
+34,682,40.77393538272802,-73.95468677509598,7095,Mexican Restaurant,2012-04-08 17:46:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,682,40.77355485829142,-73.95565683090494,16352,Tapas Restaurant,2012-04-08 21:55:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,682,40.770883,-73.954891,8893,General Travel,2012-04-15 15:54:49+00:00,New York City,Travel and Transportation,General Travel,,,,
+37,682,40.85121557428245,-73.95206451416016,3686,Bridge,2012-04-15 16:20:33+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+38,682,40.72453440892317,-73.99054689365978,1191,Bar,2012-06-03 01:05:12+00:00,New York City,Dining and Drinking,Bar,,,,
+39,682,40.72789007835151,-73.99897144381916,24968,Bar,2012-06-03 08:08:16+00:00,New York City,Dining and Drinking,Bar,,,,
+40,682,40.77231410680221,-73.95282700950804,5134,Diner,2012-06-03 09:11:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,682,40.77800831707478,-73.9541472153185,5646,Gym / Fitness Center,2012-05-27 13:31:57+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+42,682,40.7722181832008,-73.95232762495863,14413,Church,2012-05-27 16:06:26+00:00,New York City,Community and Government,Spiritual Center,,,,
+43,682,40.77473050116933,-73.98209327769995,7924,Electronics Store,2012-05-27 17:47:22+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+44,682,40.77836414910471,-73.98163318634033,164,Hot Dog Joint,2012-05-27 19:39:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,682,40.7740642122466,-73.97095799446106,4582,Sculpture Garden,2012-05-27 19:59:36+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+46,682,40.7768145145783,-73.95547315207246,34805,Coffee Shop,2012-05-27 20:23:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+47,682,40.70625036314017,-73.95353303373766,20081,College Academic Building,2012-05-27 22:38:48+00:00,New York City,Community and Government,Education,,,,
+48,682,40.71424858464975,-73.95375967025757,16130,Neighborhood,2012-05-27 22:40:40+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+49,682,40.71653437713537,-73.96144836446048,2184,Beer Garden,2012-05-27 22:48:23+00:00,New York City,Dining and Drinking,Bar,,,,
+50,682,40.749695355837886,-73.97648334503174,4553,Bar,2012-04-12 01:59:48+00:00,New York City,Dining and Drinking,Bar,,,,
+51,682,40.749695355837886,-73.97648334503174,4553,Bar,2012-04-12 04:49:12+00:00,New York City,Dining and Drinking,Bar,,,,
+52,682,40.73454149122398,-73.98787253809468,278,Bar,2012-04-12 21:49:41+00:00,New York City,Dining and Drinking,Bar,,,,
+53,682,40.737382,-74.001285,23349,Event Space,2012-04-12 23:26:45+00:00,New York City,Business and Professional Services,Event Space,,,,
+54,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-04-19 15:16:28+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+55,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-10 16:43:37+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+56,682,40.759272,-73.967346,15893,Medical Center,2012-05-10 20:08:39+00:00,New York City,Health and Medicine,Dentist,,,,
+57,682,40.752771,-73.97488114000001,19203,Bar,2012-05-10 21:32:05+00:00,New York City,Dining and Drinking,Bar,,,,
+58,682,40.751287,-73.973417,2990,Ramen /  Noodle House,2012-05-10 22:20:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+59,682,40.77390986857475,-73.95466381513616,7095,Mexican Restaurant,2012-05-24 00:47:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-31 14:09:19+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+61,682,40.74049401829621,-73.98710489273071,4013,General Entertainment,2012-04-03 23:48:26+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+62,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-04-17 16:05:12+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+63,682,40.74476840533305,-73.97534389163138,6945,Medical Center,2012-05-08 13:46:05+00:00,New York City,Health and Medicine,Physician,,,,
+64,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-08 15:28:13+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+65,682,40.76364734011364,-73.97844135761261,4591,Gym / Fitness Center,2012-05-08 22:06:41+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+66,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-15 17:14:40+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+67,682,40.73618108572264,-73.99221691224146,184,Bar,2012-05-15 21:29:42+00:00,New York City,Dining and Drinking,Bar,,,,
+68,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-22 14:22:21+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+69,682,40.75022784263701,-73.97899983849398,23452,Bar,2012-04-04 00:37:03+00:00,New York City,Dining and Drinking,Bar,,,,
+70,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-04-04 16:37:34+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+71,682,40.75922735258565,-73.98283362960619,7155,Mexican Restaurant,2012-04-04 17:56:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,682,40.76069793431174,-73.98598439766978,4917,Theater,2012-04-11 22:39:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+73,682,40.80647862081046,-73.96509309575141,5274,Cuban Restaurant,2012-04-18 00:15:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+74,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-04-18 13:57:00+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+75,682,40.749695355837886,-73.97648334503174,4553,Bar,2012-04-18 22:51:42+00:00,New York City,Dining and Drinking,Bar,,,,
+76,682,40.74939768045656,-73.97570547188988,551,Seafood Restaurant,2012-04-18 23:20:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+77,682,40.75723731867925,-73.9669355242481,5863,Gym / Fitness Center,2012-06-27 00:05:51+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+78,682,40.75901857243343,-73.96270118344978,8324,Asian Restaurant,2012-06-27 01:13:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+79,682,40.75901857243343,-73.96270118344978,8324,Asian Restaurant,2012-05-09 00:52:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+80,682,40.77355485829142,-73.95565683090494,16352,Tapas Restaurant,2012-05-09 04:37:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+81,682,40.771532064320695,-73.95629970544277,2621,Bar,2012-05-09 06:37:18+00:00,New York City,Dining and Drinking,Bar,,,,
+82,682,40.75901857243343,-73.96270118344978,8324,Asian Restaurant,2012-05-16 00:02:10+00:00,New York City,Dining and Drinking,Restaurant,,,,
+83,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-05-23 22:07:10+00:00,New York City,Landmarks and Outdoors,Sculpture Garden,,,,
+84,682,40.770037033726105,-73.95506561403909,32393,Bar,2012-05-23 22:39:00+00:00,New York City,Dining and Drinking,Bar,,,,
+85,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-11-07 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,8.0,1.0,nyc,Return
+86,682,40.7768145145783,-73.95547315207246,34805,Coffee Shop,2012-11-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",9.0,1.0,nyc,Return
+87,682,40.75086599645483,-73.98664398454908,231,Steakhouse,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Return
+88,682,40.75901857243343,-73.96270118344978,8324,Asian Restaurant,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Return
+89,682,40.7768145145783,-73.95547315207246,34805,Coffee Shop,2012-11-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",12.0,1.0,nyc,Return
+90,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-11-12 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,13.0,1.0,nyc,Return
+91,682,40.76069793431174,-73.98598439766978,4917,Theater,2012-11-12 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,13.0,1.0,nyc,Return
+92,682,40.77473050116933,-73.98209327769995,7924,Electronics Store,2012-11-15 18:00:09+00:00,,Retail,Computers and Electronics Retail,16.0,2.0,nyc,Rec
+93,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-11-16 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,17.0,2.0,nyc,Return
+94,682,40.73968518262072,-74.00601983070374,7,French Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Return
+95,682,40.75901857243343,-73.96270118344978,8324,Asian Restaurant,2012-11-18 18:00:09+00:00,,Dining and Drinking,Restaurant,19.0,2.0,nyc,Return
+96,682,40.76170986250295,-73.9601396882319,23419,French Restaurant,2012-11-19 18:00:09+00:00,,Dining and Drinking,Restaurant,20.0,2.0,nyc,Explore
+97,682,40.75901857243343,-73.96270118344978,8324,Asian Restaurant,2012-11-19 18:00:09+00:00,,Dining and Drinking,Restaurant,20.0,2.0,nyc,Return
+98,682,40.7768145145783,-73.95547315207246,34805,Coffee Shop,2012-12-03 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",34.0,4.0,nyc,Return
+99,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,34.0,4.0,nyc,Return
+100,682,40.7740642122466,-73.97095799446106,4582,Sculpture Garden,2012-12-05 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,36.0,5.0,nyc,Rec
+101,682,40.775341832372696,-73.96879076957703,4782,American Restaurant,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Rec
+102,682,40.76069793431174,-73.98598439766978,4917,Theater,2012-12-06 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,37.0,5.0,nyc,Return
+103,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,37.0,5.0,nyc,Return
+104,682,40.72789007835151,-73.99897144381916,24968,Bar,2012-12-11 18:00:09+00:00,,Dining and Drinking,Bar,42.0,6.0,nyc,Return
+105,682,40.755210123585385,-73.96909361123883,22187,American Restaurant,2012-12-11 18:00:09+00:00,,Dining and Drinking,Restaurant,42.0,6.0,nyc,Rec
+106,682,40.76069793431174,-73.98598439766978,4917,Theater,2012-12-12 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,43.0,6.0,nyc,Return
+107,682,40.752771,-73.97488114000001,19203,Bar,2012-12-12 18:00:09+00:00,,Dining and Drinking,Bar,43.0,6.0,nyc,Return
+108,682,40.761373,-73.960426,11136,Movie Theater,2012-12-15 18:00:09+00:00,,Arts and Entertainment,Movie Theater,46.0,6.0,nyc,Explore
+109,682,40.73618108572264,-73.99221691224146,184,Bar,2012-12-16 18:00:09+00:00,,Dining and Drinking,Bar,47.0,6.0,nyc,Return
+110,682,40.7341856521751,-73.99264097213745,31136,Bar,2012-12-16 18:00:09+00:00,,Dining and Drinking,Bar,47.0,6.0,nyc,Explore
+111,682,40.73618108572264,-73.99221691224146,184,Bar,2012-12-18 18:00:09+00:00,,Dining and Drinking,Bar,49.0,7.0,nyc,Rec
+112,682,40.768247,-73.98183,1082,Bar,2012-12-30 18:00:09+00:00,,Dining and Drinking,Bar,61.0,8.0,nyc,Return
+113,682,40.75086599645483,-73.98664398454908,231,Steakhouse,2012-12-30 18:00:09+00:00,,Dining and Drinking,Restaurant,61.0,8.0,nyc,Return
+114,682,40.85121557428245,-73.95206451416016,3686,Bridge,2013-01-02 18:00:09+00:00,,Landmarks and Outdoors,Bridge,64.0,9.0,nyc,Return
+115,682,40.7043034492768,-74.01017299652374,722,Gastropub,2013-01-03 18:00:09+00:00,,Dining and Drinking,Restaurant,65.0,9.0,nyc,Return
+116,682,40.749695355837886,-73.97648334503174,4553,Bar,2013-01-03 18:00:09+00:00,,Dining and Drinking,Bar,65.0,9.0,nyc,Return
+117,682,40.749902,-73.982187,28550,Chinese Restaurant,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Explore
+118,682,40.75901857243343,-73.96270118344978,8324,Asian Restaurant,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Return
+119,682,40.75557964275588,-73.97086143493652,3323,Mexican Restaurant,2013-01-06 18:00:09+00:00,,Dining and Drinking,Restaurant,68.0,9.0,nyc,Rec
+120,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,69.0,9.0,nyc,Return
+121,682,40.729752,-73.9996266,1444,Vegetarian / Vegan Restaurant,2013-01-09 18:00:09+00:00,,Dining and Drinking,Restaurant,71.0,10.0,nyc,Explore
+122,682,40.72979057247075,-74.00069303656065,23291,Vietnamese Restaurant,2013-01-10 18:00:09+00:00,,Dining and Drinking,Restaurant,72.0,10.0,nyc,Rec
+123,682,40.729110403548944,-73.9842454555664,2178,Ramen /  Noodle House,2013-01-10 18:00:09+00:00,,Dining and Drinking,Restaurant,72.0,10.0,nyc,Rec
+124,682,40.73454149122398,-73.98787253809468,278,Bar,2013-01-10 18:00:09+00:00,,Dining and Drinking,Bar,72.0,10.0,nyc,Rec
+125,682,40.7768145145783,-73.95547315207246,34805,Coffee Shop,2013-01-12 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",74.0,10.0,nyc,Return
+126,682,40.77665985450536,-73.95561665117526,1607,Bar,2013-01-12 18:00:09+00:00,,Dining and Drinking,Bar,74.0,10.0,nyc,Rec
+127,682,40.77355485829142,-73.95565683090494,16352,Tapas Restaurant,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Return
+128,682,40.779772,-73.94716,26470,Coffee Shop,2013-01-13 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",75.0,10.0,nyc,Explore
+129,682,40.751287,-73.973417,2990,Ramen /  Noodle House,2013-01-14 18:00:09+00:00,,Dining and Drinking,Restaurant,76.0,10.0,nyc,Return
+130,682,40.75138501117728,-73.97364502925768,1759,Sushi Restaurant,2013-01-15 18:00:09+00:00,,Dining and Drinking,Restaurant,77.0,11.0,nyc,Explore
+131,682,40.75892111759599,-73.9771919613682,21953,Sculpture Garden,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,79.0,11.0,nyc,Return
+132,682,40.73968518262072,-74.00601983070374,7,French Restaurant,2013-01-17 18:00:09+00:00,,Dining and Drinking,Restaurant,79.0,11.0,nyc,Return
+133,682,40.73095572564641,-73.98595570238331,2724,Movie Theater,2013-01-17 18:00:09+00:00,,Arts and Entertainment,Movie Theater,79.0,11.0,nyc,Explore
+134,682,40.726822997452096,-73.98547097557582,6435,Seafood Restaurant,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Rec
+135,682,40.726876,-73.983532,1961,Bar,2013-01-25 18:00:09+00:00,,Dining and Drinking,Bar,87.0,12.0,nyc,Rec
+136,682,40.75086599645483,-73.98664398454908,231,Steakhouse,2013-01-26 18:00:09+00:00,,Dining and Drinking,Restaurant,88.0,12.0,nyc,Rec
+137,682,40.74939515297712,-73.98307467379728,2164,Bar,2013-01-26 18:00:09+00:00,,Dining and Drinking,Bar,88.0,12.0,nyc,Explore
+138,682,40.75300887064457,-73.97764536706944,8701,History Museum,2013-01-29 18:00:09+00:00,,Arts and Entertainment,Museum,91.0,13.0,nyc,Rec
+139,682,40.7183993492746,-73.96020282632394,2213,Bar,2013-01-31 18:00:09+00:00,,Dining and Drinking,Bar,93.0,13.0,nyc,Return
+140,682,40.72789007835151,-73.99897144381916,24968,Bar,2013-02-01 18:00:09+00:00,,Dining and Drinking,Bar,94.0,13.0,nyc,Return
+141,682,40.783258791664096,-73.97812172886994,1486,French Restaurant,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Return
+142,682,40.77033928261004,-73.95377411459097,24500,Bar,2013-02-01 18:00:09+00:00,,Dining and Drinking,Bar,94.0,13.0,nyc,Return
+143,682,40.77628428997773,-73.95309448242188,24744,Bar,2013-02-02 18:00:09+00:00,,Dining and Drinking,Bar,95.0,13.0,nyc,Rec
+144,682,40.7043034492768,-74.01017299652374,722,Gastropub,2013-02-04 18:00:09+00:00,,Dining and Drinking,Restaurant,97.0,13.0,nyc,Return
+145,682,40.74093223261556,-74.00535273659517,15055,Neighborhood,2013-02-04 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,97.0,13.0,nyc,Rec
+146,682,40.728487,-73.998273,3812,Cuban Restaurant,2013-02-04 18:00:09+00:00,,Dining and Drinking,Restaurant,97.0,13.0,nyc,Explore
+147,682,40.772345,-73.95211,14413,Church,2013-02-05 18:00:09+00:00,,Community and Government,Spiritual Center,98.0,14.0,nyc,Return
+148,682,40.77033928261004,-73.95377411459097,24500,Bar,2013-02-05 18:00:09+00:00,,Dining and Drinking,Bar,98.0,14.0,nyc,Rec
+149,682,40.77628428997773,-73.95309448242188,24744,Bar,2013-02-06 18:00:09+00:00,,Dining and Drinking,Bar,99.0,14.0,nyc,Return
+150,682,40.779720692671575,-73.9653858192127,15467,Sculpture Garden,2013-02-07 18:00:09+00:00,,Landmarks and Outdoors,Sculpture Garden,100.0,14.0,nyc,Explore
+151,682,40.75300887064457,-73.97764536706944,8701,History Museum,2013-02-07 18:00:09+00:00,,Arts and Entertainment,Museum,100.0,14.0,nyc,Return
+152,682,40.76069793431174,-73.98598439766978,4917,Theater,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,101.0,14.0,nyc,Return
+153,682,40.76430758425931,-73.98882150650024,1274,Bar,2013-02-08 18:00:09+00:00,,Dining and Drinking,Bar,101.0,14.0,nyc,Rec

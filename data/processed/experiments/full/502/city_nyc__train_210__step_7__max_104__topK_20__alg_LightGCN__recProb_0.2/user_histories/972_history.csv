@@ -1,0 +1,102 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,972,40.6230583190918,-74.08316802978516,28743,Laundry Service,2012-04-06 15:32:25+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+1,972,40.62689263449373,-74.07646536827087,11076,Park,2012-04-13 13:15:36+00:00,New York City,Landmarks and Outdoors,Park,,,,
+2,972,40.6203921326451,-74.07740290230015,16629,Post Office,2012-04-13 21:20:55+00:00,New York City,Community and Government,Government Building,,,,
+3,972,40.72264044368007,-73.98834943771362,2355,Food & Drink Shop,2012-04-27 17:44:27+00:00,New York City,Retail,Food and Beverage Retail,,,,
+4,972,40.70145732419213,-74.01321428847186,1097,Ferry,2012-04-27 18:11:31+00:00,New York City,Travel and Transportation,Pier,,,,
+5,972,40.620443766078,-74.07740863860205,16629,Post Office,2012-08-10 12:54:08+00:00,New York City,Community and Government,Government Building,,,,
+6,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-06-01 12:10:05+00:00,New York City,Landmarks and Outdoors,Park,,,,
+7,972,40.64182723432631,-74.07707593280384,13816,Bakery,2012-06-01 18:32:38+00:00,New York City,Dining and Drinking,Bakery,,,,
+8,972,40.640140567124,-74.07567626750813,11655,Italian Restaurant,2012-06-01 18:36:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+9,972,40.63849747180939,-74.07599329948425,22162,Art Gallery,2012-06-01 18:56:49+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+10,972,40.590998,-74.08785,18351,Bank,2012-05-04 19:51:49+00:00,New York City,Business and Professional Services,Financial Service,,,,
+11,972,40.585326901406766,-74.09308433532715,19496,Deli / Bodega,2012-05-04 20:12:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,972,40.5852467,-74.09389687777778,5147,Pet Store,2012-05-04 20:13:20+00:00,New York City,Retail,Pet Supplies Store,,,,
+13,972,40.624053421456594,-74.08390202054588,22535,Other Great Outdoors,2012-05-04 22:44:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+14,972,40.58999724918286,-74.16578998439077,28623,Food & Drink Shop,2012-05-18 21:53:02+00:00,New York City,Retail,Food and Beverage Retail,,,,
+15,972,40.64186960090976,-74.07677190802734,13639,Library,2012-05-25 15:05:01+00:00,New York City,Community and Government,Library,,,,
+16,972,40.62709006557659,-74.07603765749188,15256,Deli / Bodega,2012-10-19 20:38:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,972,40.641667428976895,-74.07677190802734,13639,Library,2012-09-14 15:59:02+00:00,New York City,Community and Government,Library,,,,
+18,972,40.63849747180939,-74.07599329948425,22162,Art Gallery,2012-09-14 16:07:34+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+19,972,40.62443787116938,-74.08435517225,22535,Other Great Outdoors,2012-04-09 12:45:45+00:00,New York City,Landmarks and Outdoors,Park,,,,
+20,972,40.74307504719547,-74.00298846947285,6393,Medical Center,2012-04-09 16:31:12+00:00,New York City,Health and Medicine,Physician,,,,
+21,972,40.590998,-74.08785,18351,Bank,2012-04-16 15:04:59+00:00,New York City,Business and Professional Services,Financial Service,,,,
+22,972,40.584967,-74.0932244,14284,Flower Shop,2012-04-16 15:25:14+00:00,New York City,Retail,Flower Store,,,,
+23,972,40.5852467,-74.09389687777778,5147,Pet Store,2012-04-16 15:31:52+00:00,New York City,Retail,Pet Supplies Store,,,,
+24,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-07-09 11:16:01+00:00,New York City,Landmarks and Outdoors,Park,,,,
+25,972,40.6444055420497,-74.0729570388794,3974,Ferry,2012-05-07 15:49:29+00:00,New York City,Travel and Transportation,Pier,,,,
+26,972,40.73899834973589,-74.0027704045293,23232,Bank,2012-05-07 16:50:34+00:00,New York City,Business and Professional Services,Financial Service,,,,
+27,972,40.73651061,-74.00101,1423,Pizza Place,2012-05-07 17:11:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+28,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-05-28 14:24:24+00:00,New York City,Landmarks and Outdoors,Park,,,,
+29,972,40.62443787116938,-74.08435517225,22535,Other Great Outdoors,2012-04-14 12:55:09+00:00,New York City,Landmarks and Outdoors,Park,,,,
+30,972,40.62551356896046,-74.07643346477585,30523,Deli / Bodega,2012-04-28 18:14:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,972,40.6444055420497,-74.0729570388794,3974,Ferry,2012-08-11 16:20:38+00:00,New York City,Travel and Transportation,Pier,,,,
+32,972,40.756489872673846,-73.98626804351807,2360,Plaza,2012-08-11 17:14:16+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+33,972,40.76060088532793,-73.98582370401029,3327,Theater,2012-08-11 17:38:27+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+34,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-06-09 12:35:53+00:00,New York City,Landmarks and Outdoors,Park,,,,
+35,972,40.6444055420497,-74.0729570388794,3974,Ferry,2012-05-05 15:46:00+00:00,New York City,Travel and Transportation,Pier,,,,
+36,972,40.6415742661514,-74.07676043538468,13639,Library,2012-05-05 15:57:17+00:00,New York City,Community and Government,Library,,,,
+37,972,40.62709006557659,-74.07603765749188,15256,Deli / Bodega,2012-05-05 16:18:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,972,40.624053421456594,-74.08390202054588,22535,Other Great Outdoors,2012-05-05 22:37:06+00:00,New York City,Landmarks and Outdoors,Park,,,,
+39,972,40.61323642730713,-74.0655380487442,21629,Medical Center,2012-09-15 17:52:38+00:00,New York City,Health and Medicine,Hospital,,,,
+40,972,40.63715440375127,-74.07497643097024,26158,Art Gallery,2012-04-15 00:34:40+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+41,972,40.63849747180939,-74.07599329948425,22162,Art Gallery,2012-04-15 01:30:00+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+42,972,40.62443787116938,-74.08435517225,22535,Other Great Outdoors,2012-04-15 22:20:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+43,972,40.624053421456594,-74.08390202054588,22535,Other Great Outdoors,2012-04-22 12:38:45+00:00,New York City,Landmarks and Outdoors,Park,,,,
+44,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-08-05 12:12:41+00:00,New York City,Landmarks and Outdoors,Park,,,,
+45,972,40.73692190039417,-74.00922616934126,36338,Art Gallery,2012-07-08 17:04:16+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+46,972,40.62390001666667,-74.07778243333334,27783,Art Gallery,2012-06-03 05:28:19+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+47,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-06-03 12:46:46+00:00,New York City,Landmarks and Outdoors,Park,,,,
+48,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-06-10 13:26:32+00:00,New York City,Landmarks and Outdoors,Park,,,,
+49,972,40.62443787116938,-74.08435517225,22535,Other Great Outdoors,2012-04-12 21:11:47+00:00,New York City,Landmarks and Outdoors,Park,,,,
+50,972,40.624053421456594,-74.08390202054588,22535,Other Great Outdoors,2012-04-19 13:10:28+00:00,New York City,Landmarks and Outdoors,Park,,,,
+51,972,40.62314551436912,-74.08292114414049,28743,Laundry Service,2012-08-09 16:24:23+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+52,972,40.6444055420497,-74.0729570388794,3974,Ferry,2012-08-16 20:37:07+00:00,New York City,Travel and Transportation,Pier,,,,
+53,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-06-07 12:47:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+54,972,40.6203921326451,-74.07740290230015,16629,Post Office,2012-05-03 21:54:22+00:00,New York City,Community and Government,Government Building,,,,
+55,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-05-17 23:15:03+00:00,New York City,Landmarks and Outdoors,Park,,,,
+56,972,40.620443766078,-74.07740863860205,16629,Post Office,2012-10-18 15:17:57+00:00,New York City,Community and Government,Government Building,,,,
+57,972,40.6203921326451,-74.07740290230015,16629,Post Office,2012-04-17 17:15:17+00:00,New York City,Community and Government,Government Building,,,,
+58,972,40.61323642730713,-74.0655380487442,21629,Medical Center,2012-04-24 13:19:34+00:00,New York City,Health and Medicine,Hospital,,,,
+59,972,40.614365,-74.066287,28250,Breakfast Spot,2012-04-24 13:36:49+00:00,New York City,Dining and Drinking,Breakfast Spot,,,,
+60,972,40.64182723432631,-74.07707593280384,13816,Bakery,2012-07-17 14:41:06+00:00,New York City,Dining and Drinking,Bakery,,,,
+61,972,40.63186634859394,-74.07583688536405,13629,Food & Drink Shop,2012-07-17 15:01:14+00:00,New York City,Retail,Food and Beverage Retail,,,,
+62,972,40.58049478198125,-74.09883824437475,26421,Pet Store,2012-06-12 15:35:09+00:00,New York City,Retail,Pet Supplies Store,,,,
+63,972,40.620443766078,-74.07740863860205,16629,Post Office,2012-05-08 17:22:06+00:00,New York City,Community and Government,Government Building,,,,
+64,972,40.63849747180939,-74.07599329948425,22162,Art Gallery,2012-05-08 22:05:11+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+65,972,40.62411241673743,-74.07901479627675,35390,Deli / Bodega,2012-05-08 23:25:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+66,972,40.61323642730713,-74.0655380487442,21629,Medical Center,2012-05-15 20:39:07+00:00,New York City,Health and Medicine,Hospital,,,,
+67,972,40.64186960090976,-74.07677190802734,13639,Library,2012-05-15 23:00:48+00:00,New York City,Community and Government,Library,,,,
+68,972,40.620443766078,-74.07740863860205,16629,Post Office,2012-05-22 14:42:25+00:00,New York City,Community and Government,Government Building,,,,
+69,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-10-23 12:59:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+70,972,40.624053421456594,-74.08390202054588,22535,Other Great Outdoors,2012-04-18 12:54:15+00:00,New York City,Landmarks and Outdoors,Park,,,,
+71,972,40.73851,-74.005511,3745,Tea Room,2012-04-25 15:36:19+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+72,972,40.73616151907358,-74.00347624542094,21,French Restaurant,2012-04-25 16:22:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+73,972,40.70145732419213,-74.01321428847186,1097,Ferry,2012-04-25 16:41:35+00:00,New York City,Travel and Transportation,Pier,,,,
+74,972,40.741133,-74.001556,9056,Drugstore / Pharmacy,2012-06-06 14:49:53+00:00,New York City,Retail,Pharmacy,,,,
+75,972,40.74307504719547,-74.00298846947285,6393,Medical Center,2012-06-06 15:18:44+00:00,New York City,Health and Medicine,Physician,,,,
+76,972,40.73899834973589,-74.0027704045293,23232,Bank,2012-06-06 16:18:38+00:00,New York City,Business and Professional Services,Financial Service,,,,
+77,972,40.73548667918706,-74.0033213049604,1666,Italian Restaurant,2012-06-06 16:43:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+78,972,40.70145732419213,-74.01321428847186,1097,Ferry,2012-06-06 17:36:48+00:00,New York City,Travel and Transportation,Pier,,,,
+79,972,40.61323642730713,-74.0655380487442,21629,Medical Center,2012-06-13 15:16:59+00:00,New York City,Health and Medicine,Hospital,,,,
+80,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-06-13 22:26:17+00:00,New York City,Landmarks and Outdoors,Park,,,,
+81,972,40.69482615718592,-74.17367935180664,14621,Food & Drink Shop,2012-05-09 16:40:53+00:00,New York City,Dining and Drinking,Food Court,,,,
+82,972,40.741133,-74.001556,9056,Drugstore / Pharmacy,2012-05-16 17:50:52+00:00,New York City,Retail,Pharmacy,,,,
+83,972,40.70343536719512,-74.0065176438763,36343,Ferry,2012-11-09 18:00:09+00:00,,Travel and Transportation,Pier,10.0,1.0,nyc,Explore
+84,972,40.6444055420497,-74.0729570388794,3974,Ferry,2012-11-09 18:00:09+00:00,,Travel and Transportation,Pier,10.0,1.0,nyc,Return
+85,972,40.63186634859394,-74.07583688536405,13629,Food & Drink Shop,2012-11-12 18:00:09+00:00,,Retail,Food and Beverage Retail,13.0,1.0,nyc,Rec
+86,972,40.63583810897264,-74.07596882135782,10808,Gas Station / Garage,2012-11-12 18:00:09+00:00,,Travel and Transportation,Fuel Station,13.0,1.0,nyc,Explore
+87,972,40.6444055420497,-74.0729570388794,3974,Ferry,2012-11-15 18:00:09+00:00,,Travel and Transportation,Pier,16.0,2.0,nyc,Return
+88,972,40.62441101136682,-74.08424618649657,22469,Other Great Outdoors,2012-11-18 18:00:09+00:00,,Landmarks and Outdoors,Park,19.0,2.0,nyc,Explore
+89,972,40.70145732419213,-74.01321428847186,1097,Ferry,2012-11-23 18:00:09+00:00,,Travel and Transportation,Pier,24.0,3.0,nyc,Return
+90,972,40.74909378925855,-73.98221953946711,4774,Coffee Shop,2012-12-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",33.0,4.0,nyc,Explore
+91,972,40.71324069757859,-73.9870948344469,11705,Medical Center,2012-12-04 18:00:09+00:00,,Health and Medicine,Hospital,35.0,5.0,nyc,Explore
+92,972,40.620443766078,-74.07740863860205,16629,Post Office,2012-12-08 18:00:09+00:00,,Community and Government,Government Building,39.0,5.0,nyc,Return
+93,972,40.620443766078,-74.07740863860205,16629,Post Office,2012-12-11 18:00:09+00:00,,Community and Government,Government Building,42.0,6.0,nyc,Return
+94,972,40.62450363370165,-74.08442974141343,22535,Other Great Outdoors,2012-12-14 18:00:09+00:00,,Landmarks and Outdoors,Park,45.0,6.0,nyc,Return
+95,972,40.620443766078,-74.07740863860205,16629,Post Office,2012-12-18 18:00:09+00:00,,Community and Government,Government Building,49.0,7.0,nyc,Rec
+96,972,40.6444055420497,-74.0729570388794,3974,Ferry,2012-12-19 18:00:09+00:00,,Travel and Transportation,Pier,50.0,7.0,nyc,Rec
+97,972,40.6444055420497,-74.0729570388794,3974,Ferry,2013-01-25 18:00:09+00:00,,Travel and Transportation,Pier,87.0,12.0,nyc,Return
+98,972,40.64430373292698,-74.07307194464059,25748,Sandwich Place,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Explore
+99,972,40.64186960090976,-74.07677190802734,13639,Library,2013-02-01 18:00:09+00:00,,Community and Government,Library,94.0,13.0,nyc,Return
+100,972,40.690238123887376,-73.97777080535889,7587,Medical Center,2013-02-04 18:00:09+00:00,,Health and Medicine,Hospital,97.0,13.0,nyc,Explore

@@ -1,0 +1,127 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,684,40.967639,-74.073357,22632,Convenience Store,2012-04-13 11:14:18+00:00,New York City,Retail,Convenience Store,,,,
+1,684,40.80892978892742,-74.10500396645905,12862,Sandwich Place,2012-04-20 16:06:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,684,40.967639,-74.073357,22632,Convenience Store,2012-08-10 09:38:39+00:00,New York City,Retail,Convenience Store,,,,
+3,684,40.95645602603759,-74.06891872114007,23090,Bookstore,2012-07-06 21:12:49+00:00,New York City,Retail,Bookstore,,,,
+4,684,40.95634251626308,-74.06902771574032,5675,Mall,2012-07-13 21:06:51+00:00,New York City,Retail,Shopping Mall,,,,
+5,684,40.95644651835608,-74.06886135553577,28643,Coffee Shop,2012-07-13 21:53:07+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+6,684,40.806180734527125,-74.1040977613822,10049,Bar,2012-07-27 21:42:23+00:00,New York City,Dining and Drinking,Bar,,,,
+7,684,40.81354775855645,-74.10954796515402,13282,Convenience Store,2012-05-04 20:58:30+00:00,New York City,Retail,Convenience Store,,,,
+8,684,40.80968395753514,-74.10441894849181,14709,Hotel,2012-05-11 16:11:54+00:00,New York City,Travel and Transportation,Lodging,,,,
+9,684,40.81354775855645,-74.10954796515402,13282,Convenience Store,2012-05-11 20:50:17+00:00,New York City,Retail,Convenience Store,,,,
+10,684,40.91532869189857,-74.07670140266418,8904,Movie Theater,2012-05-11 22:40:53+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+11,684,40.75671096305903,-74.00100198012031,1295,Convention Center,2012-10-12 18:28:07+00:00,New York City,Business and Professional Services,Convention Center,,,,
+12,684,40.86118054351042,-74.06651973724365,15561,Fast Food Restaurant,2012-10-26 23:47:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+13,684,40.91480980676915,-74.05875205993652,11083,Video Game Store,2012-09-14 14:56:51+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+14,684,40.93189250626306,-74.13226836771899,11679,Bookstore,2012-09-14 15:54:30+00:00,New York City,Retail,Bookstore,,,,
+15,684,40.81354775855645,-74.10954796515402,13282,Convenience Store,2012-04-09 20:47:55+00:00,New York City,Retail,Convenience Store,,,,
+16,684,40.966687865327046,-74.0786362031987,19661,Coffee Shop,2012-04-16 11:10:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+17,684,40.80968395753514,-74.10441894849181,14709,Hotel,2012-04-16 16:11:43+00:00,New York City,Travel and Transportation,Lodging,,,,
+18,684,40.967639,-74.073357,22632,Convenience Store,2012-04-23 09:35:02+00:00,New York City,Retail,Convenience Store,,,,
+19,684,40.87828303779774,-74.0657901763916,11879,Food & Drink Shop,2012-04-23 21:44:56+00:00,New York City,Retail,Food and Beverage Retail,,,,
+20,684,40.80892978892742,-74.10500396645905,12862,Sandwich Place,2012-07-02 16:07:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,684,40.80892978892742,-74.10500396645905,12862,Sandwich Place,2012-05-14 16:08:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,684,40.83033717574059,-74.09299926258834,11188,Video Game Store,2012-05-14 21:16:25+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+23,684,40.941230070448725,-74.08946022378139,16099,Cemetery,2012-05-28 14:23:46+00:00,New York City,Community and Government,Cemetery,,,,
+24,684,40.92551277739039,-74.08740101176939,18044,Coffee Shop,2012-04-07 13:16:03+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+25,684,40.81270490328548,-74.08209800720215,15244,Flea Market,2012-04-07 15:12:54+00:00,New York City,Retail,Flea Market,,,,
+26,684,40.967639,-74.073357,22632,Convenience Store,2012-04-14 10:55:09+00:00,New York City,Retail,Convenience Store,,,,
+27,684,40.931951,-74.132019,11679,Bookstore,2012-04-14 17:28:07+00:00,New York City,Retail,Bookstore,,,,
+28,684,40.95584,-74.07422840595245,20020,Salon / Barbershop,2012-04-21 14:01:29+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+29,684,40.9342391903288,-74.07145426346402,12528,Donut Shop,2012-04-21 14:25:55+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+30,684,40.9542089913967,-74.06740426335217,18136,Automotive Shop,2012-04-28 13:06:54+00:00,New York City,Retail,Automotive Shop,,,,
+31,684,40.95634251626308,-74.06902771574032,5675,Mall,2012-04-28 16:58:27+00:00,New York City,Retail,Shopping Mall,,,,
+32,684,40.95541218732173,-74.06831638142694,23095,Gaming Cafe,2012-04-28 16:59:33+00:00,New York City,Arts and Entertainment,Gaming Cafe,,,,
+33,684,40.93189250626306,-74.13226836771899,11679,Bookstore,2012-04-28 18:15:32+00:00,New York City,Retail,Bookstore,,,,
+34,684,40.95575677280903,-74.07437324523926,17749,Pizza Place,2012-04-28 19:34:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,684,40.966687865327046,-74.0786362031987,19661,Coffee Shop,2012-08-11 11:13:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+36,684,40.9342391903288,-74.07145426346402,12528,Donut Shop,2012-08-18 13:34:52+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+37,684,40.93189250626306,-74.13226836771899,11679,Bookstore,2012-08-18 19:13:35+00:00,New York City,Retail,Bookstore,,,,
+38,684,40.89730914639198,-74.09555168850837,21334,Building,2012-07-07 12:36:41+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+39,684,40.897936,-74.099942,16535,Coffee Shop,2012-07-14 12:54:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+40,684,40.967639,-74.073357,22632,Convenience Store,2012-05-05 09:50:33+00:00,New York City,Retail,Convenience Store,,,,
+41,684,40.92607839076309,-74.09735270529153,8494,Diner,2012-05-05 13:35:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+42,684,40.93189250626306,-74.13226836771899,11679,Bookstore,2012-05-05 14:19:59+00:00,New York City,Retail,Bookstore,,,,
+43,684,40.75485025788179,-73.98800493858226,929,Bookstore,2012-05-05 16:11:53+00:00,New York City,Retail,Bookstore,,,,
+44,684,40.757031390907855,-73.98902607371383,898,Movie Theater,2012-05-05 16:57:43+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+45,684,40.93189250626306,-74.13226836771899,11679,Bookstore,2012-05-19 15:18:48+00:00,New York City,Retail,Bookstore,,,,
+46,684,40.75671096305903,-74.00100198012031,1295,Convention Center,2012-10-13 12:34:52+00:00,New York City,Business and Professional Services,Convention Center,,,,
+47,684,40.967639,-74.073357,22632,Convenience Store,2012-08-05 12:09:38+00:00,New York City,Retail,Convenience Store,,,,
+48,684,40.82904057544611,-74.14355278015137,10708,Department Store,2012-08-05 15:38:08+00:00,New York City,Retail,Department Store,,,,
+49,684,40.967639,-74.073357,22632,Convenience Store,2012-08-12 11:06:29+00:00,New York City,Retail,Convenience Store,,,,
+50,684,40.9342391903288,-74.07145426346402,12528,Donut Shop,2012-08-19 13:29:01+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+51,684,40.8292029376781,-74.13943290710449,9028,Bookstore,2012-07-08 13:58:51+00:00,New York City,Retail,Bookstore,,,,
+52,684,40.887882,-74.066546,22134,Salon / Barbershop,2012-07-15 14:05:43+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+53,684,40.93189250626306,-74.13226836771899,11679,Bookstore,2012-07-15 16:03:49+00:00,New York City,Retail,Bookstore,,,,
+54,684,40.9342391903288,-74.07145426346402,12528,Donut Shop,2012-07-22 12:02:29+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+55,684,40.917335441802095,-74.0756607055664,3299,Mall,2012-07-22 14:15:36+00:00,New York City,Retail,Shopping Mall,,,,
+56,684,40.91532869189857,-74.07670140266418,8904,Movie Theater,2012-07-22 14:21:06+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+57,684,40.91532869189857,-74.07670140266418,8904,Movie Theater,2012-07-22 14:22:41+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+58,684,40.966687865327046,-74.0786362031987,19661,Coffee Shop,2012-07-29 12:54:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+59,684,40.941230070448725,-74.08946022378139,16099,Cemetery,2012-06-17 13:56:16+00:00,New York City,Community and Government,Cemetery,,,,
+60,684,40.8301121588305,-74.13793087005615,12031,Video Game Store,2012-05-13 15:40:18+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+61,684,40.81215734007166,-74.12236440486242,11052,Coffee Shop,2012-10-28 08:49:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+62,684,40.80364729060446,-74.11808609786884,13469,Food & Drink Shop,2012-10-28 10:07:08+00:00,New York City,Retail,Food and Beverage Retail,,,,
+63,684,40.87828303779774,-74.0657901763916,11879,Food & Drink Shop,2012-04-12 21:34:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+64,684,40.8270516058405,-74.09713447093964,9644,Bank,2012-04-19 20:55:38+00:00,New York City,Business and Professional Services,Financial Service,,,,
+65,684,40.65995845923605,-74.13098954154846,33014,Other Great Outdoors,2012-08-16 17:31:21+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+66,684,40.79214157105419,-74.04870986938477,8670,Department Store,2012-08-16 19:24:06+00:00,New York City,Retail,Department Store,,,,
+67,684,40.95634251626308,-74.06902771574032,5675,Mall,2012-08-16 22:08:01+00:00,New York City,Retail,Shopping Mall,,,,
+68,684,40.80968395753514,-74.10441894849181,14709,Hotel,2012-07-05 16:08:53+00:00,New York City,Travel and Transportation,Lodging,,,,
+69,684,40.8312324320345,-74.08960819244385,6687,Burger Joint,2012-07-12 21:21:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+70,684,40.93189250626306,-74.13226836771899,11679,Bookstore,2012-05-03 22:09:15+00:00,New York City,Retail,Bookstore,,,,
+71,684,40.81354775855645,-74.10954796515402,13282,Convenience Store,2012-05-10 20:52:25+00:00,New York City,Retail,Convenience Store,,,,
+72,684,40.8270516058405,-74.09713447093964,9644,Bank,2012-05-10 21:17:59+00:00,New York City,Business and Professional Services,Financial Service,,,,
+73,684,40.95634251626308,-74.06902771574032,5675,Mall,2012-05-10 22:06:22+00:00,New York City,Retail,Shopping Mall,,,,
+74,684,40.91532869189857,-74.07670140266418,8904,Movie Theater,2012-05-17 22:15:30+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+75,684,40.917335441802095,-74.0756607055664,3299,Mall,2012-05-17 22:45:57+00:00,New York City,Retail,Shopping Mall,,,,
+76,684,40.920868566924085,-74.1180746277456,24020,Medical Center,2012-10-11 20:06:50+00:00,New York City,Health and Medicine,Hospital,,,,
+77,684,40.81251814023644,-74.11742269992828,14504,Bank,2012-10-25 11:07:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+78,684,40.81366776769526,-74.10953492625622,13282,Convenience Store,2012-10-25 11:20:56+00:00,New York City,Retail,Convenience Store,,,,
+79,684,40.82042196595745,-74.10050731096753,22159,Gas Station / Garage,2012-09-13 15:49:57+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+80,684,40.741851,-74.007505,26313,Clothing Store,2012-09-13 16:31:27+00:00,New York City,Retail,Boutique,,,,
+81,684,40.73960249209647,-74.00616186013886,24158,Building,2012-09-13 16:45:46+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+82,684,40.81354775855645,-74.10954796515402,13282,Convenience Store,2012-04-17 20:48:08+00:00,New York City,Retail,Convenience Store,,,,
+83,684,40.83033717574059,-74.09299926258834,11188,Video Game Store,2012-08-14 21:12:09+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+84,684,40.97267280899067,-74.08149719238281,9302,Bookstore,2012-07-17 21:45:52+00:00,New York City,Retail,Bookstore,,,,
+85,684,40.81354775855645,-74.10954796515402,13282,Convenience Store,2012-07-24 16:14:46+00:00,New York City,Retail,Convenience Store,,,,
+86,684,40.87828303779774,-74.0657901763916,11879,Food & Drink Shop,2012-06-12 21:36:58+00:00,New York City,Retail,Food and Beverage Retail,,,,
+87,684,40.87707432536328,-74.06620860099792,16135,Video Game Store,2012-05-15 21:47:09+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+88,684,40.81354775855645,-74.10954796515402,13282,Convenience Store,2012-05-29 20:49:45+00:00,New York City,Retail,Convenience Store,,,,
+89,684,40.80968395753514,-74.10441894849181,14709,Hotel,2012-10-16 16:06:41+00:00,New York City,Travel and Transportation,Lodging,,,,
+90,684,40.91532869189857,-74.07670140266418,8904,Movie Theater,2012-07-04 14:18:22+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+91,684,40.93189250626306,-74.13226836771899,11679,Bookstore,2012-07-04 18:08:08+00:00,New York City,Retail,Bookstore,,,,
+92,684,40.81354775855645,-74.10954796515402,13282,Convenience Store,2012-06-13 20:46:47+00:00,New York City,Retail,Convenience Store,,,,
+93,684,40.815064,-74.113944,17143,Cosmetics Shop,2012-10-31 18:00:09+00:00,,Retail,Cosmetics Store,1.0,0.0,nyc,Explore
+94,684,40.794513338780895,-74.12861824035645,12009,Bank,2012-11-01 18:00:09+00:00,,Business and Professional Services,Financial Service,2.0,0.0,nyc,Rec
+95,684,40.800645214230855,-74.14708032156476,29438,Convenience Store,2012-11-01 18:00:09+00:00,,Retail,Convenience Store,2.0,0.0,nyc,Rec
+96,684,40.79357880811769,-74.14585320474605,10745,Electronics Store,2012-11-01 18:00:09+00:00,,Retail,Computers and Electronics Retail,2.0,0.0,nyc,Explore
+97,684,40.78471383,-74.146464,18988,Coffee Shop,2012-11-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",3.0,0.0,nyc,Explore
+98,684,40.80103067159133,-74.17014173233079,15794,Bank,2012-11-07 18:00:09+00:00,,Business and Professional Services,Financial Service,8.0,1.0,nyc,Rec
+99,684,40.800645214230855,-74.14708032156476,29438,Convenience Store,2012-11-07 18:00:09+00:00,,Retail,Convenience Store,8.0,1.0,nyc,Rec
+100,684,40.81223690839181,-74.1452969855841,10032,Coffee Shop,2012-11-12 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",13.0,1.0,nyc,Rec
+101,684,40.83542111196496,-74.14731860160828,27735,Coffee Shop,2012-11-16 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",17.0,2.0,nyc,Rec
+102,684,40.755002,-73.968647,5761,Coffee Shop,2012-11-17 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",18.0,2.0,nyc,Rec
+103,684,40.75593488044145,-73.990954356579,13985,Bank,2012-11-22 18:00:09+00:00,,Business and Professional Services,Financial Service,23.0,3.0,nyc,Rec
+104,684,40.81215734007166,-74.12236440486242,11052,Coffee Shop,2012-11-22 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",23.0,3.0,nyc,Return
+105,684,40.78471383,-74.146464,18988,Coffee Shop,2012-11-23 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",24.0,3.0,nyc,Rec
+106,684,40.917335441802095,-74.0756607055664,3299,Mall,2012-11-23 18:00:09+00:00,,Retail,Shopping Mall,24.0,3.0,nyc,Return
+107,684,40.91464765433098,-74.08042430877686,9954,Food & Drink Shop,2012-11-23 18:00:09+00:00,,Retail,Food and Beverage Retail,24.0,3.0,nyc,Rec
+108,684,40.91464765433098,-74.07557487487793,18030,Electronics Store,2012-11-24 18:00:09+00:00,,Retail,Computers and Electronics Retail,25.0,3.0,nyc,Rec
+109,684,40.917335441802095,-74.0756607055664,3299,Mall,2012-11-24 18:00:09+00:00,,Retail,Shopping Mall,25.0,3.0,nyc,Rec
+110,684,40.95620483337088,-74.06860321010105,19103,Toy / Game Store,2012-11-24 18:00:09+00:00,,Retail,Toy Store,25.0,3.0,nyc,Rec
+111,684,40.91464765433098,-74.08042430877686,9954,Food & Drink Shop,2012-11-28 18:00:09+00:00,,Retail,Food and Beverage Retail,29.0,4.0,nyc,Rec
+112,684,40.92451716666667,-74.103646,10202,Coffee Shop,2012-12-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",39.0,5.0,nyc,Rec
+113,684,40.91821890678626,-74.11104331012851,9864,Convenience Store,2012-12-13 18:00:09+00:00,,Retail,Convenience Store,44.0,6.0,nyc,Rec
+114,684,40.931951,-74.132019,11679,Bookstore,2012-12-15 18:00:09+00:00,,Retail,Bookstore,46.0,6.0,nyc,Rec
+115,684,40.91821890678626,-74.11104331012851,9864,Convenience Store,2012-12-19 18:00:09+00:00,,Retail,Convenience Store,50.0,7.0,nyc,Rec
+116,684,40.916494029390336,-74.08721172374203,33817,General Travel,2012-12-19 18:00:09+00:00,,Travel and Transportation,General Travel,50.0,7.0,nyc,Rec
+117,684,40.946097781156325,-74.0714979171753,14467,Coffee Shop,2012-12-22 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",53.0,7.0,nyc,Rec
+118,684,40.931951,-74.132019,11679,Bookstore,2012-12-23 18:00:09+00:00,,Retail,Bookstore,54.0,7.0,nyc,Rec
+119,684,40.8301121588305,-74.13793087005615,12031,Video Game Store,2012-12-31 18:00:09+00:00,,Retail,Computers and Electronics Retail,62.0,8.0,nyc,Return
+120,684,40.82994979882479,-74.13805961608887,22983,Electronics Store,2012-12-31 18:00:09+00:00,,Retail,Computers and Electronics Retail,62.0,8.0,nyc,Rec
+121,684,40.8301121588305,-74.13793087005615,12031,Video Game Store,2013-01-21 18:00:09+00:00,,Retail,Computers and Electronics Retail,83.0,11.0,nyc,Rec
+122,684,40.8292029376781,-74.13943290710449,9028,Bookstore,2013-01-26 18:00:09+00:00,,Retail,Bookstore,88.0,12.0,nyc,Rec
+123,684,40.8301121588305,-74.13793087005615,12031,Video Game Store,2013-01-26 18:00:09+00:00,,Retail,Computers and Electronics Retail,88.0,12.0,nyc,Rec
+124,684,40.75593488044145,-73.990954356579,13985,Bank,2013-02-02 18:00:09+00:00,,Business and Professional Services,Financial Service,95.0,13.0,nyc,Return
+125,684,40.75837793616776,-73.9696618269312,5080,Bookstore,2013-02-02 18:00:09+00:00,,Retail,Bookstore,95.0,13.0,nyc,Rec

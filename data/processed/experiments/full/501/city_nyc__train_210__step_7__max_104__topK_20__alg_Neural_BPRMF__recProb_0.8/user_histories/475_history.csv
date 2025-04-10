@@ -1,0 +1,191 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+76286,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-04-06 12:52:49+00:00,New York City,Dining and Drinking,Restaurant
+76287,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-13 22:15:54+00:00,New York City,Sports and Recreation,Gym and Studio
+76288,475,40.719611687500006,-73.98675,795,Sandwich Place,2012-04-20 00:33:20+00:00,New York City,Dining and Drinking,Restaurant
+76289,475,40.72656947142857,-73.985945,29601,Bar,2012-04-27 23:08:46+00:00,New York City,Dining and Drinking,Bar
+76290,475,40.727386,-73.988549,11755,Flower Shop,2012-08-10 00:29:32+00:00,New York City,Retail,Flower Store
+76291,475,40.72167458233174,-73.98838904743799,7373,Thrift / Vintage Store,2012-08-10 01:21:19+00:00,New York City,Retail,Vintage and Thrift Store
+76292,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-08-10 11:38:02+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76293,475,40.73744374263057,-73.99153972432849,2453,Sandwich Place,2012-08-10 17:34:04+00:00,New York City,Dining and Drinking,Restaurant
+76294,475,40.73633186448861,-73.98961544036865,3097,Vegetarian / Vegan Restaurant,2012-08-17 17:36:27+00:00,New York City,Dining and Drinking,Restaurant
+76295,475,40.722340607446,-73.98782908916473,26295,Mexican Restaurant,2012-08-17 23:24:24+00:00,New York City,Dining and Drinking,Restaurant
+76296,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-07-06 03:43:50+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76297,475,40.73744374263057,-73.99153972432849,2453,Sandwich Place,2012-07-13 12:36:10+00:00,New York City,Dining and Drinking,Restaurant
+76298,475,40.73753052988333,-73.99120112947547,472,Sushi Restaurant,2012-07-13 17:33:52+00:00,New York City,Dining and Drinking,Restaurant
+76299,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-06-08 12:52:06+00:00,New York City,Dining and Drinking,Restaurant
+76300,475,40.74939032832351,-73.98286232535908,579,Bar,2012-06-08 22:22:05+00:00,New York City,Dining and Drinking,Bar
+76301,475,40.75372797263211,-73.98368835767094,726,Park,2012-06-08 23:07:46+00:00,New York City,Landmarks and Outdoors,Park
+76302,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-06-15 12:44:22+00:00,New York City,Dining and Drinking,Restaurant
+76303,475,40.721387,-73.989193,1341,Vegetarian / Vegan Restaurant,2012-05-04 00:43:38+00:00,New York City,Dining and Drinking,Restaurant
+76304,475,40.72182501933929,-73.9874995027046,1525,Vegetarian / Vegan Restaurant,2012-05-04 01:40:21+00:00,New York City,Dining and Drinking,Restaurant
+76305,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-05-04 02:27:41+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76306,475,40.95799336338653,-74.10746446325602,35280,General Entertainment,2012-05-04 13:16:45+00:00,New York City,Arts and Entertainment,General Entertainment
+76307,475,40.73720237151301,-73.99272767103481,6708,Clothing Store,2012-05-04 21:33:07+00:00,New York City,Retail,Fashion Retail
+76308,475,40.76271587683453,-73.98763664066797,1703,Burrito Place,2012-05-04 22:03:16+00:00,New York City,Dining and Drinking,Restaurant
+76309,475,40.71600125228523,-73.99320973426613,3522,Dumpling Restaurant,2012-05-11 01:18:41+00:00,New York City,Dining and Drinking,Restaurant
+76310,475,40.720480045234375,-73.99355980323412,736,Music Venue,2012-05-11 01:30:25+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+76311,475,40.720480045234375,-73.99355980323412,736,Music Venue,2012-05-11 01:32:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+76312,475,40.71720862468233,-74.0017819404602,19171,Deli / Bodega,2012-05-11 13:38:41+00:00,New York City,Dining and Drinking,Restaurant
+76313,475,40.71634217049623,-74.00154234994564,20188,Government Building,2012-05-11 13:40:44+00:00,New York City,Community and Government,Government Building
+76314,475,40.75603489294368,-73.9848365828663,2194,Bar,2012-05-18 22:29:52+00:00,New York City,Dining and Drinking,Bar
+76315,475,40.737282906043546,-73.99090844530741,2415,Salad Place,2012-05-25 17:36:06+00:00,New York City,Dining and Drinking,Restaurant
+76316,475,40.72851994502955,-73.98732733228006,5746,Coffee Shop,2012-05-25 23:03:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76317,475,40.726833,-73.983415,1587,Bar,2012-05-25 23:15:53+00:00,New York City,Dining and Drinking,Bar
+76318,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-04-09 12:41:18+00:00,New York City,Dining and Drinking,Restaurant
+76319,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-09 22:12:41+00:00,New York City,Sports and Recreation,Gym and Studio
+76320,475,40.81009017275893,-73.94326686859131,31100,Coffee Shop,2012-04-16 12:18:30+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76321,475,40.75308086602758,-73.97122871606437,26150,Scenic Lookout,2012-04-23 00:36:11+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+76322,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-04-23 01:04:44+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76323,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-08-13 00:57:42+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76324,475,40.71407,-73.95017523333334,14703,Spa / Massage,2012-08-13 22:19:35+00:00,New York City,Business and Professional Services,Health and Beauty Service
+76325,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-07-09 01:32:46+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76326,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-07-30 12:43:59+00:00,New York City,Dining and Drinking,Restaurant
+76327,475,40.71919185131639,-73.98779793107465,2051,Food & Drink Shop,2012-06-04 22:31:25+00:00,New York City,Retail,Food and Beverage Retail
+76328,475,40.722340607446,-73.98782908916473,26295,Mexican Restaurant,2012-06-11 01:28:00+00:00,New York City,Dining and Drinking,Restaurant
+76329,475,40.71126904840372,-73.96146558382536,1660,Fried Chicken Joint,2012-06-18 02:29:44+00:00,New York City,Dining and Drinking,Restaurant
+76330,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-05-07 12:48:11+00:00,New York City,Dining and Drinking,Restaurant
+76331,475,40.733891,-73.99295665000001,3182,Ramen /  Noodle House,2012-05-07 17:10:49+00:00,New York City,Dining and Drinking,Restaurant
+76332,475,40.74017876390845,-74.00560522941583,3108,Bar,2012-05-14 00:46:34+00:00,New York City,Dining and Drinking,Bar
+76333,475,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-14 02:38:40+00:00,New York City,Landmarks and Outdoors,Plaza
+76334,475,40.76112209968293,-73.97950887680054,20057,Food Truck,2012-05-14 03:14:15+00:00,New York City,Dining and Drinking,Food Truck
+76335,475,40.726078808409845,-73.99625703450303,21779,Pet Store,2012-05-21 22:28:20+00:00,New York City,Retail,Pet Supplies Store
+76336,475,40.80875345155931,-73.94460135020307,379,Southern / Soul Food Restaurant,2012-05-28 14:26:15+00:00,New York City,Dining and Drinking,Restaurant
+76337,475,40.71919185131639,-73.98779793107465,2051,Food & Drink Shop,2012-05-28 16:40:33+00:00,New York City,Retail,Food and Beverage Retail
+76338,475,40.719611687500006,-73.98675,795,Sandwich Place,2012-04-07 14:15:17+00:00,New York City,Dining and Drinking,Restaurant
+76339,475,40.752967128069095,-73.97698534575743,31763,Electronics Store,2012-04-07 15:05:22+00:00,New York City,Retail,Computers and Electronics Retail
+76340,475,40.721387,-73.989193,1341,Vegetarian / Vegan Restaurant,2012-04-14 16:23:53+00:00,New York City,Dining and Drinking,Restaurant
+76341,475,40.72463254164776,-73.9955323934555,29156,Sporting Goods Shop,2012-04-14 16:47:23+00:00,New York City,Retail,Sporting Goods Retail
+76342,475,40.71407,-73.95017523333334,14703,Spa / Massage,2012-04-14 17:28:08+00:00,New York City,Business and Professional Services,Health and Beauty Service
+76343,475,40.714045,-73.950255,1533,Hardware Store,2012-04-14 17:50:37+00:00,New York City,Retail,Hardware Store
+76344,475,40.72167458233174,-73.98838904743799,7373,Thrift / Vintage Store,2012-04-14 18:33:39+00:00,New York City,Retail,Vintage and Thrift Store
+76345,475,40.72151928153547,-73.984595540886,9236,Clothing Store,2012-04-14 19:06:08+00:00,New York City,Retail,Boutique
+76346,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-14 19:42:44+00:00,New York City,Sports and Recreation,Gym and Studio
+76347,475,40.67454668028637,-73.96321621123305,4602,Diner,2012-04-21 13:34:41+00:00,New York City,Dining and Drinking,Restaurant
+76348,475,40.66760245789949,-73.96317958831787,1270,Garden,2012-04-21 14:16:52+00:00,New York City,Landmarks and Outdoors,Garden
+76349,475,40.76593503468354,-73.9870231641527,2442,Bar,2012-04-21 17:44:57+00:00,New York City,Dining and Drinking,Bar
+76350,475,40.726596,-73.985624,27201,Scenic Lookout,2012-04-28 00:39:02+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+76351,475,40.72817023363015,-73.9878495820916,1419,Fast Food Restaurant,2012-04-28 01:34:21+00:00,New York City,Dining and Drinking,Restaurant
+76352,475,40.71919185131639,-73.98779793107465,2051,Food & Drink Shop,2012-04-28 19:14:18+00:00,New York City,Retail,Food and Beverage Retail
+76353,475,40.71974134826093,-73.9886415626111,32968,Coffee Shop,2012-08-11 20:45:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76354,475,40.71933,-73.985482,11633,Clothing Store,2012-08-11 22:11:54+00:00,New York City,Retail,Fashion Retail
+76355,475,40.72250100787867,-73.98712646658963,23103,Ice Cream Shop,2012-08-11 23:59:58+00:00,New York City,Dining and Drinking,Dessert Shop
+76356,475,40.7165736243376,-73.98917528677009,16234,Bar,2012-08-18 01:45:37+00:00,New York City,Dining and Drinking,Bar
+76357,475,40.720357,-73.984825,21437,Laundry Service,2012-07-07 15:07:12+00:00,New York City,Business and Professional Services,Laundry Service
+76358,475,40.721699328748215,-73.98405032576706,3684,Bagel Shop,2012-07-07 15:11:07+00:00,New York City,Dining and Drinking,Bagel Shop
+76359,475,40.7212077,-73.9840915,24433,Coffee Shop,2012-07-07 15:56:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76360,475,40.719611687500006,-73.98675,795,Sandwich Place,2012-07-07 22:56:41+00:00,New York City,Dining and Drinking,Restaurant
+76361,475,40.706011,-74.007473,1247,Bar,2012-07-14 01:48:00+00:00,New York City,Dining and Drinking,Bar
+76362,475,40.808534159065616,-73.94512371580227,34045,American Restaurant,2012-07-28 16:57:13+00:00,New York City,Dining and Drinking,Restaurant
+76363,475,40.71702583614482,-73.96295218319894,28438,Taco Place,2012-06-02 23:35:27+00:00,New York City,Dining and Drinking,Restaurant
+76364,475,40.71407,-73.95017523333334,14703,Spa / Massage,2012-06-16 20:55:40+00:00,New York City,Business and Professional Services,Health and Beauty Service
+76365,475,40.72167458233174,-73.98838904743799,7373,Thrift / Vintage Store,2012-06-16 21:45:24+00:00,New York City,Retail,Vintage and Thrift Store
+76366,475,40.76502267205817,-73.98019552230835,616,Concert Hall,2012-05-05 00:01:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+76367,475,40.73138083854372,-74.00059103965759,936,Bar,2012-05-12 00:18:51+00:00,New York City,Dining and Drinking,Bar
+76368,475,40.73208272748991,-74.00135871493835,1970,Tapas Restaurant,2012-05-12 01:09:04+00:00,New York City,Dining and Drinking,Restaurant
+76369,475,40.73233045525843,-74.0016399059716,45,Bar,2012-05-12 02:29:53+00:00,New York City,Dining and Drinking,Bar
+76370,475,40.76806170936614,-73.98184776306152,1792,Food & Drink Shop,2012-05-12 18:54:04+00:00,New York City,Retail,Food and Beverage Retail
+76371,475,40.76864674872412,-73.98086071014404,5691,Park,2012-05-12 19:05:04+00:00,New York City,Landmarks and Outdoors,Park
+76372,475,40.78299485153325,-73.95890951156616,1103,Museum,2012-05-12 21:54:41+00:00,New York City,Arts and Entertainment,Museum
+76373,475,40.726596,-73.985624,27201,Scenic Lookout,2012-05-19 00:38:25+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+76374,475,40.72547161917389,-73.98378318991934,108,Caf�,2012-05-19 00:50:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76375,475,40.72217368640701,-73.98357780491972,7931,Drugstore / Pharmacy,2012-05-19 03:30:29+00:00,New York City,Retail,Pharmacy
+76376,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-05-19 03:56:26+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76377,475,40.6599524367078,-73.96886587142944,35612,General Entertainment,2012-05-19 21:56:49+00:00,New York City,Arts and Entertainment,General Entertainment
+76378,475,40.72704085086805,-73.98383596074753,575,Hot Dog Joint,2012-05-26 00:06:31+00:00,New York City,Dining and Drinking,Restaurant
+76379,475,40.72634864558351,-73.98415714502335,28437,Ice Cream Shop,2012-05-26 01:12:49+00:00,New York City,Dining and Drinking,Dessert Shop
+76380,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-08 21:52:35+00:00,New York City,Sports and Recreation,Gym and Studio
+76381,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-04-15 01:08:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76382,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-15 17:34:55+00:00,New York City,Sports and Recreation,Gym and Studio
+76383,475,40.722002,-73.9856342,2263,Diner,2012-04-22 13:52:53+00:00,New York City,Dining and Drinking,Restaurant
+76384,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-22 15:56:00+00:00,New York City,Sports and Recreation,Gym and Studio
+76385,475,40.720643033759565,-73.98809061998695,32484,Sandwich Place,2012-04-22 17:50:28+00:00,New York City,Dining and Drinking,Restaurant
+76386,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-29 15:42:25+00:00,New York City,Sports and Recreation,Gym and Studio
+76387,475,40.72151928153547,-73.984595540886,9236,Clothing Store,2012-08-05 22:10:25+00:00,New York City,Retail,Boutique
+76388,475,40.72167458233174,-73.98838904743799,7373,Thrift / Vintage Store,2012-08-05 22:47:57+00:00,New York City,Retail,Vintage and Thrift Store
+76389,475,40.71841211980871,-73.9898943901062,32394,Bar,2012-08-12 01:14:28+00:00,New York City,Dining and Drinking,Bar
+76390,475,40.718858,-73.987223,23449,Eastern European Restaurant,2012-08-12 15:51:45+00:00,New York City,Dining and Drinking,Restaurant
+76391,475,40.72484579924294,-73.99666448528859,115,Bookstore,2012-08-12 17:10:55+00:00,New York City,Retail,Bookstore
+76392,475,40.72006790651271,-73.98831322789192,2111,Bar,2012-08-19 21:19:42+00:00,New York City,Dining and Drinking,Bar
+76393,475,40.71132094308453,-73.97798538208008,20552,Music Venue,2012-08-19 22:57:22+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+76394,475,40.707561,-74.002142,8445,Caf�,2012-07-15 14:48:08+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76395,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-07-29 12:18:23+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76396,475,40.720357,-73.984825,21437,Laundry Service,2012-07-29 13:23:31+00:00,New York City,Business and Professional Services,Laundry Service
+76397,475,40.71974134826093,-73.9886415626111,32968,Coffee Shop,2012-07-29 13:46:51+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76398,475,40.721699328748215,-73.98405032576706,3684,Bagel Shop,2012-07-29 14:29:23+00:00,New York City,Dining and Drinking,Bagel Shop
+76399,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-07-29 17:41:16+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76400,475,40.72918965,-73.98879,3674,Ice Cream Shop,2012-07-29 22:47:47+00:00,New York City,Dining and Drinking,Dessert Shop
+76401,475,40.719313,-73.98565,870,Bar,2012-06-03 00:37:33+00:00,New York City,Dining and Drinking,Bar
+76402,475,40.7212077,-73.9840915,24433,Coffee Shop,2012-06-03 15:29:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76403,475,40.704702994900536,-73.92746103059008,31535,Art Gallery,2012-06-10 23:05:56+00:00,New York City,Arts and Entertainment,Art Gallery
+76404,475,40.71878275016788,-73.98515223262113,35037,Chinese Restaurant,2012-06-17 01:16:42+00:00,New York City,Dining and Drinking,Restaurant
+76405,475,40.78051373377369,-73.98104874535339,117,Concert Hall,2012-06-17 02:48:34+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+76406,475,40.72192027210859,-73.95813647804194,35574,Hotel,2012-06-17 23:43:11+00:00,New York City,Dining and Drinking,Bar
+76407,475,40.71407,-73.95017523333334,14703,Spa / Massage,2012-05-06 18:17:39+00:00,New York City,Business and Professional Services,Health and Beauty Service
+76408,475,40.72502851138096,-73.9962627732525,6176,Gym / Fitness Center,2012-05-06 19:37:23+00:00,New York City,Sports and Recreation,Gym and Studio
+76409,475,40.72634864558351,-73.98415714502335,28437,Ice Cream Shop,2012-05-13 00:09:52+00:00,New York City,Dining and Drinking,Dessert Shop
+76410,475,40.72729637131267,-73.9862908422947,1505,Bar,2012-05-13 03:18:06+00:00,New York City,Dining and Drinking,Bar
+76411,475,40.72704085086805,-73.98383596074753,575,Hot Dog Joint,2012-05-13 05:01:16+00:00,New York City,Dining and Drinking,Restaurant
+76412,475,40.72207091985668,-73.98825131174901,1426,French Restaurant,2012-05-13 16:10:36+00:00,New York City,Dining and Drinking,Restaurant
+76413,475,40.72059136642329,-73.96331906318665,25697,Flea Market,2012-05-13 20:47:02+00:00,New York City,Retail,Flea Market
+76414,475,40.71964,-73.984822,2772,Bar,2012-05-27 03:07:57+00:00,New York City,Dining and Drinking,Bar
+76415,475,40.719611687500006,-73.98675,795,Sandwich Place,2012-05-27 14:22:25+00:00,New York City,Dining and Drinking,Restaurant
+76416,475,40.703470907691205,-74.01129770635549,219,American Restaurant,2012-05-27 18:58:21+00:00,New York City,Dining and Drinking,Restaurant
+76417,475,40.721387,-73.989193,1341,Vegetarian / Vegan Restaurant,2012-04-12 23:25:54+00:00,New York City,Dining and Drinking,Restaurant
+76418,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-12 23:47:38+00:00,New York City,Sports and Recreation,Gym and Studio
+76419,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-19 22:12:40+00:00,New York City,Sports and Recreation,Gym and Studio
+76420,475,40.72151928153547,-73.984595540886,9236,Clothing Store,2012-08-09 22:45:48+00:00,New York City,Retail,Boutique
+76421,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-07-05 12:15:30+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76422,475,40.719611687500006,-73.98675,795,Sandwich Place,2012-07-05 12:25:38+00:00,New York City,Dining and Drinking,Restaurant
+76423,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-06-07 00:16:18+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76424,475,40.721294,-73.983994,892,Breakfast Spot,2012-06-07 12:19:02+00:00,New York City,Dining and Drinking,Breakfast Spot
+76425,475,40.72889089528703,-73.99933297957848,3041,Thai Restaurant,2012-06-14 01:27:00+00:00,New York City,Dining and Drinking,Restaurant
+76426,475,40.73138083854372,-74.00059103965759,936,Bar,2012-06-14 02:39:32+00:00,New York City,Dining and Drinking,Bar
+76427,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-06-21 00:21:14+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76428,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-06-21 12:45:26+00:00,New York City,Dining and Drinking,Restaurant
+76429,475,40.73744374263057,-73.99153972432849,2453,Sandwich Place,2012-05-03 17:45:00+00:00,New York City,Dining and Drinking,Restaurant
+76430,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-05-03 22:10:12+00:00,New York City,Sports and Recreation,Gym and Studio
+76431,475,40.72023270282368,-73.99330729453456,31635,Bar,2012-05-10 22:20:27+00:00,New York City,Dining and Drinking,Bar
+76432,475,40.744471,-73.985485,20427,French Restaurant,2012-05-17 23:15:55+00:00,New York City,Dining and Drinking,Restaurant
+76433,475,40.724985078628535,-73.99588975417934,6176,Gym / Fitness Center,2012-04-03 22:41:29+00:00,New York City,Sports and Recreation,Gym and Studio
+76434,475,40.720112,-73.98885350964224,14044,Tea Room,2012-04-10 00:17:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+76435,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-04-10 02:24:04+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76436,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-04-17 12:46:22+00:00,New York City,Dining and Drinking,Restaurant
+76437,475,40.724985078628535,-73.99588975417934,6176,Gym / Fitness Center,2012-04-17 22:40:50+00:00,New York City,Sports and Recreation,Gym and Studio
+76438,475,40.72574287046693,-73.98817096588479,1136,Tapas Restaurant,2012-04-17 23:42:17+00:00,New York City,Dining and Drinking,Restaurant
+76439,475,40.733879,-73.988185,3657,Food & Drink Shop,2012-04-24 17:05:26+00:00,New York City,Retail,Food and Beverage Retail
+76440,475,40.73582641776379,-73.9930547855025,3746,Food & Drink Shop,2012-04-24 17:33:06+00:00,New York City,Retail,Food and Beverage Retail
+76441,475,40.74065934700641,-73.99826558632256,327,American Restaurant,2012-04-24 23:37:07+00:00,New York City,Dining and Drinking,Restaurant
+76442,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-08-14 00:48:44+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76443,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-08-14 12:44:36+00:00,New York City,Dining and Drinking,Restaurant
+76444,475,40.75061379403183,-73.98856401443481,1028,Department Store,2012-08-14 22:36:53+00:00,New York City,Retail,Department Store
+76445,475,40.737555337113896,-73.99220645427704,5237,Clothing Store,2012-07-10 23:04:54+00:00,New York City,Retail,Fashion Retail
+76446,475,40.73744374263057,-73.99153972432849,2453,Sandwich Place,2012-07-17 17:28:36+00:00,New York City,Dining and Drinking,Restaurant
+76447,475,40.726078808409845,-73.99625703450303,21779,Pet Store,2012-07-17 22:03:41+00:00,New York City,Retail,Pet Supplies Store
+76448,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-06-12 12:52:14+00:00,New York City,Dining and Drinking,Restaurant
+76449,475,40.73354816138232,-73.99102896237186,195,Hobby Shop,2012-05-01 16:45:54+00:00,New York City,Retail,Hobby Store
+76450,475,40.73316247409845,-73.99104044018358,5375,Bookstore,2012-05-01 16:50:00+00:00,New York City,Retail,Bookstore
+76451,475,40.73403986666158,-73.99317530121836,2558,Sandwich Place,2012-05-01 17:07:30+00:00,New York City,Dining and Drinking,Restaurant
+76452,475,40.722340607446,-73.98782908916473,26295,Mexican Restaurant,2012-05-22 00:56:02+00:00,New York City,Dining and Drinking,Restaurant
+76453,475,40.7386668,-73.995777,11599,Deli / Bodega,2012-05-22 12:50:46+00:00,New York City,Dining and Drinking,Restaurant
+76454,475,40.72856334811506,-73.99995849221705,2309,Music Venue,2012-05-29 01:22:19+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+76455,475,40.73753052988333,-73.99120112947547,472,Sushi Restaurant,2012-05-29 17:11:31+00:00,New York City,Dining and Drinking,Restaurant
+76456,475,40.74215230390258,-73.99064540863037,3502,Hardware Store,2012-05-29 23:41:26+00:00,New York City,Retail,Hardware Store
+76457,475,40.71849343626229,-73.98266315460205,24322,Neighborhood,2012-04-11 01:39:41+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+76458,475,40.737282906043546,-73.99090844530741,2415,Salad Place,2012-04-11 18:51:44+00:00,New York City,Dining and Drinking,Restaurant
+76459,475,40.72634864558351,-73.98415714502335,28437,Ice Cream Shop,2012-04-18 01:14:38+00:00,New York City,Dining and Drinking,Dessert Shop
+76460,475,40.73738525614702,-73.99118391277207,17005,Restaurant,2012-04-18 17:11:51+00:00,New York City,Dining and Drinking,Restaurant
+76461,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-18 22:09:20+00:00,New York City,Sports and Recreation,Gym and Studio
+76462,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-04-25 22:18:21+00:00,New York City,Sports and Recreation,Gym and Studio
+76463,475,40.73582641776379,-73.9930547855025,3746,Food & Drink Shop,2012-07-11 22:32:47+00:00,New York City,Retail,Food and Beverage Retail
+76464,475,40.66390776998241,-73.970947265625,1301,Park,2012-07-11 23:16:07+00:00,New York City,Landmarks and Outdoors,Park
+76465,475,40.66139986039139,-73.97548737594227,36561,Concert Hall,2012-07-11 23:32:59+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+76466,475,40.70566047104496,-74.00287628173828,735,Harbor / Marina,2012-07-18 00:34:30+00:00,New York City,Landmarks and Outdoors,Harbor or Marina
+76467,475,40.70562922311935,-74.00100866021788,27026,Beer Garden,2012-07-18 00:45:39+00:00,New York City,Dining and Drinking,Bar
+76468,475,40.72154533333333,-73.983949,14819,Caribbean Restaurant,2012-07-18 23:13:53+00:00,New York City,Dining and Drinking,Restaurant
+76469,475,40.73000820039018,-73.9807617849235,12188,Food & Drink Shop,2012-06-06 22:25:17+00:00,New York City,Retail,Food and Beverage Retail
+76470,475,40.7288489465841,-74.00041184413695,3492,Bar,2012-06-27 00:40:30+00:00,New York City,Dining and Drinking,Bar
+76471,475,40.728345706846646,-73.9994477526927,2348,Bar,2012-06-27 03:22:44+00:00,New York City,Dining and Drinking,Bar
+76472,475,40.740784,-74.000721,8584,Sandwich Place,2012-06-27 17:36:50+00:00,New York City,Dining and Drinking,Restaurant
+76473,475,40.72125203810384,-73.9891728758812,4900,Gym / Fitness Center,2012-05-09 22:15:21+00:00,New York City,Sports and Recreation,Gym and Studio
+76474,475,40.74218830848454,-73.98792418909154,902,Park,2012-05-16 22:05:50+00:00,New York City,Landmarks and Outdoors,Park
+76475,475,40.74265628447347,-73.98901462554932,6806,Food Truck,2012-05-16 22:30:57+00:00,New York City,Dining and Drinking,Food Truck

@@ -1,0 +1,226 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,1006,40.67938210298074,-73.93148434552732,15387,High School,2012-04-20 11:02:29+00:00,New York City,Community and Government,Education,,,,
+1,1006,40.67483799464223,-73.73587670799026,26804,School,2012-04-20 11:29:11+00:00,New York City,Community and Government,Education,,,,
+2,1006,40.67483799464223,-73.73587670799026,26804,School,2012-04-20 14:38:01+00:00,New York City,Community and Government,Education,,,,
+3,1006,40.666372296838624,-73.75782086954614,15046,Gas Station / Garage,2012-04-20 20:53:24+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+4,1006,40.674407497791535,-73.73587670799026,26804,School,2012-04-27 11:39:38+00:00,New York City,Community and Government,Education,,,,
+5,1006,40.67459927153237,-73.73558364328305,16030,Food & Drink Shop,2012-04-27 20:49:09+00:00,New York City,Retail,Food and Beverage Retail,,,,
+6,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-13 00:56:42+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+7,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-13 00:58:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-13 19:53:30+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+9,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-13 19:53:58+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+10,1006,40.67495727769148,-73.73639387996262,26804,School,2012-06-01 13:38:50+00:00,New York City,Community and Government,Education,,,,
+11,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2012-06-01 13:39:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,1006,40.67443612675869,-73.73530207090775,16030,Food & Drink Shop,2012-06-01 13:40:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+13,1006,40.67483799464223,-73.73587670799026,26804,School,2012-05-04 12:01:53+00:00,New York City,Community and Government,Education,,,,
+14,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-04 12:03:37+00:00,New York City,Community and Government,Education,,,,
+15,1006,40.67495727769148,-73.73639387996262,26804,School,2012-05-11 11:43:41+00:00,New York City,Community and Government,Education,,,,
+16,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-11 11:44:49+00:00,New York City,Community and Government,Education,,,,
+17,1006,40.6738293272329,-73.7353078172867,13413,Donut Shop,2012-05-11 14:14:44+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+18,1006,40.67416506859855,-73.73569857067004,25319,Chinese Restaurant,2012-05-18 21:33:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,1006,40.67486171552956,-73.73472168579026,22168,Middle School,2012-05-18 21:42:42+00:00,New York City,Community and Government,Education,,,,
+20,1006,40.67495825554103,-73.73607208422482,26804,School,2012-04-16 11:36:33+00:00,New York City,Community and Government,Education,,,,
+21,1006,40.6765741109848,-73.7404392682166,17463,Deli / Bodega,2012-04-16 12:53:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,1006,40.703435220559456,-73.81633261278954,34001,Elementary School,2012-04-16 13:54:17+00:00,New York City,Community and Government,Education,,,,
+23,1006,40.67483799464223,-73.73587670799026,26804,School,2012-04-23 12:05:47+00:00,New York City,Community and Government,Education,,,,
+24,1006,40.68610405768023,-73.94382640962873,36013,Building,2012-07-02 13:40:21+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+25,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-09 00:07:07+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+26,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-09 00:08:05+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+27,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-09 23:29:55+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+28,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-09 23:30:19+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+29,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-09 23:31:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-16 01:21:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-16 05:12:47+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+32,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-16 05:15:08+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+33,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-16 05:19:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+34,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-16 19:38:59+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+35,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-16 19:39:24+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+36,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-16 19:39:55+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+37,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-16 20:20:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-18 16:06:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,1006,40.67483799464223,-73.73587670799026,26804,School,2012-05-07 11:54:27+00:00,New York City,Community and Government,Education,,,,
+40,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-07 12:58:45+00:00,New York City,Community and Government,Education,,,,
+41,1006,40.73334521245282,-73.75963651364017,25375,Medical Center,2012-05-07 21:15:41+00:00,New York City,Health and Medicine,Physician,,,,
+42,1006,40.71974569710354,-73.81027221679688,11007,Sushi Restaurant,2012-05-07 21:34:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,1006,40.67495727769148,-73.73639387996262,26804,School,2012-05-14 11:42:40+00:00,New York City,Community and Government,Education,,,,
+44,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-14 13:01:24+00:00,New York City,Community and Government,Education,,,,
+45,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-21 19:48:45+00:00,New York City,Community and Government,Education,,,,
+46,1006,40.67495727769148,-73.73639387996262,26804,School,2012-05-21 19:49:10+00:00,New York City,Community and Government,Education,,,,
+47,1006,40.67486171552956,-73.73472168579026,22168,Middle School,2012-05-21 19:50:22+00:00,New York City,Community and Government,Education,,,,
+48,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-05-28 22:06:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,1006,40.68724748847291,-73.94470467537853,21633,Caribbean Restaurant,2012-04-14 00:05:17+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-04-14 00:11:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,1006,40.674407497791535,-73.73587670799026,26804,School,2012-04-28 13:23:08+00:00,New York City,Community and Government,Education,,,,
+52,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2012-04-28 13:36:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+53,1006,40.674407497791535,-73.73587670799026,26804,School,2012-04-28 22:00:44+00:00,New York City,Community and Government,Education,,,,
+54,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-04-28 22:02:04+00:00,New York City,Community and Government,Education,,,,
+55,1006,40.68303583667424,-73.93130064375443,26045,Neighborhood,2012-08-18 06:59:58+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+56,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-08-18 07:00:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+57,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-08-18 07:01:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+58,1006,40.68303583667424,-73.93130064375443,26045,Neighborhood,2012-08-18 07:01:48+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+59,1006,40.68303583667424,-73.93130064375443,26045,Neighborhood,2012-08-18 07:02:50+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+60,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-14 04:53:30+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+61,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-14 04:54:17+00:00,New York City,Dining and Drinking,Restaurant,,,,
+62,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-14 05:27:14+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+63,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-28 03:24:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+64,1006,40.68724748847291,-73.94470467537853,21633,Caribbean Restaurant,2012-06-09 00:01:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+65,1006,40.68525267110847,-73.94036497052035,34084,Chinese Restaurant,2012-06-09 00:02:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+66,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-09 00:03:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+67,1006,40.68525267110847,-73.94036497052035,34084,Chinese Restaurant,2012-06-09 04:09:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+68,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-16 23:28:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+69,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-30 22:37:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+70,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-06-30 22:38:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+71,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-05-12 00:45:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,1006,40.685744,-73.968511,9662,Medical Center,2012-05-19 12:12:14+00:00,New York City,Health and Medicine,Hospital,,,,
+73,1006,40.67495727769148,-73.73639387996262,26804,School,2012-05-19 12:42:51+00:00,New York City,Community and Government,Education,,,,
+74,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-19 12:43:12+00:00,New York City,Community and Government,Education,,,,
+75,1006,40.67486171552956,-73.73472168579026,22168,Middle School,2012-05-19 12:44:26+00:00,New York City,Community and Government,Education,,,,
+76,1006,40.67719571421501,-73.747145009616,18839,Dessert Shop,2012-05-19 17:34:34+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+77,1006,40.67779663333334,-73.949826,23941,Japanese Restaurant,2012-04-15 00:53:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+78,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-01 04:22:10+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+79,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-08 01:08:35+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+80,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-08 01:11:17+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+81,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-08 01:12:48+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+82,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-22 15:02:23+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+83,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-22 15:03:48+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+84,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-22 15:05:50+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+85,1006,40.68610405768023,-73.94382640962873,36013,Building,2012-07-22 15:06:44+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+86,1006,40.68338503288118,-73.93130064375443,26045,Neighborhood,2012-07-29 08:04:21+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+87,1006,40.68338503288118,-73.93130064375443,26045,Neighborhood,2012-07-29 08:06:12+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+88,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-29 08:10:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+89,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-10 04:17:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+90,1006,40.68591440317017,-73.92957843117458,31872,Chinese Restaurant,2012-05-13 04:30:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+91,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-05-27 00:13:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+92,1006,40.68730110620401,-73.94131213662529,8567,Food & Drink Shop,2012-05-27 19:08:05+00:00,New York City,Retail,Food and Beverage Retail,,,,
+93,1006,40.68726340766737,-73.9416680402672,8567,Food & Drink Shop,2012-04-12 20:15:34+00:00,New York City,Retail,Food and Beverage Retail,,,,
+94,1006,40.67495825554103,-73.73607208422482,26804,School,2012-04-19 11:41:46+00:00,New York City,Community and Government,Education,,,,
+95,1006,40.6765741109848,-73.7404392682166,17463,Deli / Bodega,2012-04-19 12:57:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+96,1006,40.67495825554103,-73.73607208422482,26804,School,2012-04-19 13:50:10+00:00,New York City,Community and Government,Education,,,,
+97,1006,40.65314947798596,-73.83808413309993,8816,Event Space,2012-07-05 22:10:16+00:00,New York City,Business and Professional Services,Event Space,,,,
+98,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-12 02:44:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+99,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-12 02:45:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+100,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-07-12 02:47:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+101,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-12 07:39:15+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+102,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-12 07:40:08+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+103,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-12 07:40:32+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+104,1006,40.68591440317017,-73.92957843117458,31872,Chinese Restaurant,2012-07-12 07:42:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+105,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-14 07:22:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+106,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-06-14 07:23:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+107,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-14 09:28:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+108,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-06-14 09:29:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+109,1006,40.68724748847291,-73.94470467537853,21633,Caribbean Restaurant,2012-06-14 09:59:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+110,1006,40.67483799464223,-73.73587670799026,26804,School,2012-05-03 12:11:06+00:00,New York City,Community and Government,Education,,,,
+111,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-03 12:11:37+00:00,New York City,Community and Government,Education,,,,
+112,1006,40.67459927153237,-73.73558364328305,16030,Food & Drink Shop,2012-05-10 21:36:54+00:00,New York City,Retail,Food and Beverage Retail,,,,
+113,1006,40.68724748847291,-73.94470467537853,21633,Caribbean Restaurant,2012-05-10 23:03:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+114,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-05-31 21:28:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+115,1006,40.68525267110847,-73.94036497052035,34084,Chinese Restaurant,2012-05-31 21:30:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+116,1006,40.67495825554103,-73.73607208422482,26804,School,2012-04-17 11:25:05+00:00,New York City,Community and Government,Education,,,,
+117,1006,40.6765741109848,-73.7404392682166,17463,Deli / Bodega,2012-04-17 13:28:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+118,1006,40.67495825554103,-73.73607208422482,26804,School,2012-04-17 13:36:41+00:00,New York City,Community and Government,Education,,,,
+119,1006,40.67483799464223,-73.73587670799026,26804,School,2012-04-24 11:42:36+00:00,New York City,Community and Government,Education,,,,
+120,1006,40.68303583667424,-73.93130064375443,26045,Neighborhood,2012-08-14 15:55:52+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+121,1006,40.68610405768023,-73.94382640962873,36013,Building,2012-08-14 15:59:40+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+122,1006,40.68730110620401,-73.94131213662529,8567,Food & Drink Shop,2012-08-14 19:39:13+00:00,New York City,Retail,Food and Beverage Retail,,,,
+123,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-03 00:35:08+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+124,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-03 00:36:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+125,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-10 23:50:45+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+126,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-10 23:51:44+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+127,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-10 23:52:27+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+128,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-10 23:53:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+129,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-17 07:09:57+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+130,1006,40.68730110620401,-73.94131213662529,8567,Food & Drink Shop,2012-07-17 20:05:00+00:00,New York City,Retail,Food and Beverage Retail,,,,
+131,1006,40.6794054381119,-73.93148434552732,15387,High School,2012-06-12 11:50:12+00:00,New York City,Community and Government,Education,,,,
+132,1006,40.67495727769148,-73.73639387996262,26804,School,2012-06-12 11:50:36+00:00,New York City,Community and Government,Education,,,,
+133,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-06-12 11:50:52+00:00,New York City,Community and Government,Education,,,,
+134,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2012-06-12 11:51:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+135,1006,40.67443612675869,-73.73530207090775,16030,Food & Drink Shop,2012-06-12 11:51:32+00:00,New York City,Retail,Food and Beverage Retail,,,,
+136,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-12 12:11:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+137,1006,40.67483799464223,-73.73587670799026,26804,School,2012-05-08 11:37:37+00:00,New York City,Community and Government,Education,,,,
+138,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-08 11:38:26+00:00,New York City,Community and Government,Education,,,,
+139,1006,40.67483799464223,-73.73587670799026,26804,School,2012-05-08 13:46:53+00:00,New York City,Community and Government,Education,,,,
+140,1006,40.67459927153237,-73.73558364328305,16030,Food & Drink Shop,2012-05-08 21:33:58+00:00,New York City,Retail,Food and Beverage Retail,,,,
+141,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2012-05-15 13:47:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+142,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-15 14:06:04+00:00,New York City,Community and Government,Education,,,,
+143,1006,40.67494661066033,-73.73611230872015,26804,School,2012-05-15 14:06:43+00:00,New York City,Community and Government,Education,,,,
+144,1006,40.67459927153237,-73.73558364328305,16030,Food & Drink Shop,2012-05-15 21:05:00+00:00,New York City,Retail,Food and Beverage Retail,,,,
+145,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2012-05-15 21:09:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+146,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2012-05-29 23:10:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+147,1006,40.68724748847291,-73.94470467537853,21633,Caribbean Restaurant,2012-05-29 23:11:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+148,1006,40.67995491454707,-73.94446358321665,7843,Food & Drink Shop,2012-05-29 23:12:41+00:00,New York City,Retail,Food and Beverage Retail,,,,
+149,1006,40.67495727769148,-73.73639387996262,26804,School,2012-05-29 23:13:25+00:00,New York City,Community and Government,Education,,,,
+150,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-29 23:13:50+00:00,New York City,Community and Government,Education,,,,
+151,1006,40.68525267110847,-73.94036497052035,34084,Chinese Restaurant,2012-05-29 23:14:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+152,1006,40.67995491454707,-73.94446358321665,7843,Food & Drink Shop,2012-04-11 19:33:47+00:00,New York City,Retail,Food and Beverage Retail,,,,
+153,1006,40.6765741109848,-73.7404392682166,17463,Deli / Bodega,2012-04-18 13:07:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+154,1006,40.674407497791535,-73.73587670799026,26804,School,2012-04-25 11:55:58+00:00,New York City,Community and Government,Education,,,,
+155,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-07-04 06:52:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+156,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-04 06:53:12+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+157,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-04 06:53:36+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+158,1006,40.6826899486852,-73.93173693518101,26045,Neighborhood,2012-07-04 06:53:59+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+159,1006,40.67495727769148,-73.73639387996262,26804,School,2012-06-13 04:48:43+00:00,New York City,Community and Government,Education,,,,
+160,1006,40.6794054381119,-73.93148434552732,15387,High School,2012-06-13 04:49:46+00:00,New York City,Community and Government,Education,,,,
+161,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-06-13 04:51:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+162,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-06-13 04:51:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+163,1006,40.67495727769148,-73.73639387996262,26804,School,2012-06-13 11:07:17+00:00,New York City,Community and Government,Education,,,,
+164,1006,40.67483799464223,-73.73587670799026,26804,School,2012-05-09 12:05:35+00:00,New York City,Community and Government,Education,,,,
+165,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-09 12:06:11+00:00,New York City,Community and Government,Education,,,,
+166,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2012-05-16 21:10:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+167,1006,40.703677356413934,-73.81633261278954,34001,Elementary School,2012-05-16 21:19:40+00:00,New York City,Community and Government,Education,,,,
+168,1006,40.68383327254962,-73.93749474191857,26045,Neighborhood,2012-11-13 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,14.0,2.0,nyc,Return
+169,1006,40.68507966392253,-73.94433155642929,29654,Deli / Bodega,2012-11-13 18:00:09+00:00,,Dining and Drinking,Restaurant,14.0,2.0,nyc,Rec
+170,1006,40.68383327254962,-73.93749474191857,26045,Neighborhood,2012-11-16 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,17.0,2.0,nyc,Return
+171,1006,40.68525267110847,-73.94036497052035,34084,Chinese Restaurant,2012-11-16 18:00:09+00:00,,Dining and Drinking,Restaurant,17.0,2.0,nyc,Return
+172,1006,40.687945,-73.944785,26760,Fried Chicken Joint,2012-11-16 18:00:09+00:00,,Dining and Drinking,Restaurant,17.0,2.0,nyc,Return
+173,1006,40.68383327254962,-73.93749474191857,26045,Neighborhood,2012-11-16 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,17.0,2.0,nyc,Return
+174,1006,40.68383327254962,-73.93749474191857,26045,Neighborhood,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,18.0,2.0,nyc,Rec
+175,1006,40.67595516173947,-73.9237974258862,31304,French Restaurant,2012-11-19 18:00:09+00:00,,Dining and Drinking,Restaurant,20.0,2.0,nyc,Rec
+176,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-11-22 18:00:09+00:00,,Dining and Drinking,Restaurant,23.0,3.0,nyc,Return
+177,1006,40.68184207951205,-73.94923944816297,37683,Other Great Outdoors,2012-11-22 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,23.0,3.0,nyc,Explore
+178,1006,40.68383327254962,-73.93749474191857,26045,Neighborhood,2012-11-22 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,23.0,3.0,nyc,Return
+179,1006,40.69342491338439,-73.99171189097369,6159,University,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Rec
+180,1006,40.67483799464223,-73.73587670799026,26804,School,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Return
+181,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-11-26 18:00:09+00:00,,Dining and Drinking,Restaurant,27.0,3.0,nyc,Return
+182,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2012-11-27 18:00:09+00:00,,Dining and Drinking,Restaurant,28.0,4.0,nyc,Return
+183,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2012-11-27 18:00:09+00:00,,Dining and Drinking,Restaurant,28.0,4.0,nyc,Return
+184,1006,40.67483799464223,-73.73587670799026,26804,School,2012-12-02 18:00:09+00:00,,Community and Government,Education,33.0,4.0,nyc,Return
+185,1006,40.67483799464223,-73.73587670799026,26804,School,2012-12-02 18:00:09+00:00,,Community and Government,Education,33.0,4.0,nyc,Rec
+186,1006,40.7370797706936,-73.81808280944824,22488,College Academic Building,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Rec
+187,1006,40.67483799464223,-73.73587670799026,26804,School,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Return
+188,1006,40.67483799464223,-73.73587670799026,26804,School,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Rec
+189,1006,40.67483799464223,-73.73587670799026,26804,School,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Return
+190,1006,40.67483799464223,-73.73587670799026,26804,School,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+191,1006,40.67483799464223,-73.73587670799026,26804,School,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+192,1006,40.67483799464223,-73.73587670799026,26804,School,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+193,1006,40.685454518757886,-73.71551513671875,29013,School,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+194,1006,40.67822964792386,-73.74680042266846,27208,Neighborhood,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,38.0,5.0,nyc,Rec
+195,1006,40.76487640472523,-73.81782531738281,20495,Neighborhood,2012-12-12 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,43.0,6.0,nyc,Rec
+196,1006,40.7370797706936,-73.81808280944824,22488,College Academic Building,2012-12-13 18:00:09+00:00,,Community and Government,Education,44.0,6.0,nyc,Rec
+197,1006,40.73447621568346,-73.81593627298471,15569,Student Center,2013-01-02 18:00:09+00:00,,Community and Government,Education,64.0,9.0,nyc,Explore
+198,1006,40.67483799464223,-73.73587670799026,26804,School,2013-01-02 18:00:09+00:00,,Community and Government,Education,64.0,9.0,nyc,Return
+199,1006,40.675859,-73.73937768,13010,Caribbean Restaurant,2013-01-08 18:00:09+00:00,,Dining and Drinking,Restaurant,70.0,10.0,nyc,Rec
+200,1006,40.718821209385816,-73.79838739136254,16482,College Stadium,2013-01-09 18:00:09+00:00,,Community and Government,Education,71.0,10.0,nyc,Explore
+201,1006,40.72867964802866,-73.85947146184573,20015,General College & University,2013-01-11 18:00:09+00:00,,Community and Government,Education,73.0,10.0,nyc,Rec
+202,1006,40.68507966392253,-73.94433155642929,29654,Deli / Bodega,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Return
+203,1006,40.6698500479104,-73.92154697809427,23841,Pizza Place,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Explore
+204,1006,40.69342491338439,-73.99171189097369,6159,University,2013-01-17 18:00:09+00:00,,Community and Government,Education,79.0,11.0,nyc,Rec
+205,1006,40.69136889727714,-73.99158563544898,10058,American Restaurant,2013-01-17 18:00:09+00:00,,Dining and Drinking,Restaurant,79.0,11.0,nyc,Rec
+206,1006,40.69316586062177,-73.99186684082225,33125,College Academic Building,2013-01-25 18:00:09+00:00,,Community and Government,Education,87.0,12.0,nyc,Explore
+207,1006,40.7370797706936,-73.81808280944824,22488,College Academic Building,2013-01-28 18:00:09+00:00,,Community and Government,Education,90.0,12.0,nyc,Return
+208,1006,40.737116,-73.81773096975977,15062,College Academic Building,2013-01-28 18:00:09+00:00,,Community and Government,Education,90.0,12.0,nyc,Explore
+209,1006,40.67483799464223,-73.73587670799026,26804,School,2013-01-30 18:00:09+00:00,,Community and Government,Education,92.0,13.0,nyc,Return
+210,1006,40.67483799464223,-73.73587670799026,26804,School,2013-01-30 18:00:09+00:00,,Community and Government,Education,92.0,13.0,nyc,Return
+211,1006,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Rec
+212,1006,40.67483799464223,-73.73587670799026,26804,School,2013-01-31 18:00:09+00:00,,Community and Government,Education,93.0,13.0,nyc,Return
+213,1006,40.67483799464223,-73.73587670799026,26804,School,2013-01-31 18:00:09+00:00,,Community and Government,Education,93.0,13.0,nyc,Rec
+214,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2013-01-31 18:00:09+00:00,,Dining and Drinking,Restaurant,93.0,13.0,nyc,Return
+215,1006,40.67993866388484,-73.92109918180245,24419,College Academic Building,2013-02-01 18:00:09+00:00,,Community and Government,Education,94.0,13.0,nyc,Rec
+216,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Return
+217,1006,40.703768122633,-73.71324051534808,32612,Neighborhood,2013-02-01 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,94.0,13.0,nyc,Rec
+218,1006,40.685454518757886,-73.71551513671875,29013,School,2013-02-02 18:00:09+00:00,,Community and Government,Education,95.0,13.0,nyc,Rec
+219,1006,40.67638701539916,-73.74183559784024,17463,Deli / Bodega,2013-02-02 18:00:09+00:00,,Dining and Drinking,Restaurant,95.0,13.0,nyc,Return
+220,1006,40.68383327254962,-73.93749474191857,26045,Neighborhood,2013-02-03 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,96.0,13.0,nyc,Return
+221,1006,40.68614152063403,-73.94364845987359,34748,Deli / Bodega,2013-02-05 18:00:09+00:00,,Dining and Drinking,Restaurant,98.0,14.0,nyc,Return
+222,1006,40.745306184001095,-73.94837379455566,19043,Neighborhood,2013-02-05 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,98.0,14.0,nyc,Rec
+223,1006,40.74607024584939,-73.94567012786865,2918,Diner,2013-02-08 18:00:09+00:00,,Dining and Drinking,Restaurant,101.0,14.0,nyc,Rec
+224,1006,40.775276834803655,-73.95360946655273,18440,Neighborhood,2013-02-08 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,101.0,14.0,nyc,Explore

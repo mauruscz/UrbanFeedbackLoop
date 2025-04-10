@@ -1,0 +1,62 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+47472,307,40.718932543395056,-74.03265953063965,12249,Bar,2012-04-13 22:15:54+00:00,New York City,Dining and Drinking,Bar
+47473,307,40.71610655752748,-74.03773795425094,4041,Bar,2012-04-13 23:38:52+00:00,New York City,Dining and Drinking,Bar
+47474,307,40.71420370822404,-74.03292986611318,30196,Scenic Lookout,2012-04-27 14:39:20+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+47475,307,40.693752390476,-74.10357713699341,9212,Building,2012-06-01 12:05:12+00:00,New York City,Landmarks and Outdoors,Structure
+47476,307,40.71728496276349,-74.0330044555203,9244,American Restaurant,2012-06-08 13:15:58+00:00,New York City,Dining and Drinking,Restaurant
+47477,307,40.72696606629052,-74.0383243560791,2861,Mall,2012-06-08 17:47:08+00:00,New York City,Retail,Shopping Mall
+47478,307,40.71908607507654,-74.0336814964944,20966,Caf�,2012-05-04 16:05:08+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+47479,307,40.72351860033697,-74.03974056243896,5084,Food & Drink Shop,2012-05-04 16:54:59+00:00,New York City,Retail,Food and Beverage Retail
+47480,307,40.7388079062009,-74.0460112533056,12656,Embassy / Consulate,2012-05-04 22:51:45+00:00,New York City,Community and Government,Government Building
+47481,307,40.758205,-73.992809,1715,Bar,2012-05-18 23:03:12+00:00,New York City,Dining and Drinking,Bar
+47482,307,40.72351860033697,-74.03974056243896,5084,Food & Drink Shop,2012-05-25 12:57:44+00:00,New York City,Retail,Food and Beverage Retail
+47483,307,40.76314176757823,-73.97706569629909,32029,Japanese Restaurant,2012-05-25 17:51:50+00:00,New York City,Dining and Drinking,Restaurant
+47484,307,40.765830533333336,-73.9829676,8533,Italian Restaurant,2012-05-25 19:38:03+00:00,New York City,Dining and Drinking,Restaurant
+47485,307,40.76241213950687,-73.98754541479173,26503,Bar,2012-05-25 20:35:01+00:00,New York City,Dining and Drinking,Bar
+47486,307,40.73215319032559,-74.03588891029358,4547,Department Store,2012-06-11 18:34:44+00:00,New York City,Retail,Department Store
+47487,307,40.75225532054901,-74.045335,5911,Cuban Restaurant,2012-05-28 13:22:34+00:00,New York City,Dining and Drinking,Restaurant
+47488,307,40.6604102104649,-74.17167256012242,13663,Mall,2012-05-28 19:30:16+00:00,New York City,Retail,Shopping Mall
+47489,307,40.8649812816951,-73.9545949352403,26145,Park,2012-04-07 16:23:42+00:00,New York City,Landmarks and Outdoors,Park
+47490,307,40.81947673869051,-73.97751331329346,4914,Food & Drink Shop,2012-04-07 18:34:10+00:00,New York City,Retail,Food and Beverage Retail
+47491,307,40.817789,-74.211569013733,9157,Bar,2012-04-07 22:07:57+00:00,New York City,Dining and Drinking,Bar
+47492,307,40.78903995,-73.81400351666667,14698,Pizza Place,2012-04-14 17:50:16+00:00,New York City,Dining and Drinking,Restaurant
+47493,307,40.73695427781551,-74.0310020066825,9254,Salon / Barbershop,2012-04-21 15:07:18+00:00,New York City,Business and Professional Services,Health and Beauty Service
+47494,307,40.73671089039964,-74.02749623609868,34941,Fair,2012-04-21 16:38:16+00:00,New York City,Arts and Entertainment,Fair
+47495,307,40.751455,-74.026626,3821,Indian Restaurant,2012-04-21 18:02:30+00:00,New York City,Dining and Drinking,Restaurant
+47496,307,40.747631192207336,-74.048131,15051,Bank,2012-04-28 13:46:21+00:00,New York City,Business and Professional Services,Financial Service
+47497,307,40.75606345876021,-73.99127573517238,31156,Food & Drink Shop,2012-04-28 18:54:10+00:00,New York City,Retail,Food and Beverage Retail
+47498,307,40.76307092236224,-73.98605326633982,3081,American Restaurant,2012-06-09 02:37:22+00:00,New York City,Dining and Drinking,Restaurant
+47499,307,40.718200696564594,-74.04335618019104,32009,Korean Restaurant,2012-05-05 01:33:10+00:00,New York City,Dining and Drinking,Restaurant
+47500,307,40.717739,-74.04394933,2077,Bar,2012-05-05 02:11:46+00:00,New York City,Dining and Drinking,Bar
+47501,307,40.854269,-73.88520777225494,6261,Dessert Shop,2012-04-08 16:11:46+00:00,New York City,Dining and Drinking,Dessert Shop
+47502,307,40.74972602464971,-74.02677327047522,1466,Music Venue,2012-04-15 03:07:28+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+47503,307,40.7917804419028,-74.04806517879562,20745,Medical Center,2012-04-15 14:57:21+00:00,New York City,Health and Medicine,Veterinarian
+47504,307,40.74894545897088,-74.0472963936443,25346,Chinese Restaurant,2012-04-15 21:55:27+00:00,New York City,Dining and Drinking,Restaurant
+47505,307,40.73432174524848,-74.17026213497408,27539,Bar,2012-05-06 00:37:11+00:00,New York City,Dining and Drinking,Bar
+47506,307,40.73308000062968,-74.1708254814148,3114,Stadium,2012-05-06 00:50:17+00:00,New York City,Arts and Entertainment,Stadium
+47507,307,40.81413599549522,-73.86334781003669,30020,Park,2012-05-06 17:17:34+00:00,New York City,Landmarks and Outdoors,Park
+47508,307,40.7388079062009,-74.0460112533056,12656,Embassy / Consulate,2012-04-19 22:49:45+00:00,New York City,Community and Government,Government Building
+47509,307,40.75223475692425,-74.04182874976985,14311,Other Great Outdoors,2012-04-19 23:20:33+00:00,New York City,Landmarks and Outdoors,Park
+47510,307,40.758409593390965,-73.9855424897826,17530,Clothing Store,2012-04-26 00:10:58+00:00,New York City,Retail,Fashion Retail
+47511,307,40.725477687569786,-74.03225856013387,16056,Italian Restaurant,2012-06-07 21:53:45+00:00,New York City,Dining and Drinking,Restaurant
+47512,307,40.71420370822404,-74.03292986611318,30196,Scenic Lookout,2012-05-17 18:32:01+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+47513,307,40.72696606629052,-74.0383243560791,2861,Mall,2012-05-31 17:33:53+00:00,New York City,Retail,Shopping Mall
+47514,307,40.7171376622894,-74.038914138696,33139,Medical Center,2012-04-03 22:06:54+00:00,New York City,Health and Medicine,Dentist
+47515,307,40.7171376622894,-74.038914138696,33139,Medical Center,2012-04-10 21:59:57+00:00,New York City,Health and Medicine,Dentist
+47516,307,40.72351860033697,-74.03974056243896,5084,Food & Drink Shop,2012-04-17 18:51:43+00:00,New York City,Retail,Food and Beverage Retail
+47517,307,40.71909517493139,-74.03437614440918,10221,Gym / Fitness Center,2012-04-17 22:22:14+00:00,New York City,Sports and Recreation,Gym and Studio
+47518,307,40.72054439181712,-74.04376223678616,2465,Bar,2012-06-05 01:24:14+00:00,New York City,Dining and Drinking,Bar
+47519,307,40.73233045525843,-74.0016399059716,45,Bar,2012-05-01 23:09:32+00:00,New York City,Dining and Drinking,Bar
+47520,307,40.71908607507654,-74.0336814964944,20966,Caf�,2012-05-08 17:34:37+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+47521,307,40.71909517493139,-74.03437614440918,10221,Gym / Fitness Center,2012-05-08 18:46:52+00:00,New York City,Sports and Recreation,Gym and Studio
+47522,307,40.74655830860138,-74.049,17029,Drugstore / Pharmacy,2012-05-08 23:33:02+00:00,New York City,Retail,Pharmacy
+47523,307,40.71764367441802,-74.03300285339355,21174,Drugstore / Pharmacy,2012-05-29 16:30:11+00:00,New York City,Retail,Pharmacy
+47524,307,40.71909517493139,-74.03437614440918,10221,Gym / Fitness Center,2012-04-04 16:58:06+00:00,New York City,Sports and Recreation,Gym and Studio
+47525,307,40.72696606629052,-74.0383243560791,2861,Mall,2012-04-04 17:28:10+00:00,New York City,Retail,Shopping Mall
+47526,307,40.721315,-74.032213,33220,Food,2012-04-11 16:40:07+00:00,New York City,Dining and Drinking,Restaurant
+47527,307,40.71683342990126,-74.03292986611318,18636,Food & Drink Shop,2012-04-11 18:37:09+00:00,New York City,Dining and Drinking,Food Court
+47528,307,40.71909517493139,-74.03437614440918,10221,Gym / Fitness Center,2012-04-18 22:38:03+00:00,New York City,Sports and Recreation,Gym and Studio
+47529,307,40.748001,-74.048024,22413,Spanish Restaurant,2012-04-25 20:04:31+00:00,New York City,Dining and Drinking,Restaurant
+47530,307,40.758728399405584,-73.97855791454388,2357,Plaza,2012-04-25 21:31:50+00:00,New York City,Landmarks and Outdoors,Plaza
+47531,307,40.759272,-73.981107,3449,Bakery,2012-04-25 23:59:03+00:00,New York City,Dining and Drinking,Bakery
+47532,307,40.74894545897088,-74.0472963936443,25346,Chinese Restaurant,2012-05-16 23:18:06+00:00,New York City,Dining and Drinking,Restaurant

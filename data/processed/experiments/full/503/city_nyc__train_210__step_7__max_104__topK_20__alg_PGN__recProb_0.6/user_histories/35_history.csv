@@ -1,0 +1,65 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+5239,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-06-08 01:00:10+00:00,New York City,Retail,Computers and Electronics Retail
+5240,35,40.76973537645674,-73.99243498919604,2166,Concert Hall,2012-05-11 01:09:22+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+5241,35,40.73366542178695,-73.98781514808185,1618,Food & Drink Shop,2012-05-11 12:00:17+00:00,New York City,Retail,Food and Beverage Retail
+5242,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-11 22:25:01+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5243,35,40.713723,-73.95761367,15634,Bar,2012-05-11 22:59:46+00:00,New York City,Dining and Drinking,Bar
+5244,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-18 22:24:17+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5245,35,40.68665858775997,-73.97774934768677,2594,Music Venue,2012-05-18 22:49:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+5246,35,40.764013,-73.970601,12504,Deli / Bodega,2012-05-25 12:55:08+00:00,New York City,Dining and Drinking,Restaurant
+5247,35,40.671275,-73.95768733507757,7121,Caf�,2012-06-04 22:49:22+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5248,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-14 01:17:28+00:00,New York City,Retail,Computers and Electronics Retail
+5249,35,40.67396103632496,-73.95698262276463,31331,Bar,2012-05-28 06:30:18+00:00,New York City,Dining and Drinking,Bar
+5250,35,40.67396103632496,-73.95698262276463,31331,Bar,2012-06-02 23:02:33+00:00,New York City,Dining and Drinking,Bar
+5251,35,40.71411951847972,-73.96042093957377,3352,Pizza Place,2012-06-09 04:24:34+00:00,New York City,Dining and Drinking,Restaurant
+5252,35,40.722404640382265,-73.95522952079773,5411,Bar,2012-06-09 04:24:41+00:00,New York City,Dining and Drinking,Bar
+5253,35,40.71501300319713,-73.95146369934082,671,Bar,2012-06-09 05:56:37+00:00,New York City,Dining and Drinking,Bar
+5254,35,40.671275,-73.95768733507757,7121,Caf�,2012-06-09 13:36:06+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5255,35,40.723546865121946,-73.99813359642076,1825,Clothing Store,2012-06-09 17:41:33+00:00,New York City,Retail,Fashion Retail
+5256,35,40.67396103632496,-73.95698262276463,31331,Bar,2012-06-09 22:49:00+00:00,New York City,Dining and Drinking,Bar
+5257,35,40.711771,-73.957393,4066,Burrito Place,2012-05-12 01:55:10+00:00,New York City,Dining and Drinking,Restaurant
+5258,35,40.71259816067313,-73.95800446059427,33134,Bar,2012-05-12 02:58:24+00:00,New York City,Dining and Drinking,Bar
+5259,35,40.710768,-73.933794,2533,Art Gallery,2012-05-12 21:40:40+00:00,New York City,Arts and Entertainment,Art Gallery
+5260,35,40.712225,-73.957268,24672,Bar,2012-05-26 05:46:38+00:00,New York City,Dining and Drinking,Bar
+5261,35,40.71386,-73.951577,259,Diner,2012-05-26 06:22:22+00:00,New York City,Dining and Drinking,Restaurant
+5262,35,40.71429418660403,-73.95155845542678,2144,Bar,2012-05-26 07:19:28+00:00,New York City,Dining and Drinking,Bar
+5263,35,40.71761465630994,-73.96330230725295,25594,Mexican Restaurant,2012-06-03 06:36:32+00:00,New York City,Dining and Drinking,Restaurant
+5264,35,40.71400481488442,-73.96559244727067,26712,Bar,2012-06-03 07:09:29+00:00,New York City,Dining and Drinking,Bar
+5265,35,40.67981654480616,-73.94561737869883,20492,Office,2012-06-10 00:35:21+00:00,New York City,Business and Professional Services,Office
+5266,35,40.713723,-73.95761367,15634,Bar,2012-06-10 04:03:49+00:00,New York City,Dining and Drinking,Bar
+5267,35,40.678989,-73.968288,29664,Australian Restaurant,2012-06-10 17:22:00+00:00,New York City,Dining and Drinking,Restaurant
+5268,35,40.678234702252034,-73.96857131048762,858,Bar,2012-06-10 18:46:41+00:00,New York City,Dining and Drinking,Bar
+5269,35,40.67396103632496,-73.95698262276463,31331,Bar,2012-06-17 01:41:45+00:00,New York City,Dining and Drinking,Bar
+5270,35,40.707807603285545,-73.95590543746948,2285,Bar,2012-06-17 05:51:00+00:00,New York City,Dining and Drinking,Bar
+5271,35,40.67230729295687,-73.95784374357962,2244,Beer Garden,2012-06-17 07:18:24+00:00,New York City,Dining and Drinking,Bar
+5272,35,40.72789007835151,-73.99897144381916,24968,Bar,2012-05-13 03:58:27+00:00,New York City,Dining and Drinking,Bar
+5273,35,40.74028677076597,-74.00718330199486,7511,Bar,2012-05-27 03:22:01+00:00,New York City,Arts and Entertainment,Night Club
+5274,35,40.671275,-73.95768733507757,7121,Caf�,2012-06-07 00:01:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5275,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-06-07 01:15:12+00:00,New York City,Retail,Computers and Electronics Retail
+5276,35,40.671275,-73.95768733507757,7121,Caf�,2012-06-14 00:01:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5277,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-06-14 01:03:42+00:00,New York City,Retail,Computers and Electronics Retail
+5278,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-10 01:04:36+00:00,New York City,Retail,Computers and Electronics Retail
+5279,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-17 00:04:46+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5280,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-17 00:58:21+00:00,New York City,Retail,Computers and Electronics Retail
+5281,35,40.764013,-73.970601,12504,Deli / Bodega,2012-05-17 13:26:17+00:00,New York City,Dining and Drinking,Restaurant
+5282,35,40.757031390907855,-73.98902607371383,898,Movie Theater,2012-05-17 13:53:14+00:00,New York City,Arts and Entertainment,Movie Theater
+5283,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-24 00:02:08+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5284,35,40.671275,-73.95768733507757,7121,Caf�,2012-06-12 00:03:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5285,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-06-12 01:05:09+00:00,New York City,Retail,Computers and Electronics Retail
+5286,35,40.733673775505466,-73.98783810408904,1618,Food & Drink Shop,2012-06-12 13:31:11+00:00,New York City,Retail,Food and Beverage Retail
+5287,35,40.733879,-73.988185,3657,Food & Drink Shop,2012-06-12 13:31:19+00:00,New York City,Retail,Food and Beverage Retail
+5288,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-15 00:00:11+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5289,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-15 00:54:42+00:00,New York City,Retail,Computers and Electronics Retail
+5290,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-22 00:00:23+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5291,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-22 00:53:11+00:00,New York City,Retail,Computers and Electronics Retail
+5292,35,40.733758,-73.988277,1618,Food & Drink Shop,2012-05-22 12:45:16+00:00,New York City,Retail,Food and Beverage Retail
+5293,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-29 00:02:43+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5294,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-29 00:55:21+00:00,New York City,Retail,Computers and Electronics Retail
+5295,35,40.671275,-73.95768733507757,7121,Caf�,2012-06-13 00:02:05+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5296,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-06-13 01:02:06+00:00,New York City,Retail,Computers and Electronics Retail
+5297,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-09 00:53:54+00:00,New York City,Retail,Computers and Electronics Retail
+5298,35,40.70391994183744,-73.98639678955078,1137,Performing Arts Venue,2012-05-09 23:09:53+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+5299,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-16 00:01:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5300,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-16 00:52:16+00:00,New York City,Retail,Computers and Electronics Retail
+5301,35,40.671275,-73.95768733507757,7121,Caf�,2012-05-30 00:00:04+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+5302,35,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-05-30 00:50:32+00:00,New York City,Retail,Computers and Electronics Retail

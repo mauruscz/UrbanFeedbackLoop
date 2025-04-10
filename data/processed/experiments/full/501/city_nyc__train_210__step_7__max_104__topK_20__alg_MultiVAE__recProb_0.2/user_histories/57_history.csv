@@ -1,0 +1,70 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,57,40.7861373958033,-74.14618005440744,10370,Diner,2012-04-13 00:14:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-13 22:17:15+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+2,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-20 09:47:28+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+3,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-27 21:44:48+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+4,57,40.82702763333333,-74.104968,15640,American Restaurant,2012-04-27 23:48:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,57,40.828888,-74.100579,11858,Gastropub,2012-10-12 01:25:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-09 22:18:52+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+7,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-06-04 23:05:37+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+8,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-05-21 23:13:47+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+9,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-07 13:54:16+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+10,57,40.80587572722004,-74.13507831377021,21138,Deli / Bodega,2012-04-07 16:22:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,57,40.792897,-74.130431,25175,Salon / Barbershop,2012-04-07 20:29:23+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+12,57,40.703197786769564,-74.09479456802617,8456,Italian Restaurant,2012-04-14 00:13:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+13,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-14 12:55:25+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+14,57,40.80587572722004,-74.13507831377021,21138,Deli / Bodega,2012-04-14 17:30:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,57,40.80112916261624,-74.12401032267398,20901,Italian Restaurant,2012-04-21 02:29:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-21 14:17:02+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+17,57,40.829092,-74.100352,15366,Bar,2012-04-28 02:20:41+00:00,New York City,Dining and Drinking,Bar,,,,
+18,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-28 14:32:58+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+19,57,40.828413358858334,-73.92549098547816,15005,Bar,2012-04-28 18:14:58+00:00,New York City,Dining and Drinking,Bar,,,,
+20,57,40.82720714615709,-73.92603062509322,769,Bar,2012-04-28 19:35:18+00:00,New York City,Dining and Drinking,Bar,,,,
+21,57,40.826772,-73.9263815,762,Bar,2012-04-28 20:27:16+00:00,New York City,Dining and Drinking,Bar,,,,
+22,57,40.75992610830176,-74.02246410896758,5422,American Restaurant,2012-04-28 23:03:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+23,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-07-14 13:01:46+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+24,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-06-09 12:47:47+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+25,57,40.782228424643336,-74.13816347116664,11719,Bar,2012-05-12 02:22:49+00:00,New York City,Dining and Drinking,Bar,,,,
+26,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-05-12 14:13:32+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+27,57,40.81237,-74.11966148333333,17585,Spa / Massage,2012-05-12 18:32:07+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+28,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-10-27 15:21:47+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+29,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-09-15 14:25:46+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+30,57,40.81237,-74.11966148333333,17585,Spa / Massage,2012-04-15 13:50:52+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+31,57,40.71520900487956,-74.04685897537672,3945,Beer Garden,2012-04-15 18:36:41+00:00,New York City,Dining and Drinking,Bar,,,,
+32,57,40.79914703485035,-74.17949850484618,17513,Athletic & Sport,2012-06-10 18:28:36+00:00,New York City,Sports and Recreation,Golf,,,,
+33,57,40.792383722376485,-74.19875522742257,11765,Mexican Restaurant,2012-05-13 00:25:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+34,57,40.74997379864539,-73.99018534133084,1691,Bar,2012-05-13 02:07:50+00:00,New York City,Dining and Drinking,Bar,,,,
+35,57,40.83273153375048,-74.09535667291783,13112,Diner,2012-09-09 13:26:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,57,40.833996,-74.09022,24305,Pizza Place,2012-04-19 01:29:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+37,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-26 11:04:21+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+38,57,40.76676370175841,-73.9870805544023,2488,Performing Arts Venue,2012-06-07 21:11:28+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+39,57,40.766038408545775,-73.98682594299316,3607,Mexican Restaurant,2012-06-07 23:52:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+40,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-05-03 22:31:27+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+41,57,40.817789,-74.211569013733,9157,Bar,2012-05-17 22:48:10+00:00,New York City,Dining and Drinking,Bar,,,,
+42,57,40.73907152609708,-73.98379780455603,6016,Bar,2012-10-25 23:54:32+00:00,New York City,Dining and Drinking,Bar,,,,
+43,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-03 22:26:51+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+44,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-10 12:59:19+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+45,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-10 22:44:56+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+46,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-04-17 23:23:42+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+47,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-06-12 22:52:53+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+48,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-05-08 11:01:58+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+49,57,40.837359,-74.091806,7303,Asian Restaurant,2012-05-08 23:13:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,57,40.74985920636586,-73.98996152288103,1272,Bar,2012-04-25 22:51:42+00:00,New York City,Dining and Drinking,Bar,,,,
+51,57,40.74064033927743,-73.98781299591064,34700,Salad Place,2012-08-22 16:31:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+52,57,40.828585959081536,-74.14026975631714,2741,Movie Theater,2012-07-18 00:37:43+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+53,57,40.81325706922519,-74.10960674285889,17580,Diner,2012-05-16 11:00:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+54,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-11-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,7.0,1.0,nyc,Return
+55,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-11-07 18:00:09+00:00,,Sports and Recreation,Gym and Studio,8.0,1.0,nyc,Return
+56,57,40.74064033927743,-73.98781299591064,34700,Salad Place,2012-11-18 18:00:09+00:00,,Dining and Drinking,Restaurant,19.0,2.0,nyc,Return
+57,57,40.73907152609708,-73.98379780455603,6016,Bar,2012-11-23 18:00:09+00:00,,Dining and Drinking,Bar,24.0,3.0,nyc,Return
+58,57,40.74997379864539,-73.99018534133084,1691,Bar,2012-11-23 18:00:09+00:00,,Dining and Drinking,Bar,24.0,3.0,nyc,Return
+59,57,40.799194302240885,-74.09895295732946,15815,Gym / Fitness Center,2012-11-24 18:00:09+00:00,,Sports and Recreation,Gym and Studio,25.0,3.0,nyc,Return
+60,57,40.78689279062589,-74.13418372328557,19915,Gym / Fitness Center,2012-11-25 18:00:09+00:00,,Sports and Recreation,Gym and Studio,26.0,3.0,nyc,Explore
+61,57,40.782228424643336,-74.13816347116664,11719,Bar,2012-12-09 18:00:09+00:00,,Dining and Drinking,Bar,40.0,5.0,nyc,Return
+62,57,40.79181962824019,-74.14202271338908,9387,Bar,2012-12-21 18:00:09+00:00,,Dining and Drinking,Bar,52.0,7.0,nyc,Rec
+63,57,40.73850832201872,-73.98997896387137,2068,Movie Theater,2012-12-30 18:00:09+00:00,,Arts and Entertainment,Movie Theater,61.0,8.0,nyc,Rec
+64,57,40.73813869163153,-73.9907649725129,24614,Gym / Fitness Center,2012-12-31 18:00:09+00:00,,Sports and Recreation,Gym and Studio,62.0,8.0,nyc,Rec
+65,57,40.76676370175841,-73.9870805544023,2488,Performing Arts Venue,2013-01-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,63.0,9.0,nyc,Return
+66,57,40.759399732731005,-73.98947945148703,2092,Gym / Fitness Center,2013-01-27 18:00:09+00:00,,Sports and Recreation,Gym and Studio,89.0,12.0,nyc,Explore
+67,57,40.829092,-74.100352,15366,Bar,2013-01-29 18:00:09+00:00,,Dining and Drinking,Bar,91.0,13.0,nyc,Return
+68,57,40.74064033927743,-73.98781299591064,34700,Salad Place,2013-02-03 18:00:09+00:00,,Dining and Drinking,Restaurant,96.0,13.0,nyc,Return

@@ -1,0 +1,29 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,825,40.755885775,-73.978500425,28212,Office,2012-08-17 17:01:46+00:00,New York City,Business and Professional Services,Office,,,,
+1,825,40.75318320258698,-73.97801842159171,7288,Deli / Bodega,2012-05-11 00:42:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,825,40.755885775,-73.978500425,28212,Office,2012-09-14 19:16:08+00:00,New York City,Business and Professional Services,Office,,,,
+3,825,40.755885775,-73.978500425,28212,Office,2012-04-09 19:13:27+00:00,New York City,Business and Professional Services,Office,,,,
+4,825,40.72714571556443,-74.00021099215293,414,Bar,2012-08-20 05:15:44+00:00,New York City,Dining and Drinking,Bar,,,,
+5,825,40.755885775,-73.978500425,28212,Office,2012-07-16 22:30:38+00:00,New York City,Business and Professional Services,Office,,,,
+6,825,40.755885775,-73.978500425,28212,Office,2012-05-14 15:59:38+00:00,New York City,Business and Professional Services,Office,,,,
+7,825,40.755885775,-73.978500425,28212,Office,2012-05-21 15:30:04+00:00,New York City,Business and Professional Services,Office,,,,
+8,825,40.713565479798646,-73.97236347198486,2957,Bridge,2012-04-07 21:18:43+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+9,825,40.75516498518981,-73.92498404041469,3301,Beer Garden,2012-08-18 23:31:56+00:00,New York City,Dining and Drinking,Bar,,,,
+10,825,40.76233329717174,-73.97885061753348,32361,Park,2012-06-02 21:53:57+00:00,New York City,Landmarks and Outdoors,Park,,,,
+11,825,40.689315,-73.955219,27214,Fried Chicken Joint,2012-07-01 00:39:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,825,40.755885775,-73.978500425,28212,Office,2012-07-08 15:30:52+00:00,New York City,Business and Professional Services,Office,,,,
+13,825,40.761173636735336,-73.92366538502637,36420,Bar,2012-09-16 03:43:25+00:00,New York City,Dining and Drinking,Bar,,,,
+14,825,40.74433049507056,-73.99868451019118,22605,Neighborhood,2012-07-12 00:32:28+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+15,825,40.755885775,-73.978500425,28212,Office,2012-06-07 01:09:07+00:00,New York City,Business and Professional Services,Office,,,,
+16,825,40.755885775,-73.978500425,28212,Office,2012-06-07 19:23:59+00:00,New York City,Business and Professional Services,Office,,,,
+17,825,40.86677551269531,-73.92080688476562,31000,Pizza Place,2012-06-07 22:44:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,825,40.755885775,-73.978500425,28212,Office,2012-10-11 20:50:37+00:00,New York City,Business and Professional Services,Office,,,,
+19,825,40.755885775,-73.978500425,28212,Office,2012-07-03 20:18:46+00:00,New York City,Business and Professional Services,Office,,,,
+20,825,40.755885775,-73.978500425,28212,Office,2012-07-17 21:07:22+00:00,New York City,Business and Professional Services,Office,,,,
+21,825,40.755885775,-73.978500425,28212,Office,2012-06-12 21:45:24+00:00,New York City,Business and Professional Services,Office,,,,
+22,825,40.867476,-73.920994,15968,Cosmetics Shop,2012-05-15 00:48:14+00:00,New York City,Retail,Cosmetics Store,,,,
+23,825,40.840534839134165,-73.94120693206787,6671,Medical Center,2012-05-16 06:42:25+00:00,New York City,Health and Medicine,Hospital,,,,
+24,825,40.812303968405736,-73.92959565337603,24188,Office,2012-12-17 18:00:09+00:00,,Business and Professional Services,Office,48.0,6.0,nyc,Rec
+25,825,40.755885775,-73.978500425,28212,Office,2013-01-08 18:00:09+00:00,,Business and Professional Services,Office,70.0,10.0,nyc,Return
+26,825,40.752522706592416,-73.98677064685069,13138,Office,2013-01-11 18:00:09+00:00,,Business and Professional Services,Office,73.0,10.0,nyc,Rec
+27,825,40.749522986346776,-73.98322963061759,2276,Bar,2013-02-03 18:00:09+00:00,,Dining and Drinking,Bar,96.0,13.0,nyc,Rec

@@ -1,0 +1,80 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+93628,592,40.63806160214608,-74.07612370262419,28956,Building,2012-04-13 17:04:30+00:00,New York City,Landmarks and Outdoors,Structure
+93629,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-13 18:31:31+00:00,New York City,Travel and Transportation,Pier
+93630,592,40.6262982060355,-74.13488388061523,10852,Food & Drink Shop,2012-04-13 19:03:26+00:00,New York City,Retail,Food and Beverage Retail
+93631,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-20 13:53:02+00:00,New York City,Travel and Transportation,Pier
+93632,592,40.70145732419213,-74.01321428847186,1097,Ferry,2012-04-20 14:27:18+00:00,New York City,Travel and Transportation,Pier
+93633,592,40.707720563666456,-74.0044747476024,26127,Clothing Store,2012-04-20 14:54:58+00:00,New York City,Retail,Fashion Retail
+93634,592,40.70748208600183,-74.00406157491777,11864,Drugstore / Pharmacy,2012-04-20 14:59:20+00:00,New York City,Retail,Pharmacy
+93635,592,40.70145732419213,-74.01321428847186,1097,Ferry,2012-04-20 15:26:49+00:00,New York City,Travel and Transportation,Pier
+93636,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-20 16:05:56+00:00,New York City,Travel and Transportation,Pier
+93637,592,40.6262982060355,-74.13488388061523,10852,Food & Drink Shop,2012-04-20 20:52:30+00:00,New York City,Retail,Food and Beverage Retail
+93638,592,40.6241105312185,-74.13705671982123,27003,Bank,2012-04-20 21:06:09+00:00,New York City,Business and Professional Services,Financial Service
+93639,592,40.63806160214608,-74.07612370262419,28956,Building,2012-04-27 12:51:14+00:00,New York City,Landmarks and Outdoors,Structure
+93640,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-27 13:50:59+00:00,New York City,Travel and Transportation,Pier
+93641,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-06-08 19:47:07+00:00,New York City,Travel and Transportation,Pier
+93642,592,40.63806160214608,-74.07612370262419,28956,Building,2012-05-04 12:55:43+00:00,New York City,Landmarks and Outdoors,Structure
+93643,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-05-04 14:21:16+00:00,New York City,Travel and Transportation,Pier
+93644,592,40.624764,-74.14803,20615,Coffee Shop,2012-05-04 19:30:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+93645,592,40.63806160214608,-74.07612370262419,28956,Building,2012-05-11 12:59:46+00:00,New York City,Landmarks and Outdoors,Structure
+93646,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-05-11 14:25:54+00:00,New York City,Travel and Transportation,Pier
+93647,592,40.62644009732692,-74.17276190554297,16003,Movie Theater,2012-05-11 16:19:14+00:00,New York City,Arts and Entertainment,Movie Theater
+93648,592,40.62672243364512,-74.16412150063366,15904,Fast Food Restaurant,2012-05-11 19:44:52+00:00,New York City,Dining and Drinking,Restaurant
+93649,592,40.63854,-74.07586466,14620,Sandwich Place,2012-04-09 16:35:42+00:00,New York City,Dining and Drinking,Restaurant
+93650,592,40.637572247315646,-74.07713903222442,13975,Taco Place,2012-04-16 16:23:50+00:00,New York City,Dining and Drinking,Restaurant
+93651,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-16 19:21:38+00:00,New York City,Travel and Transportation,Pier
+93652,592,40.624764,-74.14803,20615,Coffee Shop,2012-04-16 20:47:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+93653,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-23 19:09:38+00:00,New York City,Travel and Transportation,Pier
+93654,592,40.63731620408853,-74.07609502091778,36142,Building,2012-06-11 14:05:06+00:00,New York City,Landmarks and Outdoors,Structure
+93655,592,40.637568873279214,-74.07678338066931,20792,Spanish Restaurant,2012-06-11 16:43:47+00:00,New York City,Dining and Drinking,Restaurant
+93656,592,40.637568873279214,-74.07678338066931,20792,Spanish Restaurant,2012-05-07 16:16:03+00:00,New York City,Dining and Drinking,Restaurant
+93657,592,40.6262982060355,-74.13488388061523,10852,Food & Drink Shop,2012-05-07 19:45:09+00:00,New York City,Retail,Food and Beverage Retail
+93658,592,40.62609725,-74.13445,20461,Caf�,2012-05-28 23:09:04+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+93659,592,40.6262982060355,-74.13488388061523,10852,Food & Drink Shop,2012-04-28 18:29:25+00:00,New York City,Retail,Food and Beverage Retail
+93660,592,40.625384,-74.135551,27233,Video Game Store,2012-05-05 19:08:33+00:00,New York City,Retail,Computers and Electronics Retail
+93661,592,40.625705,-74.136958,21893,Miscellaneous Shop,2012-05-05 19:14:50+00:00,New York City,Retail,Miscellaneous Store
+93662,592,40.62473543463314,-74.14090451620118,20408,Drugstore / Pharmacy,2012-05-12 18:27:35+00:00,New York City,Retail,Pharmacy
+93663,592,40.6262982060355,-74.13488388061523,10852,Food & Drink Shop,2012-05-12 19:15:31+00:00,New York City,Retail,Food and Beverage Retail
+93664,592,40.62514551,-74.14450761,17810,Middle Eastern Restaurant,2012-04-15 17:28:36+00:00,New York City,Dining and Drinking,Restaurant
+93665,592,40.591155234830666,-74.16445978549282,32092,Clothing Store,2012-06-10 20:06:08+00:00,New York City,Retail,Fashion Retail
+93666,592,40.624587,-74.142421,10941,Bar,2012-06-10 23:54:21+00:00,New York City,Dining and Drinking,Bar
+93667,592,40.62596875836906,-74.13750974318563,31214,Asian Restaurant,2012-05-27 17:04:56+00:00,New York City,Dining and Drinking,Restaurant
+93668,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-12 17:28:43+00:00,New York City,Travel and Transportation,Pier
+93669,592,40.63806160214608,-74.07612370262419,28956,Building,2012-04-19 12:50:34+00:00,New York City,Landmarks and Outdoors,Structure
+93670,592,40.63806160214608,-74.07612370262419,28956,Building,2012-04-26 13:03:41+00:00,New York City,Landmarks and Outdoors,Structure
+93671,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-26 14:28:57+00:00,New York City,Travel and Transportation,Pier
+93672,592,40.63806160214608,-74.07612370262419,28956,Building,2012-06-07 12:53:25+00:00,New York City,Landmarks and Outdoors,Structure
+93673,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-06-07 14:34:21+00:00,New York City,Travel and Transportation,Pier
+93674,592,40.63806160214608,-74.07612370262419,28956,Building,2012-06-07 16:58:36+00:00,New York City,Landmarks and Outdoors,Structure
+93675,592,40.6262982060355,-74.13488388061523,10852,Food & Drink Shop,2012-06-07 20:37:18+00:00,New York City,Retail,Food and Beverage Retail
+93676,592,40.63806160214608,-74.07612370262419,28956,Building,2012-05-03 13:10:11+00:00,New York City,Landmarks and Outdoors,Structure
+93677,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-05-03 15:36:07+00:00,New York City,Travel and Transportation,Pier
+93678,592,40.73652697126574,-73.9905595779419,2449,Food & Drink Shop,2012-04-03 19:36:05+00:00,New York City,Retail,Food and Beverage Retail
+93679,592,40.70325299803113,-74.0142273902893,4753,Coffee Shop,2012-04-03 20:15:34+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+93680,592,40.70145732419213,-74.01321428847186,1097,Ferry,2012-04-03 20:23:14+00:00,New York City,Travel and Transportation,Pier
+93681,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-03 21:03:26+00:00,New York City,Travel and Transportation,Pier
+93682,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-17 19:15:44+00:00,New York City,Travel and Transportation,Pier
+93683,592,40.63284,-74.13703383333333,12125,Post Office,2012-04-17 20:23:17+00:00,New York City,Community and Government,Government Building
+93684,592,40.637568873279214,-74.07678338066931,20792,Spanish Restaurant,2012-04-24 19:07:15+00:00,New York City,Dining and Drinking,Restaurant
+93685,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-24 19:20:47+00:00,New York City,Travel and Transportation,Pier
+93686,592,40.63806160214608,-74.07612370262419,28956,Building,2012-06-12 13:06:51+00:00,New York City,Landmarks and Outdoors,Structure
+93687,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-06-12 14:27:29+00:00,New York City,Travel and Transportation,Pier
+93688,592,40.62531181003191,-74.14466048533231,17810,Middle Eastern Restaurant,2012-05-01 16:44:31+00:00,New York City,Dining and Drinking,Restaurant
+93689,592,40.62457454120317,-74.15104832625775,18252,School,2012-05-01 20:13:12+00:00,New York City,Community and Government,Education
+93690,592,40.624764,-74.14803,20615,Coffee Shop,2012-05-01 20:50:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+93691,592,40.637572247315646,-74.07713903222442,13975,Taco Place,2012-05-08 16:07:59+00:00,New York City,Dining and Drinking,Restaurant
+93692,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-05-08 19:19:55+00:00,New York City,Travel and Transportation,Pier
+93693,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-11 18:28:17+00:00,New York City,Travel and Transportation,Pier
+93694,592,40.63806160214608,-74.07612370262419,28956,Building,2012-04-18 16:58:41+00:00,New York City,Landmarks and Outdoors,Structure
+93695,592,40.63806160214608,-74.07612370262419,28956,Building,2012-04-25 13:03:11+00:00,New York City,Landmarks and Outdoors,Structure
+93696,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-04-25 15:35:08+00:00,New York City,Travel and Transportation,Pier
+93697,592,40.62461376795429,-74.15049785666632,18252,School,2012-04-25 18:41:02+00:00,New York City,Community and Government,Education
+93698,592,40.63806160214608,-74.07612370262419,28956,Building,2012-06-06 13:05:25+00:00,New York City,Landmarks and Outdoors,Structure
+93699,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-06-06 16:14:00+00:00,New York City,Travel and Transportation,Pier
+93700,592,40.624740660588415,-74.15040037750666,18252,School,2012-06-06 19:56:10+00:00,New York City,Community and Government,Education
+93701,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-05-09 12:52:27+00:00,New York City,Travel and Transportation,Pier
+93702,592,40.70145732419213,-74.01321428847186,1097,Ferry,2012-05-09 13:33:50+00:00,New York City,Travel and Transportation,Pier
+93703,592,40.7106029791367,-74.00614464477995,25046,Government Building,2012-05-09 13:59:56+00:00,New York City,Community and Government,Government Building
+93704,592,40.70145732419213,-74.01321428847186,1097,Ferry,2012-05-09 16:21:37+00:00,New York City,Travel and Transportation,Pier
+93705,592,40.6444055420497,-74.0729570388794,3974,Ferry,2012-05-09 17:03:20+00:00,New York City,Travel and Transportation,Pier
+93706,592,40.624764,-74.14803,20615,Coffee Shop,2012-05-09 17:37:35+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"

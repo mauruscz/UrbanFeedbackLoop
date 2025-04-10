@@ -1,0 +1,115 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-10-12 12:47:49+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+1,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-12 12:48:14+00:00,New York City,Health and Medicine,Medical Center,,,,
+2,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-12 22:11:15+00:00,New York City,Health and Medicine,Medical Center,,,,
+3,914,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-10-26 12:36:52+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+4,914,40.82678036264948,-73.82261075935283,15811,Sandwich Place,2012-10-26 12:37:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-26 12:38:10+00:00,New York City,Health and Medicine,Medical Center,,,,
+6,914,40.82348968640062,-73.8197388048214,32193,Bookstore,2012-10-26 20:30:24+00:00,New York City,Retail,Bookstore,,,,
+7,914,40.82659732087299,-73.82250162584172,33153,Bar,2012-10-26 20:30:51+00:00,New York City,Dining and Drinking,Bar,,,,
+8,914,40.82678036264948,-73.82261075935283,15811,Sandwich Place,2012-09-14 12:18:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+9,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-14 12:36:59+00:00,New York City,Health and Medicine,Medical Center,,,,
+10,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-14 16:16:28+00:00,New York City,Health and Medicine,Medical Center,,,,
+11,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-09-14 19:11:19+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+12,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-14 19:46:28+00:00,New York City,Health and Medicine,Medical Center,,,,
+13,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-08-20 12:10:50+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+14,914,40.82678036264948,-73.82261075935283,15811,Sandwich Place,2012-08-20 12:11:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,914,40.82725456465587,-73.839111328125,12946,Hardware Store,2012-08-20 14:09:09+00:00,New York City,Retail,Hardware Store,,,,
+16,914,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-10-08 12:02:15+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+17,914,40.82678036264948,-73.82261075935283,15811,Sandwich Place,2012-10-08 12:02:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-10-08 12:18:51+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+19,914,40.82348968640062,-73.8197388048214,32193,Bookstore,2012-10-22 12:02:42+00:00,New York City,Retail,Bookstore,,,,
+20,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-22 14:24:15+00:00,New York City,Health and Medicine,Medical Center,,,,
+21,914,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-08-18 20:28:23+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+22,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-08-18 21:16:11+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+23,914,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-10-13 11:14:42+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+24,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-10-13 13:24:30+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+25,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-13 13:26:08+00:00,New York City,Health and Medicine,Medical Center,,,,
+26,914,40.90122520923615,-73.817176,7170,Department Store,2012-10-27 14:10:56+00:00,New York City,Retail,Department Store,,,,
+27,914,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-09-15 11:32:31+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+28,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-09-15 12:20:39+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+29,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-15 12:31:20+00:00,New York City,Health and Medicine,Medical Center,,,,
+30,914,40.86736752916331,-73.82752744881535,9278,Mall,2012-09-15 14:38:02+00:00,New York City,Retail,Shopping Mall,,,,
+31,914,40.86627824828623,-73.82617192512944,19111,Furniture / Home Store,2012-09-15 14:45:15+00:00,New York City,Retail,Furniture and Home Store,,,,
+32,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-15 16:33:45+00:00,New York City,Health and Medicine,Medical Center,,,,
+33,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-15 22:28:13+00:00,New York City,Health and Medicine,Medical Center,,,,
+34,914,40.81457687338629,-73.80470631620614,28930,Harbor / Marina,2012-08-19 12:17:19+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+35,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-08-19 12:26:25+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+36,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-08-19 12:54:51+00:00,New York City,Health and Medicine,Medical Center,,,,
+37,914,40.82860940508383,-73.8243281682648,29132,Pizza Place,2012-08-19 18:26:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-28 16:31:49+00:00,New York City,Health and Medicine,Medical Center,,,,
+39,914,40.78782018739577,-73.79104614257812,37651,Other Great Outdoors,2012-10-28 18:11:43+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+40,914,40.82755768282148,-73.82366188430154,12275,Fast Food Restaurant,2012-09-16 00:19:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,914,40.83464083864158,-73.82676927569469,13642,Food & Drink Shop,2012-10-18 18:12:14+00:00,New York City,Retail,Food and Beverage Retail,,,,
+42,914,40.82678036264948,-73.82261075935283,15811,Sandwich Place,2012-10-25 12:03:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-10-25 12:10:16+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+44,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-09-13 12:06:17+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+45,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-13 13:16:53+00:00,New York City,Health and Medicine,Medical Center,,,,
+46,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-13 16:48:39+00:00,New York City,Health and Medicine,Medical Center,,,,
+47,914,40.82678036264948,-73.82261075935283,15811,Sandwich Place,2012-10-16 12:15:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+48,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-16 12:31:29+00:00,New York City,Health and Medicine,Medical Center,,,,
+49,914,40.86627824828623,-73.82617192512944,19111,Furniture / Home Store,2012-10-16 14:25:29+00:00,New York City,Retail,Furniture and Home Store,,,,
+50,914,40.86736752916331,-73.82752744881535,9278,Mall,2012-10-16 14:25:47+00:00,New York City,Retail,Shopping Mall,,,,
+51,914,40.82175214265828,-73.8190667614504,19544,Bank,2012-10-16 14:53:31+00:00,New York City,Business and Professional Services,Financial Service,,,,
+52,914,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-10-23 12:12:39+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+53,914,40.82678036264948,-73.82261075935283,15811,Sandwich Place,2012-10-23 12:12:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+54,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-10-23 12:29:33+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+55,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-23 14:25:34+00:00,New York City,Health and Medicine,Medical Center,,,,
+56,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-23 21:05:33+00:00,New York City,Health and Medicine,Medical Center,,,,
+57,914,40.834668,-73.829282,31057,Gas Station / Garage,2012-10-03 15:34:08+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+58,914,40.73287641704575,-74.05764030894315,14110,Government Building,2012-10-03 16:30:25+00:00,New York City,Community and Government,Government Building,,,,
+59,914,40.7176402841598,-73.99618243074424,7384,Food & Drink Shop,2012-10-03 18:22:27+00:00,New York City,Retail,Food and Beverage Retail,,,,
+60,914,40.7226436746522,-74.00234575103158,26341,Tattoo Parlor,2012-10-03 18:51:08+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+61,914,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-10-24 10:51:19+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+62,914,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-10-24 10:56:05+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+63,914,40.82678036264948,-73.82261075935283,15811,Sandwich Place,2012-10-24 12:10:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+64,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-10-24 12:48:55+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+65,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-24 12:56:55+00:00,New York City,Health and Medicine,Medical Center,,,,
+66,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-10-24 20:00:26+00:00,New York City,Health and Medicine,Medical Center,,,,
+67,914,40.826378527466936,-73.8221397616641,14416,Donut Shop,2012-09-05 12:25:16+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+68,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-05 12:39:53+00:00,New York City,Health and Medicine,Medical Center,,,,
+69,914,40.90122520923615,-73.817176,7170,Department Store,2012-09-05 14:59:29+00:00,New York City,Retail,Department Store,,,,
+70,914,40.84679417771147,-73.83257037486555,7501,Deli / Bodega,2012-09-05 15:36:17+00:00,New York City,Dining and Drinking,Restaurant,,,,
+71,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-05 16:09:31+00:00,New York City,Health and Medicine,Medical Center,,,,
+72,914,40.82798022702566,-73.81888869829497,27219,Medical Center,2012-09-05 19:15:01+00:00,New York City,Health and Medicine,Medical Center,,,,
+73,914,40.8675,-73.829406,12541,Paper / Office Supplies Store,2012-09-12 18:19:17+00:00,New York City,Retail,Office Supply Store,,,,
+74,914,40.882215,-73.839667,20779,Medical Center,2012-10-31 18:00:09+00:00,,Health and Medicine,Medical Center,1.0,0.0,nyc,Rec
+75,914,40.8549518546144,-73.88820630311497,19129,Medical Center,2012-11-01 18:00:09+00:00,,Health and Medicine,Medical Center,2.0,0.0,nyc,Rec
+76,914,40.89615966938053,-73.80434989929199,16276,Donut Shop,2012-11-07 18:00:09+00:00,,Dining and Drinking,Donut Shop,8.0,1.0,nyc,Rec
+77,914,40.873287320137024,-73.878915309906,12319,Food & Drink Shop,2012-11-07 18:00:09+00:00,,Retail,Food and Beverage Retail,8.0,1.0,nyc,Rec
+78,914,40.88543772697449,-73.910173,21009,Medical Center,2012-11-09 18:00:09+00:00,,Health and Medicine,Medical Center,10.0,1.0,nyc,Rec
+79,914,40.75003554505216,-73.99246942237671,35923,Donut Shop,2012-11-09 18:00:09+00:00,,Dining and Drinking,Donut Shop,10.0,1.0,nyc,Rec
+80,914,40.8549518546144,-73.88820630311497,19129,Medical Center,2012-11-10 18:00:09+00:00,,Health and Medicine,Medical Center,11.0,1.0,nyc,Rec
+81,914,40.86826077202717,-73.90207262837704,20134,Medical Center,2012-11-11 18:00:09+00:00,,Health and Medicine,Medical Center,12.0,1.0,nyc,Rec
+82,914,40.9041023,-74.07822638333333,19971,Medical Center,2012-11-12 18:00:09+00:00,,Health and Medicine,Medical Center,13.0,1.0,nyc,Rec
+83,914,40.87908693430124,-74.08500908544775,14646,Food & Drink Shop,2012-11-12 18:00:09+00:00,,Retail,Food and Beverage Retail,13.0,1.0,nyc,Rec
+84,914,40.89765098993509,-74.07427085544239,20965,Medical Center,2012-11-12 18:00:09+00:00,,Health and Medicine,Medical Center,13.0,1.0,nyc,Rec
+85,914,40.88696240492354,-74.06461000442505,12921,Donut Shop,2012-11-13 18:00:09+00:00,,Dining and Drinking,Donut Shop,14.0,2.0,nyc,Rec
+86,914,40.914802,-74.172135,31389,Medical Center,2012-11-16 18:00:09+00:00,,Health and Medicine,Medical Center,17.0,2.0,nyc,Rec
+87,914,40.84120527898384,-74.15902421865839,8389,Donut Shop,2012-11-20 18:00:09+00:00,,Dining and Drinking,Donut Shop,21.0,3.0,nyc,Rec
+88,914,40.83378797191385,-74.14615711760779,14849,Pizza Place,2012-11-20 18:00:09+00:00,,Dining and Drinking,Restaurant,21.0,3.0,nyc,Rec
+89,914,40.82589628643832,-74.15204031422692,32515,Medical Center,2012-11-21 18:00:09+00:00,,Health and Medicine,Medical Center,22.0,3.0,nyc,Rec
+90,914,40.84371651472043,-74.15784358978271,8951,Hardware Store,2012-11-21 18:00:09+00:00,,Retail,Hardware Store,22.0,3.0,nyc,Rec
+91,914,40.83598636548316,-74.14768814279203,33442,Neighborhood,2012-11-23 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,24.0,3.0,nyc,Rec
+92,914,40.84120527898384,-74.15902421865839,8389,Donut Shop,2012-11-23 18:00:09+00:00,,Dining and Drinking,Donut Shop,24.0,3.0,nyc,Rec
+93,914,40.862535,-74.14400845,23065,Medical Center,2012-11-23 18:00:09+00:00,,Health and Medicine,Medical Center,24.0,3.0,nyc,Rec
+94,914,40.75845677498381,-73.98914046612941,18884,Burger Joint,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Rec
+95,914,40.73653170754329,-73.9908281005557,275,Diner,2012-11-24 18:00:09+00:00,,Dining and Drinking,Restaurant,25.0,3.0,nyc,Rec
+96,914,40.73422076464957,-73.98914085299818,7593,Donut Shop,2012-11-25 18:00:09+00:00,,Dining and Drinking,Donut Shop,26.0,3.0,nyc,Rec
+97,914,40.74331836001427,-73.99345076542737,24530,Medical Center,2012-11-27 18:00:09+00:00,,Health and Medicine,Medical Center,28.0,4.0,nyc,Rec
+98,914,40.73485228613973,-73.99108529090881,1524,Food & Drink Shop,2012-12-03 18:00:09+00:00,,Retail,Food and Beverage Retail,34.0,4.0,nyc,Rec
+99,914,40.73868694544565,-73.99992406038182,1901,Donut Shop,2012-12-03 18:00:09+00:00,,Dining and Drinking,Donut Shop,34.0,4.0,nyc,Rec
+100,914,40.75061379403183,-73.98856401443481,1028,Department Store,2012-12-03 18:00:09+00:00,,Retail,Department Store,34.0,4.0,nyc,Rec
+101,914,40.74959782183326,-73.98605346679688,24306,City,2012-12-10 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,41.0,5.0,nyc,Rec
+102,914,40.74887418461532,-73.98596144144094,5937,Electronics Store,2012-12-10 18:00:09+00:00,,Retail,Computers and Electronics Retail,41.0,5.0,nyc,Rec
+103,914,40.74471768966725,-73.97109096808028,34801,Neighborhood,2012-12-18 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,49.0,7.0,nyc,Rec
+104,914,40.74421527986642,-73.9885380368106,1643,Bar,2012-12-19 18:00:09+00:00,,Dining and Drinking,Bar,50.0,7.0,nyc,Rec
+105,914,40.74157843,-73.989482,12645,Bank,2012-12-28 18:00:09+00:00,,Business and Professional Services,Financial Service,59.0,8.0,nyc,Rec
+106,914,40.752855,-73.992973,10295,Paper / Office Supplies Store,2013-01-02 18:00:09+00:00,,Retail,Office Supply Store,64.0,9.0,nyc,Rec
+107,914,40.74889538252527,-73.98856695588998,3444,Mall,2013-01-02 18:00:09+00:00,,Retail,Shopping Mall,64.0,9.0,nyc,Rec
+108,914,40.75150160315114,-73.98271884655175,3818,Department Store,2013-01-07 18:00:09+00:00,,Retail,Department Store,69.0,9.0,nyc,Rec
+109,914,40.74471768966725,-73.97109096808028,34801,Neighborhood,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,69.0,9.0,nyc,Rec
+110,914,40.74733337781301,-73.97501674700247,36068,Medical Center,2013-01-08 18:00:09+00:00,,Health and Medicine,Medical Center,70.0,10.0,nyc,Rec
+111,914,40.761471535292976,-73.96677374839783,3687,Hardware Store,2013-01-09 18:00:09+00:00,,Retail,Hardware Store,71.0,10.0,nyc,Rec
+112,914,40.74471768966725,-73.97109096808028,34801,Neighborhood,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,73.0,10.0,nyc,Rec
+113,914,40.747376,-73.984624,26079,Hardware Store,2013-01-21 18:00:09+00:00,,Retail,Hardware Store,83.0,11.0,nyc,Rec

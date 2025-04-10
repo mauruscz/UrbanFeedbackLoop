@@ -1,0 +1,106 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,695,40.80443415959428,-73.96651653115278,18862,Burger Joint,2012-04-27 22:26:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,695,40.805097,-73.966071,1233,Bar,2012-07-06 03:41:22+00:00,New York City,Dining and Drinking,Bar,,,,
+2,695,40.81133225138675,-73.95778060471581,27665,Asian Restaurant,2012-07-06 23:48:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,695,40.805097,-73.966071,1233,Bar,2012-07-27 20:57:48+00:00,New York City,Dining and Drinking,Bar,,,,
+4,695,40.80688252098248,-73.96169900894165,29374,College Academic Building,2012-06-01 18:30:31+00:00,New York City,Community and Government,Education,,,,
+5,695,40.73977866664367,-73.98508787155151,2188,Music Venue,2012-05-04 00:14:59+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+6,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-05-04 04:51:24+00:00,New York City,Community and Government,Education,,,,
+7,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-05-11 07:02:18+00:00,New York City,Community and Government,Education,,,,
+8,695,40.80688252098248,-73.96169900894165,29374,College Academic Building,2012-05-11 20:50:33+00:00,New York City,Community and Government,Education,,,,
+9,695,40.80688252098248,-73.96169900894165,29374,College Academic Building,2012-05-25 15:02:31+00:00,New York City,Community and Government,Education,,,,
+10,695,40.804518529155104,-73.96629268515318,18862,Burger Joint,2012-10-12 00:44:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,695,40.804518529155104,-73.96629268515318,18862,Burger Joint,2012-10-26 23:31:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-04-23 01:29:51+00:00,New York City,Community and Government,Education,,,,
+13,695,40.8089,-73.91697,36324,Bar,2012-08-06 02:05:47+00:00,New York City,Arts and Entertainment,Strip Club,,,,
+14,695,40.80474202386944,-73.95543871227191,27282,Food,2012-08-13 22:13:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,695,40.80630247409209,-73.96242986580579,12023,College Academic Building,2012-07-02 12:37:06+00:00,New York City,Community and Government,Education,,,,
+16,695,40.8121202519876,-73.96193504333496,8133,College Academic Building,2012-07-02 21:23:58+00:00,New York City,Community and Government,Education,,,,
+17,695,40.8017905629288,-73.95734310150146,13367,American Restaurant,2012-05-28 02:30:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,695,40.804518529155104,-73.96629268515318,18862,Burger Joint,2012-10-08 21:37:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-04-14 06:15:20+00:00,New York City,Community and Government,Education,,,,
+20,695,40.773233,-73.983335,31194,Theater,2012-08-11 00:01:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+21,695,40.805097,-73.966071,1233,Bar,2012-08-11 21:14:49+00:00,New York City,Dining and Drinking,Bar,,,,
+22,695,40.75656797846801,-73.99236038395,18297,Bar,2012-07-14 01:12:30+00:00,New York City,Dining and Drinking,Bar,,,,
+23,695,40.722205563815855,-73.98172023108505,10,Theater,2012-06-09 02:49:35+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+24,695,40.73825811820762,-73.99976337840222,8860,Burger Joint,2012-06-09 05:25:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+25,695,40.80296004239932,-73.9570426940918,33763,Bar,2012-06-09 21:56:40+00:00,New York City,Dining and Drinking,Bar,,,,
+26,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-05-12 08:48:34+00:00,New York City,Community and Government,Education,,,,
+27,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-04-08 18:55:36+00:00,New York City,Community and Government,Education,,,,
+28,695,40.80715109145751,-73.96368686900594,4534,Student Center,2012-04-22 03:21:47+00:00,New York City,Community and Government,Education,,,,
+29,695,40.87133918585472,-74.23645451728925,14375,Italian Restaurant,2012-08-19 23:49:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,695,40.72306982876064,-74.00795224900666,2313,General Entertainment,2012-07-08 02:33:34+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+31,695,40.76461875178187,-73.98071013200064,1171,Greek Restaurant,2012-07-15 16:23:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,695,40.793195886261245,-73.97070068159024,3672,Pizza Place,2012-06-10 00:24:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,695,40.687689,-73.970745,1746,Tapas Restaurant,2012-06-10 22:49:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+34,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-05-13 17:26:57+00:00,New York City,Community and Government,Education,,,,
+35,695,40.80454777,-73.966401,4708,Coffee Shop,2012-04-12 02:50:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+36,695,40.80647862081046,-73.96509309575141,5274,Cuban Restaurant,2012-04-12 04:07:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+37,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-04-12 07:46:15+00:00,New York City,Community and Government,Education,,,,
+38,695,40.74231487869751,-73.99188995361328,1777,Steakhouse,2012-04-12 22:15:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-04-19 20:59:28+00:00,New York City,Community and Government,Education,,,,
+40,695,40.805097,-73.966071,1233,Bar,2012-04-19 21:00:03+00:00,New York City,Dining and Drinking,Bar,,,,
+41,695,40.744582947449466,-73.98762002190988,34863,Office,2012-04-19 22:20:58+00:00,New York City,Business and Professional Services,Office,,,,
+42,695,40.81133225138675,-73.95778060471581,27665,Asian Restaurant,2012-08-09 22:21:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,695,40.805097,-73.966071,1233,Bar,2012-07-12 03:56:16+00:00,New York City,Dining and Drinking,Bar,,,,
+44,695,40.804518529155104,-73.96629268515318,18862,Burger Joint,2012-06-14 00:04:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,695,40.800867,-73.965464,30501,Burrito Place,2012-05-03 22:04:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,695,40.805097,-73.966071,1233,Bar,2012-10-11 21:50:02+00:00,New York City,Dining and Drinking,Bar,,,,
+47,695,40.766953,-73.986462,37046,Tapas Restaurant,2012-10-25 23:08:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+48,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-04-17 18:33:04+00:00,New York City,Community and Government,Education,,,,
+49,695,40.80178507616903,-73.96077680803099,4915,Southern / Soul Food Restaurant,2012-07-03 16:47:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,695,40.8048095703125,-73.9657211303711,33079,Student Center,2012-06-12 16:15:57+00:00,New York City,Community and Government,Education,,,,
+51,695,40.80684191680167,-73.95998239517212,6195,College Academic Building,2012-05-01 18:09:08+00:00,New York City,Community and Government,Education,,,,
+52,695,40.80688252098248,-73.96169900894165,29374,College Academic Building,2012-05-08 21:13:07+00:00,New York City,Community and Government,Education,,,,
+53,695,40.80715109145751,-73.96368686900594,4534,Student Center,2012-05-15 13:10:28+00:00,New York City,Community and Government,Education,,,,
+54,695,40.80688252098248,-73.96169900894165,29374,College Academic Building,2012-05-29 15:09:33+00:00,New York City,Community and Government,Education,,,,
+55,695,40.80443415959428,-73.96651653115278,18862,Burger Joint,2012-05-29 21:31:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+56,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-04-04 14:34:05+00:00,New York City,Community and Government,Education,,,,
+57,695,40.800867,-73.965464,30501,Burrito Place,2012-04-11 01:05:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+58,695,40.80740645034815,-73.95863010769838,30754,College Academic Building,2012-04-11 17:58:48+00:00,New York City,Community and Government,Education,,,,
+59,695,40.80688252098248,-73.96169900894165,29374,College Academic Building,2012-04-18 18:42:03+00:00,New York City,Community and Government,Education,,,,
+60,695,40.83019923609059,-73.92170198426258,22005,High School,2012-06-06 20:32:04+00:00,New York City,Community and Government,Education,,,,
+61,695,40.8048095703125,-73.9657211303711,33079,Student Center,2012-06-13 17:50:02+00:00,New York City,Community and Government,Education,,,,
+62,695,40.805097,-73.966071,1233,Bar,2012-06-13 23:47:45+00:00,New York City,Dining and Drinking,Bar,,,,
+63,695,40.762709521104654,-73.98746506863203,25119,Park,2012-06-20 21:06:54+00:00,New York City,Landmarks and Outdoors,Park,,,,
+64,695,40.76271587683453,-73.98763664066797,1703,Burrito Place,2012-06-20 21:42:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+65,695,40.75855409791464,-73.9855706691742,32635,Theater,2012-06-20 23:53:37+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+66,695,40.75752044383661,-73.98714368365702,23170,Bowling Alley,2012-06-27 01:06:11+00:00,New York City,Arts and Entertainment,Bowling Alley,,,,
+67,695,40.80688252098248,-73.96169900894165,29374,College Academic Building,2012-05-23 16:56:01+00:00,New York City,Community and Government,Education,,,,
+68,695,40.76316588469643,-73.97701978170798,32029,Japanese Restaurant,2012-10-03 16:58:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+69,695,40.76314176757823,-73.97706569629909,32029,Japanese Restaurant,2012-10-30 18:00:09+00:00,,Dining and Drinking,Restaurant,0.0,0.0,nyc,Rec
+70,695,40.76346247057747,-73.97400498390198,1857,Department Store,2012-11-10 18:00:09+00:00,,Retail,Department Store,11.0,1.0,nyc,Explore
+71,695,40.81399873498576,-73.96054721555308,1871,Italian Restaurant,2012-11-13 18:00:09+00:00,,Dining and Drinking,Restaurant,14.0,2.0,nyc,Rec
+72,695,40.800867,-73.965464,30501,Burrito Place,2012-11-16 18:00:09+00:00,,Dining and Drinking,Restaurant,17.0,2.0,nyc,Rec
+73,695,40.805097,-73.966071,1233,Bar,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Rec
+74,695,40.800867,-73.965464,30501,Burrito Place,2012-11-22 18:00:09+00:00,,Dining and Drinking,Restaurant,23.0,3.0,nyc,Return
+75,695,40.81399873498576,-73.96054721555308,1871,Italian Restaurant,2012-11-22 18:00:09+00:00,,Dining and Drinking,Restaurant,23.0,3.0,nyc,Rec
+76,695,40.814755,-73.958872,371,American Restaurant,2012-11-24 18:00:09+00:00,,Dining and Drinking,Restaurant,25.0,3.0,nyc,Rec
+77,695,40.75656797846801,-73.99236038395,18297,Bar,2012-11-24 18:00:09+00:00,,Dining and Drinking,Bar,25.0,3.0,nyc,Return
+78,695,40.74492342607472,-73.9980360386088,3867,Movie Theater,2012-11-25 18:00:09+00:00,,Arts and Entertainment,Movie Theater,26.0,3.0,nyc,Rec
+79,695,40.74048588934338,-74.00188386440277,33548,American Restaurant,2012-12-04 18:00:09+00:00,,Dining and Drinking,Restaurant,35.0,5.0,nyc,Rec
+80,695,40.7399753769672,-74.00232279676165,16422,Restaurant,2012-12-04 18:00:09+00:00,,Dining and Drinking,Restaurant,35.0,5.0,nyc,Rec
+81,695,40.75930175423635,-73.9849591255188,1358,Italian Restaurant,2012-12-10 18:00:09+00:00,,Dining and Drinking,Restaurant,41.0,5.0,nyc,Rec
+82,695,40.76334343252292,-73.98901459578161,22695,Bar,2012-12-10 18:00:09+00:00,,Dining and Drinking,Bar,41.0,5.0,nyc,Rec
+83,695,40.759220487652186,-73.98880004882812,35300,Mexican Restaurant,2012-12-11 18:00:09+00:00,,Dining and Drinking,Restaurant,42.0,6.0,nyc,Rec
+84,695,40.757232,-73.983792,33837,Hotel,2012-12-11 18:00:09+00:00,,Dining and Drinking,Bar,42.0,6.0,nyc,Rec
+85,695,40.805097,-73.966071,1233,Bar,2012-12-12 18:00:09+00:00,,Dining and Drinking,Bar,43.0,6.0,nyc,Return
+86,695,40.75656797846801,-73.99236038395,18297,Bar,2012-12-13 18:00:09+00:00,,Dining and Drinking,Bar,44.0,6.0,nyc,Rec
+87,695,40.73996474170625,-73.99483381932856,22940,Department Store,2012-12-14 18:00:09+00:00,,Retail,Department Store,45.0,6.0,nyc,Explore
+88,695,40.81133225138675,-73.95778060471581,27665,Asian Restaurant,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Return
+89,695,40.804518529155104,-73.96629268515318,18862,Burger Joint,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Rec
+90,695,40.81133225138675,-73.95778060471581,27665,Asian Restaurant,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Rec
+91,695,40.76232480057456,-73.9678144454956,1795,Department Store,2012-12-27 18:00:09+00:00,,Retail,Department Store,58.0,8.0,nyc,Rec
+92,695,40.80440427374566,-73.96643043656832,23075,Burger Joint,2012-12-30 18:00:09+00:00,,Dining and Drinking,Restaurant,61.0,8.0,nyc,Rec
+93,695,40.798840875789125,-73.96306123830033,343,Bar,2012-12-30 18:00:09+00:00,,Dining and Drinking,Bar,61.0,8.0,nyc,Explore
+94,695,40.73996474170625,-73.99483381932856,22940,Department Store,2012-12-31 18:00:09+00:00,,Retail,Department Store,62.0,8.0,nyc,Return
+95,695,40.804518529155104,-73.96629268515318,18862,Burger Joint,2013-01-05 18:00:09+00:00,,Dining and Drinking,Restaurant,67.0,9.0,nyc,Return
+96,695,40.81220483956248,-73.93034194730454,18268,Bar,2013-01-05 18:00:09+00:00,,Arts and Entertainment,Strip Club,67.0,9.0,nyc,Rec
+97,695,40.74492342607472,-73.9980360386088,3867,Movie Theater,2013-01-06 18:00:09+00:00,,Arts and Entertainment,Movie Theater,68.0,9.0,nyc,Rec
+98,695,40.81133225138675,-73.95778060471581,27665,Asian Restaurant,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Return
+99,695,40.719982739410646,-74.04512771427751,33740,Music Venue,2013-01-14 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,76.0,10.0,nyc,Rec
+100,695,40.72121003886837,-74.04085339277152,23695,Bar,2013-01-17 18:00:09+00:00,,Dining and Drinking,Bar,79.0,11.0,nyc,Explore
+101,695,40.76271587683453,-73.98763664066797,1703,Burrito Place,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Rec
+102,695,40.804518529155104,-73.96629268515318,18862,Burger Joint,2013-01-26 18:00:09+00:00,,Dining and Drinking,Restaurant,88.0,12.0,nyc,Return
+103,695,40.76314176757823,-73.97706569629909,32029,Japanese Restaurant,2013-01-28 18:00:09+00:00,,Dining and Drinking,Restaurant,90.0,12.0,nyc,Return
+104,695,40.798840875789125,-73.96306123830033,343,Bar,2013-01-28 18:00:09+00:00,,Dining and Drinking,Bar,90.0,12.0,nyc,Rec

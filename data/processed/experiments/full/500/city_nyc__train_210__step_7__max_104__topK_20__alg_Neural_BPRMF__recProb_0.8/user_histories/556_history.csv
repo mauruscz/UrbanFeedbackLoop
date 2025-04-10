@@ -1,0 +1,83 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,556,40.71011731976856,-74.1013240814209,12495,Food & Drink Shop,2012-08-17 20:21:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+1,556,40.69402062684463,-73.92782749938354,32557,School,2012-06-08 16:18:01+00:00,New York City,Community and Government,Education,,,,
+2,556,40.66013495000427,-74.10709739818067,29691,Department Store,2012-06-08 22:19:49+00:00,New York City,Retail,Department Store,,,,
+3,556,40.71054128929639,-74.00846870421927,10792,Deli / Bodega,2012-10-12 11:39:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+4,556,40.71054128929639,-74.00846870421927,10792,Deli / Bodega,2012-10-19 11:39:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,556,40.71054128929639,-74.00846870421927,10792,Deli / Bodega,2012-10-26 11:40:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,556,40.69402062684463,-73.92782749938354,32557,School,2012-10-26 12:46:10+00:00,New York City,Community and Government,Education,,,,
+7,556,40.69402062684463,-73.92782749938354,32557,School,2012-09-14 19:09:29+00:00,New York City,Community and Government,Education,,,,
+8,556,40.68647521825756,-74.09971579669835,10647,Bowling Alley,2012-09-14 21:36:15+00:00,New York City,Arts and Entertainment,Bowling Alley,,,,
+9,556,40.66435958125583,-74.11774199386589,29683,Medical Center,2012-04-16 21:03:09+00:00,New York City,Health and Medicine,Physician,,,,
+10,556,40.654675098126106,-74.12984260480701,27476,Drugstore / Pharmacy,2012-04-16 21:43:50+00:00,New York City,Retail,Pharmacy,,,,
+11,556,40.66303276608205,-74.11839579093129,31445,Medical Center,2012-08-13 14:04:17+00:00,New York City,Health and Medicine,Physician,,,,
+12,556,40.654675098126106,-74.12984260480701,27476,Drugstore / Pharmacy,2012-08-13 17:56:47+00:00,New York City,Retail,Pharmacy,,,,
+13,556,40.75577110182677,-73.99114374045811,15462,Caf�,2012-08-20 04:05:37+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+14,556,40.69402062684463,-73.92782749938354,32557,School,2012-06-04 12:21:31+00:00,New York City,Community and Government,Education,,,,
+15,556,40.69402062684463,-73.92782749938354,32557,School,2012-06-11 11:49:43+00:00,New York City,Community and Government,Education,,,,
+16,556,40.7227380172141,-74.03613567352295,3082,American Restaurant,2012-06-11 23:11:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,556,40.72289631456779,-74.03914363725167,5085,Miscellaneous Shop,2012-06-11 23:13:30+00:00,New York City,Retail,Miscellaneous Store,,,,
+18,556,40.66013495000427,-74.10709739818067,29691,Department Store,2012-06-02 23:25:13+00:00,New York City,Retail,Department Store,,,,
+19,556,40.71026450241527,-73.98499727735177,37509,Winery,2012-10-13 14:03:16+00:00,New York City,Dining and Drinking,Winery,,,,
+20,556,40.66011956025834,-74.10706872119144,29691,Department Store,2012-10-27 15:54:47+00:00,New York City,Retail,Department Store,,,,
+21,556,40.71853045096119,-74.08354064562164,14868,Ice Cream Shop,2012-09-15 00:08:16+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+22,556,40.66564285138956,-74.11728318754584,11567,Fast Food Restaurant,2012-04-22 17:09:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+23,556,40.72325141502383,-74.03920101184731,5085,Miscellaneous Shop,2012-04-22 17:53:20+00:00,New York City,Retail,Miscellaneous Store,,,,
+24,556,40.77527898712509,-73.97253296756483,9731,Other Great Outdoors,2012-08-19 22:09:25+00:00,New York City,Landmarks and Outdoors,Lake,,,,
+25,556,40.66687004704527,-74.1192626953125,9527,Food & Drink Shop,2012-06-10 01:18:37+00:00,New York City,Retail,Food and Beverage Retail,,,,
+26,556,40.69402062684463,-73.92782749938354,32557,School,2012-06-07 16:24:26+00:00,New York City,Community and Government,Education,,,,
+27,556,40.69402062684463,-73.92782749938354,32557,School,2012-06-21 14:15:58+00:00,New York City,Community and Government,Education,,,,
+28,556,40.69402062684463,-73.92782749938354,32557,School,2012-10-25 12:28:54+00:00,New York City,Community and Government,Education,,,,
+29,556,40.69402062684463,-73.92782749938354,32557,School,2012-09-13 12:06:55+00:00,New York City,Community and Government,Education,,,,
+30,556,40.66053680138118,-74.17144322342962,13663,Mall,2012-04-03 23:04:08+00:00,New York City,Retail,Shopping Mall,,,,
+31,556,40.75412687549275,-74.03191429973907,7340,Movie Theater,2012-07-03 15:49:57+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+32,556,40.69402062684463,-73.92782749938354,32557,School,2012-06-12 13:09:03+00:00,New York City,Community and Government,Education,,,,
+33,556,40.66013495000427,-74.10709739818067,29691,Department Store,2012-05-01 20:10:10+00:00,New York City,Retail,Department Store,,,,
+34,556,40.69402062684463,-73.92782749938354,32557,School,2012-10-23 11:41:34+00:00,New York City,Community and Government,Education,,,,
+35,556,40.66435958125583,-74.11774199386589,29683,Medical Center,2012-04-11 18:42:52+00:00,New York City,Health and Medicine,Physician,,,,
+36,556,40.66550037969483,-74.1180172771188,16477,Playground,2012-04-11 18:45:33+00:00,New York City,Landmarks and Outdoors,Park,,,,
+37,556,40.66687004704527,-74.1192626953125,9527,Food & Drink Shop,2012-04-11 19:11:31+00:00,New York City,Retail,Food and Beverage Retail,,,,
+38,556,40.663032995986285,-74.13058237981069,26490,Park,2012-07-04 23:11:44+00:00,New York City,Landmarks and Outdoors,Park,,,,
+39,556,40.69402062684463,-73.92782749938354,32557,School,2012-06-06 12:45:39+00:00,New York City,Community and Government,Education,,,,
+40,556,40.69402062684463,-73.92782749938354,32557,School,2012-10-17 11:52:13+00:00,New York City,Community and Government,Education,,,,
+41,556,40.69402062684463,-73.92782749938354,32557,School,2012-10-24 11:43:46+00:00,New York City,Community and Government,Education,,,,
+42,556,40.695131051620784,-73.92624303601977,30767,High School,2012-11-08 18:00:09+00:00,,Community and Government,Education,9.0,1.0,nyc,Rec
+43,556,40.710985,-73.948307,17189,Sorority House,2012-11-09 18:00:09+00:00,,Community and Government,Education,10.0,1.0,nyc,Rec
+44,556,40.66303276608205,-74.11839579093129,31445,Medical Center,2012-11-09 18:00:09+00:00,,Health and Medicine,Physician,10.0,1.0,nyc,Return
+45,556,40.66013495000427,-74.10709739818067,29691,Department Store,2012-11-12 18:00:09+00:00,,Retail,Department Store,13.0,1.0,nyc,Rec
+46,556,40.65285554552951,-74.12340335547924,28939,School,2012-11-13 18:00:09+00:00,,Community and Government,Education,14.0,2.0,nyc,Rec
+47,556,40.7227380172141,-74.03613567352295,3082,American Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Rec
+48,556,40.75412687549275,-74.03191429973907,7340,Movie Theater,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Movie Theater,18.0,2.0,nyc,Return
+49,556,40.71054128929639,-74.00846870421927,10792,Deli / Bodega,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Rec
+50,556,40.71696987660609,-74.00713739461277,15349,College Academic Building,2012-11-20 18:00:09+00:00,,Community and Government,Education,21.0,3.0,nyc,Rec
+51,556,40.71123696666667,-74.00524593,20253,College Academic Building,2012-11-21 18:00:09+00:00,,Community and Government,Education,22.0,3.0,nyc,Rec
+52,556,40.70598310727157,-74.00856051833325,2353,Candy Store,2012-11-21 18:00:09+00:00,,Retail,Food and Beverage Retail,22.0,3.0,nyc,Rec
+53,556,40.73850832201872,-73.98997896387137,2068,Movie Theater,2012-11-23 18:00:09+00:00,,Arts and Entertainment,Movie Theater,24.0,3.0,nyc,Explore
+54,556,40.72351860033697,-74.03974056243896,5084,Food & Drink Shop,2012-11-23 18:00:09+00:00,,Retail,Food and Beverage Retail,24.0,3.0,nyc,Rec
+55,556,40.72198185352156,-74.0339396894519,21584,Harbor / Marina,2012-11-26 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,27.0,3.0,nyc,Rec
+56,556,40.66013495000427,-74.10709739818067,29691,Department Store,2012-11-26 18:00:09+00:00,,Retail,Department Store,27.0,3.0,nyc,Rec
+57,556,40.65285554552951,-74.12340335547924,28939,School,2012-11-27 18:00:09+00:00,,Community and Government,Education,28.0,4.0,nyc,Rec
+58,556,40.654675098126106,-74.12984260480701,27476,Drugstore / Pharmacy,2012-11-29 18:00:09+00:00,,Retail,Pharmacy,30.0,4.0,nyc,Rec
+59,556,40.75953410589191,-73.96153446126954,23373,Department Store,2012-12-01 18:00:09+00:00,,Retail,Department Store,32.0,4.0,nyc,Rec
+60,556,40.779908,-73.955994,9248,Toy / Game Store,2012-12-02 18:00:09+00:00,,Retail,Toy Store,33.0,4.0,nyc,Rec
+61,556,40.768522910406574,-73.96591960790946,33984,Nursery School,2012-12-03 18:00:09+00:00,,Community and Government,Education,34.0,4.0,nyc,Rec
+62,556,40.77042621177839,-73.986976146698,29415,Student Center,2012-12-04 18:00:09+00:00,,Community and Government,Education,35.0,5.0,nyc,Rec
+63,556,40.76433414082926,-73.95784948347529,21908,High School,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Rec
+64,556,40.768171192812325,-73.9620567810875,27629,Bank,2012-12-06 18:00:09+00:00,,Business and Professional Services,Financial Service,37.0,5.0,nyc,Rec
+65,556,40.740754144262496,-74.0578293800354,30132,School,2012-12-06 18:00:09+00:00,,Community and Government,Education,37.0,5.0,nyc,Rec
+66,556,40.745341,-73.979982,34436,College Academic Building,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Explore
+67,556,40.71346789281921,-73.97225618362427,30121,Bridge,2012-12-08 18:00:09+00:00,,Landmarks and Outdoors,Bridge,39.0,5.0,nyc,Rec
+68,556,40.68430926459708,-73.97653193850032,5824,Department Store,2012-12-10 18:00:09+00:00,,Retail,Department Store,41.0,5.0,nyc,Rec
+69,556,40.69247216233601,-73.99433454375975,35259,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Rec
+70,556,40.77251284155472,-74.02959052579439,24144,Bank,2012-12-12 18:00:09+00:00,,Business and Professional Services,Financial Service,43.0,6.0,nyc,Rec
+71,556,40.77486986277801,-74.03518474835175,20391,Department Store,2012-12-12 18:00:09+00:00,,Retail,Department Store,43.0,6.0,nyc,Rec
+72,556,40.82639152934086,-73.94816603686832,29323,Convenience Store,2012-12-12 18:00:09+00:00,,Retail,Convenience Store,43.0,6.0,nyc,Rec
+73,556,40.76822735059525,-73.95580032987125,5056,Italian Restaurant,2012-12-14 18:00:09+00:00,,Dining and Drinking,Restaurant,45.0,6.0,nyc,Rec
+74,556,40.77252,-73.957117,508,Mexican Restaurant,2012-12-14 18:00:09+00:00,,Dining and Drinking,Restaurant,45.0,6.0,nyc,Rec
+75,556,40.75953410589191,-73.96153446126954,23373,Department Store,2012-12-15 18:00:09+00:00,,Retail,Department Store,46.0,6.0,nyc,Rec
+76,556,40.663032995986285,-74.13058237981069,26490,Park,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,Park,46.0,6.0,nyc,Return
+77,556,40.65285554552951,-74.12340335547924,28939,School,2012-12-18 18:00:09+00:00,,Community and Government,Education,49.0,7.0,nyc,Rec
+78,556,40.66013495000427,-74.10709739818067,29691,Department Store,2012-12-19 18:00:09+00:00,,Retail,Department Store,50.0,7.0,nyc,Rec
+79,556,40.66687004704527,-74.1192626953125,9527,Food & Drink Shop,2012-12-20 18:00:09+00:00,,Retail,Food and Beverage Retail,51.0,7.0,nyc,Rec
+80,556,40.71696987660609,-74.00713739461277,15349,College Academic Building,2013-01-15 18:00:09+00:00,,Community and Government,Education,77.0,11.0,nyc,Return
+81,556,40.75128839099601,-73.99360656738281,30978,Stadium,2013-01-17 18:00:09+00:00,,Arts and Entertainment,Stadium,79.0,11.0,nyc,Rec

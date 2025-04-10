@@ -1,0 +1,17 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,1060,40.909812288567394,-73.90852555632591,6409,Medical Center,2012-04-06 15:04:45+00:00,New York City,Health and Medicine,Hospital,,,,
+1,1060,40.72429670694692,-73.98805618602043,163,Bar,2012-04-20 12:36:02+00:00,New York City,Dining and Drinking,Bar,,,,
+2,1060,40.75293,-73.974725,404,Gym / Fitness Center,2012-04-16 19:18:40+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+3,1060,40.75293,-73.974725,404,Gym / Fitness Center,2012-05-07 19:13:19+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+4,1060,40.7365071557598,-73.98880407214165,1701,Hotel,2012-04-21 00:16:17+00:00,New York City,Travel and Transportation,Lodging,,,,
+5,1060,40.752973198215656,-73.97481012905551,9019,Post Office,2012-04-12 13:32:56+00:00,New York City,Community and Government,Government Building,,,,
+6,1060,40.89529401978488,-73.90843989860231,31752,School,2012-04-19 13:29:41+00:00,New York City,Community and Government,Education,,,,
+7,1060,40.89529401978488,-73.90843989860231,31752,School,2012-04-26 13:03:12+00:00,New York City,Community and Government,Education,,,,
+8,1060,40.89565572272552,-73.90849157081912,31752,School,2012-05-08 13:04:04+00:00,New York City,Community and Government,Education,,,,
+9,1060,40.89565572272552,-73.90849157081912,31752,School,2012-05-15 13:11:08+00:00,New York City,Community and Government,Education,,,,
+10,1060,40.752757987926245,-73.97705995697582,31763,Electronics Store,2012-10-16 13:06:35+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+11,1060,40.75293,-73.974725,404,Gym / Fitness Center,2012-04-04 19:46:36+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+12,1060,40.75250498676928,-73.97758003761531,425,Seafood Restaurant,2012-04-04 23:18:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+13,1060,40.75293,-73.974725,404,Gym / Fitness Center,2012-05-16 18:07:04+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+14,1060,40.75293,-73.974725,404,Gym / Fitness Center,2012-05-23 18:50:51+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+15,1060,40.75626442818661,-73.96740043332873,27433,Bar,2012-12-06 18:00:09+00:00,,Dining and Drinking,Bar,37.0,5.0,nyc,Explore

@@ -1,0 +1,45 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,678,40.86154,-74.10002,24629,Stadium,2012-04-13 01:13:01+00:00,New York City,Arts and Entertainment,Stadium,,,,
+1,678,40.86154,-74.10002,24629,Stadium,2012-06-08 22:21:10+00:00,New York City,Arts and Entertainment,Stadium,,,,
+2,678,40.96926645594543,-74.07861649990082,12257,Fast Food Restaurant,2012-05-25 16:31:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,678,40.86284175229376,-74.05562090890453,9638,Gym / Fitness Center,2012-05-25 19:52:38+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+4,678,40.85109398964924,-74.03790434176054,33543,Government Building,2012-04-23 01:42:54+00:00,New York City,Community and Government,Government Building,,,,
+5,678,40.85109398964924,-74.03790434176054,33543,Government Building,2012-06-04 02:17:21+00:00,New York City,Community and Government,Government Building,,,,
+6,678,40.862803360720974,-74.03514862060547,13082,Food & Drink Shop,2012-06-18 00:31:42+00:00,New York City,Retail,Food and Beverage Retail,,,,
+7,678,40.85109398964924,-74.03790434176054,33543,Government Building,2012-05-07 03:10:17+00:00,New York City,Community and Government,Government Building,,,,
+8,678,40.86284175229376,-74.05562090890453,9638,Gym / Fitness Center,2012-04-28 19:25:37+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+9,678,40.86154,-74.10002,24629,Stadium,2012-07-07 00:04:55+00:00,New York City,Arts and Entertainment,Stadium,,,,
+10,678,40.787202823915294,-74.04624223709106,10288,Burger Joint,2012-07-21 21:57:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,678,40.73587661311674,-74.02877569198608,2428,Sushi Restaurant,2012-06-09 03:16:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,678,40.86089292455234,-73.97580878041036,21636,Bar,2012-05-12 03:03:43+00:00,New York City,Arts and Entertainment,Night Club,,,,
+13,678,40.84576502276602,-74.07841822502142,16129,Bar,2012-05-19 20:40:18+00:00,New York City,Dining and Drinking,Bar,,,,
+14,678,40.88827738472728,-74.02044433530425,17020,Bar,2012-04-08 03:02:30+00:00,New York City,Arts and Entertainment,Night Club,,,,
+15,678,40.83811618460752,-74.06306733989032,34380,Cuban Restaurant,2012-04-22 03:27:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,678,40.83561202474866,-74.08631690503913,16401,Seafood Restaurant,2012-04-29 01:40:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,678,40.97210752379724,-73.97875878919255,26533,Park,2012-04-29 16:15:46+00:00,New York City,Landmarks and Outdoors,Park,,,,
+18,678,40.78762116953223,-74.04583990573883,4199,Mexican Restaurant,2012-07-29 00:47:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,678,40.862803360720974,-74.03514862060547,13082,Food & Drink Shop,2012-05-13 18:21:52+00:00,New York City,Retail,Food and Beverage Retail,,,,
+20,678,40.86284175229376,-74.05562090890453,9638,Gym / Fitness Center,2012-04-12 21:47:43+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+21,678,40.86284175229376,-74.05562090890453,9638,Gym / Fitness Center,2012-04-19 01:52:42+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+22,678,40.74166457713348,-74.05488967895508,18732,Athletic & Sport,2012-07-05 23:05:37+00:00,New York City,Sports and Recreation,Skating,,,,
+23,678,40.86154,-74.10002,24629,Stadium,2012-06-07 21:59:18+00:00,New York City,Arts and Entertainment,Stadium,,,,
+24,678,40.917335441802095,-74.0756607055664,3299,Mall,2012-05-17 20:58:38+00:00,New York City,Retail,Shopping Mall,,,,
+25,678,40.86284175229376,-74.05562090890453,9638,Gym / Fitness Center,2012-04-10 00:57:41+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+26,678,40.86154,-74.10002,24629,Stadium,2012-04-17 23:03:37+00:00,New York City,Arts and Entertainment,Stadium,,,,
+27,678,40.86154,-74.10002,24629,Stadium,2012-05-08 22:55:32+00:00,New York City,Arts and Entertainment,Stadium,,,,
+28,678,40.86154,-74.10002,24629,Stadium,2012-05-15 02:58:35+00:00,New York City,Arts and Entertainment,Stadium,,,,
+29,678,40.86284175229376,-74.05562090890453,9638,Gym / Fitness Center,2012-04-04 23:35:50+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+30,678,40.86154,-74.10002,24629,Stadium,2012-04-11 02:49:00+00:00,New York City,Arts and Entertainment,Stadium,,,,
+31,678,40.86154,-74.10002,24629,Stadium,2012-07-11 02:45:42+00:00,New York City,Arts and Entertainment,Stadium,,,,
+32,678,40.855728,-74.042206,17033,Japanese Restaurant,2012-06-06 22:04:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,678,40.86154,-74.10002,24629,Stadium,2012-05-09 22:55:32+00:00,New York City,Arts and Entertainment,Stadium,,,,
+34,678,40.87917784652633,-74.0785444229442,32219,Convenience Store,2012-05-16 04:35:20+00:00,New York City,Retail,Convenience Store,,,,
+35,678,40.917335441802095,-74.0756607055664,3299,Mall,2012-05-16 16:38:31+00:00,New York City,Retail,Shopping Mall,,,,
+36,678,40.86284175229376,-74.05562090890453,9638,Gym / Fitness Center,2012-05-23 22:24:42+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+37,678,40.910107224587655,-74.0324878692627,12952,American Restaurant,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Rec
+38,678,40.862803360720974,-74.03514862060547,13082,Food & Drink Shop,2012-11-29 18:00:09+00:00,,Retail,Food and Beverage Retail,30.0,4.0,nyc,Return
+39,678,40.864153199536005,-74.03604538338232,14028,Mexican Restaurant,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Rec
+40,678,40.78762116953223,-74.04583990573883,4199,Mexican Restaurant,2012-12-09 18:00:09+00:00,,Dining and Drinking,Restaurant,40.0,5.0,nyc,Return
+41,678,40.81143815229546,-74.06779646873474,2256,Stadium,2012-12-12 18:00:09+00:00,,Arts and Entertainment,Stadium,43.0,6.0,nyc,Rec
+42,678,40.83811618460752,-74.06306733989032,34380,Cuban Restaurant,2012-12-21 18:00:09+00:00,,Dining and Drinking,Restaurant,52.0,7.0,nyc,Return
+43,678,40.96926645594543,-74.07861649990082,12257,Fast Food Restaurant,2013-02-10 18:00:09+00:00,,Dining and Drinking,Restaurant,103.0,14.0,nyc,Return

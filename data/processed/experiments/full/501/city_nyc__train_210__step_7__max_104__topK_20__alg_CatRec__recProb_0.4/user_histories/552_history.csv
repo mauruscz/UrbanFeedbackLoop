@@ -1,0 +1,73 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,552,40.68014053344931,-73.8780025860915,17501,Fast Food Restaurant,2012-10-12 03:32:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,552,40.64153995987908,-73.93751621246338,19188,Drugstore / Pharmacy,2012-10-12 20:13:34+00:00,New York City,Retail,Pharmacy,,,,
+2,552,40.73405557647634,-73.87084722518921,1789,Mall,2012-10-19 00:58:14+00:00,New York City,Retail,Shopping Mall,,,,
+3,552,40.75686223538836,-73.9887563421254,876,Ice Cream Shop,2012-10-26 02:11:17+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+4,552,40.68968493541094,-73.98128986358643,8716,American Restaurant,2012-10-22 20:27:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,552,40.712048420904544,-73.89989657042028,30996,Bar,2012-10-27 03:21:44+00:00,New York City,Dining and Drinking,Bar,,,,
+6,552,40.70072591179194,-73.90959964950369,22575,Building,2012-10-27 05:39:40+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+7,552,40.73405557647634,-73.87084722518921,1789,Mall,2012-10-27 21:49:19+00:00,New York City,Retail,Shopping Mall,,,,
+8,552,40.64153995987908,-73.93751621246338,19188,Drugstore / Pharmacy,2012-10-18 15:10:35+00:00,New York City,Retail,Pharmacy,,,,
+9,552,40.64153995987908,-73.93751621246338,19188,Drugstore / Pharmacy,2012-10-16 13:54:32+00:00,New York City,Retail,Pharmacy,,,,
+10,552,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-10-23 00:22:08+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+11,552,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-10-23 01:38:03+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+12,552,40.64153995987908,-73.93751621246338,19188,Drugstore / Pharmacy,2012-10-23 22:35:24+00:00,New York City,Retail,Pharmacy,,,,
+13,552,40.64153995987908,-73.93751621246338,19188,Drugstore / Pharmacy,2012-10-24 21:44:22+00:00,New York City,Retail,Pharmacy,,,,
+14,552,40.73405557647634,-73.87084722518921,1789,Mall,2012-10-31 18:00:09+00:00,,Retail,Shopping Mall,1.0,0.0,nyc,Return
+15,552,40.752528,-73.970307,4040,Middle Eastern Restaurant,2012-10-31 18:00:09+00:00,,Dining and Drinking,Restaurant,1.0,0.0,nyc,Explore
+16,552,40.64153995987908,-73.93751621246338,19188,Drugstore / Pharmacy,2012-11-01 18:00:09+00:00,,Retail,Pharmacy,2.0,0.0,nyc,Return
+17,552,40.65540537836689,-73.95650060329693,31820,Food & Drink Shop,2012-11-05 18:00:09+00:00,,Retail,Food and Beverage Retail,6.0,0.0,nyc,Rec
+18,552,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-11-11 18:00:09+00:00,,Arts and Entertainment,Movie Theater,12.0,1.0,nyc,Rec
+19,552,40.725768758926016,-73.99730722279487,2083,Movie Theater,2012-11-16 18:00:09+00:00,,Arts and Entertainment,Movie Theater,17.0,2.0,nyc,Explore
+20,552,40.71725854175565,-73.98866451851946,28860,Plaza,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,Plaza,18.0,2.0,nyc,Rec
+21,552,40.73996089974243,-74.0025638164589,25013,Drugstore / Pharmacy,2012-11-17 18:00:09+00:00,,Retail,Pharmacy,18.0,2.0,nyc,Explore
+22,552,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-11-18 18:00:09+00:00,,Arts and Entertainment,Movie Theater,19.0,2.0,nyc,Return
+23,552,40.64153995987908,-73.93751621246338,19188,Drugstore / Pharmacy,2012-11-22 18:00:09+00:00,,Retail,Pharmacy,23.0,3.0,nyc,Return
+24,552,40.68014053344931,-73.8780025860915,17501,Fast Food Restaurant,2012-11-25 18:00:09+00:00,,Dining and Drinking,Restaurant,26.0,3.0,nyc,Return
+25,552,40.67144237988154,-73.87553340192424,34157,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Explore
+26,552,40.74403033187858,-73.9832411088956,19283,Electronics Store,2012-11-25 18:00:09+00:00,,Retail,Computers and Electronics Retail,26.0,3.0,nyc,Explore
+27,552,40.73996089974243,-74.0025638164589,25013,Drugstore / Pharmacy,2012-11-28 18:00:09+00:00,,Retail,Pharmacy,29.0,4.0,nyc,Return
+28,552,40.73937443925082,-73.97718622204867,31596,Medical Center,2012-12-01 18:00:09+00:00,,Health and Medicine,Hospital,32.0,4.0,nyc,Explore
+29,552,40.752528,-73.970307,4040,Middle Eastern Restaurant,2012-12-03 18:00:09+00:00,,Dining and Drinking,Restaurant,34.0,4.0,nyc,Return
+30,552,40.73405557647634,-73.87084722518921,1789,Mall,2012-12-05 18:00:09+00:00,,Retail,Shopping Mall,36.0,5.0,nyc,Return
+31,552,40.71136160565445,-73.85525822639465,10128,Drugstore / Pharmacy,2012-12-13 18:00:09+00:00,,Retail,Pharmacy,44.0,6.0,nyc,Rec
+32,552,40.64153995987908,-73.93751621246338,19188,Drugstore / Pharmacy,2012-12-14 18:00:09+00:00,,Retail,Pharmacy,45.0,6.0,nyc,Rec
+33,552,40.752528,-73.970307,4040,Middle Eastern Restaurant,2012-12-15 18:00:09+00:00,,Dining and Drinking,Restaurant,46.0,6.0,nyc,Return
+34,552,40.77599261490086,-73.97936715113406,1240,Bar,2012-12-16 18:00:09+00:00,,Dining and Drinking,Bar,47.0,6.0,nyc,Rec
+35,552,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-12-16 18:00:09+00:00,,Arts and Entertainment,Movie Theater,47.0,6.0,nyc,Rec
+36,552,40.68014053344931,-73.8780025860915,17501,Fast Food Restaurant,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Return
+37,552,40.68014053344931,-73.8780025860915,17501,Fast Food Restaurant,2012-12-17 18:00:09+00:00,,Dining and Drinking,Restaurant,48.0,6.0,nyc,Return
+38,552,40.65226882197668,-73.87008960234178,8027,Department Store,2012-12-17 18:00:09+00:00,,Retail,Department Store,48.0,6.0,nyc,Rec
+39,552,40.71725854175565,-73.98866451851946,28860,Plaza,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Plaza,48.0,6.0,nyc,Return
+40,552,40.74403033187858,-73.9832411088956,19283,Electronics Store,2012-12-17 18:00:09+00:00,,Retail,Computers and Electronics Retail,48.0,6.0,nyc,Return
+41,552,40.752528,-73.970307,4040,Middle Eastern Restaurant,2012-12-17 18:00:09+00:00,,Dining and Drinking,Restaurant,48.0,6.0,nyc,Rec
+42,552,40.68014053344931,-73.8780025860915,17501,Fast Food Restaurant,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Return
+43,552,40.66851088864698,-73.87308141384973,20826,Deli / Bodega,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Rec
+44,552,40.67877338464124,-73.92159290586073,15910,Drugstore / Pharmacy,2012-12-22 18:00:09+00:00,,Retail,Pharmacy,53.0,7.0,nyc,Rec
+45,552,40.73405557647634,-73.87084722518921,1789,Mall,2012-12-28 18:00:09+00:00,,Retail,Shopping Mall,59.0,8.0,nyc,Return
+46,552,40.77412,-73.913435,10524,Middle Eastern Restaurant,2012-12-30 18:00:09+00:00,,Dining and Drinking,Restaurant,61.0,8.0,nyc,Explore
+47,552,40.7619,-73.925058,24954,Coffee Shop,2013-01-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",70.0,10.0,nyc,Explore
+48,552,40.74395,-73.91415847,17490,Drugstore / Pharmacy,2013-01-10 18:00:09+00:00,,Retail,Pharmacy,72.0,10.0,nyc,Rec
+49,552,40.66851088864698,-73.87308141384973,20826,Deli / Bodega,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Return
+50,552,40.6710256041641,-73.87547597866657,21201,Restaurant,2013-01-14 18:00:09+00:00,,Dining and Drinking,Restaurant,76.0,10.0,nyc,Rec
+51,552,40.71136160565445,-73.85525822639465,10128,Drugstore / Pharmacy,2013-01-17 18:00:09+00:00,,Retail,Pharmacy,79.0,11.0,nyc,Return
+52,552,40.73996089974243,-74.0025638164589,25013,Drugstore / Pharmacy,2013-01-24 18:00:09+00:00,,Retail,Pharmacy,86.0,12.0,nyc,Return
+53,552,40.76033171613185,-73.99532161604229,22699,General Travel,2013-01-24 18:00:09+00:00,,Travel and Transportation,General Travel,86.0,12.0,nyc,Explore
+54,552,40.7512887421762,-73.97284150804626,25798,General Travel,2013-01-25 18:00:09+00:00,,Travel and Transportation,General Travel,87.0,12.0,nyc,Explore
+55,552,40.74729999182545,-73.97417879506523,1307,Bar,2013-01-27 18:00:09+00:00,,Dining and Drinking,Bar,89.0,12.0,nyc,Rec
+56,552,40.74244213610075,-73.98985248302886,35281,Movie Theater,2013-01-27 18:00:09+00:00,,Arts and Entertainment,Movie Theater,89.0,12.0,nyc,Rec
+57,552,40.76529895391981,-73.97566795349121,2011,Breakfast Spot,2013-01-28 18:00:09+00:00,,Dining and Drinking,Breakfast Spot,90.0,12.0,nyc,Rec
+58,552,40.7512887421762,-73.97284150804626,25798,General Travel,2013-01-29 18:00:09+00:00,,Travel and Transportation,General Travel,91.0,13.0,nyc,Return
+59,552,40.75071945424934,-73.97468090057373,5717,Drugstore / Pharmacy,2013-01-29 18:00:09+00:00,,Retail,Pharmacy,91.0,13.0,nyc,Rec
+60,552,40.68968493541094,-73.98128986358643,8716,American Restaurant,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Rec
+61,552,40.6933651559478,-73.99056411042037,8489,Drugstore / Pharmacy,2013-01-30 18:00:09+00:00,,Retail,Pharmacy,92.0,13.0,nyc,Rec
+62,552,40.685236777186496,-73.98066421827974,33034,Drugstore / Pharmacy,2013-02-02 18:00:09+00:00,,Retail,Pharmacy,95.0,13.0,nyc,Explore
+63,552,40.76033171613185,-73.99532161604229,22699,General Travel,2013-02-03 18:00:09+00:00,,Travel and Transportation,General Travel,96.0,13.0,nyc,Rec
+64,552,40.757995572948985,-73.98953110205146,9465,Comedy Club,2013-02-03 18:00:09+00:00,,Arts and Entertainment,Comedy Club,96.0,13.0,nyc,Rec
+65,552,40.73500513446808,-73.99326138382618,5946,Coffee Shop,2013-02-03 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",96.0,13.0,nyc,Rec
+66,552,40.66851088864698,-73.87308141384973,20826,Deli / Bodega,2013-02-04 18:00:09+00:00,,Dining and Drinking,Restaurant,97.0,13.0,nyc,Return
+67,552,40.714404425828064,-73.93322376306682,13552,Bridge,2013-02-05 18:00:09+00:00,,Landmarks and Outdoors,Bridge,98.0,14.0,nyc,Rec
+68,552,40.75071945424934,-73.97468090057373,5717,Drugstore / Pharmacy,2013-02-07 18:00:09+00:00,,Retail,Pharmacy,100.0,14.0,nyc,Rec
+69,552,40.76033171613185,-73.99532161604229,22699,General Travel,2013-02-07 18:00:09+00:00,,Travel and Transportation,General Travel,100.0,14.0,nyc,Return
+70,552,40.72568777191631,-74.01111981901657,31524,General Travel,2013-02-07 18:00:09+00:00,,Travel and Transportation,General Travel,100.0,14.0,nyc,Explore
+71,552,40.736982,-74.002197,365,American Restaurant,2013-02-08 18:00:09+00:00,,Dining and Drinking,Restaurant,101.0,14.0,nyc,Rec

@@ -1,0 +1,75 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,224,40.76528965936316,-73.81984793985457,10764,Coffee Shop,2012-08-10 17:39:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+1,224,40.71008099,-73.849025,3553,Bar,2012-08-17 22:19:30+00:00,New York City,Dining and Drinking,Bar,,,,
+2,224,40.73306168752901,-73.86307790382392,12539,Department Store,2012-06-01 18:10:35+00:00,New York City,Retail,Department Store,,,,
+3,224,40.7332425975975,-73.86335849761963,12758,Department Store,2012-06-01 18:16:14+00:00,New York City,Retail,Department Store,,,,
+4,224,40.76011363140039,-73.82833156864739,7798,Tea Room,2012-05-25 18:15:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+5,224,40.76528965936316,-73.81984793985457,10764,Coffee Shop,2012-08-13 17:29:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+6,224,40.74932309880845,-73.97295055755025,17967,Deli / Bodega,2012-07-02 16:14:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,224,40.75285208865039,-73.97812746816153,5148,Drugstore / Pharmacy,2012-07-09 12:48:28+00:00,New York City,Retail,Pharmacy,,,,
+8,224,40.73461278759103,-73.86892387456854,23414,Pizza Place,2012-07-09 16:52:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+9,224,40.73468148708344,-73.873184,6411,Burger Joint,2012-07-30 17:08:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,224,40.75764856382876,-73.8357178307075,28598,Department Store,2012-07-30 19:28:08+00:00,New York City,Retail,Department Store,,,,
+11,224,40.763734,-73.82826,13388,Japanese Restaurant,2012-05-14 19:28:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,224,40.73549296581285,-73.87477541356867,8017,Electronics Store,2012-05-28 20:21:29+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+13,224,40.7354070032994,-73.87420104342856,8012,Department Store,2012-05-28 20:22:18+00:00,New York City,Retail,Department Store,,,,
+14,224,40.75785776461439,-73.83471271795844,28598,Department Store,2012-08-18 20:00:12+00:00,New York City,Retail,Department Store,,,,
+15,224,40.75700999846009,-73.83503437042236,22354,Clothing Store,2012-08-18 20:18:04+00:00,New York City,Retail,Fashion Retail,,,,
+16,224,40.75714910340871,-73.83652191722476,10923,Food & Drink Shop,2012-08-18 20:34:57+00:00,New York City,Retail,Food and Beverage Retail,,,,
+17,224,40.757556132765856,-73.83465528278975,26122,Food & Drink Shop,2012-08-18 20:46:04+00:00,New York City,Retail,Food and Beverage Retail,,,,
+18,224,40.75764856382876,-73.8357178307075,28598,Department Store,2012-07-07 15:50:23+00:00,New York City,Retail,Department Store,,,,
+19,224,40.75714910340871,-73.83652191722476,10923,Food & Drink Shop,2012-07-07 16:37:31+00:00,New York City,Retail,Food and Beverage Retail,,,,
+20,224,40.73432551351988,-73.87006663240325,18350,Clothing Store,2012-06-02 21:17:00+00:00,New York City,Retail,Fashion Retail,,,,
+21,224,40.75714910340871,-73.83652191722476,10923,Food & Drink Shop,2012-06-30 22:48:25+00:00,New York City,Retail,Food and Beverage Retail,,,,
+22,224,40.75714910340871,-73.83652191722476,10923,Food & Drink Shop,2012-05-19 18:26:51+00:00,New York City,Retail,Food and Beverage Retail,,,,
+23,224,40.759557743327015,-73.82924884557724,26202,Dim Sum Restaurant,2012-05-26 23:43:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,224,40.71772749262224,-73.83533301671625,6292,Dim Sum Restaurant,2012-08-05 16:21:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+25,224,40.711608,-73.85917,6657,Food & Drink Shop,2012-08-12 20:26:54+00:00,New York City,Retail,Food and Beverage Retail,,,,
+26,224,40.7608476202269,-73.8305830867869,19153,Salon / Barbershop,2012-08-19 19:20:48+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+27,224,40.711608,-73.85917,6657,Food & Drink Shop,2012-06-03 18:58:10+00:00,New York City,Retail,Food and Beverage Retail,,,,
+28,224,40.71156333333333,-73.85937265,18465,Gas Station / Garage,2012-06-03 19:21:51+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+29,224,40.75285278311883,-73.979286801554,6519,Bank,2012-08-09 16:12:57+00:00,New York City,Business and Professional Services,Financial Service,,,,
+30,224,40.73461627927996,-73.8689123895314,19810,American Restaurant,2012-08-16 16:42:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,224,40.75025699235651,-73.97517171031707,16954,Coffee Shop,2012-07-05 12:46:09+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+32,224,40.71772749262224,-73.83533301671625,6292,Dim Sum Restaurant,2012-07-05 23:34:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,224,40.76528965936316,-73.81984793985457,10764,Coffee Shop,2012-07-12 17:38:34+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+34,224,40.75203612903108,-73.97601127624512,4341,Food & Drink Shop,2012-08-14 12:28:48+00:00,New York City,Retail,Food and Beverage Retail,,,,
+35,224,40.73464091511804,-73.86910915374756,17004,Sandwich Place,2012-08-14 16:36:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,224,40.76528965936316,-73.81984793985457,10764,Coffee Shop,2012-07-03 17:25:23+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+37,224,40.75789493217511,-73.83477015311043,31730,Bakery,2012-06-12 18:02:16+00:00,New York City,Dining and Drinking,Bakery,,,,
+38,224,40.75730256742656,-73.8347339630127,27558,Burger Joint,2012-06-12 18:02:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,224,40.74057530776996,-73.89985799789429,22922,Gas Station / Garage,2012-05-15 19:54:04+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+40,224,40.75930175423635,-73.9849591255188,1358,Italian Restaurant,2012-05-22 00:28:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,224,40.75842528274261,-73.8563703282751,17270,Automotive Shop,2012-05-29 19:09:10+00:00,New York City,Retail,Automotive Shop,,,,
+42,224,40.75775967403317,-73.8341900573082,33286,Tea Room,2012-07-04 18:04:26+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+43,224,40.75016372026301,-73.97679314017296,1681,Coffee Shop,2012-07-11 12:32:53+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+44,224,40.74932309880845,-73.97295055755025,17967,Deli / Bodega,2012-07-11 16:13:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,224,40.74917510957181,-73.97288742363442,11963,Deli / Bodega,2012-07-18 16:22:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,224,40.7608476202269,-73.8305830867869,19153,Salon / Barbershop,2012-06-06 19:52:48+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+47,224,40.76077470518323,-73.8291931219832,25592,Tea Room,2012-06-06 19:55:35+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+48,224,40.73461627927996,-73.8689123895314,19810,American Restaurant,2012-06-27 17:37:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,224,40.76528965936316,-73.81984793985457,10764,Coffee Shop,2012-05-23 18:12:48+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+50,224,40.76504877198539,-73.8195435104015,14922,Food & Drink Shop,2012-11-19 18:00:09+00:00,,Retail,Food and Beverage Retail,20.0,2.0,nyc,Rec
+51,224,40.76504877198539,-73.8195435104015,14922,Food & Drink Shop,2012-11-19 18:00:09+00:00,,Retail,Food and Beverage Retail,20.0,2.0,nyc,Rec
+52,224,40.739486020568506,-73.78538131713867,19124,Dessert Shop,2012-11-20 18:00:09+00:00,,Dining and Drinking,Dessert Shop,21.0,3.0,nyc,Rec
+53,224,40.74917510957181,-73.97288742363442,11963,Deli / Bodega,2012-11-22 18:00:09+00:00,,Dining and Drinking,Restaurant,23.0,3.0,nyc,Return
+54,224,40.74917510957181,-73.97288742363442,11963,Deli / Bodega,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Return
+55,224,40.73432551351988,-73.87006663240325,18350,Clothing Store,2012-11-23 18:00:09+00:00,,Retail,Fashion Retail,24.0,3.0,nyc,Return
+56,224,40.75700999846009,-73.83503437042236,22354,Clothing Store,2012-11-23 18:00:09+00:00,,Retail,Fashion Retail,24.0,3.0,nyc,Return
+57,224,40.73238326448504,-73.8635775171598,29270,Furniture / Home Store,2012-12-15 18:00:09+00:00,,Retail,Furniture and Home Store,46.0,6.0,nyc,Explore
+58,224,40.756489872673846,-73.8370943069458,13966,Electronics Store,2012-12-15 18:00:09+00:00,,Retail,Computers and Electronics Retail,46.0,6.0,nyc,Rec
+59,224,40.75203612903108,-73.97601127624512,4341,Food & Drink Shop,2012-12-15 18:00:09+00:00,,Retail,Food and Beverage Retail,46.0,6.0,nyc,Return
+60,224,40.741083397381175,-73.99391296514554,16335,Department Store,2012-12-16 18:00:09+00:00,,Retail,Department Store,47.0,6.0,nyc,Explore
+61,224,40.754376,-73.978525,5466,Clothing Store,2012-12-17 18:00:09+00:00,,Retail,Fashion Retail,48.0,6.0,nyc,Rec
+62,224,40.76374688503551,-73.97148907184601,7641,Furniture / Home Store,2012-12-21 18:00:09+00:00,,Retail,Furniture and Home Store,52.0,7.0,nyc,Rec
+63,224,40.76300141892671,-73.96764149685488,26524,Cupcake Shop,2012-12-21 18:00:09+00:00,,Dining and Drinking,Dessert Shop,52.0,7.0,nyc,Rec
+64,224,40.73306168752901,-73.86307790382392,12539,Department Store,2012-12-22 18:00:09+00:00,,Retail,Department Store,53.0,7.0,nyc,Return
+65,224,40.752938280032495,-73.97857546806335,8402,American Restaurant,2013-01-03 18:00:09+00:00,,Dining and Drinking,Restaurant,65.0,9.0,nyc,Explore
+66,224,40.74088420686416,-73.98983001708984,477,Diner,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Rec
+67,224,40.75025699235651,-73.97517171031707,16954,Coffee Shop,2013-01-04 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",66.0,9.0,nyc,Return
+68,224,40.76300141892671,-73.96764149685488,26524,Cupcake Shop,2013-01-04 18:00:09+00:00,,Dining and Drinking,Dessert Shop,66.0,9.0,nyc,Return
+69,224,40.73468148708344,-73.873184,6411,Burger Joint,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Return
+70,224,40.73461627927996,-73.8689123895314,19810,American Restaurant,2013-01-11 18:00:09+00:00,,Dining and Drinking,Restaurant,73.0,10.0,nyc,Rec
+71,224,40.75719626344326,-73.83719390130328,10923,Food & Drink Shop,2013-01-12 18:00:09+00:00,,Retail,Food and Beverage Retail,74.0,10.0,nyc,Return
+72,224,40.75764856382876,-73.8357178307075,28598,Department Store,2013-01-16 18:00:09+00:00,,Retail,Department Store,78.0,11.0,nyc,Rec
+73,224,40.74932309880845,-73.97295055755025,17967,Deli / Bodega,2013-01-17 18:00:09+00:00,,Dining and Drinking,Restaurant,79.0,11.0,nyc,Return

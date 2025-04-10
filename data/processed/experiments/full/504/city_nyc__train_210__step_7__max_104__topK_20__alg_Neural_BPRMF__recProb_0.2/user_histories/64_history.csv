@@ -1,0 +1,114 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,64,40.780048,-73.9815882298017,13914,Stadium,2012-07-13 06:25:33+00:00,New York City,Arts and Entertainment,Stadium,,,,
+1,64,40.777675500655015,-73.98211049521852,3521,Vegetarian / Vegan Restaurant,2012-07-13 06:32:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,64,40.7841997932287,-73.97378277541424,3086,Vegetarian / Vegan Restaurant,2012-07-13 06:40:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,64,40.786783,-73.97568,8488,Sushi Restaurant,2012-07-13 06:49:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+4,64,40.78333512476514,-73.97826521110872,282,Mexican Restaurant,2012-07-13 07:00:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,64,40.784681,-73.973778,9379,Mexican Restaurant,2012-07-13 07:05:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,64,40.78615081364596,-73.9761990565426,5666,Nail Salon,2012-07-13 07:09:29+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+7,64,40.78488970074674,-73.97894244583055,11046,Cosmetics Shop,2012-07-13 07:13:05+00:00,New York City,Retail,Cosmetics Store,,,,
+8,64,40.72460969592903,-73.98294267344437,836,Bar,2012-07-12 02:13:38+00:00,New York City,Dining and Drinking,Bar,,,,
+9,64,40.72931421039228,-73.98930154388093,1506,Bar,2012-07-12 02:21:23+00:00,New York City,Dining and Drinking,Bar,,,,
+10,64,40.74946079318199,-73.9848365828663,3068,Bar,2012-07-12 02:50:52+00:00,New York City,Dining and Drinking,Bar,,,,
+11,64,40.78909130152603,-73.94876875517375,21034,Playground,2012-07-12 03:48:08+00:00,New York City,Landmarks and Outdoors,Park,,,,
+12,64,40.78626052122175,-73.95373821258545,25073,Playground,2012-07-12 03:57:55+00:00,New York City,Landmarks and Outdoors,Park,,,,
+13,64,40.73857555787898,-73.9883279800415,596,American Restaurant,2012-07-12 04:24:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,64,40.72270549271865,-73.99819850921631,410,French Restaurant,2012-07-12 04:38:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,64,40.720072628003614,-74.01036809972409,3406,Italian Restaurant,2012-07-12 04:44:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,64,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-12 05:06:36+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+17,64,40.75485025788179,-73.98800493858226,929,Bookstore,2012-07-12 05:14:54+00:00,New York City,Retail,Bookstore,,,,
+18,64,40.74130690856319,-73.98935794830322,3235,Historic Site,2012-07-12 05:27:01+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+19,64,40.71034503395649,-74.00510251522064,5131,Medical Center,2012-07-12 05:36:03+00:00,New York City,Health and Medicine,Hospital,,,,
+20,64,40.73317742521742,-73.9832411088956,31565,Medical Center,2012-07-12 05:46:13+00:00,New York City,Health and Medicine,Hospital,,,,
+21,64,40.77361447158453,-73.9641058682518,1176,Art Museum,2012-07-12 05:56:35+00:00,New York City,Arts and Entertainment,Museum,,,,
+22,64,40.76609745867855,-73.95647764355276,13889,College Academic Building,2012-07-12 06:04:31+00:00,New York City,Community and Government,Education,,,,
+23,64,40.76540708575493,-73.95529521303692,13867,College Academic Building,2012-07-12 06:09:49+00:00,New York City,Community and Government,Education,,,,
+24,64,40.76501243567873,-73.95530095300835,14798,College Academic Building,2012-07-12 06:31:02+00:00,New York City,Community and Government,Education,,,,
+25,64,40.7791942872022,-73.95384873479412,3284,Movie Theater,2012-07-12 06:37:28+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+26,64,40.75006726071233,-74.00270154186394,890,Bar,2012-07-12 07:20:50+00:00,New York City,Arts and Entertainment,Night Club,,,,
+27,64,40.74045,-73.996494,5555,Movie Theater,2012-07-12 07:38:00+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+28,64,40.72959842192449,-73.99105765689987,29119,Coffee Shop,2012-07-12 08:03:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+29,64,40.729545,-73.99658518000001,7713,Coffee Shop,2012-07-12 08:18:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+30,64,40.72607658423201,-73.99796717424104,14430,Other Great Outdoors,2012-07-12 11:09:20+00:00,New York City,Landmarks and Outdoors,Park,,,,
+31,64,40.73224537390078,-73.99000169544254,21554,Other Great Outdoors,2012-07-12 11:28:04+00:00,New York City,Landmarks and Outdoors,Park,,,,
+32,64,40.765884017600165,-73.97373676300049,4580,Other Great Outdoors,2012-07-12 11:35:34+00:00,New York City,Landmarks and Outdoors,Lake,,,,
+33,64,40.76494288112683,-73.95783226378772,26320,Bowling Alley,2012-07-12 12:00:27+00:00,New York City,Arts and Entertainment,Bowling Alley,,,,
+34,64,40.7608330995785,-73.96501847989609,26232,Bowling Alley,2012-07-12 12:07:27+00:00,New York City,Arts and Entertainment,Bowling Alley,,,,
+35,64,40.76226517650127,-73.98759132686786,6932,Coffee Shop,2012-07-12 12:34:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+36,64,40.75890836265437,-73.99253828871954,11488,Hardware Store,2012-07-12 12:55:19+00:00,New York City,Retail,Hardware Store,,,,
+37,64,40.77212,-73.96097,29536,Building,2012-07-12 13:38:04+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+38,64,40.778972033459766,-73.95602992799556,6787,Fried Chicken Joint,2012-07-12 13:50:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,64,40.79168670180761,-73.9440393447876,20502,Fried Chicken Joint,2012-07-12 14:19:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+40,64,40.76183722175493,-73.96639823913574,29985,Bakery,2012-07-12 15:08:07+00:00,New York City,Dining and Drinking,Bakery,,,,
+41,64,40.757943,-73.969626,6223,Cupcake Shop,2012-07-12 15:14:07+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+42,64,40.75802585740056,-73.97801756858826,3924,Bakery,2012-07-12 15:18:26+00:00,New York City,Dining and Drinking,Bakery,,,,
+43,64,40.76133338655045,-73.97768497467041,25922,Record Shop,2012-07-12 15:24:50+00:00,New York City,Retail,Record Store,,,,
+44,64,40.75618003772985,-73.98072734964313,26941,Record Shop,2012-07-12 15:33:04+00:00,New York City,Retail,Record Store,,,,
+45,64,40.76248,-73.989583,7538,Winery,2012-07-12 23:27:03+00:00,New York City,Dining and Drinking,Winery,,,,
+46,64,40.82827721161922,-73.92655344439045,751,Stadium,2012-07-12 23:35:48+00:00,New York City,Arts and Entertainment,Stadium,,,,
+47,64,40.73514256612047,-74.00492808882719,12370,Clothing Store,2012-07-11 00:46:29+00:00,New York City,Retail,Fashion Retail,,,,
+48,64,40.75848906765483,-73.9793662095376,8063,Performing Arts Venue,2012-07-11 05:48:38+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+49,64,40.72095727770268,-73.99568796157837,1057,Pizza Place,2012-07-11 07:16:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,64,40.72197094384029,-73.99640624193349,271,Pizza Place,2012-07-11 07:29:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,64,40.72263478916584,-73.99535030992797,2862,Pizza Place,2012-07-11 07:34:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+52,64,40.71875122857143,-74.005005,1300,Art Gallery,2012-07-11 07:46:20+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+53,64,40.72055536551704,-74.00197848238204,19358,Art Gallery,2012-07-11 08:05:37+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+54,64,40.72161181141605,-74.00329261226874,36113,Art Gallery,2012-07-11 08:17:20+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+55,64,40.721691,-74.002418,3209,Art Gallery,2012-07-11 08:26:30+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+56,64,40.721656,-74.00210916996002,1493,Art Gallery,2012-07-11 08:36:16+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+57,64,40.76836267739533,-73.8660870499856,23035,Gym / Fitness Center,2012-07-11 10:52:06+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+58,64,40.76793336249386,-73.88232071244961,23846,Gym / Fitness Center,2012-07-11 11:19:15+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+59,64,40.778936659294864,-73.96229820007625,1277,Art Museum,2012-07-11 11:46:24+00:00,New York City,Arts and Entertainment,Museum,,,,
+60,64,40.759399732731005,-73.98947945148703,2092,Gym / Fitness Center,2012-07-11 12:03:20+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+61,64,40.73966463056038,-74.00557079859627,10078,Bar,2012-07-11 12:26:48+00:00,New York City,Arts and Entertainment,Night Club,,,,
+62,64,40.76858216590583,-73.9824605844286,1182,Asian Restaurant,2012-07-11 12:59:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+63,64,40.74015197898258,-74.00730403297737,1735,Bar,2012-07-11 13:31:31+00:00,New York City,Arts and Entertainment,Night Club,,,,
+64,64,40.73225367194944,-74.00200143669329,2045,American Restaurant,2012-07-11 13:41:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+65,64,40.7248181,-73.994414,830,Pool Hall,2012-07-11 14:50:10+00:00,New York City,Arts and Entertainment,Pool Hall,,,,
+66,64,40.74143709197248,-73.99324416730772,947,Pool Hall,2012-07-11 15:05:44+00:00,New York City,Arts and Entertainment,Pool Hall,,,,
+67,64,40.753271503883234,-73.9822769165039,1791,Library,2012-07-11 15:19:27+00:00,New York City,Community and Government,Library,,,,
+68,64,40.778936659294864,-73.96229820007625,1277,Art Museum,2012-12-03 18:00:09+00:00,,Arts and Entertainment,Museum,34.0,4.0,nyc,Return
+69,64,40.72931421039228,-73.98930154388093,1506,Bar,2012-12-03 18:00:09+00:00,,Dining and Drinking,Bar,34.0,4.0,nyc,Return
+70,64,40.77361447158453,-73.9641058682518,1176,Art Museum,2012-12-05 18:00:09+00:00,,Arts and Entertainment,Museum,36.0,5.0,nyc,Return
+71,64,40.77361447158453,-73.9641058682518,1176,Art Museum,2012-12-05 18:00:09+00:00,,Arts and Entertainment,Museum,36.0,5.0,nyc,Return
+72,64,40.73514256612047,-74.00492808882719,12370,Clothing Store,2012-12-05 18:00:09+00:00,,Retail,Fashion Retail,36.0,5.0,nyc,Return
+73,64,40.76609745867855,-73.95647764355276,13889,College Academic Building,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Return
+74,64,40.72460969592903,-73.98294267344437,836,Bar,2012-12-05 18:00:09+00:00,,Dining and Drinking,Bar,36.0,5.0,nyc,Return
+75,64,40.72941621727988,-73.99291131431343,11535,College Academic Building,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Rec
+76,64,40.72941621727988,-73.99291131431343,11535,College Academic Building,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Return
+77,64,40.726373,-73.9892282,687,Vegetarian / Vegan Restaurant,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Explore
+78,64,40.7841997932287,-73.97378277541424,3086,Vegetarian / Vegan Restaurant,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Return
+79,64,40.715917287979,-74.0120207306095,2398,Food & Drink Shop,2012-12-05 18:00:09+00:00,,Retail,Food and Beverage Retail,36.0,5.0,nyc,Explore
+80,64,40.72931421039228,-73.98930154388093,1506,Bar,2012-12-05 18:00:09+00:00,,Dining and Drinking,Bar,36.0,5.0,nyc,Return
+81,64,40.7451380824518,-73.97647454510043,6034,Bike Shop,2012-12-05 18:00:09+00:00,,Retail,Sporting Goods Retail,36.0,5.0,nyc,Explore
+82,64,40.7485662105314,-73.97127463203717,10845,Bike Shop,2012-12-05 18:00:09+00:00,,Retail,Sporting Goods Retail,36.0,5.0,nyc,Rec
+83,64,40.7451380824518,-73.97647454510043,6034,Bike Shop,2012-12-05 18:00:09+00:00,,Retail,Sporting Goods Retail,36.0,5.0,nyc,Return
+84,64,40.75668778559782,-73.97023578047424,10196,Sporting Goods Shop,2012-12-05 18:00:09+00:00,,Retail,Sporting Goods Retail,36.0,5.0,nyc,Rec
+85,64,40.76793336249386,-73.88232071244961,23846,Gym / Fitness Center,2012-12-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,37.0,5.0,nyc,Return
+86,64,40.76112918213039,-73.93004343007756,21239,Gym / Fitness Center,2012-12-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,37.0,5.0,nyc,Explore
+87,64,40.76836267739533,-73.8660870499856,23035,Gym / Fitness Center,2012-12-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,37.0,5.0,nyc,Return
+88,64,40.762958775,-73.91559066666667,5093,Gym / Fitness Center,2012-12-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,37.0,5.0,nyc,Explore
+89,64,40.72263478916584,-73.99535030992797,2862,Pizza Place,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Rec
+90,64,40.72095727770268,-73.99568796157837,1057,Pizza Place,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Rec
+91,64,40.72460969592903,-73.98294267344437,836,Bar,2012-12-06 18:00:09+00:00,,Dining and Drinking,Bar,37.0,5.0,nyc,Rec
+92,64,40.76609745867855,-73.95647764355276,13889,College Academic Building,2012-12-06 18:00:09+00:00,,Community and Government,Education,37.0,5.0,nyc,Return
+93,64,40.76695833299644,-73.95777486481806,6709,Gym / Fitness Center,2012-12-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,37.0,5.0,nyc,Explore
+94,64,40.750576116091054,-73.97616462044513,4540,Bar,2012-12-07 18:00:09+00:00,,Dining and Drinking,Bar,38.0,5.0,nyc,Rec
+95,64,40.73632836341858,-73.99017337027854,10099,Playground,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Park,38.0,5.0,nyc,Explore
+96,64,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-12-07 18:00:09+00:00,,Arts and Entertainment,Movie Theater,38.0,5.0,nyc,Explore
+97,64,40.78626052122175,-73.95373821258545,25073,Playground,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Park,38.0,5.0,nyc,Return
+98,64,40.757943,-73.969626,6223,Cupcake Shop,2012-12-07 18:00:09+00:00,,Dining and Drinking,Dessert Shop,38.0,5.0,nyc,Return
+99,64,40.77108483253159,-73.97149847224776,26544,Park,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Park,38.0,5.0,nyc,Rec
+100,64,40.77108483253159,-73.97149847224776,26544,Park,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Park,38.0,5.0,nyc,Return
+101,64,40.77361447158453,-73.9641058682518,1176,Art Museum,2012-12-07 18:00:09+00:00,,Arts and Entertainment,Museum,38.0,5.0,nyc,Rec
+102,64,40.76609745867855,-73.95647764355276,13889,College Academic Building,2012-12-08 18:00:09+00:00,,Community and Government,Education,39.0,5.0,nyc,Return
+103,64,40.76112918213039,-73.93004343007756,21239,Gym / Fitness Center,2012-12-08 18:00:09+00:00,,Sports and Recreation,Gym and Studio,39.0,5.0,nyc,Return
+104,64,40.76494288112683,-73.95783226378772,26320,Bowling Alley,2012-12-08 18:00:09+00:00,,Arts and Entertainment,Bowling Alley,39.0,5.0,nyc,Return
+105,64,40.750576116091054,-73.97616462044513,4540,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Return
+106,64,40.76183722175493,-73.96639823913574,29985,Bakery,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bakery,39.0,5.0,nyc,Return
+107,64,40.7841997932287,-73.97378277541424,3086,Vegetarian / Vegan Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Return
+108,64,40.76609745867855,-73.95647764355276,13889,College Academic Building,2012-12-08 18:00:09+00:00,,Community and Government,Education,39.0,5.0,nyc,Return
+109,64,40.76112918213039,-73.93004343007756,21239,Gym / Fitness Center,2012-12-18 18:00:09+00:00,,Sports and Recreation,Gym and Studio,49.0,7.0,nyc,Return
+110,64,40.76112918213039,-73.93004343007756,21239,Gym / Fitness Center,2012-12-23 18:00:09+00:00,,Sports and Recreation,Gym and Studio,54.0,7.0,nyc,Return
+111,64,40.76836267739533,-73.8660870499856,23035,Gym / Fitness Center,2013-01-02 18:00:09+00:00,,Sports and Recreation,Gym and Studio,64.0,9.0,nyc,Rec
+112,64,40.76513698688928,-73.98681655911211,36233,General Entertainment,2013-02-08 18:00:09+00:00,,Arts and Entertainment,General Entertainment,101.0,14.0,nyc,Explore

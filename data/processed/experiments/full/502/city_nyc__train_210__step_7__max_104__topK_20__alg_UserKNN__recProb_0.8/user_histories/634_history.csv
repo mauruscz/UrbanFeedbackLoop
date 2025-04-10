@@ -1,0 +1,74 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,634,40.84859424625846,-74.0764331817627,10538,American Restaurant,2012-10-26 00:28:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,634,40.917600745797984,-74.05865573776346,18977,Bridal Shop,2012-10-27 00:39:00+00:00,New York City,Retail,Fashion Retail,,,,
+2,634,40.91838649607276,-74.07151736476236,13013,Food & Drink Shop,2012-10-27 01:02:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+3,634,40.78782018739577,-73.79104614257812,37651,Other Great Outdoors,2012-10-27 14:13:53+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+4,634,40.753926,-73.991544,1214,Bar,2012-10-28 04:55:59+00:00,New York City,Dining and Drinking,Bar,,,,
+5,634,40.76039718948832,-73.98740193948298,8232,Sandwich Place,2012-10-28 06:06:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,634,40.76172792616833,-73.99648084560515,27567,Parking,2012-10-28 06:12:23+00:00,New York City,Travel and Transportation,Parking,,,,
+7,634,40.903665,-73.998924,30426,Laundry Service,2012-10-25 02:44:05+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+8,634,40.7591180719511,-73.98258684595439,8303,Coffee Shop,2012-10-25 16:18:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+9,634,40.75866880929655,-73.98154231629059,17061,Clothing Store,2012-10-25 17:34:42+00:00,New York City,Retail,Fashion Retail,,,,
+10,634,40.93689125264822,-73.99545192718506,11878,Sandwich Place,2012-10-23 01:21:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,634,40.85121557428245,-73.95206451416016,3686,Bridge,2012-10-23 23:08:40+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+12,634,40.746736760718505,-73.98262023925781,34812,Other Great Outdoors,2012-10-30 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,0.0,0.0,nyc,Rec
+13,634,40.745180776401206,-73.97943602217596,36471,Other Great Outdoors,2012-10-31 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,1.0,0.0,nyc,Rec
+14,634,40.7358440950424,-73.9905595779419,18081,Other Great Outdoors,2012-10-31 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,1.0,0.0,nyc,Explore
+15,634,40.7148694149892,-74.01538906944295,2895,Movie Theater,2012-11-01 18:00:09+00:00,,Arts and Entertainment,Movie Theater,2.0,0.0,nyc,Rec
+16,634,40.753926,-73.991544,1214,Bar,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bar,12.0,1.0,nyc,Return
+17,634,40.85121557428245,-73.95206451416016,3686,Bridge,2012-11-11 18:00:09+00:00,,Landmarks and Outdoors,Bridge,12.0,1.0,nyc,Return
+18,634,40.847687,-73.93797,6758,Spanish Restaurant,2012-11-16 18:00:09+00:00,,Dining and Drinking,Restaurant,17.0,2.0,nyc,Rec
+19,634,40.854935,-73.93711,1116,Bar,2012-11-16 18:00:09+00:00,,Dining and Drinking,Bar,17.0,2.0,nyc,Rec
+20,634,40.88701350555085,-73.9072399510469,34087,Tapas Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Rec
+21,634,40.88775728071592,-74.1516637802124,8455,Food & Drink Shop,2012-11-17 18:00:09+00:00,,Retail,Food and Beverage Retail,18.0,2.0,nyc,Rec
+22,634,40.91838649607276,-74.07151736476236,13013,Food & Drink Shop,2012-11-18 18:00:09+00:00,,Retail,Food and Beverage Retail,19.0,2.0,nyc,Rec
+23,634,40.854935,-73.93711,1116,Bar,2012-11-20 18:00:09+00:00,,Dining and Drinking,Bar,21.0,3.0,nyc,Return
+24,634,40.85516,-73.937289,470,American Restaurant,2012-11-21 18:00:09+00:00,,Dining and Drinking,Restaurant,22.0,3.0,nyc,Rec
+25,634,40.91338508182094,-74.00116934115263,14657,Food & Drink Shop,2012-11-22 18:00:09+00:00,,Retail,Food and Beverage Retail,23.0,3.0,nyc,Rec
+26,634,40.91377607816172,-73.99657845497131,12805,Food & Drink Shop,2012-11-22 18:00:09+00:00,,Retail,Food and Beverage Retail,23.0,3.0,nyc,Rec
+27,634,40.903665,-73.998924,30426,Laundry Service,2012-11-22 18:00:09+00:00,,Business and Professional Services,Laundry Service,23.0,3.0,nyc,Rec
+28,634,40.899824,-73.99951918333333,9378,Japanese Restaurant,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Rec
+29,634,40.91338508182094,-74.00116934115263,14657,Food & Drink Shop,2012-11-23 18:00:09+00:00,,Retail,Food and Beverage Retail,24.0,3.0,nyc,Return
+30,634,40.91067077357459,-74.0011004779114,28123,Museum,2012-11-24 18:00:09+00:00,,Arts and Entertainment,Museum,25.0,3.0,nyc,Rec
+31,634,40.886750953487415,-74.01326019439458,30844,General Travel,2012-11-27 18:00:09+00:00,,Travel and Transportation,General Travel,28.0,4.0,nyc,Rec
+32,634,40.76039718948832,-73.98740193948298,8232,Pizza Place,2012-11-27 18:00:09+00:00,,Dining and Drinking,Restaurant,28.0,4.0,nyc,Return
+33,634,40.708213835197206,-74.01361596492175,18759,Donut Shop,2012-12-01 18:00:09+00:00,,Dining and Drinking,Donut Shop,32.0,4.0,nyc,Rec
+34,634,40.75922735258565,-73.98283362960619,7155,Mexican Restaurant,2012-12-03 18:00:09+00:00,,Dining and Drinking,Restaurant,34.0,4.0,nyc,Rec
+35,634,40.88701350555085,-73.9072399510469,34087,Tapas Restaurant,2012-12-04 18:00:09+00:00,,Dining and Drinking,Restaurant,35.0,5.0,nyc,Return
+36,634,40.815347572826205,-73.95814221792891,10796,Burger Joint,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Explore
+37,634,40.815767,-73.928173,26062,Gas Station / Garage,2012-12-06 18:00:09+00:00,,Travel and Transportation,Fuel Station,37.0,5.0,nyc,Rec
+38,634,40.80790281410113,-73.95231614483886,34085,Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Explore
+39,634,40.847687,-73.93797,6758,Spanish Restaurant,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Rec
+40,634,40.85516,-73.937289,470,American Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Rec
+41,634,40.854935,-73.93711,1116,Bar,2012-12-11 18:00:09+00:00,,Dining and Drinking,Bar,42.0,6.0,nyc,Rec
+42,634,40.85724314680882,-73.9321617443114,5320,Bar,2012-12-13 18:00:09+00:00,,Dining and Drinking,Bar,44.0,6.0,nyc,Explore
+43,634,40.873799,-73.90823,22236,Clothing Store,2012-12-15 18:00:09+00:00,,Retail,Fashion Retail,46.0,6.0,nyc,Rec
+44,634,40.708213835197206,-74.01361596492175,18759,Donut Shop,2012-12-16 18:00:09+00:00,,Dining and Drinking,Donut Shop,47.0,6.0,nyc,Return
+45,634,40.70761289216827,-74.01350693854029,4107,Mexican Restaurant,2012-12-18 18:00:09+00:00,,Dining and Drinking,Restaurant,49.0,7.0,nyc,Rec
+46,634,40.75922735258565,-73.98283362960619,7155,Mexican Restaurant,2012-12-21 18:00:09+00:00,,Dining and Drinking,Restaurant,52.0,7.0,nyc,Rec
+47,634,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-12-22 18:00:09+00:00,,Dining and Drinking,Restaurant,53.0,7.0,nyc,Rec
+48,634,40.75866880929655,-73.98154231629059,17061,Clothing Store,2012-12-22 18:00:09+00:00,,Retail,Fashion Retail,53.0,7.0,nyc,Rec
+49,634,40.72927511814658,-73.98412227630615,13582,Laundry Service,2012-12-23 18:00:09+00:00,,Business and Professional Services,Laundry Service,54.0,7.0,nyc,Rec
+50,634,40.723493,-73.999555,11795,Miscellaneous Shop,2012-12-23 18:00:09+00:00,,Retail,Miscellaneous Store,54.0,7.0,nyc,Rec
+51,634,40.70716889455723,-74.00382629562932,26984,Mall,2012-12-28 18:00:09+00:00,,Retail,Shopping Mall,59.0,8.0,nyc,Rec
+52,634,40.7148694149892,-74.01538906944295,2895,Movie Theater,2012-12-28 18:00:09+00:00,,Arts and Entertainment,Movie Theater,59.0,8.0,nyc,Rec
+53,634,40.903665,-73.998924,30426,Laundry Service,2013-01-06 18:00:09+00:00,,Business and Professional Services,Laundry Service,68.0,9.0,nyc,Return
+54,634,40.751384003647495,-73.99231447301496,27705,Bar,2013-01-08 18:00:09+00:00,,Dining and Drinking,Juice Bar,70.0,10.0,nyc,Explore
+55,634,40.735833227915045,-73.99376640101369,37183,Gym / Fitness Center,2013-01-08 18:00:09+00:00,,Sports and Recreation,Gym and Studio,70.0,10.0,nyc,Explore
+56,634,40.75533302960006,-73.9926243716133,14231,Bike Shop,2013-01-09 18:00:09+00:00,,Retail,Sporting Goods Retail,71.0,10.0,nyc,Rec
+57,634,40.7591180719511,-73.98258684595439,8303,Coffee Shop,2013-01-16 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",78.0,11.0,nyc,Return
+58,634,40.75922886315155,-73.981347183746,7226,Gym / Fitness Center,2013-01-24 18:00:09+00:00,,Sports and Recreation,Gym and Studio,86.0,12.0,nyc,Rec
+59,634,40.761351670959314,-73.98405119776726,6220,Pizza Place,2013-01-27 18:00:09+00:00,,Dining and Drinking,Restaurant,89.0,12.0,nyc,Explore
+60,634,40.76194286413605,-73.98359656333923,4409,Diner,2013-01-28 18:00:09+00:00,,Dining and Drinking,Restaurant,90.0,12.0,nyc,Explore
+61,634,40.74897024850466,-73.98947371253458,3893,Gym / Fitness Center,2013-01-29 18:00:09+00:00,,Sports and Recreation,Gym and Studio,91.0,13.0,nyc,Rec
+62,634,40.74908484141689,-73.9903115977771,7507,Burrito Place,2013-01-31 18:00:09+00:00,,Dining and Drinking,Restaurant,93.0,13.0,nyc,Rec
+63,634,40.75177025607824,-73.99006482373646,14301,Deli / Bodega,2013-01-31 18:00:09+00:00,,Dining and Drinking,Restaurant,93.0,13.0,nyc,Rec
+64,634,40.74897024850466,-73.98947371253458,3893,Gym / Fitness Center,2013-02-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,94.0,13.0,nyc,Rec
+65,634,40.75195611093041,-73.98993856712782,9505,Restaurant,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Rec
+66,634,40.752427601875766,-73.99410499133778,1489,Mexican Restaurant,2013-02-02 18:00:09+00:00,,Dining and Drinking,Restaurant,95.0,13.0,nyc,Rec
+67,634,40.73696491032449,-74.00050366211661,23965,Medical Center,2013-02-03 18:00:09+00:00,,Health and Medicine,Hospital,96.0,13.0,nyc,Rec
+68,634,40.74897024850466,-73.98947371253458,3893,Gym / Fitness Center,2013-02-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,99.0,14.0,nyc,Rec
+69,634,40.75922735258565,-73.98283362960619,7155,Mexican Restaurant,2013-02-08 18:00:09+00:00,,Dining and Drinking,Restaurant,101.0,14.0,nyc,Return
+70,634,40.75866880929655,-73.98154231629059,17061,Clothing Store,2013-02-08 18:00:09+00:00,,Retail,Fashion Retail,101.0,14.0,nyc,Return
+71,634,40.75061548534744,-73.97836851825436,20072,Laundry Service,2013-02-10 18:00:09+00:00,,Business and Professional Services,Laundry Service,103.0,14.0,nyc,Rec
+72,634,40.91838649607276,-74.07151736476236,13013,Food & Drink Shop,2013-02-10 18:00:09+00:00,,Retail,Food and Beverage Retail,103.0,14.0,nyc,Return

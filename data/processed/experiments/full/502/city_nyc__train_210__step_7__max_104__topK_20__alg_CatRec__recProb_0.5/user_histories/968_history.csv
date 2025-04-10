@@ -1,0 +1,65 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,968,40.75151919424625,-73.99043785414028,11546,Deli / Bodega,2012-04-27 11:40:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,968,40.87250518798828,-73.90602111816406,30217,Food Truck,2012-04-27 22:53:11+00:00,New York City,Dining and Drinking,Food Truck,,,,
+2,968,40.8692409995067,-73.9032496416949,14676,Latin American Restaurant,2012-08-10 01:43:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,968,40.86227522957312,-73.92535320491062,19589,American Restaurant,2012-08-10 16:41:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+4,968,40.86835164298332,-73.90138364167603,11500,Coffee Shop,2012-07-06 10:32:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+5,968,40.8684001,-73.9013328,27749,American Restaurant,2012-07-06 17:12:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,968,40.87250518798828,-73.90602111816406,30217,Food Truck,2012-07-13 22:33:22+00:00,New York City,Dining and Drinking,Food Truck,,,,
+7,968,40.87250518798828,-73.90602111816406,30217,Food Truck,2012-07-20 23:24:46+00:00,New York City,Dining and Drinking,Food Truck,,,,
+8,968,40.751517,-73.99028333333332,27140,Deli / Bodega,2012-06-01 17:43:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+9,968,40.75172001339673,-73.99286540351027,6673,Fast Food Restaurant,2012-06-08 16:02:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,968,40.75172001339673,-73.99286540351027,6673,Fast Food Restaurant,2012-05-04 15:56:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,968,40.7569743825982,-73.98877355904663,898,Movie Theater,2012-05-04 18:01:48+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+12,968,40.75404836175849,-73.98442336785773,31950,Other Great Outdoors,2012-04-23 08:24:04+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+13,968,40.751517,-73.99028333333332,27140,Deli / Bodega,2012-04-23 16:01:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,968,40.8684001,-73.9013328,27749,American Restaurant,2012-07-09 18:46:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,968,40.75151919424625,-73.99043785414028,11546,Deli / Bodega,2012-05-21 11:16:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,968,40.8684001,-73.9013328,27749,American Restaurant,2012-05-28 14:00:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,968,40.8692409995067,-73.9032496416949,14676,Latin American Restaurant,2012-04-28 16:02:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,968,40.8684001,-73.9013328,27749,American Restaurant,2012-08-11 20:25:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,968,40.88991408747217,-73.89850135426695,24354,Wings Joint,2012-08-18 17:22:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,968,40.86227522957312,-73.92535320491062,19589,American Restaurant,2012-07-28 13:29:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,968,40.751517,-73.99028333333332,27140,Deli / Bodega,2012-06-09 16:03:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,968,40.87250518798828,-73.90602111816406,30217,Food Truck,2012-06-30 22:39:51+00:00,New York City,Dining and Drinking,Food Truck,,,,
+23,968,40.74524250452179,-73.9943919318223,10060,Latin American Restaurant,2012-05-05 11:15:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,968,40.7523269201093,-73.99404760318933,7330,Sandwich Place,2012-05-05 16:38:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+25,968,40.863269,-73.89426168333334,17146,Mexican Restaurant,2012-05-19 22:14:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+26,968,40.87250518798828,-73.90602111816406,30217,Food Truck,2012-08-05 22:13:33+00:00,New York City,Dining and Drinking,Food Truck,,,,
+27,968,40.86227522957312,-73.92535320491062,19589,American Restaurant,2012-08-12 11:41:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+28,968,40.86835164298332,-73.90138364167603,11500,Coffee Shop,2012-07-15 14:36:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+29,968,40.8684001,-73.9013328,27749,American Restaurant,2012-06-03 15:21:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,968,40.8684001,-73.9013328,27749,American Restaurant,2012-06-10 15:08:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,968,40.863269,-73.89426168333334,17146,Mexican Restaurant,2012-06-10 19:55:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,968,40.863269,-73.89426168333334,17146,Mexican Restaurant,2012-06-17 18:07:10+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,968,40.74524250452179,-73.9943919318223,10060,Latin American Restaurant,2012-08-09 20:09:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+34,968,40.8684001,-73.9013328,27749,American Restaurant,2012-07-05 13:07:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,968,40.8684001,-73.9013328,27749,American Restaurant,2012-06-07 21:15:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,968,40.7749481543979,-73.98209901687298,2817,Movie Theater,2012-05-17 18:18:54+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+37,968,40.8684001,-73.9013328,27749,American Restaurant,2012-05-17 21:35:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,968,40.86782553768711,-73.8995692983908,37079,Spanish Restaurant,2012-10-11 21:45:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,968,40.863269,-73.89426168333334,17146,Mexican Restaurant,2012-10-18 21:16:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+40,968,40.8687370559638,-73.90066020302129,31960,Medical Center,2012-04-03 20:05:43+00:00,New York City,Health and Medicine,Dentist,,,,
+41,968,40.75671096305903,-74.00100198012031,1295,Convention Center,2012-04-10 17:28:39+00:00,New York City,Business and Professional Services,Convention Center,,,,
+42,968,40.86227522957312,-73.92535320491062,19589,American Restaurant,2012-04-10 21:09:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,968,40.7523269201093,-73.99404760318933,7330,Sandwich Place,2012-07-03 16:08:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+44,968,40.7911772601476,-73.97421897092632,4849,Italian Restaurant,2012-06-26 23:34:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,968,40.8684001,-73.9013328,27749,American Restaurant,2012-05-29 20:38:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,968,40.75258770978715,-73.99450670789588,22027,Burger Joint,2012-04-04 16:14:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,968,40.754597385692016,-73.98423397734838,34357,Clothing Store,2012-04-04 18:45:24+00:00,New York City,Retail,Fashion Retail,,,,
+48,968,40.8692409995067,-73.9032496416949,14676,Latin American Restaurant,2012-07-04 13:36:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,968,40.57334843776636,-73.98030281066895,2854,Beach,2012-07-04 16:08:51+00:00,New York City,Landmarks and Outdoors,Beach,,,,
+50,968,40.86199719285851,-73.925037457408,7105,Latin American Restaurant,2012-07-04 18:47:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,968,40.757034,-73.978183,30962,Sporting Goods Shop,2012-06-06 18:05:04+00:00,New York City,Retail,Sporting Goods Retail,,,,
+52,968,40.74524250452179,-73.9943919318223,10060,Latin American Restaurant,2012-06-27 16:09:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+53,968,40.86835164298332,-73.90138364167603,11500,Coffee Shop,2012-10-31 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",1.0,0.0,nyc,Return
+54,968,40.86196839809418,-73.925085,7105,Latin American Restaurant,2012-11-09 18:00:09+00:00,,Dining and Drinking,Restaurant,10.0,1.0,nyc,Rec
+55,968,40.86085547420423,-73.91967541237946,35096,Bar,2012-11-11 18:00:09+00:00,,Arts and Entertainment,Night Club,12.0,1.0,nyc,Rec
+56,968,40.8684001,-73.9013328,27749,American Restaurant,2012-11-13 18:00:09+00:00,,Dining and Drinking,Restaurant,14.0,2.0,nyc,Rec
+57,968,40.756931775430665,-73.98897442301349,898,Movie Theater,2012-11-15 18:00:09+00:00,,Arts and Entertainment,Movie Theater,16.0,2.0,nyc,Return
+58,968,40.75686800435613,-73.9887161693032,31422,BBQ Joint,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Rec
+59,968,40.8692409995067,-73.9032496416949,14676,Latin American Restaurant,2012-11-30 18:00:09+00:00,,Dining and Drinking,Restaurant,31.0,4.0,nyc,Return
+60,968,40.8687370559638,-73.90066020302129,31960,Medical Center,2012-12-01 18:00:09+00:00,,Health and Medicine,Dentist,32.0,4.0,nyc,Rec
+61,968,40.8684001,-73.9013328,27749,American Restaurant,2012-12-03 18:00:09+00:00,,Dining and Drinking,Restaurant,34.0,4.0,nyc,Rec
+62,968,40.86782553768711,-73.8995692983908,37079,Spanish Restaurant,2013-01-08 18:00:09+00:00,,Dining and Drinking,Restaurant,70.0,10.0,nyc,Rec
+63,968,40.86835164298332,-73.90138364167603,11500,Coffee Shop,2013-01-13 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",75.0,10.0,nyc,Return

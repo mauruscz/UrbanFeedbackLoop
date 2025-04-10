@@ -1,0 +1,107 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+33191,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-06 14:03:04+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33192,212,40.758728399405584,-73.97855791454388,2357,Plaza,2012-04-13 17:30:43+00:00,New York City,Landmarks and Outdoors,Plaza
+33193,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-20 13:50:22+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33194,212,40.743245,-73.989268,29851,Sandwich Place,2012-04-20 18:04:27+00:00,New York City,Dining and Drinking,Restaurant
+33195,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-27 14:08:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33196,212,40.74434084563527,-73.99042637629252,2098,BBQ Joint,2012-04-27 17:37:16+00:00,New York City,Dining and Drinking,Restaurant
+33197,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-06-01 13:48:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33198,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-06-08 13:33:04+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33199,212,40.742287878066655,-73.98266719415489,3396,Indian Restaurant,2012-06-08 16:46:35+00:00,New York City,Dining and Drinking,Restaurant
+33200,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-04 13:44:19+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33201,212,40.744622,-73.990914,26241,Food Truck,2012-05-04 16:23:24+00:00,New York City,Dining and Drinking,Food Truck
+33202,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-11 13:38:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33203,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-18 13:33:40+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33204,212,40.756489872673846,-73.98626804351807,2360,Plaza,2012-05-18 23:46:48+00:00,New York City,Landmarks and Outdoors,Plaza
+33205,212,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-05-18 23:47:38+00:00,New York City,Retail,Pharmacy
+33206,212,40.756070596303616,-73.98452667169322,1155,Concert Hall,2012-05-18 23:52:28+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+33207,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-09 13:34:58+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33208,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-16 13:31:11+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33209,212,40.71842431728309,-74.00897562503815,11764,Sushi Restaurant,2012-04-23 17:52:50+00:00,New York City,Dining and Drinking,Restaurant
+33210,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-06-04 13:08:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33211,212,40.739568,-73.98872019,422,American Restaurant,2012-06-04 22:24:48+00:00,New York City,Dining and Drinking,Restaurant
+33212,212,40.73120427929744,-73.98574335713012,5912,Eastern European Restaurant,2012-06-18 00:30:28+00:00,New York City,Dining and Drinking,Restaurant
+33213,212,40.74035148130449,-73.9828852819583,8502,Chinese Restaurant,2012-06-18 16:47:00+00:00,New York City,Dining and Drinking,Restaurant
+33214,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-07 13:46:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33215,212,40.743245,-73.989268,29851,Sandwich Place,2012-05-07 16:15:46+00:00,New York City,Dining and Drinking,Restaurant
+33216,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-14 13:36:56+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33217,212,40.743911,-73.995203,553,Food & Drink Shop,2012-05-14 17:00:48+00:00,New York City,Retail,Food and Beverage Retail
+33218,212,40.743644,-73.992241,6086,Coffee Shop,2012-05-14 20:27:35+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33219,212,40.73849465570786,-73.98030264734459,22621,Sandwich Place,2012-05-14 20:47:02+00:00,New York City,Dining and Drinking,Restaurant
+33220,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-21 13:29:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33221,212,40.739638,-73.989228,1955,Chinese Restaurant,2012-05-21 16:53:59+00:00,New York City,Dining and Drinking,Restaurant
+33222,212,40.744200089038905,-73.99493137877062,8279,Diner,2012-04-21 20:27:52+00:00,New York City,Dining and Drinking,Restaurant
+33223,212,40.60014219334286,-73.99110356813573,8682,Malaysian Restaurant,2012-04-28 20:11:40+00:00,New York City,Dining and Drinking,Restaurant
+33224,212,40.60257676748582,-73.99432880495256,16196,Drugstore / Pharmacy,2012-04-28 22:29:49+00:00,New York City,Retail,Pharmacy
+33225,212,40.7418112381317,-73.98826278972687,36092,BBQ Joint,2012-06-09 15:54:03+00:00,New York City,Dining and Drinking,Restaurant
+33226,212,40.738899081964135,-73.99145937984117,9654,Clothing Store,2012-06-09 19:00:21+00:00,New York City,Retail,Fashion Retail
+33227,212,40.74064691662654,-73.99104044018358,6998,Coffee Shop,2012-06-09 19:20:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33228,212,40.74174,-73.99365,18620,Food & Drink Shop,2012-06-09 19:27:30+00:00,New York City,Retail,Food and Beverage Retail
+33229,212,40.60014219334286,-73.99110356813573,8682,Malaysian Restaurant,2012-06-16 22:57:11+00:00,New York City,Dining and Drinking,Restaurant
+33230,212,40.60014219334286,-73.99110356813573,8682,Malaysian Restaurant,2012-05-12 22:38:10+00:00,New York City,Dining and Drinking,Restaurant
+33231,212,40.717374,-73.997451,2084,Chinese Restaurant,2012-05-19 19:10:24+00:00,New York City,Dining and Drinking,Restaurant
+33232,212,40.59978634018256,-73.99027142528048,9258,Ramen /  Noodle House,2012-05-19 22:27:37+00:00,New York City,Dining and Drinking,Restaurant
+33233,212,40.783508,-73.978031,22143,Tapas Restaurant,2012-04-08 02:27:08+00:00,New York City,Dining and Drinking,Restaurant
+33234,212,40.778936659294864,-73.96229820007625,1277,Art Museum,2012-04-08 21:28:34+00:00,New York City,Arts and Entertainment,Museum
+33235,212,40.753825,-73.973799,4230,Japanese Restaurant,2012-04-08 22:57:56+00:00,New York City,Dining and Drinking,Restaurant
+33236,212,40.74199916646445,-73.99062723852924,21986,Diner,2012-04-22 14:24:54+00:00,New York City,Dining and Drinking,Restaurant
+33237,212,40.76753191557166,-73.9623380296344,8437,Food & Drink Shop,2012-04-22 16:37:56+00:00,New York City,Retail,Food and Beverage Retail
+33238,212,40.77762296,-73.9822,5163,Coffee Shop,2012-04-29 17:17:54+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33239,212,40.75208489426303,-73.91483545303345,12464,Food & Drink Shop,2012-06-03 23:39:40+00:00,New York City,Retail,Food and Beverage Retail
+33240,212,40.74405980950037,-73.99191275186445,6715,Drugstore / Pharmacy,2012-06-10 16:04:57+00:00,New York City,Retail,Pharmacy
+33241,212,40.751822,-73.994391,10517,Clothing Store,2012-06-17 16:30:27+00:00,New York City,Retail,Fashion Retail
+33242,212,40.75906889024835,-73.98501449461008,3898,Theater,2012-06-17 18:15:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+33243,212,40.75954026563452,-73.99322121194734,4280,Dessert Shop,2012-06-17 20:52:06+00:00,New York City,Dining and Drinking,Dessert Shop
+33244,212,40.743911,-73.995203,553,Food & Drink Shop,2012-06-17 21:31:40+00:00,New York City,Retail,Food and Beverage Retail
+33245,212,40.74706188749892,-74.00519371032715,965,Park,2012-05-13 19:56:17+00:00,New York City,Landmarks and Outdoors,Park
+33246,212,40.75954026563452,-73.99322121194734,4280,Dessert Shop,2012-05-13 20:19:18+00:00,New York City,Dining and Drinking,Dessert Shop
+33247,212,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-05-13 20:30:01+00:00,New York City,Dining and Drinking,Restaurant
+33248,212,40.74481848035928,-73.99515151977539,2017,Food & Drink Shop,2012-05-13 21:44:11+00:00,New York City,Retail,Food and Beverage Retail
+33249,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-12 13:24:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33250,212,40.73907152609708,-73.98379780455603,6016,Bar,2012-04-12 21:54:46+00:00,New York City,Dining and Drinking,Bar
+33251,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-19 13:55:45+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33252,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-26 13:41:48+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33253,212,40.72744,-73.988553,2508,Thai Restaurant,2012-06-07 01:27:01+00:00,New York City,Dining and Drinking,Restaurant
+33254,212,40.745226,-73.998213,359,Fast Food Restaurant,2012-06-07 16:20:47+00:00,New York City,Dining and Drinking,Restaurant
+33255,212,40.72686016559601,-73.99980166666667,906,Mexican Restaurant,2012-06-07 22:56:29+00:00,New York City,Dining and Drinking,Restaurant
+33256,212,40.72723878626394,-74.00058974143258,542,Italian Restaurant,2012-06-07 23:59:14+00:00,New York City,Dining and Drinking,Restaurant
+33257,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-06-21 13:28:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33258,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-03 13:32:38+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33259,212,40.74231487869751,-73.99188995361328,1777,Steakhouse,2012-05-03 16:37:19+00:00,New York City,Dining and Drinking,Restaurant
+33260,212,40.68670740090934,-73.97777080535889,22367,Theater,2012-05-10 00:00:35+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+33261,212,40.742287878066655,-73.98266719415489,3396,Indian Restaurant,2012-05-10 16:20:55+00:00,New York City,Dining and Drinking,Restaurant
+33262,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-17 13:18:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33263,212,40.744622,-73.990914,26241,Food Truck,2012-05-17 17:01:50+00:00,New York City,Dining and Drinking,Food Truck
+33264,212,40.687102531188295,-73.97650324180252,21851,Thai Restaurant,2012-05-24 03:08:10+00:00,New York City,Dining and Drinking,Restaurant
+33265,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-31 13:12:10+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33266,212,40.74985920636586,-73.98996152288103,1272,Bar,2012-05-31 22:40:50+00:00,New York City,Dining and Drinking,Bar
+33267,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-10 12:57:34+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33268,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-24 12:49:44+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33269,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-06-05 12:48:23+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33270,212,40.74064691662654,-73.99104044018358,6998,Coffee Shop,2012-05-01 20:44:56+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33271,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-08 12:48:48+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33272,212,40.74231487869751,-73.99188995361328,1777,Steakhouse,2012-05-15 17:07:21+00:00,New York City,Dining and Drinking,Restaurant
+33273,212,40.743644,-73.992241,6086,Coffee Shop,2012-05-22 12:57:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33274,212,40.741934,-73.990231,4717,Coffee Shop,2012-05-22 14:14:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33275,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-29 12:50:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33276,212,40.74546290596493,-73.99098305111815,5332,Coffee Shop,2012-04-04 13:41:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33277,212,40.743245,-73.989268,29851,Sandwich Place,2012-04-04 13:42:46+00:00,New York City,Dining and Drinking,Restaurant
+33278,212,40.7415995466274,-73.99064540863037,4445,Burrito Place,2012-04-04 17:28:46+00:00,New York City,Dining and Drinking,Restaurant
+33279,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-11 13:39:50+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33280,212,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-04-11 22:27:16+00:00,New York City,Dining and Drinking,Restaurant
+33281,212,40.753825,-73.973799,4230,Japanese Restaurant,2012-04-18 01:51:22+00:00,New York City,Dining and Drinking,Restaurant
+33282,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-04-18 13:13:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33283,212,40.740819175595135,-73.98764133453369,6985,Cuban Restaurant,2012-04-18 17:39:58+00:00,New York City,Dining and Drinking,Restaurant
+33284,212,40.74064691662654,-73.99104044018358,6998,Coffee Shop,2012-04-25 20:23:50+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33285,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-06-06 13:02:09+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33286,212,40.72459570391395,-73.99055837150034,988,Bar,2012-06-06 22:38:55+00:00,New York City,Dining and Drinking,Bar
+33287,212,40.72487297,-73.990142,1448,Movie Theater,2012-06-06 23:18:16+00:00,New York City,Arts and Entertainment,Movie Theater
+33288,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-09 13:12:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33289,212,40.74231487869751,-73.99188995361328,1777,Steakhouse,2012-05-09 18:06:41+00:00,New York City,Dining and Drinking,Restaurant
+33290,212,40.74433543734781,-73.99541343646136,7777,Coffee Shop,2012-05-16 13:06:10+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+33291,212,40.746919,-73.983745,11058,Medical Center,2012-05-16 14:27:15+00:00,New York City,Health and Medicine,Dentist
+33292,212,40.74152416963603,-73.98371171770367,11167,Fried Chicken Joint,2012-05-23 18:06:28+00:00,New York City,Dining and Drinking,Restaurant
+33293,212,40.73923808330292,-73.98359656333923,10558,Drugstore / Pharmacy,2012-05-23 20:51:34+00:00,New York City,Retail,Pharmacy
+33294,212,40.68670740090934,-73.97777080535889,22367,Theater,2012-05-23 22:40:26+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+33295,212,40.68670740090934,-73.97777080535889,22367,Theater,2012-05-23 23:11:41+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+33296,212,40.68842703325036,-73.97879201419794,2351,Theater,2012-05-23 23:12:21+00:00,New York City,Arts and Entertainment,Performing Arts Venue

@@ -1,0 +1,74 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,850,40.59792234564146,-73.92099380493164,14009,Park,2012-08-17 00:40:02+00:00,New York City,Landmarks and Outdoors,Park,,,,
+1,850,40.60650944709778,-73.930037,21504,Gym / Fitness Center,2012-08-17 00:50:35+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+2,850,40.60186393509025,-73.93453836201138,18191,Japanese Restaurant,2012-08-17 02:07:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,850,40.65558767460618,-73.96226341271294,31871,Park,2012-08-17 14:59:37+00:00,New York City,Landmarks and Outdoors,Park,,,,
+4,850,40.654720921817294,-73.96178127190923,15597,Fast Food Restaurant,2012-08-17 22:45:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,850,40.667606,-73.9359313,29597,Professional & Other Places,2012-08-20 04:02:37+00:00,New York City,Business and Professional Services,Business and Professional Services,,,,
+6,850,40.65404064005746,-73.96192476632201,33402,Bar,2012-08-18 01:19:32+00:00,New York City,Arts and Entertainment,Night Club,,,,
+7,850,40.81440531649213,-73.94437173850456,7583,Music Venue,2012-08-18 03:31:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+8,850,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-08-18 04:48:04+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+9,850,40.65233124358233,-73.95594382873094,11909,College Academic Building,2012-08-18 16:15:39+00:00,New York City,Community and Government,Education,,,,
+10,850,40.64733612383537,-73.95562648773193,29293,Bar,2012-08-18 17:16:47+00:00,New York City,Dining and Drinking,Bar,,,,
+11,850,40.61527547678351,-73.97191745450665,31944,Bar,2012-08-19 12:19:56+00:00,New York City,Dining and Drinking,Bar,,,,
+12,850,40.63887500612519,-73.91759504153028,26769,Bar,2012-08-19 15:59:18+00:00,New York City,Dining and Drinking,Bar,,,,
+13,850,40.640598,-73.91842365,17649,Burger Joint,2012-08-19 16:39:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,850,40.63875459999397,-73.91752825651649,26642,Library,2012-08-19 22:44:15+00:00,New York City,Community and Government,Library,,,,
+15,850,40.638694,-73.91957759857178,8037,Arcade,2012-08-19 23:05:26+00:00,New York City,Arts and Entertainment,Arcade,,,,
+16,850,40.644142514861336,-73.91830904320965,31595,Pizza Place,2012-08-19 23:24:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,850,40.64311522746113,-73.91420413692066,17829,American Restaurant,2012-08-19 23:34:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,850,40.669202,-73.94220592,3902,Museum,2012-11-24 18:00:09+00:00,,Arts and Entertainment,Museum,25.0,3.0,nyc,Rec
+19,850,40.67003605694326,-73.94516963798532,5615,General College & University,2012-11-24 18:00:09+00:00,,Community and Government,Education,25.0,3.0,nyc,Rec
+20,850,40.67079793240643,-73.96203382200433,3473,Park,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Park,34.0,4.0,nyc,Rec
+21,850,40.65558857629375,-73.96247578387509,31871,Park,2012-12-04 18:00:09+00:00,,Landmarks and Outdoors,Park,35.0,5.0,nyc,Rec
+22,850,40.65173175523031,-73.97266387939453,30607,Park,2012-12-05 18:00:09+00:00,,Landmarks and Outdoors,Park,36.0,5.0,nyc,Rec
+23,850,40.63954733023867,-73.96752096512951,1706,American Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Rec
+24,850,40.64056372357759,-73.96573593884727,7891,Asian Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Rec
+25,850,40.74218830848454,-73.98792418909154,902,Park,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Park,37.0,5.0,nyc,Rec
+26,850,40.75372797263211,-73.98368835767094,726,Park,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Park,38.0,5.0,nyc,Rec
+27,850,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Rec
+28,850,40.73528249691621,-73.99040315158283,758,Park,2012-12-08 18:00:09+00:00,,Landmarks and Outdoors,Park,39.0,5.0,nyc,Rec
+29,850,40.74706188749892,-74.00519371032715,965,Park,2012-12-09 18:00:09+00:00,,Landmarks and Outdoors,Park,40.0,5.0,nyc,Rec
+30,850,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-12-09 18:00:09+00:00,,Dining and Drinking,Restaurant,40.0,5.0,nyc,Rec
+31,850,40.7499947979727,-73.97225034387054,462,Mexican Restaurant,2012-12-09 18:00:09+00:00,,Dining and Drinking,Restaurant,40.0,5.0,nyc,Rec
+32,850,40.75274100802376,-73.97330797224723,24777,German Restaurant,2012-12-10 18:00:09+00:00,,Dining and Drinking,Restaurant,41.0,5.0,nyc,Rec
+33,850,40.73528249691621,-73.99040315158283,758,Park,2012-12-10 18:00:09+00:00,,Landmarks and Outdoors,Park,41.0,5.0,nyc,Rec
+34,850,40.73632836341858,-73.99017337027854,10099,Playground,2012-12-11 18:00:09+00:00,,Landmarks and Outdoors,Park,42.0,6.0,nyc,Rec
+35,850,40.73528249691621,-73.99040315158283,758,Park,2012-12-12 18:00:09+00:00,,Landmarks and Outdoors,Park,43.0,6.0,nyc,Rec
+36,850,40.74218830848454,-73.98792418909154,902,Park,2012-12-13 18:00:09+00:00,,Landmarks and Outdoors,Park,44.0,6.0,nyc,Rec
+37,850,40.73644,-73.99734223,534,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+38,850,40.738391,-73.998684,11270,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+39,850,40.73644,-73.99734223,534,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+40,850,40.738391,-73.998684,11270,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+41,850,40.73644,-73.99734223,534,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+42,850,40.74627906331481,-73.99794995814524,2470,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+43,850,40.73218146122385,-73.98189814571478,7152,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+44,850,40.743527,-73.973873,5102,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+45,850,40.747216,-73.97717,13244,Bagel Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bagel Shop,51.0,7.0,nyc,Rec
+46,850,40.69342491338439,-73.99171189097369,6159,University,2012-12-21 18:00:09+00:00,,Community and Government,Education,52.0,7.0,nyc,Rec
+47,850,40.69043336578264,-73.98980855941772,1848,Museum,2012-12-21 18:00:09+00:00,,Arts and Entertainment,Museum,52.0,7.0,nyc,Rec
+48,850,40.74218830848454,-73.98792418909154,902,Park,2012-12-23 18:00:09+00:00,,Landmarks and Outdoors,Park,54.0,7.0,nyc,Rec
+49,850,40.73644,-73.99734223,534,Bagel Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Bagel Shop,54.0,7.0,nyc,Rec
+50,850,40.73029619603295,-74.00200143669329,4528,Bagel Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Bagel Shop,54.0,7.0,nyc,Rec
+51,850,40.73644,-73.99734223,534,Bagel Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Bagel Shop,54.0,7.0,nyc,Rec
+52,850,40.74097794131346,-73.99355406440372,31809,Bagel Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Bagel Shop,54.0,7.0,nyc,Rec
+53,850,40.736031073752805,-73.9793586730957,220,Bagel Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Bagel Shop,54.0,7.0,nyc,Rec
+54,850,40.740223,-73.982688,4400,Bagel Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Bagel Shop,54.0,7.0,nyc,Rec
+55,850,40.75304393655621,-73.98219108581543,7639,Library,2012-12-23 18:00:09+00:00,,Community and Government,Library,54.0,7.0,nyc,Rec
+56,850,40.7520198739458,-73.98174047470093,30586,Library,2012-12-23 18:00:09+00:00,,Community and Government,Library,54.0,7.0,nyc,Rec
+57,850,40.73699909877152,-73.99245220578715,12175,Library,2012-12-23 18:00:09+00:00,,Community and Government,Library,54.0,7.0,nyc,Rec
+58,850,40.74185966827029,-73.98905754089355,36642,Plaza,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,Plaza,79.0,11.0,nyc,Rec
+59,850,40.73366542178695,-73.98781514808185,1618,Food & Drink Shop,2013-01-17 18:00:09+00:00,,Retail,Food and Beverage Retail,79.0,11.0,nyc,Rec
+60,850,40.73528249691621,-73.99040315158283,758,Park,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,Park,79.0,11.0,nyc,Rec
+61,850,40.68312,-73.975979,12936,Stadium,2013-02-01 18:00:09+00:00,,Arts and Entertainment,Stadium,94.0,13.0,nyc,Rec
+62,850,40.74696349202716,-73.98561135861114,8438,Clothing Store,2013-02-07 18:00:09+00:00,,Retail,Boutique,100.0,14.0,nyc,Rec
+63,850,40.76224486711165,-73.9792871763928,3335,Hotel,2013-02-07 18:00:09+00:00,,Travel and Transportation,Lodging,100.0,14.0,nyc,Rec
+64,850,40.73169799836348,-73.98922693741638,182,Music Venue,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,101.0,14.0,nyc,Rec
+65,850,40.75919162504052,-73.96756114237967,11119,General Entertainment,2013-02-08 18:00:09+00:00,,Arts and Entertainment,General Entertainment,101.0,14.0,nyc,Rec
+66,850,40.7588958925549,-73.9792121911996,10410,Building,2013-02-08 18:00:09+00:00,,Landmarks and Outdoors,Structure,101.0,14.0,nyc,Rec
+67,850,40.6599524367078,-73.96886587142944,35612,General Entertainment,2013-02-08 18:00:09+00:00,,Arts and Entertainment,General Entertainment,101.0,14.0,nyc,Rec
+68,850,40.742862660166125,-73.99238907827885,6841,Event Space,2013-02-08 18:00:09+00:00,,Business and Professional Services,Event Space,101.0,14.0,nyc,Rec
+69,850,40.72930063756496,-73.99192996850243,834,Music Venue,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,101.0,14.0,nyc,Rec
+70,850,40.73169799836348,-73.98922693741638,182,Music Venue,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,101.0,14.0,nyc,Rec
+71,850,40.76010650159448,-73.98041169261889,1095,Performing Arts Venue,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,101.0,14.0,nyc,Rec
+72,850,40.73169799836348,-73.98922693741638,182,Music Venue,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,101.0,14.0,nyc,Rec

@@ -1,0 +1,105 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+85358,531,40.94198360476101,-73.96169517521032,9173,Bagel Shop,2012-04-13 18:28:40+00:00,New York City,Dining and Drinking,Bagel Shop
+85359,531,40.92581323509432,-73.9641058682518,10997,Chinese Restaurant,2012-04-13 20:13:55+00:00,New York City,Dining and Drinking,Restaurant
+85360,531,40.94204691464807,-73.9642264021128,23132,Convenience Store,2012-04-20 01:10:45+00:00,New York City,Retail,Convenience Store
+85361,531,40.94132671,-73.961549,24602,Bar,2012-04-20 01:19:48+00:00,New York City,Dining and Drinking,Bar
+85362,531,40.940559,-73.992999,19577,Italian Restaurant,2012-04-20 23:55:14+00:00,New York City,Dining and Drinking,Restaurant
+85363,531,40.97409652777037,-73.96725694299141,16586,Library,2012-04-27 16:45:21+00:00,New York City,Community and Government,Library
+85364,531,40.962978408315934,-73.97336953664879,16260,High School,2012-06-01 18:17:23+00:00,New York City,Community and Government,Education
+85365,531,40.957706326540674,-73.95972068037045,25796,School,2012-06-01 18:33:56+00:00,New York City,Community and Government,Education
+85366,531,40.94204691464807,-73.9642264021128,23132,Convenience Store,2012-05-04 11:54:42+00:00,New York City,Retail,Convenience Store
+85367,531,40.97409652777037,-73.96725694299141,16586,Library,2012-05-04 16:41:11+00:00,New York City,Community and Government,Library
+85368,531,40.9417,-73.961163,18831,Pizza Place,2012-05-04 21:46:28+00:00,New York City,Dining and Drinking,Restaurant
+85369,531,40.940840936555965,-73.9938237892463,13796,Bank,2012-05-04 22:43:31+00:00,New York City,Business and Professional Services,Financial Service
+85370,531,40.93940833,-73.993312,15271,Food & Drink Shop,2012-05-04 22:46:16+00:00,New York City,Retail,Food and Beverage Retail
+85371,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-11 23:02:53+00:00,New York City,Dining and Drinking,Restaurant
+85372,531,40.91291344737324,-74.02824788792574,33435,Cosmetics Shop,2012-04-09 17:17:57+00:00,New York City,Retail,Cosmetics Store
+85373,531,40.90651116042479,-74.03141512106096,11802,Department Store,2012-04-09 17:20:59+00:00,New York City,Retail,Department Store
+85374,531,40.95634251626308,-74.06902771574032,5675,Mall,2012-04-09 18:21:18+00:00,New York City,Retail,Shopping Mall
+85375,531,40.95847918630444,-74.06939506530762,5882,Department Store,2012-04-09 18:41:43+00:00,New York City,Retail,Department Store
+85376,531,40.948913834415485,-73.92880917128387,15294,Government Building,2012-04-09 19:57:46+00:00,New York City,Community and Government,Government Building
+85377,531,40.934067,-73.95854234,20294,Car Wash,2012-04-16 16:19:05+00:00,New York City,Business and Professional Services,Automotive Service
+85378,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-04-16 16:24:44+00:00,New York City,Dining and Drinking,Restaurant
+85379,531,40.973318,-73.962407,30401,Clothing Store,2012-04-16 16:58:51+00:00,New York City,Retail,Boutique
+85380,531,40.97249518516468,-73.96166647630216,33474,Clothing Store,2012-04-16 17:05:11+00:00,New York City,Retail,Fashion Retail
+85381,531,40.94860506421964,-73.92929139425853,33976,Post Office,2012-04-16 18:28:08+00:00,New York City,Community and Government,Government Building
+85382,531,40.96923810268508,-73.9630937576294,13172,Food & Drink Shop,2012-04-23 16:53:49+00:00,New York City,Retail,Food and Beverage Retail
+85383,531,40.94860506421964,-73.92929139425853,33976,Post Office,2012-04-23 18:24:26+00:00,New York City,Community and Government,Government Building
+85384,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-08-13 15:51:06+00:00,New York City,Dining and Drinking,Restaurant
+85385,531,40.885300735509496,-74.04056078469601,24918,Medical Center,2012-06-04 14:32:47+00:00,New York City,Health and Medicine,Physician
+85386,531,40.96923810268508,-73.9630937576294,13172,Food & Drink Shop,2012-06-11 14:51:17+00:00,New York City,Retail,Food and Beverage Retail
+85387,531,40.92456533158144,-74.00372874071756,34286,Government Building,2012-06-11 17:19:06+00:00,New York City,Community and Government,Government Building
+85388,531,40.9404533657531,-73.95947386709476,15235,Building,2012-06-18 16:26:03+00:00,New York City,Landmarks and Outdoors,Structure
+85389,531,40.96923810268508,-73.9630937576294,13172,Food & Drink Shop,2012-06-18 16:49:30+00:00,New York City,Retail,Food and Beverage Retail
+85390,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-07 16:10:25+00:00,New York City,Dining and Drinking,Restaurant
+85391,531,40.94860506421964,-73.92929139425853,33976,Post Office,2012-05-07 16:43:29+00:00,New York City,Community and Government,Government Building
+85392,531,40.885300735509496,-74.04056078469601,24918,Medical Center,2012-05-14 14:43:48+00:00,New York City,Health and Medicine,Physician
+85393,531,40.96923810268508,-73.9630937576294,13172,Food & Drink Shop,2012-05-14 16:45:52+00:00,New York City,Retail,Food and Beverage Retail
+85394,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-21 15:04:59+00:00,New York City,Dining and Drinking,Restaurant
+85395,531,40.90400958558281,-73.96841526031494,7283,Medical Center,2012-05-21 15:40:41+00:00,New York City,Health and Medicine,Hospital
+85396,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-21 16:12:09+00:00,New York City,Dining and Drinking,Restaurant
+85397,531,40.97249518516468,-73.96166647630216,33474,Clothing Store,2012-05-21 18:45:33+00:00,New York City,Retail,Fashion Retail
+85398,531,40.9731379375348,-73.96216009692789,27150,Miscellaneous Shop,2012-05-21 18:47:38+00:00,New York City,Retail,Miscellaneous Store
+85399,531,40.96923810268508,-73.9630937576294,13172,Food & Drink Shop,2012-05-21 18:57:40+00:00,New York City,Retail,Food and Beverage Retail
+85400,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-28 14:05:17+00:00,New York City,Dining and Drinking,Restaurant
+85401,531,40.94885001666667,-73.98849,19273,Deli / Bodega,2012-06-09 01:19:23+00:00,New York City,Dining and Drinking,Restaurant
+85402,531,40.964046245846205,-74.07626137475432,11077,Toy / Game Store,2012-05-05 23:58:40+00:00,New York City,Retail,Toy Store
+85403,531,40.94806502717503,-73.98598439766977,28376,Food & Drink Shop,2012-05-26 00:00:06+00:00,New York City,Retail,Food and Beverage Retail
+85404,531,40.66405138451349,-74.18343141898994,30643,Automotive Shop,2012-04-08 21:13:20+00:00,New York City,Retail,Automotive Shop
+85405,531,40.883711353407655,-74.01083290360494,13127,Medical Center,2012-04-08 21:34:12+00:00,New York City,Health and Medicine,Hospital
+85406,531,40.94034693268033,-73.99721540328309,33957,Dessert Shop,2012-06-03 01:35:40+00:00,New York City,Dining and Drinking,Dessert Shop
+85407,531,40.92350779002658,-73.96422066240683,31787,Bagel Shop,2012-06-03 16:50:32+00:00,New York City,Dining and Drinking,Bagel Shop
+85408,531,40.94204691464807,-73.9642264021128,23132,Convenience Store,2012-05-27 19:10:15+00:00,New York City,Retail,Convenience Store
+85409,531,40.92795792805224,-74.0007217296419,35348,Hardware Store,2012-05-27 19:17:35+00:00,New York City,Retail,Hardware Store
+85410,531,40.939212316943504,-73.96106379824417,33926,Miscellaneous Shop,2012-04-12 01:05:18+00:00,New York City,Retail,Miscellaneous Store
+85411,531,40.93253036531252,-73.99601026811312,12778,Burger Joint,2012-04-12 01:07:25+00:00,New York City,Dining and Drinking,Restaurant
+85412,531,40.9417,-73.961163,18831,Pizza Place,2012-04-12 17:07:51+00:00,New York City,Dining and Drinking,Restaurant
+85413,531,40.94209671020508,-73.96234130859375,34706,Nail Salon,2012-04-12 17:21:11+00:00,New York City,Business and Professional Services,Health and Beauty Service
+85414,531,40.94198360476101,-73.96169517521032,9173,Bagel Shop,2012-04-12 17:25:35+00:00,New York City,Dining and Drinking,Bagel Shop
+85415,531,40.94093357650664,-73.95981251778781,32932,Post Office,2012-04-12 17:33:17+00:00,New York City,Community and Government,Government Building
+85416,531,40.9404533657531,-73.95947386709476,15235,Building,2012-04-12 18:11:51+00:00,New York City,Landmarks and Outdoors,Structure
+85417,531,40.94204691464807,-73.9642264021128,23132,Convenience Store,2012-04-26 11:29:36+00:00,New York City,Retail,Convenience Store
+85418,531,40.939212316943504,-73.96106379824417,33926,Miscellaneous Shop,2012-04-26 11:43:46+00:00,New York City,Retail,Miscellaneous Store
+85419,531,40.90502166748047,-74.0398178100586,35077,Miscellaneous Shop,2012-04-26 12:07:50+00:00,New York City,Retail,Miscellaneous Store
+85420,531,40.885300735509496,-74.04056078469601,24918,Medical Center,2012-04-26 12:46:26+00:00,New York City,Health and Medicine,Physician
+85421,531,40.94806502717503,-73.98598439766977,28376,Food & Drink Shop,2012-05-10 21:11:35+00:00,New York City,Retail,Food and Beverage Retail
+85422,531,40.92795792805224,-74.0007217296419,35348,Hardware Store,2012-05-10 22:09:18+00:00,New York City,Retail,Hardware Store
+85423,531,40.94806502717503,-73.98598439766977,28376,Food & Drink Shop,2012-05-10 23:56:21+00:00,New York City,Retail,Food and Beverage Retail
+85424,531,40.94132671,-73.961549,24602,Bar,2012-05-17 01:44:09+00:00,New York City,Dining and Drinking,Bar
+85425,531,40.9404533657531,-73.95947386709476,15235,Building,2012-05-17 17:29:41+00:00,New York City,Landmarks and Outdoors,Structure
+85426,531,40.94093357650664,-73.95981251778781,32932,Post Office,2012-05-17 17:45:02+00:00,New York City,Community and Government,Government Building
+85427,531,40.941792383333336,-73.96053448333333,15295,Library,2012-05-17 17:46:44+00:00,New York City,Community and Government,Library
+85428,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-17 22:06:25+00:00,New York City,Dining and Drinking,Restaurant
+85429,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-04-17 15:16:25+00:00,New York City,Dining and Drinking,Restaurant
+85430,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-04-24 14:17:56+00:00,New York City,Dining and Drinking,Restaurant
+85431,531,40.94198360476101,-73.96169517521032,9173,Bagel Shop,2012-04-24 15:55:38+00:00,New York City,Dining and Drinking,Bagel Shop
+85432,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-04-24 16:23:33+00:00,New York City,Dining and Drinking,Restaurant
+85433,531,40.94204691464807,-73.9642264021128,23132,Convenience Store,2012-06-12 02:05:50+00:00,New York City,Retail,Convenience Store
+85434,531,40.94198360476101,-73.96169517521032,9173,Bagel Shop,2012-05-01 15:58:08+00:00,New York City,Dining and Drinking,Bagel Shop
+85435,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-01 16:05:38+00:00,New York City,Dining and Drinking,Restaurant
+85436,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-08 14:18:02+00:00,New York City,Dining and Drinking,Restaurant
+85437,531,40.94198360476101,-73.96169517521032,9173,Bagel Shop,2012-05-08 15:04:35+00:00,New York City,Dining and Drinking,Bagel Shop
+85438,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-08 15:05:35+00:00,New York City,Dining and Drinking,Restaurant
+85439,531,40.94156732210569,-73.96065053220194,34309,Laundry Service,2012-05-08 17:46:27+00:00,New York City,Business and Professional Services,Laundry Service
+85440,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-08 17:51:22+00:00,New York City,Dining and Drinking,Restaurant
+85441,531,40.957706326540674,-73.95972068037045,25796,School,2012-04-04 15:39:48+00:00,New York City,Community and Government,Education
+85442,531,40.93837227358208,-73.96100640023569,34664,Building,2012-04-11 01:39:51+00:00,New York City,Landmarks and Outdoors,Structure
+85443,531,40.94093357650664,-73.95981251778781,32932,Post Office,2012-04-11 14:28:15+00:00,New York City,Community and Government,Government Building
+85444,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-04-11 14:38:40+00:00,New York City,Dining and Drinking,Restaurant
+85445,531,40.93837227358208,-73.96100640023569,34664,Building,2012-04-18 15:14:10+00:00,New York City,Landmarks and Outdoors,Structure
+85446,531,40.957706326540674,-73.95972068037045,25796,School,2012-04-18 15:27:22+00:00,New York City,Community and Government,Education
+85447,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-04-18 17:04:01+00:00,New York City,Dining and Drinking,Restaurant
+85448,531,40.957706326540674,-73.95972068037045,25796,School,2012-04-25 15:25:41+00:00,New York City,Community and Government,Education
+85449,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-04-25 15:36:50+00:00,New York City,Dining and Drinking,Restaurant
+85450,531,40.94198360476101,-73.96169517521032,9173,Bagel Shop,2012-04-25 15:57:27+00:00,New York City,Dining and Drinking,Bagel Shop
+85451,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-04-25 16:14:16+00:00,New York City,Dining and Drinking,Restaurant
+85452,531,40.94806502717503,-73.98598439766977,28376,Food & Drink Shop,2012-04-25 23:45:47+00:00,New York City,Retail,Food and Beverage Retail
+85453,531,40.957706326540674,-73.95972068037045,25796,School,2012-06-06 15:37:33+00:00,New York City,Community and Government,Education
+85454,531,40.957706326540674,-73.95972068037045,25796,School,2012-06-13 15:31:47+00:00,New York City,Community and Government,Education
+85455,531,40.957706326540674,-73.95972068037045,25796,School,2012-05-09 15:27:19+00:00,New York City,Community and Government,Education
+85456,531,40.92636036754619,-73.96374426621672,12226,Food & Drink Shop,2012-05-09 15:43:22+00:00,New York City,Retail,Food and Beverage Retail
+85457,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-09 16:15:26+00:00,New York City,Dining and Drinking,Restaurant
+85458,531,40.94198360476101,-73.96169517521032,9173,Bagel Shop,2012-05-09 18:08:07+00:00,New York City,Dining and Drinking,Bagel Shop
+85459,531,40.957706326540674,-73.95972068037045,25796,School,2012-05-16 15:32:46+00:00,New York City,Community and Government,Education
+85460,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-23 16:25:33+00:00,New York City,Dining and Drinking,Restaurant
+85461,531,40.94216741212171,-73.96168369564757,29707,Seafood Restaurant,2012-05-23 17:22:45+00:00,New York City,Dining and Drinking,Restaurant

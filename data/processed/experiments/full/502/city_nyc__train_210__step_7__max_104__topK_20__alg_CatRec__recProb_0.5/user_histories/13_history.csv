@@ -1,0 +1,103 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,13,40.913596103806974,-73.90890494806025,37097,College Academic Building,2012-10-26 19:16:11+00:00,New York City,Community and Government,Education,,,,
+1,13,40.91183,-73.906612,35375,College Academic Building,2012-10-26 20:10:32+00:00,New York City,Community and Government,Education,,,,
+2,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-10-26 22:12:12+00:00,New York City,Community and Government,Education,,,,
+3,13,40.91123425320583,-73.90828549861908,22868,College Academic Building,2012-10-26 22:13:28+00:00,New York City,Community and Government,Education,,,,
+4,13,40.91159986224817,-73.90760165850426,34822,College Academic Building,2012-10-26 23:43:43+00:00,New York City,Community and Government,Education,,,,
+5,13,40.91159986224817,-73.90760165850426,34822,College Academic Building,2012-10-27 03:01:07+00:00,New York City,Community and Government,Education,,,,
+6,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-10-27 14:02:23+00:00,New York City,Community and Government,Education,,,,
+7,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-10-27 14:59:02+00:00,New York City,Community and Government,Education,,,,
+8,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-10-27 16:50:07+00:00,New York City,Community and Government,Education,,,,
+9,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-10-27 17:20:53+00:00,New York City,Community and Government,Education,,,,
+10,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-10-27 17:22:17+00:00,New York City,Community and Government,Education,,,,
+11,13,40.911271,-73.907179,31559,Student Center,2012-10-28 07:23:03+00:00,New York City,Community and Government,Education,,,,
+12,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-10-28 07:29:41+00:00,New York City,Community and Government,Education,,,,
+13,13,40.78782018739577,-73.79104614257812,37651,Other Great Outdoors,2012-10-28 17:18:40+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+14,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-10-28 18:42:34+00:00,New York City,Community and Government,Education,,,,
+15,13,40.91123425320583,-73.90828549861908,22868,College Academic Building,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Return
+16,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Return
+17,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Rec
+18,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Rec
+19,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Return
+20,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Rec
+21,13,40.911271,-73.907179,31559,Student Center,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Return
+22,13,40.911271,-73.907179,31559,Student Center,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Return
+23,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-11-09 18:00:09+00:00,,Community and Government,Education,10.0,1.0,nyc,Rec
+24,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-11-09 18:00:09+00:00,,Community and Government,Education,10.0,1.0,nyc,Return
+25,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-10 18:00:09+00:00,,Community and Government,Education,11.0,1.0,nyc,Return
+26,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-11-11 18:00:09+00:00,,Community and Government,Education,12.0,1.0,nyc,Rec
+27,13,40.913596103806974,-73.90890494806025,37097,College Academic Building,2012-11-11 18:00:09+00:00,,Community and Government,Education,12.0,1.0,nyc,Return
+28,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-12 18:00:09+00:00,,Community and Government,Education,13.0,1.0,nyc,Return
+29,13,40.88960654663226,-73.90187501907349,8275,University,2012-11-12 18:00:09+00:00,,Community and Government,Education,13.0,1.0,nyc,Explore
+30,13,40.91183,-73.906612,35375,College Academic Building,2012-11-12 18:00:09+00:00,,Community and Government,Education,13.0,1.0,nyc,Return
+31,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-12 18:00:09+00:00,,Community and Government,Education,13.0,1.0,nyc,Rec
+32,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-11-13 18:00:09+00:00,,Community and Government,Education,14.0,2.0,nyc,Rec
+33,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-13 18:00:09+00:00,,Community and Government,Education,14.0,2.0,nyc,Rec
+34,13,40.91123425320583,-73.90828549861908,22868,College Academic Building,2012-11-13 18:00:09+00:00,,Community and Government,Education,14.0,2.0,nyc,Return
+35,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-13 18:00:09+00:00,,Community and Government,Education,14.0,2.0,nyc,Return
+36,13,40.91183,-73.906612,35375,College Academic Building,2012-11-13 18:00:09+00:00,,Community and Government,Education,14.0,2.0,nyc,Return
+37,13,40.91123425320583,-73.90828549861908,22868,College Academic Building,2012-11-15 18:00:09+00:00,,Community and Government,Education,16.0,2.0,nyc,Return
+38,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Return
+39,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Return
+40,13,40.91159986224817,-73.90760165850426,34822,College Academic Building,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Return
+41,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Rec
+42,13,40.911271,-73.907179,31559,Student Center,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Rec
+43,13,40.88818513537616,-73.96218879576263,17889,School,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Explore
+44,13,40.868888871536406,-73.92044470844333,16685,College Academic Building,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Rec
+45,13,40.820815,-73.975865,9799,Hotel,2012-11-17 18:00:09+00:00,,Travel and Transportation,Lodging,18.0,2.0,nyc,Rec
+46,13,40.8084934934928,-73.96048407757375,8779,College Academic Building,2012-11-17 18:00:09+00:00,,Community and Government,Education,18.0,2.0,nyc,Rec
+47,13,40.74314770778147,-73.9952871833738,5997,College Academic Building,2012-11-18 18:00:09+00:00,,Community and Government,Education,19.0,2.0,nyc,Explore
+48,13,40.74314770778147,-73.9952871833738,5997,College Academic Building,2012-11-18 18:00:09+00:00,,Community and Government,Education,19.0,2.0,nyc,Rec
+49,13,40.74314770778147,-73.9952871833738,5997,College Academic Building,2012-11-18 18:00:09+00:00,,Community and Government,Education,19.0,2.0,nyc,Rec
+50,13,40.74314770778147,-73.9952871833738,5997,College Academic Building,2012-11-18 18:00:09+00:00,,Community and Government,Education,19.0,2.0,nyc,Rec
+51,13,40.727291289709385,-73.99120330810547,7575,College Academic Building,2012-11-18 18:00:09+00:00,,Community and Government,Education,19.0,2.0,nyc,Explore
+52,13,40.74314770778147,-73.9952871833738,5997,College Academic Building,2012-11-19 18:00:09+00:00,,Community and Government,Education,20.0,2.0,nyc,Rec
+53,13,40.71834202528393,-74.00061816553153,9550,Neighborhood,2012-11-19 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,20.0,2.0,nyc,Rec
+54,13,40.727291289709385,-73.99120330810547,7575,College Academic Building,2012-11-19 18:00:09+00:00,,Community and Government,Education,20.0,2.0,nyc,Rec
+55,13,40.72841819410797,-73.99037472596906,26508,High School,2012-11-20 18:00:09+00:00,,Community and Government,Education,21.0,3.0,nyc,Explore
+56,13,40.727291289709385,-73.99120330810547,7575,College Academic Building,2012-11-20 18:00:09+00:00,,Community and Government,Education,21.0,3.0,nyc,Rec
+57,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-20 18:00:09+00:00,,Community and Government,Education,21.0,3.0,nyc,Return
+58,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-11-20 18:00:09+00:00,,Community and Government,Education,21.0,3.0,nyc,Return
+59,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-20 18:00:09+00:00,,Community and Government,Education,21.0,3.0,nyc,Return
+60,13,40.91183,-73.906612,35375,College Academic Building,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Return
+61,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Rec
+62,13,40.911271,-73.907179,31559,Student Center,2012-11-28 18:00:09+00:00,,Community and Government,Education,29.0,4.0,nyc,Rec
+63,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-11-28 18:00:09+00:00,,Community and Government,Education,29.0,4.0,nyc,Rec
+64,13,40.91159986224817,-73.90760165850426,34822,College Academic Building,2012-11-29 18:00:09+00:00,,Community and Government,Education,30.0,4.0,nyc,Return
+65,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+66,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Return
+67,13,40.91123425320583,-73.90828549861908,22868,College Academic Building,2012-12-08 18:00:09+00:00,,Community and Government,Education,39.0,5.0,nyc,Rec
+68,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-08 18:00:09+00:00,,Community and Government,Education,39.0,5.0,nyc,Rec
+69,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Rec
+70,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Rec
+71,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Return
+72,13,40.91159986224817,-73.90760165850426,34822,College Academic Building,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Return
+73,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Return
+74,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Return
+75,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Rec
+76,13,40.911271,-73.907179,31559,Student Center,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Rec
+77,13,40.91123425320583,-73.90828549861908,22868,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Rec
+78,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Return
+79,13,40.91183,-73.906612,35375,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Rec
+80,13,40.91123425320583,-73.90828549861908,22868,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Return
+81,13,40.906503,-73.90489,11218,Pizza Place,2012-12-11 18:00:09+00:00,,Dining and Drinking,Restaurant,42.0,6.0,nyc,Explore
+82,13,40.91159986224817,-73.90760165850426,34822,College Academic Building,2012-12-12 18:00:09+00:00,,Community and Government,Education,43.0,6.0,nyc,Rec
+83,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-12 18:00:09+00:00,,Community and Government,Education,43.0,6.0,nyc,Rec
+84,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-12 18:00:09+00:00,,Community and Government,Education,43.0,6.0,nyc,Return
+85,13,40.91183,-73.906612,35375,College Academic Building,2012-12-13 18:00:09+00:00,,Community and Government,Education,44.0,6.0,nyc,Rec
+86,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-12-13 18:00:09+00:00,,Community and Government,Education,44.0,6.0,nyc,Rec
+87,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-13 18:00:09+00:00,,Community and Government,Education,44.0,6.0,nyc,Rec
+88,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-12-14 18:00:09+00:00,,Community and Government,Education,45.0,6.0,nyc,Return
+89,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-12-14 18:00:09+00:00,,Community and Government,Education,45.0,6.0,nyc,Return
+90,13,40.91124844229261,-73.90751034021378,22862,Student Center,2012-12-15 18:00:09+00:00,,Community and Government,Education,46.0,6.0,nyc,Return
+91,13,40.91253963644208,-73.9070463180542,1432,University,2012-12-17 18:00:09+00:00,,Community and Government,Education,48.0,6.0,nyc,Explore
+92,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-17 18:00:09+00:00,,Community and Government,Education,48.0,6.0,nyc,Rec
+93,13,40.913596103806974,-73.90890494806025,37097,College Academic Building,2012-12-18 18:00:09+00:00,,Community and Government,Education,49.0,7.0,nyc,Return
+94,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2012-12-19 18:00:09+00:00,,Community and Government,Education,50.0,7.0,nyc,Return
+95,13,40.8084934934928,-73.96048407757375,8779,College Academic Building,2012-12-19 18:00:09+00:00,,Community and Government,Education,50.0,7.0,nyc,Return
+96,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2012-12-20 18:00:09+00:00,,Community and Government,Education,51.0,7.0,nyc,Return
+97,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2013-01-16 18:00:09+00:00,,Community and Government,Education,78.0,11.0,nyc,Rec
+98,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2013-01-17 18:00:09+00:00,,Community and Government,Education,79.0,11.0,nyc,Return
+99,13,40.91163003603256,-73.90776815853675,24368,College Academic Building,2013-01-17 18:00:09+00:00,,Community and Government,Education,79.0,11.0,nyc,Return
+100,13,40.91159986224817,-73.90760165850426,34822,College Academic Building,2013-01-18 18:00:09+00:00,,Community and Government,Education,80.0,11.0,nyc,Rec
+101,13,40.91118965891332,-73.90711069107056,26080,College Academic Building,2013-01-18 18:00:09+00:00,,Community and Government,Education,80.0,11.0,nyc,Rec

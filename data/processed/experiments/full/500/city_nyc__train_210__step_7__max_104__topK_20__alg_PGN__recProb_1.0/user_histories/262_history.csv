@@ -1,0 +1,216 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,262,40.88577,-73.82807,10442,Gas Station / Garage,2012-08-10 21:23:27+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+1,262,40.88489121666667,-73.826546,16359,Gas Station / Garage,2012-08-17 21:15:10+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+2,262,40.88577,-73.82807,10442,Gas Station / Garage,2012-08-17 21:15:38+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+3,262,40.87992312264064,-73.8351836857118,27251,Outdoors & Recreation,2012-08-17 21:16:30+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors,,,,
+4,262,40.88992936862135,-73.84268455731083,24984,Building,2012-08-17 21:16:52+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+5,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-06 11:10:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,262,40.88671244641477,-73.87850790366784,26748,Campground,2012-07-06 21:41:16+00:00,New York City,Landmarks and Outdoors,Campground,,,,
+7,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-13 11:13:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,262,40.87992312264064,-73.8351836857118,27251,Outdoors & Recreation,2012-07-13 21:29:12+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors,,,,
+9,262,40.87992312264064,-73.8351836857118,27251,Outdoors & Recreation,2012-07-13 21:30:57+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors,,,,
+10,262,40.89295532220185,-73.85744923086042,17112,Caribbean Restaurant,2012-07-13 23:31:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-13 23:31:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,262,40.88188199615839,-73.88185559969072,11493,Electronics Store,2012-07-20 22:43:13+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+13,262,40.88577,-73.82807,10442,Gas Station / Garage,2012-07-27 21:20:13+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+14,262,40.81410154942096,-73.93343925476074,14821,Bridge,2012-05-18 11:42:19+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+15,262,40.969114326041066,-73.88059232489422,24242,Building,2012-10-19 13:37:31+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+16,262,40.96520125865936,-73.872517,15381,Bank,2012-10-19 13:38:01+00:00,New York City,Business and Professional Services,Financial Service,,,,
+17,262,40.96520125865936,-73.872517,15381,Bank,2012-10-26 12:19:26+00:00,New York City,Business and Professional Services,Financial Service,,,,
+18,262,40.969114326041066,-73.88059232489422,24242,Building,2012-10-26 12:19:47+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+19,262,40.89416436095309,-73.86074635813047,7180,Medical Center,2012-10-26 21:26:20+00:00,New York City,Health and Medicine,Hospital,,,,
+20,262,40.89636854723403,-73.85535957788257,27961,Convenience Store,2012-10-26 21:28:21+00:00,New York City,Retail,Convenience Store,,,,
+21,262,40.88671244641477,-73.87850790366784,26748,Campground,2012-10-26 23:43:13+00:00,New York City,Landmarks and Outdoors,Campground,,,,
+22,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-02 10:41:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+23,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-06-25 10:57:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,262,40.969114326041066,-73.88059232489422,24242,Building,2012-10-08 12:14:35+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+25,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-10-08 21:24:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+26,262,40.889121,-73.859668,15820,Laundry Service,2012-10-08 21:26:14+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+27,262,40.881871990345005,-73.88240684432077,27393,Bank,2012-08-18 21:19:21+00:00,New York City,Business and Professional Services,Financial Service,,,,
+28,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-07 19:40:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+29,262,40.89295532220185,-73.85744923086042,17112,Caribbean Restaurant,2012-07-21 22:24:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-21 22:25:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,262,40.893402246332656,-73.85743618011475,23885,Post Office,2012-07-21 22:25:28+00:00,New York City,Community and Government,Government Building,,,,
+32,262,40.889121,-73.859668,15820,Laundry Service,2012-07-21 22:59:48+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+33,262,40.92664586048168,-73.85567665100098,4904,Mall,2012-06-09 19:11:22+00:00,New York City,Retail,Shopping Mall,,,,
+34,262,40.92849403916825,-73.85529041290283,13781,Department Store,2012-06-09 19:12:40+00:00,New York City,Retail,Department Store,,,,
+35,262,40.887895155343614,-73.86115409348587,31638,Building,2012-06-16 21:35:28+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+36,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-06-16 21:36:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+37,262,40.89636854723403,-73.85535957788257,27961,Convenience Store,2012-06-16 22:56:41+00:00,New York City,Retail,Convenience Store,,,,
+38,262,40.92818250321342,-73.85452685348868,32368,Caf�,2012-06-30 19:59:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+39,262,40.92664586048168,-73.85567665100098,4904,Mall,2012-06-30 19:59:36+00:00,New York City,Retail,Shopping Mall,,,,
+40,262,40.92849403916825,-73.85529041290283,13781,Department Store,2012-05-26 00:02:03+00:00,New York City,Retail,Department Store,,,,
+41,262,40.92664586048168,-73.85567665100098,4904,Mall,2012-05-26 00:10:00+00:00,New York City,Retail,Shopping Mall,,,,
+42,262,40.92664586048168,-73.85567665100098,4904,Mall,2012-10-27 00:12:26+00:00,New York City,Retail,Shopping Mall,,,,
+43,262,40.92842651089222,-73.85498054514703,32021,Mall,2012-10-27 00:12:53+00:00,New York City,Retail,Shopping Mall,,,,
+44,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-10-27 14:36:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,262,40.89636854723403,-73.85535957788257,27961,Convenience Store,2012-10-27 14:37:12+00:00,New York City,Retail,Convenience Store,,,,
+46,262,40.88489121666667,-73.826546,16359,Gas Station / Garage,2012-08-16 21:21:30+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+47,262,40.88577,-73.82807,10442,Gas Station / Garage,2012-08-16 21:21:43+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+48,262,40.87992312264064,-73.8351836857118,27251,Outdoors & Recreation,2012-08-16 21:22:17+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors,,,,
+49,262,40.89416436095309,-73.86074635813047,7180,Medical Center,2012-08-16 22:41:56+00:00,New York City,Health and Medicine,Hospital,,,,
+50,262,40.89295532220185,-73.85744923086042,17112,Caribbean Restaurant,2012-08-16 22:42:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,262,40.89636854723403,-73.85535957788257,27961,Convenience Store,2012-08-16 22:43:20+00:00,New York City,Retail,Convenience Store,,,,
+52,262,40.887895155343614,-73.86115409348587,31638,Building,2012-07-05 10:33:46+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+53,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-05 10:34:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+54,262,40.88143280741941,-73.83419580083934,27251,Outdoors & Recreation,2012-05-17 22:07:51+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors,,,,
+55,262,40.88992936862135,-73.84268455731083,24984,Building,2012-05-17 23:19:56+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+56,262,40.969114326041066,-73.88059232489422,24242,Building,2012-10-11 20:44:03+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+57,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-10-11 21:37:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+58,262,40.96520125865936,-73.872517,15381,Bank,2012-10-18 20:46:58+00:00,New York City,Business and Professional Services,Financial Service,,,,
+59,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-10-18 21:26:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,262,40.89416436095309,-73.86074635813047,7180,Medical Center,2012-10-18 21:27:09+00:00,New York City,Health and Medicine,Hospital,,,,
+61,262,40.889121,-73.859668,15820,Laundry Service,2012-10-18 21:34:02+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+62,262,40.96520125865936,-73.872517,15381,Bank,2012-10-25 13:20:20+00:00,New York City,Business and Professional Services,Financial Service,,,,
+63,262,40.969114326041066,-73.88059232489422,24242,Building,2012-10-25 15:00:40+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+64,262,40.89636854723403,-73.85535957788257,27961,Convenience Store,2012-10-25 21:21:33+00:00,New York City,Retail,Convenience Store,,,,
+65,262,40.89416436095309,-73.86074635813047,7180,Medical Center,2012-10-25 21:28:42+00:00,New York City,Health and Medicine,Hospital,,,,
+66,262,40.889121,-73.859668,15820,Laundry Service,2012-08-14 22:35:49+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+67,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-03 10:45:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+68,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-17 11:14:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+69,262,40.87992312264064,-73.8351836857118,27251,Outdoors & Recreation,2012-07-17 21:23:29+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors,,,,
+70,262,40.87992312264064,-73.83476440959598,27251,Outdoors & Recreation,2012-06-12 21:28:53+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors,,,,
+71,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-10-16 11:42:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,262,40.969114326041066,-73.88059232489422,24242,Building,2012-10-16 12:09:56+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+73,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-10-23 00:37:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+74,262,40.969114326041066,-73.88059232489422,24242,Building,2012-10-23 13:00:30+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+75,262,40.96520125865936,-73.872517,15381,Bank,2012-10-23 13:00:48+00:00,New York City,Business and Professional Services,Financial Service,,,,
+76,262,40.89416436095309,-73.86074635813047,7180,Medical Center,2012-10-23 21:21:03+00:00,New York City,Health and Medicine,Hospital,,,,
+77,262,40.89636854723403,-73.85535957788257,27961,Convenience Store,2012-10-23 21:22:48+00:00,New York City,Retail,Convenience Store,,,,
+78,262,40.969114326041066,-73.88059232489422,24242,Building,2012-10-30 13:09:00+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+79,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-11 01:51:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+80,262,40.87992312264064,-73.8351836857118,27251,Outdoors & Recreation,2012-07-11 21:21:25+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors,,,,
+81,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-07-11 21:32:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+82,262,40.88792838012882,-73.8613780604339,30645,Park,2012-06-06 22:38:30+00:00,New York City,Landmarks and Outdoors,Park,,,,
+83,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-10-24 21:21:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+84,262,40.89636854723403,-73.85535957788257,27961,Convenience Store,2012-10-24 21:23:16+00:00,New York City,Retail,Convenience Store,,,,
+85,262,40.89416436095309,-73.86074635813047,7180,Medical Center,2012-10-24 21:23:37+00:00,New York City,Health and Medicine,Hospital,,,,
+86,262,40.88489121666667,-73.826546,16359,Gas Station / Garage,2012-09-05 21:21:39+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+87,262,40.88577,-73.82807,10442,Gas Station / Garage,2012-09-05 21:22:20+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+88,262,40.88805430354332,-73.8604305062176,32106,Caribbean Restaurant,2012-11-01 18:00:09+00:00,,Dining and Drinking,Restaurant,2.0,0.0,nyc,Rec
+89,262,40.889121,-73.859668,15820,Laundry Service,2012-11-01 18:00:09+00:00,,Business and Professional Services,Laundry Service,2.0,0.0,nyc,Rec
+90,262,40.881871990345005,-73.88240684432077,27393,Bank,2012-11-05 18:00:09+00:00,,Business and Professional Services,Financial Service,6.0,0.0,nyc,Rec
+91,262,40.887895155343614,-73.86115409348587,31638,Building,2012-11-05 18:00:09+00:00,,Landmarks and Outdoors,Structure,6.0,0.0,nyc,Rec
+92,262,40.88114931578875,-73.90878437978884,22424,Medical Center,2012-11-06 18:00:09+00:00,,Health and Medicine,Medical Center,7.0,1.0,nyc,Rec
+93,262,40.86695759159188,-73.90584468841553,8294,Medical Center,2012-11-06 18:00:09+00:00,,Health and Medicine,Hospital,7.0,1.0,nyc,Rec
+94,262,40.865552,-73.927632,6467,Diner,2012-11-06 18:00:09+00:00,,Dining and Drinking,Restaurant,7.0,1.0,nyc,Rec
+95,262,40.88996745359157,-73.89845542105529,20242,Pizza Place,2012-11-10 18:00:09+00:00,,Dining and Drinking,Restaurant,11.0,1.0,nyc,Rec
+96,262,40.89636854723403,-73.85535957788257,27961,Convenience Store,2012-11-10 18:00:09+00:00,,Retail,Convenience Store,11.0,1.0,nyc,Rec
+97,262,40.89295532220185,-73.85744923086042,17112,Caribbean Restaurant,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Rec
+98,262,40.91776755014766,-73.86441020323001,30099,Food,2012-11-12 18:00:09+00:00,,Dining and Drinking,Restaurant,13.0,1.0,nyc,Rec
+99,262,40.88114931578875,-73.90878437978884,22424,Medical Center,2012-11-12 18:00:09+00:00,,Health and Medicine,Medical Center,13.0,1.0,nyc,Rec
+100,262,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-11-13 18:00:09+00:00,,Dining and Drinking,Restaurant,14.0,2.0,nyc,Rec
+101,262,40.737080298662434,-73.98446928068036,24105,Convenience Store,2012-11-15 18:00:09+00:00,,Retail,Convenience Store,16.0,2.0,nyc,Rec
+102,262,40.7467514653422,-73.98145048923546,32913,Convenience Store,2012-11-16 18:00:09+00:00,,Retail,Convenience Store,17.0,2.0,nyc,Rec
+103,262,40.721585,-73.980478,23482,Laundry Service,2012-11-17 18:00:09+00:00,,Business and Professional Services,Laundry Service,18.0,2.0,nyc,Rec
+104,262,40.74828059076867,-73.98556262254715,1434,Building,2012-11-18 18:00:09+00:00,,Landmarks and Outdoors,Structure,19.0,2.0,nyc,Rec
+105,262,40.68378078887897,-74.0999796351583,20363,Convenience Store,2012-11-19 18:00:09+00:00,,Retail,Convenience Store,20.0,2.0,nyc,Rec
+106,262,40.693752390476,-74.10357713699341,9212,Building,2012-11-20 18:00:09+00:00,,Landmarks and Outdoors,Structure,21.0,3.0,nyc,Rec
+107,262,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-11-20 18:00:09+00:00,,Dining and Drinking,Restaurant,21.0,3.0,nyc,Rec
+108,262,40.73409998881432,-73.99093140094458,8946,Bank,2012-11-21 18:00:09+00:00,,Business and Professional Services,Financial Service,22.0,3.0,nyc,Rec
+109,262,40.7420383,-73.990214,29033,Building,2012-11-21 18:00:09+00:00,,Landmarks and Outdoors,Structure,22.0,3.0,nyc,Rec
+110,262,40.72659915345058,-73.99172910762971,32107,Convenience Store,2012-11-21 18:00:09+00:00,,Retail,Convenience Store,22.0,3.0,nyc,Rec
+111,262,40.73520973399571,-73.99106339580494,31480,Campground,2012-11-21 18:00:09+00:00,,Landmarks and Outdoors,Campground,22.0,3.0,nyc,Rec
+112,262,40.76085023211787,-73.96694126387321,2681,Bank,2012-11-23 18:00:09+00:00,,Business and Professional Services,Financial Service,24.0,3.0,nyc,Rec
+113,262,40.74733835203195,-73.98198997255602,16935,American Restaurant,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Rec
+114,262,40.74434194850082,-73.98244910610394,19726,Deli / Bodega,2012-11-24 18:00:09+00:00,,Dining and Drinking,Restaurant,25.0,3.0,nyc,Rec
+115,262,40.74284049882298,-73.97749614505793,32426,Laundry Service,2012-11-25 18:00:09+00:00,,Business and Professional Services,Laundry Service,26.0,3.0,nyc,Rec
+116,262,40.74435379672637,-73.98249501939839,4487,Building,2012-11-25 18:00:09+00:00,,Landmarks and Outdoors,Structure,26.0,3.0,nyc,Rec
+117,262,40.74733835203195,-73.98198997255602,16935,American Restaurant,2012-11-25 18:00:09+00:00,,Dining and Drinking,Restaurant,26.0,3.0,nyc,Rec
+118,262,40.74554200153562,-73.98246058442858,8185,Bank,2012-11-26 18:00:09+00:00,,Business and Professional Services,Financial Service,27.0,3.0,nyc,Rec
+119,262,40.744900094545365,-73.98286232535908,10480,Bank,2012-11-27 18:00:09+00:00,,Business and Professional Services,Financial Service,28.0,4.0,nyc,Rec
+120,262,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-11-28 18:00:09+00:00,,Dining and Drinking,Restaurant,29.0,4.0,nyc,Rec
+121,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2012-12-01 18:00:09+00:00,,Health and Medicine,Hospital,32.0,4.0,nyc,Rec
+122,262,40.73652697126574,-73.9905595779419,2449,Food & Drink Shop,2012-12-01 18:00:09+00:00,,Retail,Food and Beverage Retail,32.0,4.0,nyc,Rec
+123,262,40.74828059076867,-73.98556262254715,1434,Building,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Structure,34.0,4.0,nyc,Rec
+124,262,40.74435379672637,-73.98249501939839,4487,Building,2012-12-04 18:00:09+00:00,,Landmarks and Outdoors,Structure,35.0,5.0,nyc,Rec
+125,262,40.7588958925549,-73.9792121911996,10410,Building,2012-12-05 18:00:09+00:00,,Landmarks and Outdoors,Structure,36.0,5.0,nyc,Rec
+126,262,40.727205,-74.003234,13759,Convenience Store,2012-12-05 18:00:09+00:00,,Retail,Convenience Store,36.0,5.0,nyc,Rec
+127,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2012-12-05 18:00:09+00:00,,Health and Medicine,Hospital,36.0,5.0,nyc,Rec
+128,262,40.74508,-73.982476,4247,Sandwich Place,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Rec
+129,262,40.74554200153562,-73.98246058442858,8185,Bank,2012-12-07 18:00:09+00:00,,Business and Professional Services,Financial Service,38.0,5.0,nyc,Rec
+130,262,40.76792357432163,-73.98194432258606,1542,Mall,2012-12-08 18:00:09+00:00,,Retail,Shopping Mall,39.0,5.0,nyc,Rec
+131,262,40.76289363801018,-73.98330688476562,6928,Drugstore / Pharmacy,2012-12-08 18:00:09+00:00,,Retail,Pharmacy,39.0,5.0,nyc,Rec
+132,262,40.76446111336311,-73.98310910865705,685,Mexican Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Rec
+133,262,40.76583655959176,-73.98107170216927,7378,Arts & Crafts Store,2012-12-08 18:00:09+00:00,,Retail,Arts and Crafts Store,39.0,5.0,nyc,Rec
+134,262,40.7635437319754,-73.98296356201172,32886,Australian Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Rec
+135,262,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Rec
+136,262,40.73977866664367,-73.98508787155151,2188,Music Venue,2012-12-09 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,40.0,5.0,nyc,Rec
+137,262,40.65299279819418,-73.90020087549914,6700,Building,2012-12-11 18:00:09+00:00,,Landmarks and Outdoors,Structure,42.0,6.0,nyc,Rec
+138,262,40.652523540660205,-73.89995398650922,22710,Building,2012-12-13 18:00:09+00:00,,Landmarks and Outdoors,Structure,44.0,6.0,nyc,Rec
+139,262,40.76085023211787,-73.96694126387321,2681,Bank,2012-12-14 18:00:09+00:00,,Business and Professional Services,Financial Service,45.0,6.0,nyc,Rec
+140,262,40.7601839625,-73.969324,23818,Building,2012-12-14 18:00:09+00:00,,Landmarks and Outdoors,Structure,45.0,6.0,nyc,Rec
+141,262,40.73729201850907,-73.97908018819395,31530,Convenience Store,2012-12-14 18:00:09+00:00,,Retail,Convenience Store,45.0,6.0,nyc,Rec
+142,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2012-12-14 18:00:09+00:00,,Health and Medicine,Hospital,45.0,6.0,nyc,Rec
+143,262,40.74437141554582,-73.98308157920837,10001,Falafel Restaurant,2012-12-15 18:00:09+00:00,,Dining and Drinking,Restaurant,46.0,6.0,nyc,Rec
+144,262,40.7467514653422,-73.98145048923546,32913,Convenience Store,2012-12-15 18:00:09+00:00,,Retail,Convenience Store,46.0,6.0,nyc,Rec
+145,262,40.74364391274361,-73.9838882535696,279,French Restaurant,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Rec
+146,262,40.74371065063523,-73.98798157907179,33579,Convenience Store,2012-12-16 18:00:09+00:00,,Retail,Convenience Store,47.0,6.0,nyc,Rec
+147,262,40.74828059076867,-73.98556262254715,1434,Building,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Structure,48.0,6.0,nyc,Rec
+148,262,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-12-17 18:00:09+00:00,,Dining and Drinking,Restaurant,48.0,6.0,nyc,Rec
+149,262,40.7526134939238,-73.98631726267949,18553,Building,2012-12-18 18:00:09+00:00,,Landmarks and Outdoors,Structure,49.0,7.0,nyc,Rec
+150,262,40.744900094545365,-73.98286232535908,10480,Bank,2012-12-19 18:00:09+00:00,,Business and Professional Services,Financial Service,50.0,7.0,nyc,Rec
+151,262,40.74828059076867,-73.98556262254715,1434,Building,2012-12-19 18:00:09+00:00,,Landmarks and Outdoors,Structure,50.0,7.0,nyc,Rec
+152,262,40.76984931345135,-73.98738384246826,3028,Medical Center,2012-12-19 18:00:09+00:00,,Health and Medicine,Hospital,50.0,7.0,nyc,Rec
+153,262,40.7657964899803,-73.97983203018806,10828,French Restaurant,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Rec
+154,262,40.74828059076867,-73.98556262254715,1434,Building,2012-12-21 18:00:09+00:00,,Landmarks and Outdoors,Structure,52.0,7.0,nyc,Rec
+155,262,40.74733337781301,-73.97501674700247,36068,Medical Center,2012-12-21 18:00:09+00:00,,Health and Medicine,Medical Center,52.0,7.0,nyc,Rec
+156,262,40.729545,-73.986137,21061,Laundry Service,2012-12-22 18:00:09+00:00,,Business and Professional Services,Laundry Service,53.0,7.0,nyc,Rec
+157,262,40.74554200153562,-73.98246058442858,8185,Bank,2012-12-27 18:00:09+00:00,,Business and Professional Services,Financial Service,58.0,8.0,nyc,Rec
+158,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2012-12-27 18:00:09+00:00,,Health and Medicine,Hospital,58.0,8.0,nyc,Rec
+159,262,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-27 18:00:09+00:00,,Dining and Drinking,Restaurant,58.0,8.0,nyc,Rec
+160,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2012-12-27 18:00:09+00:00,,Health and Medicine,Hospital,58.0,8.0,nyc,Rec
+161,262,40.73520973399571,-73.99106339580494,31480,Campground,2012-12-27 18:00:09+00:00,,Landmarks and Outdoors,Campground,58.0,8.0,nyc,Rec
+162,262,40.75187357799962,-73.9740800857544,396,Sandwich Place,2012-12-28 18:00:09+00:00,,Dining and Drinking,Restaurant,59.0,8.0,nyc,Rec
+163,262,40.74284049882298,-73.97749614505793,32426,Laundry Service,2012-12-28 18:00:09+00:00,,Business and Professional Services,Laundry Service,59.0,8.0,nyc,Rec
+164,262,40.74554200153562,-73.98246058442858,8185,Bank,2012-12-31 18:00:09+00:00,,Business and Professional Services,Financial Service,62.0,8.0,nyc,Rec
+165,262,40.74435379672637,-73.98249501939839,4487,Building,2012-12-31 18:00:09+00:00,,Landmarks and Outdoors,Structure,62.0,8.0,nyc,Rec
+166,262,40.727205,-74.003234,13759,Convenience Store,2012-12-31 18:00:09+00:00,,Retail,Convenience Store,62.0,8.0,nyc,Rec
+167,262,40.72871593918915,-74.00328687372989,20780,Laundry Service,2012-12-31 18:00:09+00:00,,Business and Professional Services,Laundry Service,62.0,8.0,nyc,Rec
+168,262,40.74554200153562,-73.98246058442858,8185,Bank,2013-01-02 18:00:09+00:00,,Business and Professional Services,Financial Service,64.0,9.0,nyc,Rec
+169,262,40.74828059076867,-73.98556262254715,1434,Building,2013-01-03 18:00:09+00:00,,Landmarks and Outdoors,Structure,65.0,9.0,nyc,Rec
+170,262,40.74554200153562,-73.98246058442858,8185,Bank,2013-01-04 18:00:09+00:00,,Business and Professional Services,Financial Service,66.0,9.0,nyc,Rec
+171,262,40.73696491032449,-74.00050366211661,23965,Medical Center,2013-01-04 18:00:09+00:00,,Health and Medicine,Hospital,66.0,9.0,nyc,Rec
+172,262,40.7386668537873,-74.00368283250658,12957,Laundry Service,2013-01-05 18:00:09+00:00,,Business and Professional Services,Laundry Service,67.0,9.0,nyc,Rec
+173,262,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2013-01-05 18:00:09+00:00,,Dining and Drinking,Restaurant,67.0,9.0,nyc,Rec
+174,262,40.72659915345058,-73.99172910762971,32107,Convenience Store,2013-01-05 18:00:09+00:00,,Retail,Convenience Store,67.0,9.0,nyc,Rec
+175,262,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2013-01-05 18:00:09+00:00,,Dining and Drinking,Restaurant,67.0,9.0,nyc,Rec
+176,262,40.74828059076867,-73.98556262254715,1434,Building,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Structure,69.0,9.0,nyc,Rec
+177,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2013-01-07 18:00:09+00:00,,Health and Medicine,Hospital,69.0,9.0,nyc,Rec
+178,262,40.721585,-73.980478,23482,Laundry Service,2013-01-07 18:00:09+00:00,,Business and Professional Services,Laundry Service,69.0,9.0,nyc,Rec
+179,262,40.72577937860066,-73.97354171957555,21800,Building,2013-01-08 18:00:09+00:00,,Landmarks and Outdoors,Structure,70.0,10.0,nyc,Rec
+180,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2013-01-08 18:00:09+00:00,,Health and Medicine,Hospital,70.0,10.0,nyc,Rec
+181,262,40.74733337781301,-73.97501674700247,36068,Medical Center,2013-01-09 18:00:09+00:00,,Health and Medicine,Medical Center,71.0,10.0,nyc,Rec
+182,262,40.74828059076867,-73.98556262254715,1434,Building,2013-01-10 18:00:09+00:00,,Landmarks and Outdoors,Structure,72.0,10.0,nyc,Rec
+183,262,40.63535650906132,-74.10638620755533,13325,Medical Center,2013-01-10 18:00:09+00:00,,Health and Medicine,Hospital,72.0,10.0,nyc,Rec
+184,262,40.63673571148898,-73.99040342059492,21716,Bank,2013-01-11 18:00:09+00:00,,Business and Professional Services,Financial Service,73.0,10.0,nyc,Rec
+185,262,40.709256151316296,-74.00439440853914,12807,Building,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,Structure,73.0,10.0,nyc,Rec
+186,262,40.73729201850907,-73.97908018819395,31530,Convenience Store,2013-01-11 18:00:09+00:00,,Retail,Convenience Store,73.0,10.0,nyc,Rec
+187,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2013-01-11 18:00:09+00:00,,Health and Medicine,Hospital,73.0,10.0,nyc,Rec
+188,262,40.7445,-73.98259,18190,BBQ Joint,2013-01-11 18:00:09+00:00,,Dining and Drinking,Restaurant,73.0,10.0,nyc,Rec
+189,262,40.744900094545365,-73.98286232535908,10480,Bank,2013-01-15 18:00:09+00:00,,Business and Professional Services,Financial Service,77.0,11.0,nyc,Rec
+190,262,40.74487043998595,-73.98242041028934,15114,Medical Center,2013-01-17 18:00:09+00:00,,Health and Medicine,Medical Center,79.0,11.0,nyc,Rec
+191,262,40.745180776401206,-73.97943602217596,36471,Other Great Outdoors,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,79.0,11.0,nyc,Rec
+192,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2013-01-17 18:00:09+00:00,,Health and Medicine,Hospital,79.0,11.0,nyc,Rec
+193,262,40.7468280630202,-73.96917396507486,32118,Campground,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,Campground,79.0,11.0,nyc,Rec
+194,262,40.74434194850082,-73.98244910610394,19726,Deli / Bodega,2013-01-21 18:00:09+00:00,,Dining and Drinking,Restaurant,83.0,11.0,nyc,Rec
+195,262,40.744900094545365,-73.98286232535908,10480,Bank,2013-01-22 18:00:09+00:00,,Business and Professional Services,Financial Service,84.0,12.0,nyc,Rec
+196,262,40.74435379672637,-73.98249501939839,4487,Building,2013-01-22 18:00:09+00:00,,Landmarks and Outdoors,Structure,84.0,12.0,nyc,Rec
+197,262,40.74167304814132,-73.97428784381152,3733,Medical Center,2013-01-24 18:00:09+00:00,,Health and Medicine,Hospital,86.0,12.0,nyc,Rec
+198,262,40.74435379672637,-73.98249501939839,4487,Building,2013-01-25 18:00:09+00:00,,Landmarks and Outdoors,Structure,87.0,12.0,nyc,Rec
+199,262,40.74435379672637,-73.98249501939839,4487,Building,2013-01-28 18:00:09+00:00,,Landmarks and Outdoors,Structure,90.0,12.0,nyc,Rec
+200,262,40.7467514653422,-73.98145048923546,32913,Convenience Store,2013-01-28 18:00:09+00:00,,Retail,Convenience Store,90.0,12.0,nyc,Rec
+201,262,40.79005808189985,-73.95325005054474,5801,Medical Center,2013-01-29 18:00:09+00:00,,Health and Medicine,Hospital,91.0,13.0,nyc,Rec
+202,262,40.74476767769092,-73.98205429315567,27157,Sushi Restaurant,2013-01-29 18:00:09+00:00,,Dining and Drinking,Restaurant,91.0,13.0,nyc,Rec
+203,262,40.74554200153562,-73.98246058442858,8185,Bank,2013-01-30 18:00:09+00:00,,Business and Professional Services,Financial Service,92.0,13.0,nyc,Rec
+204,262,40.74435379672637,-73.98249501939839,4487,Building,2013-01-30 18:00:09+00:00,,Landmarks and Outdoors,Structure,92.0,13.0,nyc,Rec
+205,262,40.74434194850082,-73.98244910610394,19726,Deli / Bodega,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Rec
+206,262,40.74554200153562,-73.98246058442858,8185,Bank,2013-01-31 18:00:09+00:00,,Business and Professional Services,Financial Service,93.0,13.0,nyc,Rec
+207,262,40.7467514653422,-73.98145048923546,32913,Convenience Store,2013-02-01 18:00:09+00:00,,Retail,Convenience Store,94.0,13.0,nyc,Rec
+208,262,40.74130690856319,-74.03390407562256,9295,Medical Center,2013-02-01 18:00:09+00:00,,Health and Medicine,Hospital,94.0,13.0,nyc,Rec
+209,262,40.750846,-74.030771,12813,College Academic Building,2013-02-02 18:00:09+00:00,,Community and Government,Education,95.0,13.0,nyc,Rec
+210,262,40.75369412685269,-74.02948379516602,20526,Building,2013-02-04 18:00:09+00:00,,Landmarks and Outdoors,Structure,97.0,13.0,nyc,Rec
+211,262,40.76337575912476,-74.02071833610535,21315,Building,2013-02-05 18:00:09+00:00,,Landmarks and Outdoors,Structure,98.0,14.0,nyc,Rec
+212,262,40.7526134939238,-73.98631726267949,18553,Building,2013-02-05 18:00:09+00:00,,Landmarks and Outdoors,Structure,98.0,14.0,nyc,Rec
+213,262,40.75230660947181,-73.971854320252,25727,Building,2013-02-07 18:00:09+00:00,,Landmarks and Outdoors,Structure,100.0,14.0,nyc,Rec
+214,262,40.741778511511214,-73.98538179575334,8971,Deli / Bodega,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Rec

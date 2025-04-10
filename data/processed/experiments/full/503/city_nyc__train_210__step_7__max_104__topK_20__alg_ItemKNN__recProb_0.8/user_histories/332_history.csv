@@ -1,0 +1,98 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,332,40.719306595334665,-74.01429176330566,35102,Moving Target,2012-04-27 14:11:58+00:00,New York City,Travel and Transportation,Moving Target,,,,
+1,332,40.727094,-74.002968,2262,American Restaurant,2012-04-27 16:34:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,332,40.733848,-74.00505,3555,Italian Restaurant,2012-04-27 23:50:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,332,40.76456800462624,-73.99970599194828,36903,Music Venue,2012-08-10 23:08:35+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+4,332,40.73187,-74.006683,3808,Diner,2012-07-13 17:49:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,332,40.753964,-73.976387,33541,Moving Target,2012-07-13 22:41:18+00:00,New York City,Travel and Transportation,Moving Target,,,,
+6,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-06-01 18:51:12+00:00,New York City,Retail,Food and Beverage Retail,,,,
+7,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-05-11 16:10:39+00:00,New York City,Retail,Food and Beverage Retail,,,,
+8,332,40.84493541997123,-73.92549672633302,16268,General Entertainment,2012-05-25 13:34:43+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+9,332,40.7749481543979,-73.98209901687298,2817,Movie Theater,2012-05-25 19:51:40+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+10,332,40.774683729048576,-73.98196578025818,35554,Newsstand,2012-05-25 22:11:53+00:00,New York City,Retail,Newsstand,,,,
+11,332,40.76916800891136,-73.98838398099026,2321,Bar,2012-10-12 23:42:46+00:00,New York City,Dining and Drinking,Bar,,,,
+12,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-08-13 00:05:26+00:00,New York City,Retail,Food and Beverage Retail,,,,
+13,332,40.752592495600304,-73.99454114070454,586,Music Venue,2012-05-21 21:40:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+14,332,40.88697862697393,-73.91588687896729,19561,Playground,2012-04-14 21:01:47+00:00,New York City,Landmarks and Outdoors,Park,,,,
+15,332,40.87364275972925,-73.90811920166016,3350,Department Store,2012-04-21 12:28:00+00:00,New York City,Retail,Department Store,,,,
+16,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-04-21 13:01:18+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+17,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-04-28 12:13:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+18,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-04-28 17:41:42+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+19,332,40.75365728,-73.995968,1547,Steakhouse,2012-04-28 21:42:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,332,40.75247342866565,-73.99451244669774,586,Music Venue,2012-04-28 22:19:25+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+21,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-08-18 12:15:08+00:00,New York City,Retail,Food and Beverage Retail,,,,
+22,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-07-28 19:42:04+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+23,332,40.74706188749892,-74.00519371032715,965,Park,2012-05-12 21:00:18+00:00,New York City,Landmarks and Outdoors,Park,,,,
+24,332,40.74789,-74.004466,190,Bar,2012-05-12 21:49:23+00:00,New York City,Dining and Drinking,Bar,,,,
+25,332,40.76950686568525,-73.99265306590263,2166,Concert Hall,2012-10-13 00:49:43+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+26,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-10-13 12:03:10+00:00,New York City,Retail,Food and Beverage Retail,,,,
+27,332,40.88590796311839,-73.91623020172119,15877,Athletic & Sport,2012-10-13 13:54:28+00:00,New York City,Sports and Recreation,Baseball,,,,
+28,332,40.88590796311839,-73.91623020172119,15877,Athletic & Sport,2012-10-27 13:55:49+00:00,New York City,Sports and Recreation,Baseball,,,,
+29,332,40.75661396313174,-73.98468736643798,20637,American Restaurant,2012-10-27 23:21:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,332,40.88590796311839,-73.91623020172119,15877,Athletic & Sport,2012-09-15 13:58:41+00:00,New York City,Sports and Recreation,Baseball,,,,
+31,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-04-08 14:16:03+00:00,New York City,Retail,Food and Beverage Retail,,,,
+32,332,40.88957410381597,-73.90610218048096,9873,High School,2012-04-15 14:44:05+00:00,New York City,Community and Government,Education,,,,
+33,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-04-15 17:08:32+00:00,New York City,Retail,Food and Beverage Retail,,,,
+34,332,40.90307563404958,-73.91464046673755,13607,Harbor / Marina,2012-04-15 21:16:21+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+35,332,40.88957410381597,-73.90610218048096,9873,High School,2012-04-22 12:49:34+00:00,New York City,Community and Government,Education,,,,
+36,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-04-22 16:01:07+00:00,New York City,Retail,Food and Beverage Retail,,,,
+37,332,40.88957410381597,-73.90610218048096,9873,High School,2012-04-29 14:53:53+00:00,New York City,Community and Government,Education,,,,
+38,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-07-15 15:41:59+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+39,332,40.73685214795608,-74.15033340454102,12976,Stadium,2012-07-15 19:26:13+00:00,New York City,Arts and Entertainment,Stadium,,,,
+40,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-07-29 13:57:46+00:00,New York City,Retail,Food and Beverage Retail,,,,
+41,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-07-29 15:42:43+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+42,332,40.88957410381597,-73.90610218048096,9873,High School,2012-06-03 12:52:12+00:00,New York City,Community and Government,Education,,,,
+43,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-06-03 17:14:10+00:00,New York City,Retail,Food and Beverage Retail,,,,
+44,332,40.74117177546595,-74.00488791939495,669,Steakhouse,2012-05-06 00:03:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-05-06 17:01:57+00:00,New York City,Retail,Food and Beverage Retail,,,,
+46,332,40.88957410381597,-73.90610218048096,9873,High School,2012-05-13 12:52:58+00:00,New York City,Community and Government,Education,,,,
+47,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-05-27 16:15:46+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+48,332,40.8134844303353,-74.07433032989502,15737,Stadium,2012-05-27 18:34:52+00:00,New York City,Arts and Entertainment,Stadium,,,,
+49,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-09-09 15:01:17+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+50,332,40.73041335366307,-74.00418519973755,1067,Bar,2012-04-12 23:25:20+00:00,New York City,Dining and Drinking,Bar,,,,
+51,332,40.727094,-74.002968,2262,American Restaurant,2012-04-19 23:03:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+52,332,40.88726604329557,-73.904983570325,209,Bar,2012-04-26 01:04:10+00:00,New York City,Dining and Drinking,Bar,,,,
+53,332,40.72270549271865,-73.99819850921631,410,French Restaurant,2012-08-09 12:38:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+54,332,40.79270169574431,-73.97146403530922,19605,Sporting Goods Shop,2012-07-05 15:32:27+00:00,New York City,Retail,Sporting Goods Retail,,,,
+55,332,40.88697862697393,-73.91588687896729,19561,Playground,2012-07-05 22:33:10+00:00,New York City,Landmarks and Outdoors,Park,,,,
+56,332,40.74676435292197,-74.01031071645053,37216,Event Space,2012-09-13 13:39:05+00:00,New York City,Business and Professional Services,Event Space,,,,
+57,332,40.73104827635936,-73.98978935466506,923,Bar,2012-04-10 23:45:35+00:00,New York City,Dining and Drinking,Bar,,,,
+58,332,40.72783447937824,-73.9908969674878,31496,Hotel,2012-08-14 23:49:15+00:00,New York City,Travel and Transportation,Lodging,,,,
+59,332,40.76916800891136,-73.98838398099026,2321,Bar,2012-05-01 22:41:15+00:00,New York City,Dining and Drinking,Bar,,,,
+60,332,40.769757300810745,-73.99260141617874,2166,Concert Hall,2012-05-01 23:44:32+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+61,332,40.76007122295293,-73.98636891409481,2320,Hotel,2012-05-22 00:19:45+00:00,New York City,Dining and Drinking,Bar,,,,
+62,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-04-04 13:04:58+00:00,New York City,Retail,Food and Beverage Retail,,,,
+63,332,40.73171417041241,-73.98922920227051,9704,Music Venue,2012-04-11 00:30:09+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+64,332,40.73064099842995,-73.98425102233887,17233,Beer Garden,2012-04-11 02:43:08+00:00,New York City,Dining and Drinking,Bar,,,,
+65,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-04-11 23:06:07+00:00,New York City,Retail,Food and Beverage Retail,,,,
+66,332,40.73340519416799,-73.99738311767578,3881,Bar,2012-04-18 23:58:57+00:00,New York City,Dining and Drinking,Bar,,,,
+67,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-07-04 19:27:40+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+68,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-07-11 20:34:42+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+69,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-05-02 02:46:07+00:00,New York City,Retail,Food and Beverage Retail,,,,
+70,332,40.72540058035635,-74.00559375247666,14615,Hotel,2012-05-09 12:55:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+71,332,40.72276054977162,-73.98283936875711,33446,Mexican Restaurant,2012-05-09 23:48:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-05-23 20:54:54+00:00,New York City,Retail,Food and Beverage Retail,,,,
+73,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-05-23 23:20:08+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+74,332,40.740727951827786,-74.00861104297583,1013,Bar,2012-10-24 21:41:28+00:00,New York City,Dining and Drinking,Bar,,,,
+75,332,40.74437161613179,-74.00838836683336,21758,Harbor / Marina,2012-10-31 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,1.0,0.0,nyc,Rec
+76,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2012-11-11 18:00:09+00:00,,Retail,Food and Beverage Retail,12.0,1.0,nyc,Return
+77,332,40.72783447937824,-73.9908969674878,31496,Hotel,2012-11-17 18:00:09+00:00,,Travel and Transportation,Lodging,18.0,2.0,nyc,Return
+78,332,40.73337739365365,-73.99148807430478,34405,Pizza Place,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Rec
+79,332,40.72916019613927,-73.97379425425618,14748,Athletic & Sport,2012-11-24 18:00:09+00:00,,Sports and Recreation,Baseball,25.0,3.0,nyc,Rec
+80,332,40.72276054977162,-73.98283936875711,33446,Mexican Restaurant,2012-12-11 18:00:09+00:00,,Dining and Drinking,Restaurant,42.0,6.0,nyc,Rec
+81,332,40.74117177546595,-74.00488791939495,669,Steakhouse,2012-12-13 18:00:09+00:00,,Dining and Drinking,Restaurant,44.0,6.0,nyc,Rec
+82,332,40.75898179279805,-73.88981404343326,34459,Automotive Shop,2012-12-15 18:00:09+00:00,,Retail,Automotive Shop,46.0,6.0,nyc,Rec
+83,332,40.76017856597901,-73.90734195,15999,Bar,2012-12-19 18:00:09+00:00,,Dining and Drinking,Bar,50.0,7.0,nyc,Rec
+84,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-12-21 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,52.0,7.0,nyc,Return
+85,332,40.881854905055135,-73.90951352962458,20997,Park,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,Park,53.0,7.0,nyc,Explore
+86,332,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-12-23 18:00:09+00:00,,Retail,Food and Beverage Retail,54.0,7.0,nyc,Rec
+87,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2012-12-23 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,54.0,7.0,nyc,Rec
+88,332,40.90334781148585,-73.9147380666943,13607,Harbor / Marina,2013-01-04 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,66.0,9.0,nyc,Rec
+89,332,40.86750673791942,-73.92432558842808,18299,Gym / Fitness Center,2013-01-05 18:00:09+00:00,,Sports and Recreation,Gym and Studio,67.0,9.0,nyc,Rec
+90,332,40.84461564025203,-73.93599072515403,23516,Record Shop,2013-01-06 18:00:09+00:00,,Retail,Record Store,68.0,9.0,nyc,Rec
+91,332,40.828413358858334,-73.92549098547816,15005,Bar,2013-01-12 18:00:09+00:00,,Dining and Drinking,Bar,74.0,10.0,nyc,Rec
+92,332,40.75661396313174,-73.98468736643798,20637,American Restaurant,2013-01-12 18:00:09+00:00,,Dining and Drinking,Restaurant,74.0,10.0,nyc,Rec
+93,332,40.86750673791942,-73.92432558842808,18299,Gym / Fitness Center,2013-01-12 18:00:09+00:00,,Sports and Recreation,Gym and Studio,74.0,10.0,nyc,Rec
+94,332,40.824837344387305,-73.89126099841684,35667,Harbor / Marina,2013-01-21 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,83.0,11.0,nyc,Explore
+95,332,40.86750673791942,-73.92432558842808,18299,Gym / Fitness Center,2013-01-26 18:00:09+00:00,,Sports and Recreation,Gym and Studio,88.0,12.0,nyc,Return
+96,332,40.81967266642876,-73.95994453399868,3988,Food & Drink Shop,2013-02-10 18:00:09+00:00,,Retail,Food and Beverage Retail,103.0,14.0,nyc,Rec

@@ -1,0 +1,147 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+9021,67,40.85642863779878,-73.84682542170071,7925,Bakery,2012-04-13 09:13:46+00:00,New York City,Dining and Drinking,Bakery
+9022,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-04-13 09:14:31+00:00,New York City,Health and Medicine,Hospital
+9023,67,40.842726315729685,-73.88564229011536,32739,General Travel,2012-04-13 11:53:24+00:00,New York City,Travel and Transportation,General Travel
+9024,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-04-20 04:04:21+00:00,New York City,Health and Medicine,Hospital
+9025,67,40.8567509389404,-73.84679670588093,7925,Bakery,2012-04-20 04:04:43+00:00,New York City,Dining and Drinking,Bakery
+9026,67,40.70000168084736,-73.81636133303445,20934,Medical Center,2012-04-20 18:32:42+00:00,New York City,Health and Medicine,Hospital
+9027,67,40.8583403836648,-73.85546869323171,20805,Medical Center,2012-07-13 02:51:37+00:00,New York City,Health and Medicine,Physician
+9028,67,40.86703055282099,-73.82539651545649,8424,Movie Theater,2012-07-13 20:32:04+00:00,New York City,Arts and Entertainment,Movie Theater
+9029,67,40.86703055282099,-73.82539651545649,8424,Movie Theater,2012-07-13 20:42:12+00:00,New York City,Arts and Entertainment,Movie Theater
+9030,67,40.8583403836648,-73.85546869323171,20805,Medical Center,2012-07-13 22:28:28+00:00,New York City,Health and Medicine,Physician
+9031,67,40.7457613708401,-73.9033555984497,15801,Neighborhood,2012-07-20 23:57:01+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+9032,67,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-07-27 23:29:40+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+9033,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-01 11:48:20+00:00,New York City,Health and Medicine,Hospital
+9034,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-01 11:48:57+00:00,New York City,Dining and Drinking,Bakery
+9035,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-08 12:24:23+00:00,New York City,Dining and Drinking,Bakery
+9036,67,40.85768073598229,-73.91445674903915,29497,College Academic Building,2012-06-08 13:14:41+00:00,New York City,Community and Government,Education
+9037,67,40.84228046954253,-73.88577169976085,34740,Salon / Barbershop,2012-06-08 20:48:44+00:00,New York City,Business and Professional Services,Health and Beauty Service
+9038,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-15 12:05:57+00:00,New York City,Health and Medicine,Hospital
+9039,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-15 12:06:19+00:00,New York City,Dining and Drinking,Bakery
+9040,67,40.85800118337194,-73.91333721556622,36175,Community College,2012-06-15 12:58:22+00:00,New York City,Community and Government,Education
+9041,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-04 03:28:44+00:00,New York City,Health and Medicine,Hospital
+9042,67,40.8567509389404,-73.84712406597843,7925,Bakery,2012-05-04 03:29:05+00:00,New York City,Dining and Drinking,Bakery
+9043,67,40.856987203438365,-73.86776962497729,34514,Neighborhood,2012-05-04 11:48:08+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+9044,67,40.8564966917038,-73.88121061,12129,Fast Food Restaurant,2012-05-04 11:59:27+00:00,New York City,Dining and Drinking,Restaurant
+9045,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-11 04:01:43+00:00,New York City,Health and Medicine,Hospital
+9046,67,40.8567509389404,-73.84672204472993,7925,Bakery,2012-05-11 04:02:05+00:00,New York City,Dining and Drinking,Bakery
+9047,67,40.872043454554216,-73.91188468305387,28862,Building,2012-04-16 20:39:40+00:00,New York City,Landmarks and Outdoors,Structure
+9048,67,40.86657750715907,-73.92045619045108,15630,Bank,2012-04-16 21:56:25+00:00,New York City,Business and Professional Services,Financial Service
+9049,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-04-23 03:32:38+00:00,New York City,Health and Medicine,Hospital
+9050,67,40.8567509389404,-73.84679670588093,7925,Bakery,2012-04-23 03:33:38+00:00,New York City,Dining and Drinking,Bakery
+9051,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-04-23 10:22:26+00:00,New York City,Health and Medicine,Hospital
+9052,67,40.8567509389404,-73.84679670588093,7925,Bakery,2012-04-23 10:22:48+00:00,New York City,Dining and Drinking,Bakery
+9053,67,40.8583403836648,-73.85546869323171,20805,Medical Center,2012-07-09 02:55:10+00:00,New York City,Health and Medicine,Physician
+9054,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-09 03:32:54+00:00,New York City,Health and Medicine,Hospital
+9055,67,40.84852098203587,-73.87776172536414,1662,Zoo,2012-07-09 11:29:01+00:00,New York City,Arts and Entertainment,Zoo
+9056,67,40.79483544823571,-73.96598274410916,7327,Arts & Crafts Store,2012-07-09 22:56:55+00:00,New York City,Retail,Arts and Crafts Store
+9057,67,40.79474481649881,-73.96596552514765,15196,Cosmetics Shop,2012-07-09 23:41:50+00:00,New York City,Retail,Cosmetics Store
+9058,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-30 10:19:33+00:00,New York City,Health and Medicine,Hospital
+9059,67,40.85644539540101,-73.84728487424825,7925,Bakery,2012-07-30 10:19:46+00:00,New York City,Dining and Drinking,Bakery
+9060,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-04 07:56:27+00:00,New York City,Dining and Drinking,Bakery
+9061,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-04 07:56:55+00:00,New York City,Health and Medicine,Hospital
+9062,67,40.85789902532049,-73.91451416083854,29497,College Academic Building,2012-06-04 13:02:43+00:00,New York City,Community and Government,Education
+9063,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-11 03:57:43+00:00,New York City,Health and Medicine,Hospital
+9064,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-11 03:58:15+00:00,New York City,Dining and Drinking,Bakery
+9065,67,40.85709086778966,-73.91374111175537,23280,College Academic Building,2012-06-11 17:10:46+00:00,New York City,Community and Government,Education
+9066,67,40.8583403836648,-73.85546869323171,20805,Medical Center,2012-06-18 03:24:37+00:00,New York City,Health and Medicine,Physician
+9067,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-18 03:50:35+00:00,New York City,Health and Medicine,Hospital
+9068,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-18 08:25:38+00:00,New York City,Dining and Drinking,Bakery
+9069,67,40.85800118337194,-73.91333721556622,36175,Community College,2012-06-18 14:56:22+00:00,New York City,Community and Government,Education
+9070,67,40.85768073598229,-73.91445674903915,29497,College Academic Building,2012-06-18 14:56:50+00:00,New York City,Community and Government,Education
+9071,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-25 11:26:17+00:00,New York City,Dining and Drinking,Bakery
+9072,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-25 11:26:34+00:00,New York City,Health and Medicine,Hospital
+9073,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-07 03:39:04+00:00,New York City,Health and Medicine,Hospital
+9074,67,40.8567509389404,-73.84712406597843,7925,Bakery,2012-05-07 03:39:40+00:00,New York City,Dining and Drinking,Bakery
+9075,67,40.845676,-73.890962,21373,Bank,2012-05-07 15:25:26+00:00,New York City,Business and Professional Services,Financial Service
+9076,67,40.857159178450814,-73.91176985788714,13818,Community College,2012-05-07 15:57:42+00:00,New York City,Community and Government,Education
+9077,67,40.85728628070687,-73.9109431146879,22550,College Academic Building,2012-05-07 18:52:27+00:00,New York City,Community and Government,Education
+9078,67,40.85709086778966,-73.91374111175537,23280,College Academic Building,2012-05-07 18:53:09+00:00,New York City,Community and Government,Education
+9079,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-14 02:53:38+00:00,New York City,Health and Medicine,Hospital
+9080,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-21 12:03:12+00:00,New York City,Health and Medicine,Hospital
+9081,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-05-21 12:03:35+00:00,New York City,Dining and Drinking,Bakery
+9082,67,40.9119817035604,-73.7843758961676,18577,General Travel,2012-05-28 15:41:02+00:00,New York City,Travel and Transportation,General Travel
+9083,67,40.88967143221713,-73.78387928009033,17960,Harbor / Marina,2012-05-28 15:50:22+00:00,New York City,Landmarks and Outdoors,Harbor or Marina
+9084,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-04-14 20:21:07+00:00,New York City,Health and Medicine,Hospital
+9085,67,40.8567509389404,-73.84712406597843,7925,Bakery,2012-04-28 19:44:19+00:00,New York City,Dining and Drinking,Bakery
+9086,67,40.70000168084736,-73.81636133303445,20934,Medical Center,2012-07-21 00:06:05+00:00,New York City,Health and Medicine,Hospital
+9087,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-30 21:50:09+00:00,New York City,Health and Medicine,Hospital
+9088,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-05 22:35:09+00:00,New York City,Health and Medicine,Hospital
+9089,67,40.8567509389404,-73.84712406597843,7925,Bakery,2012-05-05 22:36:14+00:00,New York City,Dining and Drinking,Bakery
+9090,67,40.8567509389404,-73.84672204472993,7925,Bakery,2012-05-12 03:51:28+00:00,New York City,Dining and Drinking,Bakery
+9091,67,40.75061379403183,-73.98856401443481,1028,Department Store,2012-05-12 15:29:42+00:00,New York City,Retail,Department Store
+9092,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-19 20:22:37+00:00,New York City,Health and Medicine,Hospital
+9093,67,40.8567509389404,-73.84672204472993,7925,Bakery,2012-05-19 20:23:04+00:00,New York City,Dining and Drinking,Bakery
+9094,67,40.8569934914807,-73.88066411018372,32740,General Travel,2012-04-29 03:43:56+00:00,New York City,Travel and Transportation,General Travel
+9095,67,40.8564966917038,-73.88121061,12129,Fast Food Restaurant,2012-04-29 03:44:16+00:00,New York City,Dining and Drinking,Restaurant
+9096,67,40.83709793741279,-73.88461180731991,17482,Breakfast Spot,2012-04-29 20:27:19+00:00,New York City,Dining and Drinking,Breakfast Spot
+9097,67,40.83709793741279,-73.88461180731991,17482,Breakfast Spot,2012-04-29 20:58:35+00:00,New York City,Dining and Drinking,Breakfast Spot
+9098,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-07-01 03:44:27+00:00,New York City,Dining and Drinking,Bakery
+9099,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-29 01:45:15+00:00,New York City,Health and Medicine,Hospital
+9100,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-07-29 01:45:25+00:00,New York City,Dining and Drinking,Bakery
+9101,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-10 03:37:30+00:00,New York City,Health and Medicine,Hospital
+9102,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-17 00:17:48+00:00,New York City,Dining and Drinking,Bakery
+9103,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-13 06:04:13+00:00,New York City,Health and Medicine,Hospital
+9104,67,40.8567509389404,-73.84672204472993,7925,Bakery,2012-05-13 06:04:27+00:00,New York City,Dining and Drinking,Bakery
+9105,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-04-19 03:34:06+00:00,New York City,Health and Medicine,Hospital
+9106,67,40.85642863779878,-73.84682542170071,7925,Bakery,2012-04-19 03:34:28+00:00,New York City,Dining and Drinking,Bakery
+9107,67,40.85642863779878,-73.84682542170071,7925,Bakery,2012-04-19 09:02:51+00:00,New York City,Dining and Drinking,Bakery
+9108,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-04-26 04:02:10+00:00,New York City,Health and Medicine,Hospital
+9109,67,40.8567509389404,-73.84679670588093,7925,Bakery,2012-04-26 04:02:38+00:00,New York City,Dining and Drinking,Bakery
+9110,67,40.8583403836648,-73.85546869323171,20805,Medical Center,2012-07-05 03:30:01+00:00,New York City,Health and Medicine,Physician
+9111,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-05 04:04:57+00:00,New York City,Health and Medicine,Hospital
+9112,67,40.8564966917038,-73.88121061,12129,Fast Food Restaurant,2012-07-05 12:10:54+00:00,New York City,Dining and Drinking,Restaurant
+9113,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-12 11:46:32+00:00,New York City,Health and Medicine,Hospital
+9114,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-07-12 11:47:24+00:00,New York City,Dining and Drinking,Bakery
+9115,67,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-06-07 02:44:12+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+9116,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-07 06:04:22+00:00,New York City,Health and Medicine,Hospital
+9117,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-07 06:06:02+00:00,New York City,Dining and Drinking,Bakery
+9118,67,40.85681019615854,-73.91240713670744,21258,Trade School,2012-06-07 12:42:19+00:00,New York City,Community and Government,Education
+9119,67,40.85768073598229,-73.91445674903915,29497,College Academic Building,2012-06-07 12:42:58+00:00,New York City,Community and Government,Education
+9120,67,40.8583403836648,-73.85546869323171,20805,Medical Center,2012-06-14 02:57:40+00:00,New York City,Health and Medicine,Physician
+9121,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-14 09:37:58+00:00,New York City,Health and Medicine,Hospital
+9122,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-14 09:38:14+00:00,New York City,Dining and Drinking,Bakery
+9123,67,40.8583403836648,-73.85546869323171,20805,Medical Center,2012-06-21 02:57:47+00:00,New York City,Health and Medicine,Physician
+9124,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-21 06:20:11+00:00,New York City,Dining and Drinking,Bakery
+9125,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-21 06:33:34+00:00,New York City,Health and Medicine,Hospital
+9126,67,40.85800118337194,-73.91333721556622,36175,Community College,2012-06-21 12:33:46+00:00,New York City,Community and Government,Education
+9127,67,40.85768073598229,-73.91445674903915,29497,College Academic Building,2012-06-21 12:52:26+00:00,New York City,Community and Government,Education
+9128,67,40.85709086778966,-73.91374111175537,23280,College Academic Building,2012-05-03 16:41:41+00:00,New York City,Community and Government,Education
+9129,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-17 04:13:09+00:00,New York City,Health and Medicine,Hospital
+9130,67,40.8567509389404,-73.84672204472993,7925,Bakery,2012-05-17 04:13:20+00:00,New York City,Dining and Drinking,Bakery
+9131,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-24 03:54:33+00:00,New York City,Health and Medicine,Hospital
+9132,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-05-24 03:54:49+00:00,New York City,Dining and Drinking,Bakery
+9133,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-09-06 04:48:41+00:00,New York City,Health and Medicine,Hospital
+9134,67,40.84228046954253,-73.88577169976085,34740,Salon / Barbershop,2012-04-17 15:45:10+00:00,New York City,Business and Professional Services,Health and Beauty Service
+9135,67,40.86703055282099,-73.82539651545649,8424,Movie Theater,2012-07-03 03:49:32+00:00,New York City,Arts and Entertainment,Movie Theater
+9136,67,40.87250697778842,-73.85443210601807,10804,Diner,2012-07-03 07:00:41+00:00,New York City,Dining and Drinking,Restaurant
+9137,67,40.85789902532049,-73.91451416083854,29497,College Academic Building,2012-06-05 13:14:30+00:00,New York City,Community and Government,Education
+9138,67,40.857159178450814,-73.91176985788714,13818,Community College,2012-06-05 13:15:18+00:00,New York City,Community and Government,Education
+9139,67,40.85681019615854,-73.91240713670744,21258,Trade School,2012-06-12 17:06:01+00:00,New York City,Community and Government,Education
+9140,67,40.846094277927655,-73.88423857314186,28747,Outdoors & Recreation,2012-05-01 18:58:51+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors
+9141,67,40.82530610296252,-73.92090972921457,9024,Movie Theater,2012-05-08 21:30:16+00:00,New York City,Arts and Entertainment,Movie Theater
+9142,67,40.846094277927655,-73.88423857314186,28747,Outdoors & Recreation,2012-04-25 11:53:21+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors
+9143,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-07-04 04:12:27+00:00,New York City,Dining and Drinking,Bakery
+9144,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-04 05:05:07+00:00,New York City,Health and Medicine,Hospital
+9145,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-07-11 09:38:29+00:00,New York City,Dining and Drinking,Bakery
+9146,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-11 09:38:41+00:00,New York City,Health and Medicine,Hospital
+9147,67,40.83803484402702,-73.88721942901611,18287,Park,2012-07-11 23:01:43+00:00,New York City,Landmarks and Outdoors,Park
+9148,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-18 13:39:55+00:00,New York City,Health and Medicine,Hospital
+9149,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-07-18 13:40:35+00:00,New York City,Dining and Drinking,Bakery
+9150,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-07-18 19:34:37+00:00,New York City,Health and Medicine,Hospital
+9151,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-06 10:13:47+00:00,New York City,Health and Medicine,Hospital
+9152,67,40.85789902532049,-73.91451416083854,29497,College Academic Building,2012-06-06 12:47:53+00:00,New York City,Community and Government,Education
+9153,67,40.85681019615854,-73.91240713670744,21258,Trade School,2012-06-06 12:50:08+00:00,New York City,Community and Government,Education
+9154,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-13 11:43:21+00:00,New York City,Health and Medicine,Hospital
+9155,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-13 11:43:38+00:00,New York City,Dining and Drinking,Bakery
+9156,67,40.85768073598229,-73.91445674903915,29497,College Academic Building,2012-06-13 16:44:24+00:00,New York City,Community and Government,Education
+9157,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-06-27 04:01:43+00:00,New York City,Health and Medicine,Hospital
+9158,67,40.85644480825778,-73.84692305545667,7925,Bakery,2012-06-27 11:12:48+00:00,New York City,Dining and Drinking,Bakery
+9159,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-02 04:20:22+00:00,New York City,Health and Medicine,Hospital
+9160,67,40.8567509389404,-73.84712406597843,7925,Bakery,2012-05-02 04:20:42+00:00,New York City,Dining and Drinking,Bakery
+9161,67,40.8569934914807,-73.88066411018372,32740,General Travel,2012-05-02 11:44:09+00:00,New York City,Travel and Transportation,General Travel
+9162,67,40.85898967720431,-73.88162970542908,29380,Parking,2012-05-02 11:45:10+00:00,New York City,Travel and Transportation,Parking
+9163,67,40.85550037015262,-73.84623527526855,7265,Medical Center,2012-05-16 03:46:57+00:00,New York City,Health and Medicine,Hospital
+9164,67,40.8567509389404,-73.84672204472993,7925,Bakery,2012-05-16 03:47:08+00:00,New York City,Dining and Drinking,Bakery
+9165,67,40.83760437488688,-73.88325093465279,15787,Bank,2012-05-16 15:57:44+00:00,New York City,Business and Professional Services,Financial Service
+9166,67,40.85800118337194,-73.91333721556622,36175,Community College,2012-09-05 23:36:10+00:00,New York City,Community and Government,Education

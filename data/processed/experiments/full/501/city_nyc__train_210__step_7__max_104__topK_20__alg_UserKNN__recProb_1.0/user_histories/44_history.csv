@@ -1,0 +1,59 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,44,40.78514255985002,-74.17647256809244,13332,Medical Center,2012-05-04 12:11:21+00:00,New York City,Health and Medicine,Medical Center,,,,
+1,44,40.736229401345526,-74.25023801862982,13649,Gym / Fitness Center,2012-06-11 17:49:26+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+2,44,40.736229401345526,-74.25023801862982,13649,Gym / Fitness Center,2012-06-18 18:57:03+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+3,44,40.78514255985002,-74.17647256809244,13332,Medical Center,2012-04-07 19:45:28+00:00,New York City,Health and Medicine,Medical Center,,,,
+4,44,40.78514255985002,-74.17647256809244,13332,Medical Center,2012-04-08 19:58:00+00:00,New York City,Health and Medicine,Medical Center,,,,
+5,44,40.736229401345526,-74.25023801862982,13649,Gym / Fitness Center,2012-08-05 16:31:12+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+6,44,40.736229401345526,-74.25023801862982,13649,Gym / Fitness Center,2012-08-19 15:37:42+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+7,44,40.70523725119827,-74.26163656253847,15817,Pizza Place,2012-04-26 02:02:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,44,40.72820347085946,-74.1552111998664,30187,Bank,2012-05-03 15:08:12+00:00,New York City,Business and Professional Services,Financial Service,,,,
+9,44,40.699901911003046,-74.23423290252686,15514,Food & Drink Shop,2012-05-03 15:29:14+00:00,New York City,Retail,Food and Beverage Retail,,,,
+10,44,40.78208314938477,-74.18348874948241,13329,Bank,2012-05-03 18:34:17+00:00,New York City,Business and Professional Services,Financial Service,,,,
+11,44,40.7317,-74.20226,32296,Bank,2012-05-03 18:56:23+00:00,New York City,Business and Professional Services,Financial Service,,,,
+12,44,40.660555887861165,-74.17174136107501,13663,Mall,2012-05-03 19:38:26+00:00,New York City,Retail,Shopping Mall,,,,
+13,44,40.72666186931321,-74.22707770558738,31814,Fried Chicken Joint,2012-05-03 22:28:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,44,40.78514255985002,-74.17647256809244,13332,Medical Center,2012-04-04 03:53:26+00:00,New York City,Health and Medicine,Medical Center,,,,
+15,44,40.73850359246112,-74.24778514706634,13129,Art Gallery,2012-04-04 12:36:35+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+16,44,40.73786621316532,-74.24736678017732,13129,Art Gallery,2012-05-16 02:30:39+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+17,44,40.699901911003046,-74.23423290252686,15514,Food & Drink Shop,2012-11-17 18:00:09+00:00,,Retail,Food and Beverage Retail,18.0,2.0,nyc,Rec
+18,44,40.69880621611384,-74.23142800968738,15903,Drugstore / Pharmacy,2012-11-19 18:00:09+00:00,,Retail,Pharmacy,20.0,2.0,nyc,Rec
+19,44,40.67699857470223,-74.21239825187,11948,Drugstore / Pharmacy,2012-11-20 18:00:09+00:00,,Retail,Pharmacy,21.0,3.0,nyc,Rec
+20,44,40.663486548012514,-74.21177917850672,12058,Government Building,2012-11-21 18:00:09+00:00,,Community and Government,Government Building,22.0,3.0,nyc,Rec
+21,44,40.699901911003046,-74.23423290252686,15514,Food & Drink Shop,2012-11-24 18:00:09+00:00,,Retail,Food and Beverage Retail,25.0,3.0,nyc,Rec
+22,44,40.658861830316766,-74.17119026184082,5734,Furniture / Home Store,2012-11-24 18:00:09+00:00,,Retail,Furniture and Home Store,25.0,3.0,nyc,Rec
+23,44,40.74172496795654,-74.170767,17929,Diner,2012-11-24 18:00:09+00:00,,Dining and Drinking,Restaurant,25.0,3.0,nyc,Rec
+24,44,40.73699197631613,-74.17053734072265,11415,Building,2012-11-25 18:00:09+00:00,,Landmarks and Outdoors,Structure,26.0,3.0,nyc,Rec
+25,44,40.778928003129685,-74.16380041612994,23900,Drugstore / Pharmacy,2012-11-29 18:00:09+00:00,,Retail,Pharmacy,30.0,4.0,nyc,Rec
+26,44,40.80103067159133,-74.17014173233079,15794,Bank,2012-11-30 18:00:09+00:00,,Business and Professional Services,Financial Service,31.0,4.0,nyc,Rec
+27,44,40.79664313479404,-74.15463780682465,22234,General Travel,2012-11-30 18:00:09+00:00,,Travel and Transportation,General Travel,31.0,4.0,nyc,Rec
+28,44,40.76797108238421,-74.18186055659123,31970,Chinese Restaurant,2012-11-30 18:00:09+00:00,,Dining and Drinking,Restaurant,31.0,4.0,nyc,Rec
+29,44,40.771141,-74.200026,33426,Neighborhood,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,32.0,4.0,nyc,Rec
+30,44,40.74154829321921,-74.17092148139777,7181,American Restaurant,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Rec
+31,44,40.78514255985002,-74.17647256809244,13332,Medical Center,2012-12-01 18:00:09+00:00,,Health and Medicine,Medical Center,32.0,4.0,nyc,Rec
+32,44,40.79695504909358,-74.15586486577948,35264,Performing Arts Venue,2012-12-03 18:00:09+00:00,,Sports and Recreation,Gym and Studio,34.0,4.0,nyc,Rec
+33,44,40.778928003129685,-74.16380041612994,23900,Drugstore / Pharmacy,2012-12-04 18:00:09+00:00,,Retail,Pharmacy,35.0,5.0,nyc,Rec
+34,44,40.78514255985002,-74.17647256809244,13332,Medical Center,2012-12-04 18:00:09+00:00,,Health and Medicine,Medical Center,35.0,5.0,nyc,Rec
+35,44,40.79150192567087,-74.20033741137854,21350,Drugstore / Pharmacy,2012-12-05 18:00:09+00:00,,Retail,Pharmacy,36.0,5.0,nyc,Rec
+36,44,40.80381274223328,-74.19446,7611,Diner,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Rec
+37,44,40.76003692241212,-73.98153657710093,8857,Sandwich Place,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Rec
+38,44,40.75951304689015,-73.98093581199646,7203,Drugstore / Pharmacy,2012-12-06 18:00:09+00:00,,Retail,Pharmacy,37.0,5.0,nyc,Rec
+39,44,40.76236186228669,-73.96512179414962,18269,Hardware Store,2012-12-07 18:00:09+00:00,,Retail,Hardware Store,38.0,5.0,nyc,Rec
+40,44,40.76818865584245,-73.96096622161959,26836,Medical Center,2012-12-07 18:00:09+00:00,,Health and Medicine,Medical Center,38.0,5.0,nyc,Rec
+41,44,40.75387478333333,-73.94943893333334,12042,American Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Rec
+42,44,40.72899025584445,-74.04838072403861,15130,Medical Center,2012-12-08 18:00:09+00:00,,Health and Medicine,Medical Center,39.0,5.0,nyc,Rec
+43,44,40.72045690756404,-74.04385403390006,14202,Drugstore / Pharmacy,2012-12-13 18:00:09+00:00,,Retail,Pharmacy,44.0,6.0,nyc,Rec
+44,44,40.72899025584445,-74.04838072403861,15130,Medical Center,2013-01-01 18:00:09+00:00,,Health and Medicine,Medical Center,63.0,9.0,nyc,Rec
+45,44,40.71648,-73.99660873,10171,Medical Center,2013-01-04 18:00:09+00:00,,Health and Medicine,Medical Center,66.0,9.0,nyc,Rec
+46,44,40.71734686509345,-74.00706052780151,33493,Medical Center,2013-01-08 18:00:09+00:00,,Health and Medicine,Medical Center,70.0,10.0,nyc,Rec
+47,44,40.71648,-73.99660873,10171,Medical Center,2013-01-09 18:00:09+00:00,,Health and Medicine,Medical Center,71.0,10.0,nyc,Rec
+48,44,40.71661605604259,-73.99724983560516,12089,Bank,2013-01-10 18:00:09+00:00,,Business and Professional Services,Financial Service,72.0,10.0,nyc,Rec
+49,44,40.71661605604259,-73.99724983560516,12089,Bank,2013-01-10 18:00:09+00:00,,Business and Professional Services,Financial Service,72.0,10.0,nyc,Rec
+50,44,40.71916167288125,-73.99761711332224,644,Italian Restaurant,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Rec
+51,44,40.72061263074525,-73.99774910357985,10093,Gym / Fitness Center,2013-01-26 18:00:09+00:00,,Sports and Recreation,Gym and Studio,88.0,12.0,nyc,Rec
+52,44,40.76155887431536,-73.98605900539454,11085,Gym / Fitness Center,2013-01-27 18:00:09+00:00,,Sports and Recreation,Gym and Studio,89.0,12.0,nyc,Rec
+53,44,40.75820964570424,-73.97074085817722,23699,Medical Center,2013-01-30 18:00:09+00:00,,Health and Medicine,Medical Center,92.0,13.0,nyc,Rec
+54,44,40.76155887431536,-73.98605900539454,11085,Gym / Fitness Center,2013-02-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,94.0,13.0,nyc,Rec
+55,44,40.81143815229546,-74.06779646873474,2256,Stadium,2013-02-02 18:00:09+00:00,,Arts and Entertainment,Stadium,95.0,13.0,nyc,Rec
+56,44,40.79977641109268,-74.04798030853271,11337,Gym / Fitness Center,2013-02-04 18:00:09+00:00,,Sports and Recreation,Gym and Studio,97.0,13.0,nyc,Rec
+57,44,40.78928261243819,-74.04390566975712,24718,Gym / Fitness Center,2013-02-07 18:00:09+00:00,,Sports and Recreation,Gym and Studio,100.0,14.0,nyc,Rec

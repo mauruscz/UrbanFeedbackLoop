@@ -1,0 +1,49 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+86847,543,40.74851447735518,-74.03306183196743,2955,Park,2012-04-13 11:36:04+00:00,New York City,Landmarks and Outdoors,Park
+86848,543,40.76387188141453,-73.97646306641839,6155,Salon / Barbershop,2012-04-13 20:01:12+00:00,New York City,Business and Professional Services,Health and Beauty Service
+86849,543,40.74036694953164,-73.99438619301681,15669,Gym / Fitness Center,2012-04-13 21:23:22+00:00,New York City,Sports and Recreation,Gym and Studio
+86850,543,40.76382143724506,-73.97988942258591,11481,American Restaurant,2012-04-27 16:41:52+00:00,New York City,Dining and Drinking,Restaurant
+86851,543,40.71605084984903,-74.01229042943231,10106,Gym / Fitness Center,2012-04-27 21:49:48+00:00,New York City,Sports and Recreation,Gym and Studio
+86852,543,40.73804698287267,-73.99048376552447,24614,Gym / Fitness Center,2012-06-01 13:21:33+00:00,New York City,Sports and Recreation,Gym and Studio
+86853,543,40.72934573333696,-74.00371726366585,438,American Restaurant,2012-05-18 16:17:30+00:00,New York City,Dining and Drinking,Restaurant
+86854,543,40.73804698287267,-73.99048376552447,24614,Gym / Fitness Center,2012-05-25 16:36:50+00:00,New York City,Sports and Recreation,Gym and Studio
+86855,543,40.781682,-73.979462,30021,Gym / Fitness Center,2012-04-23 22:26:15+00:00,New York City,Sports and Recreation,Gym and Studio
+86856,543,40.75508285763501,-73.99245794465051,23755,Italian Restaurant,2012-05-07 22:29:58+00:00,New York City,Dining and Drinking,Restaurant
+86857,543,40.75557964275588,-73.97086143493652,3323,Mexican Restaurant,2012-05-14 16:21:16+00:00,New York City,Dining and Drinking,Restaurant
+86858,543,40.75657066666667,-73.984594,8490,Bar,2012-05-14 21:42:33+00:00,New York City,Dining and Drinking,Bar
+86859,543,40.73804698287267,-73.99048376552447,24614,Gym / Fitness Center,2012-05-28 21:19:08+00:00,New York City,Sports and Recreation,Gym and Studio
+86860,543,40.74984606990401,-74.0356953922729,30875,Caf�,2012-04-07 15:16:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+86861,543,40.73674268179423,-74.03078397373255,18059,Restaurant,2012-04-14 14:36:09+00:00,New York City,Dining and Drinking,Restaurant
+86862,543,40.75412687549275,-74.03191429973907,7340,Movie Theater,2012-04-14 22:34:08+00:00,New York City,Arts and Entertainment,Movie Theater
+86863,543,40.73813869163153,-73.9907649725129,24614,Gym / Fitness Center,2012-04-28 20:47:35+00:00,New York City,Sports and Recreation,Gym and Studio
+86864,543,40.74944868539494,-74.02717491838244,3142,Mexican Restaurant,2012-05-05 18:27:22+00:00,New York City,Dining and Drinking,Restaurant
+86865,543,40.75412687549275,-74.03191429973907,7340,Movie Theater,2012-05-05 20:45:43+00:00,New York City,Arts and Entertainment,Movie Theater
+86866,543,40.73485228613973,-73.99108529090881,1524,Food & Drink Shop,2012-04-08 21:05:27+00:00,New York City,Retail,Food and Beverage Retail
+86867,543,40.72988184075125,-73.99101957678795,3827,Plaza,2012-04-15 16:38:53+00:00,New York City,Landmarks and Outdoors,Plaza
+86868,543,40.77695809965832,-73.95523781331305,16319,Gym / Fitness Center,2012-04-15 18:43:55+00:00,New York City,Sports and Recreation,Gym and Studio
+86869,543,40.77870103260439,-73.9536707942621,3257,Gym / Fitness Center,2012-04-15 19:54:51+00:00,New York City,Sports and Recreation,Gym and Studio
+86870,543,40.82827721161922,-73.92655344439045,751,Stadium,2012-04-15 22:06:23+00:00,New York City,Arts and Entertainment,Stadium
+86871,543,40.73813869163153,-73.9907649725129,24614,Gym / Fitness Center,2012-04-29 20:47:01+00:00,New York City,Sports and Recreation,Gym and Studio
+86872,543,40.72516293205118,-73.992159523528,29743,American Restaurant,2012-06-10 03:13:22+00:00,New York City,Dining and Drinking,Restaurant
+86873,543,40.741606,-74.029609,22191,Pizza Place,2012-05-06 17:06:15+00:00,New York City,Dining and Drinking,Restaurant
+86874,543,40.75657066666667,-73.984594,8490,Bar,2012-04-12 21:53:27+00:00,New York City,Dining and Drinking,Bar
+86875,543,40.749156005568246,-74.03103643291495,12969,Bar,2012-05-03 11:54:31+00:00,New York City,Dining and Drinking,Bar
+86876,543,40.73813869163153,-73.9907649725129,24614,Gym / Fitness Center,2012-05-03 22:11:18+00:00,New York City,Sports and Recreation,Gym and Studio
+86877,543,40.762935663671925,-73.98027969043686,4833,Italian Restaurant,2012-05-10 16:25:23+00:00,New York City,Dining and Drinking,Restaurant
+86878,543,40.7246224724009,-73.99586106037441,91,Bar,2012-05-17 01:21:13+00:00,New York City,Dining and Drinking,Bar
+86879,543,40.76055754885313,-73.98256388931951,3995,Sandwich Place,2012-05-17 16:45:27+00:00,New York City,Dining and Drinking,Restaurant
+86880,543,40.781682,-73.979462,30021,Gym / Fitness Center,2012-05-17 23:15:26+00:00,New York City,Sports and Recreation,Gym and Studio
+86881,543,40.77695809965832,-73.95523781331305,16319,Gym / Fitness Center,2012-05-31 22:08:57+00:00,New York City,Sports and Recreation,Gym and Studio
+86882,543,40.73801542750209,-73.99047228767945,24614,Gym / Fitness Center,2012-04-10 22:03:48+00:00,New York City,Sports and Recreation,Gym and Studio
+86883,543,40.73813869163153,-73.9907649725129,24614,Gym / Fitness Center,2012-04-17 22:10:49+00:00,New York City,Sports and Recreation,Gym and Studio
+86884,543,40.755201415407925,-73.97102209405129,230,Steakhouse,2012-04-24 16:00:36+00:00,New York City,Dining and Drinking,Restaurant
+86885,543,40.734804,-73.998587,4048,Spa / Massage,2012-05-08 16:25:42+00:00,New York City,Business and Professional Services,Health and Beauty Service
+86886,543,40.72302551137589,-73.99736460996738,6662,Hotel,2012-05-08 22:09:29+00:00,New York City,Travel and Transportation,Lodging
+86887,543,40.74803819929826,-74.03664208805144,11418,Building,2012-05-15 00:39:47+00:00,New York City,Landmarks and Outdoors,Structure
+86888,543,40.763714,-73.976179,6722,American Restaurant,2012-05-15 16:15:49+00:00,New York City,Dining and Drinking,Restaurant
+86889,543,40.74026640724124,-74.02690887451172,9077,Bar,2012-04-04 23:58:27+00:00,New York City,Dining and Drinking,Bar
+86890,543,40.73047434671292,-73.98335015250251,9970,Middle Eastern Restaurant,2012-04-11 23:30:06+00:00,New York City,Dining and Drinking,Restaurant
+86891,543,40.75557964275588,-73.97086143493652,3323,Mexican Restaurant,2012-04-25 16:31:35+00:00,New York City,Dining and Drinking,Restaurant
+86892,543,40.72718559227258,-73.98873567581177,668,Seafood Restaurant,2012-06-06 22:00:20+00:00,New York City,Dining and Drinking,Restaurant
+86893,543,40.75901351383534,-73.97873009282702,6269,Clothing Store,2012-05-09 16:04:20+00:00,New York City,Retail,Fashion Retail
+86894,543,40.72370375004039,-73.99658414294873,1737,Burger Joint,2012-05-16 22:27:26+00:00,New York City,Dining and Drinking,Restaurant

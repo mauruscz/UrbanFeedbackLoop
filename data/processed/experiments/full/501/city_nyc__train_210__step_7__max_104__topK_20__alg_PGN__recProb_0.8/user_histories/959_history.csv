@@ -1,0 +1,71 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,959,40.82403326385027,-73.9442913743457,34558,Building,2012-09-05 14:21:02+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+1,959,40.82388373877599,-73.94190339554204,21802,Neighborhood,2012-09-05 14:21:32+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+2,959,40.8673996356938,-73.92311999791536,22419,Neighborhood,2012-09-05 14:22:15+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+3,959,40.82388373877599,-73.94190339554204,21802,Neighborhood,2012-09-05 14:24:39+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+4,959,40.82388373877599,-73.94190339554204,21802,Neighborhood,2012-09-05 20:18:44+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+5,959,40.82388373877599,-73.94190339554204,21802,Neighborhood,2012-09-05 20:19:03+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+6,959,40.80664996861591,-73.94527296285732,17806,Neighborhood,2012-09-05 20:19:22+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+7,959,40.823993,-73.94433570000001,5256,Building,2012-09-05 20:20:10+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+8,959,40.82239320216562,-73.94274722795609,10986,Building,2012-12-14 18:00:09+00:00,,Landmarks and Outdoors,Structure,45.0,6.0,nyc,Rec
+9,959,40.80774561312955,-73.94624880614921,17806,Neighborhood,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,46.0,6.0,nyc,Rec
+10,959,40.80774561312955,-73.94624880614921,17806,Neighborhood,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,46.0,6.0,nyc,Rec
+11,959,40.81592791796448,-73.95801020048518,19309,Building,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,Structure,46.0,6.0,nyc,Rec
+12,959,40.83784887414401,-73.9439756576843,23394,Building,2012-12-16 18:00:09+00:00,,Landmarks and Outdoors,Structure,47.0,6.0,nyc,Rec
+13,959,40.83784887414401,-73.9439756576843,23394,Building,2012-12-18 18:00:09+00:00,,Landmarks and Outdoors,Structure,49.0,7.0,nyc,Rec
+14,959,40.83784887414401,-73.9439756576843,23394,Building,2012-12-20 18:00:09+00:00,,Landmarks and Outdoors,Structure,51.0,7.0,nyc,Return
+15,959,40.84894322160766,-73.9369797706604,7890,Neighborhood,2012-12-20 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,51.0,7.0,nyc,Rec
+16,959,40.92372013858397,-73.99716949351073,21130,City,2012-12-21 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,52.0,7.0,nyc,Rec
+17,959,40.80774561312955,-73.94624880614921,17806,Neighborhood,2012-12-21 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,52.0,7.0,nyc,Return
+18,959,40.80774561312955,-73.94624880614921,17806,Neighborhood,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,53.0,7.0,nyc,Rec
+19,959,40.83784887414401,-73.9439756576843,23394,Building,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,Structure,53.0,7.0,nyc,Rec
+20,959,40.75845677498381,-73.98914046612941,18884,Burger Joint,2012-12-23 18:00:09+00:00,,Dining and Drinking,Restaurant,54.0,7.0,nyc,Rec
+21,959,40.81592791796448,-73.95801020048518,19309,Building,2012-12-23 18:00:09+00:00,,Landmarks and Outdoors,Structure,54.0,7.0,nyc,Return
+22,959,40.81592791796448,-73.95801020048518,19309,Building,2012-12-23 18:00:09+00:00,,Landmarks and Outdoors,Structure,54.0,7.0,nyc,Rec
+23,959,40.80774561312955,-73.94624880614921,17806,Neighborhood,2012-12-30 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,61.0,8.0,nyc,Rec
+24,959,40.82388373877599,-73.94190339554204,21802,Neighborhood,2012-12-30 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,61.0,8.0,nyc,Return
+25,959,40.81592791796448,-73.95801020048518,19309,Building,2012-12-30 18:00:09+00:00,,Landmarks and Outdoors,Structure,61.0,8.0,nyc,Rec
+26,959,40.81592791796448,-73.95801020048518,19309,Building,2012-12-31 18:00:09+00:00,,Landmarks and Outdoors,Structure,62.0,8.0,nyc,Rec
+27,959,40.741672705942285,-73.98928821086884,5936,Neighborhood,2012-12-31 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,62.0,8.0,nyc,Rec
+28,959,40.74053450896559,-73.99484529691256,34452,Neighborhood,2012-12-31 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,62.0,8.0,nyc,Rec
+29,959,40.74460673077905,-73.9988279770589,22605,Neighborhood,2013-01-01 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,63.0,9.0,nyc,Explore
+30,959,40.70646022457398,-74.0124281478333,31913,Building,2013-01-01 18:00:09+00:00,,Landmarks and Outdoors,Structure,63.0,9.0,nyc,Rec
+31,959,40.65016889724004,-73.94957542419434,21907,Neighborhood,2013-01-03 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,65.0,9.0,nyc,Rec
+32,959,40.63893219607017,-73.94520981988653,19713,Building,2013-01-03 18:00:09+00:00,,Landmarks and Outdoors,Structure,65.0,9.0,nyc,Rec
+33,959,40.65016889724004,-73.94957542419434,21907,Neighborhood,2013-01-04 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,66.0,9.0,nyc,Rec
+34,959,40.75230660947181,-73.971854320252,25727,Building,2013-01-04 18:00:09+00:00,,Landmarks and Outdoors,Structure,66.0,9.0,nyc,Rec
+35,959,40.7588958925549,-73.9792121911996,10410,Building,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Structure,69.0,9.0,nyc,Rec
+36,959,40.75723755221195,-73.97983074188232,11561,Neighborhood,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,69.0,9.0,nyc,Rec
+37,959,40.81592791796448,-73.95801020048518,19309,Building,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Structure,69.0,9.0,nyc,Return
+38,959,40.79672258044242,-73.94124984741211,18153,Neighborhood,2013-01-08 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,70.0,10.0,nyc,Rec
+39,959,40.80774561312955,-73.94624880614921,17806,Neighborhood,2013-01-09 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,71.0,10.0,nyc,Rec
+40,959,40.72540497175607,-73.83224487304688,26843,Neighborhood,2013-01-09 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,71.0,10.0,nyc,Rec
+41,959,40.63893219607017,-73.94520981988653,19713,Building,2013-01-09 18:00:09+00:00,,Landmarks and Outdoors,Structure,71.0,10.0,nyc,Return
+42,959,40.64989916052204,-73.95095574581862,32399,Government Building,2013-01-09 18:00:09+00:00,,Community and Government,Government Building,71.0,10.0,nyc,Rec
+43,959,40.65016889724004,-73.94957542419434,21907,Neighborhood,2013-01-10 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,72.0,10.0,nyc,Rec
+44,959,40.66672356390917,-73.88247728347778,28525,Neighborhood,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,73.0,10.0,nyc,Rec
+45,959,40.65299279819418,-73.90020087549914,6700,Building,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,Structure,73.0,10.0,nyc,Rec
+46,959,40.66672356390917,-73.88247728347778,28525,Neighborhood,2013-01-13 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,75.0,10.0,nyc,Rec
+47,959,40.63893219607017,-73.94520981988653,19713,Building,2013-01-13 18:00:09+00:00,,Landmarks and Outdoors,Structure,75.0,10.0,nyc,Rec
+48,959,40.624326,-73.93889486789703,14046,Building,2013-01-13 18:00:09+00:00,,Landmarks and Outdoors,Structure,75.0,10.0,nyc,Explore
+49,959,40.65016889724004,-73.94957542419434,21907,Neighborhood,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,76.0,10.0,nyc,Rec
+50,959,40.66623528446521,-73.98107528686523,19311,Neighborhood,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,76.0,10.0,nyc,Rec
+51,959,40.74547248253114,-73.98145048923546,22095,Building,2013-01-15 18:00:09+00:00,,Landmarks and Outdoors,Structure,77.0,11.0,nyc,Explore
+52,959,40.745756322699165,-73.97885635680333,9810,Neighborhood,2013-01-15 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,77.0,11.0,nyc,Rec
+53,959,40.74959782183326,-73.98605346679688,24306,City,2013-01-16 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,78.0,11.0,nyc,Rec
+54,959,40.76487640472523,-73.81782531738281,20495,Neighborhood,2013-01-16 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,78.0,11.0,nyc,Rec
+55,959,40.766998291015625,-73.8272705078125,34808,Building,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,Structure,79.0,11.0,nyc,Rec
+56,959,40.80774561312955,-73.94624880614921,17806,Neighborhood,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,79.0,11.0,nyc,Return
+57,959,40.79686981374644,-73.93482539116314,20343,Gas Station / Garage,2013-01-17 18:00:09+00:00,,Travel and Transportation,Fuel Station,79.0,11.0,nyc,Rec
+58,959,40.80774561312955,-73.94624880614921,17806,Neighborhood,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,79.0,11.0,nyc,Rec
+59,959,40.71424858464975,-73.95375967025757,16130,Neighborhood,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,79.0,11.0,nyc,Rec
+60,959,40.71424858464975,-73.95375967025757,16130,Neighborhood,2013-01-18 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,80.0,11.0,nyc,Rec
+61,959,40.741672705942285,-73.98928821086884,5936,Neighborhood,2013-01-18 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,80.0,11.0,nyc,Rec
+62,959,40.74401129520365,-74.0034245986147,36084,Neighborhood,2013-01-18 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,80.0,11.0,nyc,Explore
+63,959,40.741672705942285,-73.98928821086884,5936,Neighborhood,2013-01-18 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,80.0,11.0,nyc,Rec
+64,959,40.75230660947181,-73.971854320252,25727,Building,2013-01-24 18:00:09+00:00,,Landmarks and Outdoors,Structure,86.0,12.0,nyc,Rec
+65,959,40.74831361076324,-73.98822069168091,10073,Neighborhood,2013-01-24 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,86.0,12.0,nyc,Rec
+66,959,40.74959782183326,-73.98605346679688,24306,City,2013-01-24 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,86.0,12.0,nyc,Rec
+67,959,40.74897036742368,-73.98533014407252,34870,Building,2013-01-27 18:00:09+00:00,,Landmarks and Outdoors,Structure,89.0,12.0,nyc,Rec
+68,959,40.65016889724004,-73.94957542419434,21907,Neighborhood,2013-01-27 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,89.0,12.0,nyc,Rec
+69,959,40.65299279819418,-73.90020087549914,6700,Building,2013-01-27 18:00:09+00:00,,Landmarks and Outdoors,Structure,89.0,12.0,nyc,Rec

@@ -1,0 +1,20 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,237,40.79395053138859,-73.6880095830737,7785,Diner,2012-07-02 22:47:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,237,40.90365279142095,-73.79799842834473,18766,Cemetery,2012-05-12 17:26:55+00:00,New York City,Community and Government,Cemetery,,,,
+2,237,40.90492156457268,-73.86880328164514,6664,Bar,2012-05-12 18:05:11+00:00,New York City,Dining and Drinking,Bar,,,,
+3,237,40.78975045565385,-73.72977972498752,9526,Movie Theater,2012-10-27 01:46:25+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+4,237,40.831580784200376,-73.70225768676137,35976,Park,2012-08-19 23:43:52+00:00,New York City,Landmarks and Outdoors,Park,,,,
+5,237,40.83865883333333,-73.702944,10262,Fast Food Restaurant,2012-07-08 18:51:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,237,40.831580784200376,-73.70225768676137,35976,Park,2012-06-03 14:22:48+00:00,New York City,Landmarks and Outdoors,Park,,,,
+7,237,40.83719554060367,-73.71797024691071,35864,Seafood Restaurant,2012-06-03 19:58:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,237,40.83609017556809,-73.70526925946487,19966,American Restaurant,2012-06-10 22:24:19+00:00,New York City,Dining and Drinking,Restaurant,,,,
+9,237,40.82827721161922,-73.92655344439045,751,Stadium,2012-08-16 18:46:53+00:00,New York City,Arts and Entertainment,Stadium,,,,
+10,237,40.83865883333333,-73.702944,10262,Fast Food Restaurant,2012-07-05 23:23:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,237,40.838561,-73.70249032974243,11630,Pizza Place,2012-07-12 23:13:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,237,40.79198518361654,-73.69961965024598,35007,Automotive Shop,2012-10-25 18:35:40+00:00,New York City,Retail,Automotive Shop,,,,
+13,237,40.72701288,-73.71031701564789,13233,Automotive Shop,2012-10-25 18:36:38+00:00,New York City,Retail,Automotive Shop,,,,
+14,237,40.79856007075531,-73.69998173572127,12040,Movie Theater,2012-06-12 00:39:28+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+15,237,40.758353203849936,-73.77740712299621,23903,Automotive Shop,2012-10-23 23:50:48+00:00,New York City,Retail,Automotive Shop,,,,
+16,237,40.83913874959545,-73.70375633239746,9957,BBQ Joint,2012-07-04 22:38:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,237,40.83865883333333,-73.702944,10262,Fast Food Restaurant,2012-12-03 18:00:09+00:00,,Dining and Drinking,Restaurant,34.0,4.0,nyc,Rec
+18,237,40.70538,-73.944512,2065,Music Venue,2012-12-03 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,34.0,4.0,nyc,Rec

@@ -1,0 +1,366 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+71988,448,40.78139497312454,-74.02042899936573,19954,American Restaurant,2012-04-06 14:27:11+00:00,New York City,Dining and Drinking,Restaurant
+71989,448,40.781356200000005,-74.02031600475311,22349,Post Office,2012-04-06 14:58:16+00:00,New York City,Community and Government,Government Building
+71990,448,40.75576646162976,-73.99123556287765,503,Bar,2012-04-13 06:22:00+00:00,New York City,Dining and Drinking,Bar
+71991,448,40.7594122094148,-73.9917807575885,1556,Diner,2012-04-13 07:25:08+00:00,New York City,Dining and Drinking,Restaurant
+71992,448,40.7825229194457,-74.0210468268453,12513,Bank,2012-04-13 14:14:39+00:00,New York City,Business and Professional Services,Financial Service
+71993,448,40.78129194530576,-74.0208861626204,18981,Drugstore / Pharmacy,2012-04-13 23:02:40+00:00,New York City,Retail,Pharmacy
+71994,448,40.7825229194457,-74.0210468268453,12513,Bank,2012-04-13 23:06:34+00:00,New York City,Business and Professional Services,Financial Service
+71995,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-20 13:06:45+00:00,New York City,Retail,Pharmacy
+71996,448,40.781915760952245,-74.02135667889696,16615,Building,2012-04-20 17:29:03+00:00,New York City,Landmarks and Outdoors,Structure
+71997,448,40.780925605818695,-74.01785646905172,22349,Post Office,2012-04-20 17:34:07+00:00,New York City,Community and Government,Government Building
+71998,448,40.77577345145468,-74.0263601460304,13803,American Restaurant,2012-04-20 17:45:36+00:00,New York City,Dining and Drinking,Restaurant
+71999,448,40.765528416649566,-73.97759371330933,5067,Sandwich Place,2012-04-20 18:15:40+00:00,New York City,Dining and Drinking,Restaurant
+72000,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-20 18:17:34+00:00,New York City,Travel and Transportation,Lodging
+72001,448,40.780925605818695,-74.01785646905172,22349,Post Office,2012-04-27 15:26:06+00:00,New York City,Community and Government,Government Building
+72002,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-04-27 15:35:55+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72003,448,40.746273465031976,-73.97765684568093,246,Burger Joint,2012-04-27 22:29:10+00:00,New York City,Dining and Drinking,Restaurant
+72004,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-08-10 03:37:39+00:00,New York City,Retail,Pharmacy
+72005,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-08-10 04:05:33+00:00,New York City,Business and Professional Services,Financial Service
+72006,448,40.78138010963118,-74.02039843110883,19954,American Restaurant,2012-08-10 04:24:21+00:00,New York City,Dining and Drinking,Restaurant
+72007,448,40.78256518919916,-74.02104108883961,32067,Food & Drink Shop,2012-08-10 04:24:54+00:00,New York City,Retail,Food and Beverage Retail
+72008,448,40.780935,-74.022422,27889,Furniture / Home Store,2012-08-10 04:42:00+00:00,New York City,Retail,Furniture and Home Store
+72009,448,40.780669,-74.017295,29051,Miscellaneous Shop,2012-08-10 04:42:39+00:00,New York City,Retail,Miscellaneous Store
+72010,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-08-10 12:34:52+00:00,New York City,Retail,Pharmacy
+72011,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-08-10 12:35:17+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72012,448,40.78138595,-74.02036676666667,27585,Breakfast Spot,2012-08-10 12:55:45+00:00,New York City,Dining and Drinking,Breakfast Spot
+72013,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-08-10 19:01:02+00:00,New York City,Community and Government,Government Building
+72014,448,40.73073856023448,-74.0351915359497,5233,Sporting Goods Shop,2012-08-10 19:05:21+00:00,New York City,Retail,Sporting Goods Retail
+72015,448,40.765259,-73.976405,10882,Deli / Bodega,2012-08-17 02:15:24+00:00,New York City,Dining and Drinking,Restaurant
+72016,448,40.78138010963118,-74.02039843110883,19954,American Restaurant,2012-08-17 19:05:52+00:00,New York City,Dining and Drinking,Restaurant
+72017,448,40.77916030461479,-74.01658834439822,20621,Electronics Store,2012-08-17 23:37:40+00:00,New York City,Retail,Computers and Electronics Retail
+72018,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-07-06 03:32:39+00:00,New York City,Retail,Pharmacy
+72019,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-06 16:11:46+00:00,New York City,Retail,Pharmacy
+72020,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-13 12:38:05+00:00,New York City,Retail,Pharmacy
+72021,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-20 12:58:05+00:00,New York City,Retail,Pharmacy
+72022,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-06-08 15:45:29+00:00,New York City,Retail,Pharmacy
+72023,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-06-08 22:42:14+00:00,New York City,Community and Government,Government Building
+72024,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-05-04 03:49:37+00:00,New York City,Retail,Pharmacy
+72025,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-05-04 04:12:02+00:00,New York City,Retail,Pharmacy
+72026,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-05-11 06:05:11+00:00,New York City,Business and Professional Services,Financial Service
+72027,448,40.77992939195463,-74.01785646905172,22349,Post Office,2012-05-11 19:50:01+00:00,New York City,Community and Government,Government Building
+72028,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-05-18 11:13:44+00:00,New York City,Business and Professional Services,Financial Service
+72029,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-05-18 11:14:30+00:00,New York City,Community and Government,Government Building
+72030,448,40.78131515421472,-74.0213394649073,18981,Drugstore / Pharmacy,2012-05-18 13:19:32+00:00,New York City,Retail,Pharmacy
+72031,448,40.78505003333333,-74.019416,21609,Fried Chicken Joint,2012-05-18 14:40:49+00:00,New York City,Dining and Drinking,Restaurant
+72032,448,40.77236486508026,-73.86424366629828,33524,General Travel,2012-05-25 22:07:12+00:00,New York City,Travel and Transportation,General Travel
+72033,448,40.781356200000005,-74.02031600475311,22349,Post Office,2012-04-09 11:30:24+00:00,New York City,Community and Government,Government Building
+72034,448,40.78129194530576,-74.0208861626204,18981,Drugstore / Pharmacy,2012-04-09 17:42:18+00:00,New York City,Retail,Pharmacy
+72035,448,40.78139497312454,-74.02042899936573,19954,American Restaurant,2012-04-09 17:45:49+00:00,New York City,Dining and Drinking,Restaurant
+72036,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-09 18:24:51+00:00,New York City,Travel and Transportation,Lodging
+72037,448,40.76550287178739,-73.97801268229685,5067,Sandwich Place,2012-04-09 18:25:48+00:00,New York City,Dining and Drinking,Restaurant
+72038,448,40.78129194530576,-74.0208861626204,18981,Drugstore / Pharmacy,2012-04-16 12:15:06+00:00,New York City,Retail,Pharmacy
+72039,448,40.745306184001095,-73.94837379455566,19043,Neighborhood,2012-04-16 12:54:43+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+72040,448,40.7657964899803,-73.97983203018806,10828,French Restaurant,2012-04-16 17:11:18+00:00,New York City,Dining and Drinking,Restaurant
+72041,448,40.76550287178739,-73.97801268229685,5067,Sandwich Place,2012-04-16 17:14:18+00:00,New York City,Dining and Drinking,Restaurant
+72042,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-16 17:21:34+00:00,New York City,Travel and Transportation,Lodging
+72043,448,40.7444798708287,-73.93356245971707,24096,College & University,2012-04-23 16:58:43+00:00,New York City,Community and Government,Education
+72044,448,40.74481850055531,-73.93717327366727,27119,College Academic Building,2012-04-23 16:59:25+00:00,New York City,Community and Government,Education
+72045,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-23 17:19:35+00:00,New York City,Travel and Transportation,Lodging
+72046,448,40.78009362863879,-74.00982869627268,3177,Chinese Restaurant,2012-08-06 00:19:11+00:00,New York City,Dining and Drinking,Restaurant
+72047,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-06 10:05:51+00:00,New York City,Travel and Transportation,Lodging
+72048,448,40.78138010963118,-74.02039843110883,19954,American Restaurant,2012-08-13 05:58:40+00:00,New York City,Dining and Drinking,Restaurant
+72049,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-08-13 14:27:06+00:00,New York City,Community and Government,Government Building
+72050,448,40.78138595,-74.02036676666667,27585,Breakfast Spot,2012-08-13 14:40:57+00:00,New York City,Dining and Drinking,Breakfast Spot
+72051,448,40.78134764680911,-74.02038353333334,16715,Food Truck,2012-08-13 14:42:38+00:00,New York City,Dining and Drinking,Food Truck
+72052,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-08-13 16:20:45+00:00,New York City,Retail,Pharmacy
+72053,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-13 19:31:00+00:00,New York City,Travel and Transportation,Lodging
+72054,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-02 09:44:18+00:00,New York City,Retail,Pharmacy
+72055,448,40.76771599348754,-73.9818005796479,11982,Cosmetics Shop,2012-07-02 10:11:32+00:00,New York City,Retail,Cosmetics Store
+72056,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-02 10:11:52+00:00,New York City,Dining and Drinking,Restaurant
+72057,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-02 11:02:21+00:00,New York City,Travel and Transportation,Lodging
+72058,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-09 17:49:11+00:00,New York City,Retail,Pharmacy
+72059,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-09 18:23:17+00:00,New York City,Dining and Drinking,Restaurant
+72060,448,40.765528416649566,-73.97759371330933,5067,Sandwich Place,2012-07-09 18:24:02+00:00,New York City,Dining and Drinking,Restaurant
+72061,448,40.74065934700641,-73.99826558632256,327,American Restaurant,2012-07-16 00:45:17+00:00,New York City,Dining and Drinking,Restaurant
+72062,448,40.76771599348754,-73.9818005796479,11982,Cosmetics Shop,2012-07-16 01:36:01+00:00,New York City,Retail,Cosmetics Store
+72063,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-16 01:39:56+00:00,New York City,Travel and Transportation,Lodging
+72064,448,40.76626966719217,-74.02486830030224,18311,General Travel,2012-07-16 06:17:00+00:00,New York City,Travel and Transportation,General Travel
+72065,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-16 19:05:48+00:00,New York City,Travel and Transportation,Lodging
+72066,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-07-30 06:00:46+00:00,New York City,Business and Professional Services,Financial Service
+72067,448,40.78138010963118,-74.02039843110883,19954,American Restaurant,2012-07-30 06:01:40+00:00,New York City,Dining and Drinking,Restaurant
+72068,448,40.781915760952245,-74.02135667889696,16615,Building,2012-07-30 06:25:13+00:00,New York City,Landmarks and Outdoors,Structure
+72069,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-30 12:30:35+00:00,New York City,Retail,Pharmacy
+72070,448,40.78134764680911,-74.02038353333334,16715,Food Truck,2012-07-30 17:34:21+00:00,New York City,Dining and Drinking,Food Truck
+72071,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-07-30 17:40:56+00:00,New York City,Business and Professional Services,Business and Professional Services
+72072,448,40.76771599348754,-73.9818005796479,11982,Cosmetics Shop,2012-07-30 18:12:49+00:00,New York City,Retail,Cosmetics Store
+72073,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-30 18:14:30+00:00,New York City,Dining and Drinking,Restaurant
+72074,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-06-18 12:55:58+00:00,New York City,Retail,Pharmacy
+72075,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-05-07 11:08:34+00:00,New York City,Retail,Pharmacy
+72076,448,40.74482280084993,-73.93645570868266,7815,Community College,2012-05-07 13:33:14+00:00,New York City,Community and Government,Education
+72077,448,40.74467151923719,-73.93426855422129,24096,College & University,2012-05-07 13:33:40+00:00,New York City,Community and Government,Education
+72078,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-07 20:00:06+00:00,New York City,Travel and Transportation,Lodging
+72079,448,40.78131515421472,-74.0213394649073,18981,Drugstore / Pharmacy,2012-05-14 12:16:48+00:00,New York City,Retail,Pharmacy
+72080,448,40.781915760952245,-74.02135667889696,16615,Building,2012-05-14 12:17:40+00:00,New York City,Landmarks and Outdoors,Structure
+72081,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-05-14 12:33:54+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72082,448,40.74482280084993,-73.93645570868266,7815,Community College,2012-05-14 16:54:40+00:00,New York City,Community and Government,Education
+72083,448,40.74496887505584,-73.93666236767062,27119,College Academic Building,2012-05-14 16:55:35+00:00,New York City,Community and Government,Education
+72084,448,40.76549419987649,-73.97384016961706,29088,Other Great Outdoors,2012-05-14 17:09:17+00:00,New York City,Landmarks and Outdoors,Lake
+72085,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-14 17:14:27+00:00,New York City,Travel and Transportation,Lodging
+72086,448,40.77916030461479,-74.01658834439822,20621,Electronics Store,2012-05-21 12:20:55+00:00,New York City,Retail,Computers and Electronics Retail
+72087,448,40.74482280084993,-73.93645570868266,7815,Community College,2012-05-21 13:08:17+00:00,New York City,Community and Government,Education
+72088,448,40.74467151923719,-73.93426855422129,24096,College & University,2012-05-21 13:08:46+00:00,New York City,Community and Government,Education
+72089,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-21 17:18:15+00:00,New York City,Travel and Transportation,Lodging
+72090,448,40.78129194530576,-74.02120749093491,18981,Drugstore / Pharmacy,2012-04-07 14:23:46+00:00,New York City,Retail,Pharmacy
+72091,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-21 04:30:30+00:00,New York City,Retail,Pharmacy
+72092,448,40.78063759951256,-74.01785646905172,22349,Post Office,2012-04-21 13:17:56+00:00,New York City,Community and Government,Government Building
+72093,448,40.78134764680911,-74.02038353333334,16715,Food Truck,2012-04-21 13:38:49+00:00,New York City,Dining and Drinking,Food Truck
+72094,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-21 14:09:49+00:00,New York City,Retail,Pharmacy
+72095,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-04-28 03:30:40+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72096,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-28 12:23:35+00:00,New York City,Retail,Pharmacy
+72097,448,40.74473641042899,-73.93694365316126,27119,College Academic Building,2012-04-28 13:16:30+00:00,New York City,Community and Government,Education
+72098,448,40.74482280084993,-73.93645570868266,7815,Community College,2012-04-28 13:16:48+00:00,New York City,Community and Government,Education
+72099,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-04-28 18:31:00+00:00,New York City,Retail,Pharmacy
+72100,448,40.77732762,-74.02333137,10917,College Academic Building,2012-04-28 18:45:12+00:00,New York City,Community and Government,Education
+72101,448,40.73215319032559,-74.03588891029358,4547,Department Store,2012-04-28 23:17:15+00:00,New York City,Retail,Department Store
+72102,448,40.73337267488567,-74.03368949890137,12828,Scenic Lookout,2012-04-28 23:17:56+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+72103,448,40.78138010963118,-74.02039843110883,19954,American Restaurant,2012-08-11 01:32:42+00:00,New York City,Dining and Drinking,Restaurant
+72104,448,40.780935,-74.022422,27889,Furniture / Home Store,2012-08-11 03:41:14+00:00,New York City,Retail,Furniture and Home Store
+72105,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-08-11 09:47:06+00:00,New York City,Business and Professional Services,Business and Professional Services
+72106,448,40.76365397004151,-73.98520195637754,3727,Breakfast Spot,2012-08-11 10:13:22+00:00,New York City,Dining and Drinking,Breakfast Spot
+72107,448,40.764747839135936,-73.984285629324,9820,Food & Drink Shop,2012-08-11 10:14:50+00:00,New York City,Retail,Food and Beverage Retail
+72108,448,40.765237937545706,-73.98201866843489,26985,Bank,2012-08-11 10:17:40+00:00,New York City,Business and Professional Services,Financial Service
+72109,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-11 10:23:04+00:00,New York City,Travel and Transportation,Lodging
+72110,448,40.765259,-73.976405,10882,Deli / Bodega,2012-08-11 13:59:40+00:00,New York City,Dining and Drinking,Restaurant
+72111,448,40.76362694663688,-73.97796102863539,30204,Mexican Restaurant,2012-08-11 17:33:17+00:00,New York City,Dining and Drinking,Restaurant
+72112,448,40.781915760952245,-74.02135667889696,16615,Building,2012-08-18 05:09:14+00:00,New York City,Landmarks and Outdoors,Structure
+72113,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-08-18 12:30:10+00:00,New York City,Retail,Pharmacy
+72114,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-08-18 14:28:13+00:00,New York City,Community and Government,Government Building
+72115,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-08-18 16:41:22+00:00,New York City,Business and Professional Services,Business and Professional Services
+72116,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-07 13:13:54+00:00,New York City,Retail,Pharmacy
+72117,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-07-07 13:14:20+00:00,New York City,Community and Government,Government Building
+72118,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-07-28 09:49:51+00:00,New York City,Business and Professional Services,Business and Professional Services
+72119,448,40.76803326982161,-73.98186922073364,2490,Plaza,2012-07-28 10:29:27+00:00,New York City,Landmarks and Outdoors,Plaza
+72120,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-28 10:32:52+00:00,New York City,Dining and Drinking,Restaurant
+72121,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-28 10:56:42+00:00,New York City,Travel and Transportation,Lodging
+72122,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-07-28 20:54:30+00:00,New York City,Business and Professional Services,Financial Service
+72123,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-28 21:17:08+00:00,New York City,Retail,Pharmacy
+72124,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-05-05 10:34:32+00:00,New York City,Business and Professional Services,Financial Service
+72125,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-05-05 10:35:07+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72126,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-05-05 11:16:07+00:00,New York City,Retail,Pharmacy
+72127,448,40.75248097148231,-73.99438619301681,1938,Movie Theater,2012-05-05 17:44:30+00:00,New York City,Arts and Entertainment,Movie Theater
+72128,448,40.77094625889863,-74.02294609724912,24962,Other Nightlife,2012-05-05 21:14:31+00:00,New York City,Nightlife Spot,Other Nightlife
+72129,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-05-05 22:45:00+00:00,New York City,Retail,Pharmacy
+72130,448,40.78135302153376,-74.02181571804839,18981,Drugstore / Pharmacy,2012-05-12 12:44:24+00:00,New York City,Retail,Pharmacy
+72131,448,40.74496887505584,-73.93666236767062,27119,College Academic Building,2012-05-12 16:49:11+00:00,New York City,Community and Government,Education
+72132,448,40.7447924486293,-73.93756936840064,25132,College Academic Building,2012-05-12 16:50:06+00:00,New York City,Community and Government,Education
+72133,448,40.744422707797625,-73.85121314979777,3659,Event Space,2012-05-19 00:03:18+00:00,New York City,Business and Professional Services,Event Space
+72134,448,40.78131515421472,-74.0213394649073,18981,Drugstore / Pharmacy,2012-05-19 13:04:03+00:00,New York City,Retail,Pharmacy
+72135,448,40.77159920867316,-74.02947577079085,22119,Plaza,2012-05-19 13:12:09+00:00,New York City,Landmarks and Outdoors,Plaza
+72136,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-05-19 21:03:01+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72137,448,40.78139497312454,-74.02042899936573,19954,American Restaurant,2012-04-08 01:33:14+00:00,New York City,Dining and Drinking,Restaurant
+72138,448,40.78129194530576,-74.02120749093491,18981,Drugstore / Pharmacy,2012-04-08 10:34:25+00:00,New York City,Retail,Pharmacy
+72139,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-08 11:07:10+00:00,New York City,Travel and Transportation,Lodging
+72140,448,40.78129194530576,-74.0208861626204,18981,Drugstore / Pharmacy,2012-04-15 10:22:25+00:00,New York City,Retail,Pharmacy
+72141,448,40.778125230020194,-74.02435762735152,29814,Professional & Other Places,2012-04-15 10:36:28+00:00,New York City,Business and Professional Services,Business and Professional Services
+72142,448,40.7657964899803,-73.97983203018806,10828,French Restaurant,2012-04-15 11:15:56+00:00,New York City,Dining and Drinking,Restaurant
+72143,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-15 11:16:32+00:00,New York City,Travel and Transportation,Lodging
+72144,448,40.78129194530576,-74.0208861626204,18981,Drugstore / Pharmacy,2012-04-15 21:27:00+00:00,New York City,Retail,Pharmacy
+72145,448,40.78193151328793,-74.02065090404695,19954,American Restaurant,2012-04-22 02:25:58+00:00,New York City,Dining and Drinking,Restaurant
+72146,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-04-22 10:11:48+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72147,448,40.76658443324798,-74.02389285639846,18311,General Travel,2012-04-22 10:31:16+00:00,New York City,Travel and Transportation,General Travel
+72148,448,40.76433965724773,-73.984595540886,7209,Drugstore / Pharmacy,2012-04-22 10:50:56+00:00,New York City,Retail,Pharmacy
+72149,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-22 10:58:15+00:00,New York City,Travel and Transportation,Lodging
+72150,448,40.77314457454595,-74.02712327798466,28461,Professional & Other Places,2012-04-22 20:33:02+00:00,New York City,Business and Professional Services,Business and Professional Services
+72151,448,40.73334271159713,-74.00076189994842,16979,Neighborhood,2012-04-29 00:54:43+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+72152,448,40.731646,-74.001528,30209,Coffee Shop,2012-04-29 00:56:23+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+72153,448,40.73346530661768,-74.00312619457237,26310,Neighborhood,2012-04-29 02:15:33+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+72154,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-04-29 10:22:34+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72155,448,40.76521547952819,-74.02518962190717,18311,General Travel,2012-04-29 10:30:23+00:00,New York City,Travel and Transportation,General Travel
+72156,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-04-29 10:54:55+00:00,New York City,Dining and Drinking,Restaurant
+72157,448,40.76565,-73.978738,3532,Pizza Place,2012-04-29 10:56:07+00:00,New York City,Dining and Drinking,Restaurant
+72158,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-29 11:44:25+00:00,New York City,Travel and Transportation,Lodging
+72159,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-04-29 19:53:06+00:00,New York City,Dining and Drinking,Restaurant
+72160,448,40.78134764680911,-74.02038353333334,16715,Food Truck,2012-04-29 20:44:34+00:00,New York City,Dining and Drinking,Food Truck
+72161,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-08-05 10:16:08+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72162,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-08-05 10:20:12+00:00,New York City,Business and Professional Services,Business and Professional Services
+72163,448,40.765259,-73.976405,10882,Deli / Bodega,2012-08-05 10:54:40+00:00,New York City,Dining and Drinking,Restaurant
+72164,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-05 11:39:46+00:00,New York City,Travel and Transportation,Lodging
+72165,448,40.765706,-73.978719,22164,American Restaurant,2012-08-05 23:47:33+00:00,New York City,Dining and Drinking,Restaurant
+72166,448,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-08-12 01:41:33+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+72167,448,40.82296794249877,-73.8196063041687,26591,Neighborhood,2012-08-12 02:03:42+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+72168,448,40.83805399211512,-73.8290093242531,21492,American Restaurant,2012-08-12 02:13:54+00:00,New York City,Dining and Drinking,Restaurant
+72169,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-12 02:45:45+00:00,New York City,Travel and Transportation,Lodging
+72170,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-08-12 03:16:25+00:00,New York City,Business and Professional Services,Business and Professional Services
+72171,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-08-12 10:11:11+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72172,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-08-12 10:12:40+00:00,New York City,Business and Professional Services,Business and Professional Services
+72173,448,40.77058372565758,-74.0280814919753,34191,General Travel,2012-08-12 10:17:49+00:00,New York City,Travel and Transportation,General Travel
+72174,448,40.77002136356674,-74.02777738865593,16238,Coffee Shop,2012-08-12 10:18:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+72175,448,40.76626966719217,-74.02486830030224,18311,General Travel,2012-08-12 10:22:16+00:00,New York City,Travel and Transportation,General Travel
+72176,448,40.76044707055429,-73.98752245874954,9356,Coffee Shop,2012-08-12 10:32:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+72177,448,40.76238860409968,-73.98595570238331,6298,Drugstore / Pharmacy,2012-08-12 10:35:32+00:00,New York City,Retail,Pharmacy
+72178,448,40.76451514869764,-73.98073308885695,2082,Hotel,2012-08-12 10:44:09+00:00,New York City,Travel and Transportation,Lodging
+72179,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-12 11:45:20+00:00,New York City,Travel and Transportation,Lodging
+72180,448,40.765259,-73.976405,10882,Deli / Bodega,2012-08-12 11:53:18+00:00,New York City,Dining and Drinking,Restaurant
+72181,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-19 12:14:37+00:00,New York City,Travel and Transportation,Lodging
+72182,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-07-08 09:45:23+00:00,New York City,Business and Professional Services,Business and Professional Services
+72183,448,40.76597841669596,-73.98156527304751,6703,Food & Drink Shop,2012-07-08 10:11:55+00:00,New York City,Retail,Food and Beverage Retail
+72184,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-08 10:14:28+00:00,New York City,Dining and Drinking,Restaurant
+72185,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-08 12:28:53+00:00,New York City,Travel and Transportation,Lodging
+72186,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-15 10:28:39+00:00,New York City,Retail,Pharmacy
+72187,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-15 11:03:35+00:00,New York City,Dining and Drinking,Restaurant
+72188,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-15 11:05:32+00:00,New York City,Travel and Transportation,Lodging
+72189,448,40.774697291507216,-73.98194979831837,2817,Movie Theater,2012-07-15 21:15:56+00:00,New York City,Arts and Entertainment,Movie Theater
+72190,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-22 10:45:55+00:00,New York City,Dining and Drinking,Restaurant
+72191,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-22 13:04:21+00:00,New York City,Travel and Transportation,Lodging
+72192,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-07-29 10:12:58+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72193,448,40.78256518919916,-74.02104108883961,32067,Food & Drink Shop,2012-07-29 10:14:26+00:00,New York City,Retail,Food and Beverage Retail
+72194,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-07-29 10:17:01+00:00,New York City,Business and Professional Services,Business and Professional Services
+72195,448,40.76626966719217,-74.02486830030224,18311,General Travel,2012-07-29 10:22:16+00:00,New York City,Travel and Transportation,General Travel
+72196,448,40.76550396773661,-73.98017638431811,13980,Bank,2012-07-29 10:45:15+00:00,New York City,Business and Professional Services,Financial Service
+72197,448,40.767226519828455,-73.97850626102887,35459,Neighborhood,2012-07-29 10:46:41+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+72198,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-29 15:09:12+00:00,New York City,Travel and Transportation,Lodging
+72199,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-29 20:24:22+00:00,New York City,Retail,Pharmacy
+72200,448,40.78134764680911,-74.02038353333334,16715,Food Truck,2012-07-29 20:27:40+00:00,New York City,Dining and Drinking,Food Truck
+72201,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-06-03 10:47:28+00:00,New York City,Dining and Drinking,Restaurant
+72202,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-06-03 11:27:07+00:00,New York City,Travel and Transportation,Lodging
+72203,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-05-06 23:08:04+00:00,New York City,Retail,Pharmacy
+72204,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-04-12 03:47:16+00:00,New York City,Retail,Pharmacy
+72205,448,40.76634628548823,-73.97933271560386,11176,Gym / Fitness Center,2012-04-12 18:20:10+00:00,New York City,Sports and Recreation,Gym and Studio
+72206,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-12 19:23:03+00:00,New York City,Travel and Transportation,Lodging
+72207,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-04-19 03:39:33+00:00,New York City,Retail,Pharmacy
+72208,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-19 04:02:55+00:00,New York City,Retail,Pharmacy
+72209,448,40.781915760952245,-74.02135667889696,16615,Building,2012-04-19 04:03:42+00:00,New York City,Landmarks and Outdoors,Structure
+72210,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-19 12:14:00+00:00,New York City,Retail,Pharmacy
+72211,448,40.746660318495536,-73.94468171423318,14613,Park,2012-04-19 12:57:28+00:00,New York City,Landmarks and Outdoors,Park
+72212,448,40.74482280084993,-73.93645570868266,7815,Community College,2012-04-19 13:03:18+00:00,New York City,Community and Government,Education
+72213,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-19 20:00:27+00:00,New York City,Travel and Transportation,Lodging
+72214,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-04-26 03:33:15+00:00,New York City,Retail,Pharmacy
+72215,448,40.780669,-74.017295,29051,Miscellaneous Shop,2012-04-26 03:53:50+00:00,New York City,Retail,Miscellaneous Store
+72216,448,40.78193151328793,-74.02065090404695,19954,American Restaurant,2012-04-26 04:07:01+00:00,New York City,Dining and Drinking,Restaurant
+72217,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-04-26 04:07:18+00:00,New York City,Business and Professional Services,Financial Service
+72218,448,40.77898056540547,-74.01584812294713,10028,Coffee Shop,2012-04-26 04:40:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+72219,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-26 11:11:40+00:00,New York City,Retail,Pharmacy
+72220,448,40.78134764680911,-74.02038353333334,16715,Food Truck,2012-08-09 16:44:11+00:00,New York City,Dining and Drinking,Food Truck
+72221,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-08-16 17:47:39+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72222,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-08-16 18:05:48+00:00,New York City,Business and Professional Services,Business and Professional Services
+72223,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-16 18:42:10+00:00,New York City,Travel and Transportation,Lodging
+72224,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-05 03:18:22+00:00,New York City,Travel and Transportation,Lodging
+72225,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-07-05 03:36:46+00:00,New York City,Retail,Pharmacy
+72226,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-07-05 12:08:24+00:00,New York City,Community and Government,Government Building
+72227,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-05 12:08:41+00:00,New York City,Retail,Pharmacy
+72228,448,40.74496887505584,-73.93666236767062,27119,College Academic Building,2012-07-05 12:49:57+00:00,New York City,Community and Government,Education
+72229,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-05 20:20:54+00:00,New York City,Travel and Transportation,Lodging
+72230,448,40.73337267488567,-74.03368949890137,12828,Scenic Lookout,2012-07-12 04:04:17+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+72231,448,40.7507553754594,-74.03535113809455,31221,Other Nightlife,2012-07-12 17:36:25+00:00,New York City,Nightlife Spot,Other Nightlife
+72232,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-12 19:58:25+00:00,New York City,Travel and Transportation,Lodging
+72233,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-06-07 03:41:22+00:00,New York City,Retail,Pharmacy
+72234,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-06-21 14:59:57+00:00,New York City,Retail,Pharmacy
+72235,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-05-03 12:07:14+00:00,New York City,Retail,Pharmacy
+72236,448,40.77163734695387,-74.02936675347344,29525,Outdoors & Recreation,2012-05-03 12:18:01+00:00,New York City,Landmarks and Outdoors,Landmarks and Outdoors
+72237,448,40.757228299100944,-73.99697437685539,23469,Drugstore / Pharmacy,2012-05-03 12:36:55+00:00,New York City,Retail,Pharmacy
+72238,448,40.745306184001095,-73.94837379455566,19043,Neighborhood,2012-05-03 12:58:04+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+72239,448,40.74467151923719,-73.93426855422129,24096,College & University,2012-05-03 15:27:42+00:00,New York City,Community and Government,Education
+72240,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-03 17:10:13+00:00,New York City,Travel and Transportation,Lodging
+72241,448,40.78131515421472,-74.0213394649073,18981,Drugstore / Pharmacy,2012-05-17 12:31:45+00:00,New York City,Retail,Pharmacy
+72242,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-17 17:14:50+00:00,New York City,Travel and Transportation,Lodging
+72243,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-31 20:15:00+00:00,New York City,Travel and Transportation,Lodging
+72244,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-10 04:43:13+00:00,New York City,Travel and Transportation,Lodging
+72245,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-10 09:12:40+00:00,New York City,Travel and Transportation,Lodging
+72246,448,40.76393002190952,-73.97746170919268,7109,Drugstore / Pharmacy,2012-04-10 09:14:13+00:00,New York City,Retail,Pharmacy
+72247,448,40.78129194530576,-74.0208861626204,18981,Drugstore / Pharmacy,2012-04-10 17:47:24+00:00,New York City,Retail,Pharmacy
+72248,448,40.77992473129132,-74.01747775397403,12861,Food & Drink Shop,2012-04-10 17:50:03+00:00,New York City,Retail,Food and Beverage Retail
+72249,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-10 18:15:25+00:00,New York City,Travel and Transportation,Lodging
+72250,448,40.78129194530576,-74.0208861626204,18981,Drugstore / Pharmacy,2012-04-17 12:02:01+00:00,New York City,Retail,Pharmacy
+72251,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-04-17 12:30:52+00:00,New York City,Retail,Pharmacy
+72252,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-17 20:45:11+00:00,New York City,Travel and Transportation,Lodging
+72253,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-04-24 04:37:16+00:00,New York City,Retail,Pharmacy
+72254,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-24 12:26:33+00:00,New York City,Retail,Pharmacy
+72255,448,40.78134764680911,-74.02038353333334,16715,Food Truck,2012-04-24 15:38:28+00:00,New York City,Dining and Drinking,Food Truck
+72256,448,40.765259,-73.976405,10882,Deli / Bodega,2012-08-14 02:07:17+00:00,New York City,Dining and Drinking,Restaurant
+72257,448,40.76595281193595,-73.97656637453203,23758,Sculpture Garden,2012-08-14 02:07:54+00:00,New York City,Landmarks and Outdoors,Sculpture Garden
+72258,448,40.765706,-73.978719,22164,American Restaurant,2012-08-14 03:42:16+00:00,New York City,Dining and Drinking,Restaurant
+72259,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-08-14 05:46:21+00:00,New York City,Business and Professional Services,Business and Professional Services
+72260,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-08-14 14:13:25+00:00,New York City,Retail,Pharmacy
+72261,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-08-14 17:24:23+00:00,New York City,Community and Government,Government Building
+72262,448,40.781915760952245,-74.02135667889696,16615,Building,2012-08-14 17:47:21+00:00,New York City,Landmarks and Outdoors,Structure
+72263,448,40.77270779374563,-74.01981888969186,29813,Athletic & Sport,2012-08-14 17:56:54+00:00,New York City,Sports and Recreation,Baseball
+72264,448,40.76771599348754,-73.9818005796479,11982,Cosmetics Shop,2012-08-14 18:20:42+00:00,New York City,Retail,Cosmetics Store
+72265,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-08-14 19:33:36+00:00,New York City,Travel and Transportation,Lodging
+72266,448,40.765259,-73.976405,10882,Deli / Bodega,2012-07-03 01:10:56+00:00,New York City,Dining and Drinking,Restaurant
+72267,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-03 03:13:55+00:00,New York City,Travel and Transportation,Lodging
+72268,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-07-03 04:19:43+00:00,New York City,Business and Professional Services,Financial Service
+72269,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-03 12:06:51+00:00,New York City,Retail,Pharmacy
+72270,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-07-03 12:37:22+00:00,New York City,Retail,Pharmacy
+72271,448,40.74496887505584,-73.93666236767062,27119,College Academic Building,2012-07-03 13:00:48+00:00,New York City,Community and Government,Education
+72272,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-07-17 04:01:07+00:00,New York City,Retail,Pharmacy
+72273,448,40.78138010963118,-74.02039843110883,19954,American Restaurant,2012-07-17 04:30:39+00:00,New York City,Dining and Drinking,Restaurant
+72274,448,40.745306184001095,-73.94837379455566,19043,Neighborhood,2012-07-17 13:01:03+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+72275,448,40.74496887505584,-73.93666236767062,27119,College Academic Building,2012-07-17 13:10:32+00:00,New York City,Community and Government,Education
+72276,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-17 19:17:14+00:00,New York City,Travel and Transportation,Lodging
+72277,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-24 08:49:19+00:00,New York City,Travel and Transportation,Lodging
+72278,448,40.765259,-73.976405,10882,Deli / Bodega,2012-07-24 08:50:11+00:00,New York City,Dining and Drinking,Restaurant
+72279,448,40.76393002190952,-73.97746170919268,7109,Drugstore / Pharmacy,2012-07-24 08:51:36+00:00,New York City,Retail,Pharmacy
+72280,448,40.77314457454595,-74.02712327798466,28461,Professional & Other Places,2012-07-24 16:44:56+00:00,New York City,Business and Professional Services,Business and Professional Services
+72281,448,40.778182357482805,-74.02403630434436,29814,Professional & Other Places,2012-07-24 16:46:15+00:00,New York City,Business and Professional Services,Business and Professional Services
+72282,448,40.77898056540547,-74.01584812294713,10028,Coffee Shop,2012-06-05 04:08:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+72283,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-06-26 16:34:36+00:00,New York City,Community and Government,Government Building
+72284,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-06-26 18:27:46+00:00,New York City,Dining and Drinking,Restaurant
+72285,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-06-26 18:31:20+00:00,New York City,Travel and Transportation,Lodging
+72286,448,40.78134764680911,-74.02038353333334,16715,Food Truck,2012-05-01 15:57:56+00:00,New York City,Dining and Drinking,Food Truck
+72287,448,40.74467151923719,-73.93426855422129,24096,College & University,2012-05-08 14:34:47+00:00,New York City,Community and Government,Education
+72288,448,40.778029402341005,-74.02415680053551,29814,Professional & Other Places,2012-05-08 15:19:20+00:00,New York City,Business and Professional Services,Business and Professional Services
+72289,448,40.78536352382889,-74.01893522909396,18166,Post Office,2012-05-08 15:28:55+00:00,New York City,Community and Government,Government Building
+72290,448,40.78314438485617,-74.02056483376467,19954,American Restaurant,2012-05-08 15:38:28+00:00,New York City,Dining and Drinking,Restaurant
+72291,448,40.781915760952245,-74.02135667889696,16615,Building,2012-05-08 17:40:07+00:00,New York City,Landmarks and Outdoors,Structure
+72292,448,40.76730619756757,-73.98221953946711,6701,Bank,2012-05-08 18:07:57+00:00,New York City,Business and Professional Services,Financial Service
+72293,448,40.78131515421472,-74.0213394649073,18981,Drugstore / Pharmacy,2012-05-15 12:12:14+00:00,New York City,Retail,Pharmacy
+72294,448,40.74467151923719,-73.93426855422129,24096,College & University,2012-05-15 13:03:25+00:00,New York City,Community and Government,Education
+72295,448,40.74482280084993,-73.93645570868266,7815,Community College,2012-05-15 13:04:39+00:00,New York City,Community and Government,Education
+72296,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-05-15 18:12:33+00:00,New York City,Dining and Drinking,Restaurant
+72297,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-15 19:48:35+00:00,New York City,Travel and Transportation,Lodging
+72298,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-22 10:12:13+00:00,New York City,Travel and Transportation,Lodging
+72299,448,40.76730619756757,-73.98221953946711,6701,Bank,2012-05-22 11:21:12+00:00,New York City,Business and Professional Services,Financial Service
+72300,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-05-22 11:30:23+00:00,New York City,Retail,Pharmacy
+72301,448,40.78131515421472,-74.0213394649073,18981,Drugstore / Pharmacy,2012-05-22 12:17:56+00:00,New York City,Retail,Pharmacy
+72302,448,40.78137523354071,-74.02031236071267,22349,Post Office,2012-05-22 12:18:18+00:00,New York City,Community and Government,Government Building
+72303,448,40.78131515421472,-74.0213394649073,18981,Drugstore / Pharmacy,2012-05-29 12:20:01+00:00,New York City,Retail,Pharmacy
+72304,448,40.78505003333333,-74.019416,21609,Fried Chicken Joint,2012-05-29 15:06:34+00:00,New York City,Dining and Drinking,Restaurant
+72305,448,40.76536396124975,-73.97578597068787,419,American Restaurant,2012-04-04 02:09:43+00:00,New York City,Dining and Drinking,Restaurant
+72306,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-04-04 03:33:14+00:00,New York City,Retail,Pharmacy
+72307,448,40.78129194530576,-74.02120749093491,18981,Drugstore / Pharmacy,2012-04-04 12:05:26+00:00,New York City,Retail,Pharmacy
+72308,448,40.77732762,-74.02333137,10917,College Academic Building,2012-04-04 12:05:46+00:00,New York City,Community and Government,Education
+72309,448,40.744673971876566,-73.93414800168307,24096,College & University,2012-04-04 13:05:19+00:00,New York City,Community and Government,Education
+72310,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-04 18:24:55+00:00,New York City,Travel and Transportation,Lodging
+72311,448,40.76466691294306,-73.97603835470167,2960,Coffee Shop,2012-04-11 01:28:35+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+72312,448,40.76417771937801,-73.97379999367688,635,Breakfast Spot,2012-04-11 01:29:55+00:00,New York City,Dining and Drinking,Breakfast Spot
+72313,448,40.78139497312454,-74.02042899936573,19954,American Restaurant,2012-04-11 04:23:49+00:00,New York City,Dining and Drinking,Restaurant
+72314,448,40.78129194530576,-74.0208861626204,18981,Drugstore / Pharmacy,2012-04-11 04:24:16+00:00,New York City,Retail,Pharmacy
+72315,448,40.7825229194457,-74.0210468268453,12513,Bank,2012-04-11 17:46:07+00:00,New York City,Business and Professional Services,Financial Service
+72316,448,40.77732762,-74.02333137,10917,College Academic Building,2012-04-11 17:53:57+00:00,New York City,Community and Government,Education
+72317,448,40.7657964899803,-73.97983203018806,10828,French Restaurant,2012-04-11 18:21:10+00:00,New York City,Dining and Drinking,Restaurant
+72318,448,40.76550287178739,-73.97801268229685,5067,Sandwich Place,2012-04-11 18:23:11+00:00,New York City,Dining and Drinking,Restaurant
+72319,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-11 20:17:22+00:00,New York City,Travel and Transportation,Lodging
+72320,448,40.74482280084993,-73.93645570868266,7815,Community College,2012-04-18 16:51:55+00:00,New York City,Community and Government,Education
+72321,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-18 17:04:29+00:00,New York City,Travel and Transportation,Lodging
+72322,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-04-25 12:13:15+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72323,448,40.78125960819895,-74.02147143878837,18981,Drugstore / Pharmacy,2012-04-25 12:20:12+00:00,New York City,Retail,Pharmacy
+72324,448,40.74467151923719,-73.93388967456309,24096,College & University,2012-04-25 15:28:50+00:00,New York City,Community and Government,Education
+72325,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-04-25 17:38:55+00:00,New York City,Travel and Transportation,Lodging
+72326,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-08-22 17:20:17+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72327,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-08-22 17:20:45+00:00,New York City,Retail,Pharmacy
+72328,448,40.765528416649566,-73.97759371330933,5067,Sandwich Place,2012-07-04 17:49:57+00:00,New York City,Dining and Drinking,Restaurant
+72329,448,40.76771599348754,-73.9818005796479,11982,Cosmetics Shop,2012-07-11 18:23:33+00:00,New York City,Retail,Cosmetics Store
+72330,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-11 18:24:16+00:00,New York City,Dining and Drinking,Restaurant
+72331,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-07-11 18:27:58+00:00,New York City,Travel and Transportation,Lodging
+72332,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-07-18 13:54:12+00:00,New York City,Retail,Pharmacy
+72333,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-07-18 14:35:53+00:00,New York City,Dining and Drinking,Restaurant
+72334,448,40.78131515421472,-74.02185014594022,18981,Drugstore / Pharmacy,2012-06-06 11:13:30+00:00,New York City,Retail,Pharmacy
+72335,448,40.74467151923719,-73.93426855422129,24096,College & University,2012-06-06 14:37:32+00:00,New York City,Community and Government,Education
+72336,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-06-06 15:07:19+00:00,New York City,Retail,Pharmacy
+72337,448,40.7776455932643,-74.02505765059927,31722,Electronics Store,2012-06-06 17:42:33+00:00,New York City,Retail,Computers and Electronics Retail
+72338,448,40.76581089317222,-73.97978611625746,10828,French Restaurant,2012-06-06 18:10:51+00:00,New York City,Dining and Drinking,Restaurant
+72339,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-06-06 21:33:35+00:00,New York City,Travel and Transportation,Lodging
+72340,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-06-20 20:29:23+00:00,New York City,Travel and Transportation,Lodging
+72341,448,40.75616479199092,-73.99060249328613,11110,Drugstore / Pharmacy,2012-06-27 03:38:57+00:00,New York City,Retail,Pharmacy
+72342,448,40.78138010963118,-74.02039843110883,19954,American Restaurant,2012-06-27 04:18:42+00:00,New York City,Dining and Drinking,Restaurant
+72343,448,40.77384561257285,-74.02068533214899,13681,Sandwich Place,2012-05-09 03:49:46+00:00,New York City,Dining and Drinking,Restaurant
+72344,448,40.74473641042899,-73.93688624799225,27119,College Academic Building,2012-05-09 13:06:07+00:00,New York City,Community and Government,Education
+72345,448,40.74493242661375,-73.93427429481646,17145,Caribbean Restaurant,2012-05-09 16:56:51+00:00,New York City,Dining and Drinking,Restaurant
+72346,448,40.757123775433385,-73.98948267102242,595,Mexican Restaurant,2012-05-16 03:39:48+00:00,New York City,Dining and Drinking,Restaurant
+72347,448,40.78270514781954,-74.02119027693179,12513,Bank,2012-05-16 03:54:21+00:00,New York City,Business and Professional Services,Financial Service
+72348,448,40.780935,-74.022422,27889,Furniture / Home Store,2012-05-16 04:11:39+00:00,New York City,Retail,Furniture and Home Store
+72349,448,40.78131515421472,-74.0213394649073,18981,Drugstore / Pharmacy,2012-05-16 12:21:03+00:00,New York City,Retail,Pharmacy
+72350,448,40.78214848000715,-74.02146570079545,32820,Other Great Outdoors,2012-05-16 12:21:36+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+72351,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-16 17:23:50+00:00,New York City,Travel and Transportation,Lodging
+72352,448,40.76537005568367,-73.97605687379837,5609,Hotel,2012-05-23 19:04:09+00:00,New York City,Travel and Transportation,Lodging

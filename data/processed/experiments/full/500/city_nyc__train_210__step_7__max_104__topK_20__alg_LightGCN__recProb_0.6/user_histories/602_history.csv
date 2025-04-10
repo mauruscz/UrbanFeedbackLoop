@@ -1,0 +1,39 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,602,40.76295864769284,-73.97392988204956,35690,Other Great Outdoors,2012-06-03 16:10:14+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+1,602,40.73528249691621,-73.99040315158283,758,Park,2012-10-28 02:13:20+00:00,New York City,Landmarks and Outdoors,Park,,,,
+2,602,40.57840084043545,-73.93618583679199,1774,Community College,2012-06-07 16:11:56+00:00,New York City,Community and Government,Education,,,,
+3,602,40.76820821285607,-73.9818177971927,9180,Clothing Store,2012-10-25 00:54:28+00:00,New York City,Retail,Boutique,,,,
+4,602,40.76820821285607,-73.9818177971927,9180,Clothing Store,2012-10-23 00:53:45+00:00,New York City,Retail,Boutique,,,,
+5,602,40.76820821285607,-73.9818177971927,9180,Clothing Store,2012-10-24 00:57:40+00:00,New York City,Retail,Boutique,,,,
+6,602,40.76803326982161,-73.98186922073364,2490,Plaza,2012-10-24 12:08:33+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+7,602,40.77004915560613,-73.9742476679648,17799,Park,2012-11-01 18:00:09+00:00,,Landmarks and Outdoors,Park,2.0,0.0,nyc,Explore
+8,602,40.77681261234783,-73.9893417165806,32542,Caf�,2012-11-27 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",28.0,4.0,nyc,Rec
+9,602,40.76820821285607,-73.9818177971927,9180,Clothing Store,2012-12-02 18:00:09+00:00,,Retail,Boutique,33.0,4.0,nyc,Return
+10,602,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-12-04 18:00:09+00:00,,Arts and Entertainment,Movie Theater,35.0,5.0,nyc,Rec
+11,602,40.756886542825015,-73.98890555539138,15809,Clothing Store,2012-12-05 18:00:09+00:00,,Retail,Fashion Retail,36.0,5.0,nyc,Rec
+12,602,40.76820821285607,-73.9818177971927,9180,Clothing Store,2012-12-05 18:00:09+00:00,,Retail,Boutique,36.0,5.0,nyc,Return
+13,602,40.773883557841096,-73.98221953946711,27055,Department Store,2012-12-09 18:00:09+00:00,,Retail,Department Store,40.0,5.0,nyc,Rec
+14,602,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-12-10 18:00:09+00:00,,Arts and Entertainment,Movie Theater,41.0,5.0,nyc,Return
+15,602,40.74904512643806,-73.98845672607422,5789,Drugstore / Pharmacy,2012-12-12 18:00:09+00:00,,Retail,Pharmacy,43.0,6.0,nyc,Rec
+16,602,40.74866717767752,-73.98837625980377,3577,Park,2012-12-12 18:00:09+00:00,,Landmarks and Outdoors,Park,43.0,6.0,nyc,Rec
+17,602,40.751339,-73.98671,35423,Electronics Store,2012-12-14 18:00:09+00:00,,Retail,Computers and Electronics Retail,45.0,6.0,nyc,Rec
+18,602,40.74481848035928,-73.99515151977539,2017,Food & Drink Shop,2012-12-17 18:00:09+00:00,,Retail,Food and Beverage Retail,48.0,6.0,nyc,Rec
+19,602,40.76820821285607,-73.9818177971927,9180,Clothing Store,2012-12-18 18:00:09+00:00,,Retail,Boutique,49.0,7.0,nyc,Return
+20,602,40.762404872356775,-73.98765445595464,3680,Burger Joint,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Rec
+21,602,40.751339,-73.98671,35423,Electronics Store,2012-12-21 18:00:09+00:00,,Retail,Computers and Electronics Retail,52.0,7.0,nyc,Return
+22,602,40.773883557841096,-73.98221953946711,27055,Department Store,2012-12-27 18:00:09+00:00,,Retail,Department Store,58.0,8.0,nyc,Return
+23,602,40.75875624280933,-73.97866122153226,2357,Plaza,2013-01-01 18:00:09+00:00,,Landmarks and Outdoors,Plaza,63.0,9.0,nyc,Rec
+24,602,40.77305062967737,-73.97622585296631,9941,Park,2013-01-01 18:00:09+00:00,,Landmarks and Outdoors,Park,63.0,9.0,nyc,Explore
+25,602,40.761373,-73.960426,11136,Movie Theater,2013-01-05 18:00:09+00:00,,Arts and Entertainment,Movie Theater,67.0,9.0,nyc,Rec
+26,602,40.751339,-73.98671,35423,Electronics Store,2013-01-07 18:00:09+00:00,,Retail,Computers and Electronics Retail,69.0,9.0,nyc,Return
+27,602,40.74107414663219,-74.0051408163161,2460,Electronics Store,2013-01-07 18:00:09+00:00,,Retail,Computers and Electronics Retail,69.0,9.0,nyc,Rec
+28,602,40.73714,-74.000557,33676,Park,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,Park,73.0,10.0,nyc,Rec
+29,602,40.73575873502163,-74.0058696269989,28126,Italian Restaurant,2013-01-18 18:00:09+00:00,,Dining and Drinking,Restaurant,80.0,11.0,nyc,Explore
+30,602,40.751339,-73.98671,35423,Electronics Store,2013-01-18 18:00:09+00:00,,Retail,Computers and Electronics Retail,80.0,11.0,nyc,Return
+31,602,40.751339,-73.98671,35423,Electronics Store,2013-01-21 18:00:09+00:00,,Retail,Computers and Electronics Retail,83.0,11.0,nyc,Return
+32,602,40.75546586313989,-73.98723363876343,1413,Seafood Restaurant,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Rec
+33,602,40.7702393297702,-73.9818263053894,5264,Electronics Store,2013-01-30 18:00:09+00:00,,Retail,Computers and Electronics Retail,92.0,13.0,nyc,Rec
+34,602,40.77681261234783,-73.9893417165806,32542,Caf�,2013-02-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",95.0,13.0,nyc,Return
+35,602,40.73682775975944,-73.99064540863037,344,Ramen /  Noodle House,2013-02-02 18:00:09+00:00,,Dining and Drinking,Restaurant,95.0,13.0,nyc,Rec
+36,602,40.756886542825015,-73.98890555539138,15809,Clothing Store,2013-02-02 18:00:09+00:00,,Retail,Fashion Retail,95.0,13.0,nyc,Return
+37,602,40.773883557841096,-73.98221953946711,27055,Department Store,2013-02-03 18:00:09+00:00,,Retail,Department Store,96.0,13.0,nyc,Return

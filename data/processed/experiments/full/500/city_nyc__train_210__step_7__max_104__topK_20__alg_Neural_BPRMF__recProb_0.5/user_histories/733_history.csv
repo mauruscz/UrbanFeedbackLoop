@@ -1,0 +1,186 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-06 13:00:49+00:00,New York City,Community and Government,Education,,,,
+1,733,40.795504,-73.971137,27356,Tea Room,2012-04-13 14:29:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+2,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-20 11:39:43+00:00,New York City,Community and Government,Education,,,,
+3,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-04-27 11:20:15+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+4,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-27 11:56:05+00:00,New York City,Community and Government,Education,,,,
+5,733,40.76958930130034,-73.98352146148682,12123,Post Office,2012-04-27 15:04:07+00:00,New York City,Community and Government,Government Building,,,,
+6,733,40.74970544117887,-73.99526422825804,10878,Sandwich Place,2012-08-10 18:11:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,733,40.74961027938681,-73.99443210345586,4579,Performing Arts Venue,2012-08-10 18:12:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+8,733,40.7258054966638,-73.99475921501585,36512,Office,2012-08-10 18:59:43+00:00,New York City,Business and Professional Services,Office,,,,
+9,733,40.759534,-73.991765,3487,Mexican Restaurant,2012-07-06 00:09:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,733,40.776676566038034,-73.98056665158647,16340,College Academic Building,2012-07-20 14:28:33+00:00,New York City,Community and Government,Education,,,,
+11,733,40.764094308747225,-73.97870713573151,1130,Burger Joint,2012-06-08 00:36:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-04 11:35:07+00:00,New York City,Community and Government,Education,,,,
+13,733,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-05-04 20:44:15+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+14,733,40.73528249691621,-73.99040315158283,758,Park,2012-05-04 20:46:18+00:00,New York City,Landmarks and Outdoors,Park,,,,
+15,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-11 11:29:35+00:00,New York City,Community and Government,Education,,,,
+16,733,40.73294333129904,-74.00651764387628,4272,Sandwich Place,2012-05-11 16:33:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,733,40.73228891214305,-74.01051196130837,8917,Park,2012-05-11 16:56:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+18,733,40.680271537004856,-73.97469534121134,34709,Coffee Shop,2012-05-18 15:57:37+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+19,733,40.70534572585503,-74.00799815619315,18733,Bar,2012-05-25 12:49:53+00:00,New York City,Dining and Drinking,Bar,,,,
+20,733,40.7645026089675,-73.9740800857544,17436,Food & Drink Shop,2012-05-25 21:53:44+00:00,New York City,Dining and Drinking,Food Court,,,,
+21,733,40.76035821078917,-73.97618293762207,18178,Clothing Store,2012-05-25 23:48:28+00:00,New York City,Retail,Fashion Retail,,,,
+22,733,40.760528,-73.99107,8856,Bar,2012-10-26 12:24:10+00:00,New York City,Dining and Drinking,Juice Bar,,,,
+23,733,40.76211797819745,-73.971416011912,5416,Hotel,2012-09-14 19:15:01+00:00,New York City,Travel and Transportation,Lodging,,,,
+24,733,40.75816510418584,-73.98926137117284,6734,Coffee Shop,2012-04-09 16:19:37+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+25,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-09 22:57:44+00:00,New York City,Community and Government,Education,,,,
+26,733,40.76792357432163,-73.98194432258606,1542,Mall,2012-04-23 16:48:23+00:00,New York City,Retail,Shopping Mall,,,,
+27,733,40.77153602090561,-73.98197504172984,6403,Coffee Shop,2012-04-23 17:46:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+28,733,40.76958930130034,-73.98352146148682,12123,Post Office,2012-04-23 21:15:09+00:00,New York City,Community and Government,Government Building,,,,
+29,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-23 21:33:33+00:00,New York City,Community and Government,Education,,,,
+30,733,40.776279919308685,-73.97965411364586,12216,Caf�,2012-08-20 11:43:17+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+31,733,40.776676566038034,-73.98056665158647,16340,College Academic Building,2012-08-20 11:43:57+00:00,New York City,Community and Government,Education,,,,
+32,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-07-02 11:04:00+00:00,New York City,Community and Government,Education,,,,
+33,733,40.7581662972909,-73.98925563221387,6734,Coffee Shop,2012-07-16 11:19:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+34,733,40.7258054966638,-73.99475921501585,36512,Office,2012-07-16 21:46:25+00:00,New York City,Business and Professional Services,Office,,,,
+35,733,40.7581662972909,-73.98925563221387,6734,Coffee Shop,2012-07-30 11:24:15+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+36,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2012-07-30 14:33:10+00:00,New York City,Community and Government,Education,,,,
+37,733,40.76025741910786,-73.99089122857772,35416,Bakery,2012-06-04 00:47:34+00:00,New York City,Dining and Drinking,Bakery,,,,
+38,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-07 22:36:58+00:00,New York City,Community and Government,Education,,,,
+39,733,40.75845677498381,-73.98914046612941,18884,Burger Joint,2012-05-14 02:28:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+40,733,40.75816510418584,-73.98926137117284,6734,Coffee Shop,2012-05-14 14:24:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+41,733,40.72258988915407,-73.99762859073955,8606,Music Venue,2012-05-14 14:57:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+42,733,40.76066701799484,-73.98463726043701,32993,Caf�,2012-05-14 17:18:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+43,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-05-14 22:43:39+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+44,733,40.77512313487252,-73.98058960845994,4977,Pizza Place,2012-05-21 16:24:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,733,40.74828059076867,-73.98556262254715,1434,Building,2012-05-21 18:43:21+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+46,733,40.75061379403183,-73.98856401443481,1028,Department Store,2012-05-21 19:56:21+00:00,New York City,Retail,Department Store,,,,
+47,733,40.74068911286629,-74.00761842727661,4023,American Restaurant,2012-05-21 21:03:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+48,733,40.76900427024065,-73.98231983184814,5063,Coffee Shop,2012-05-21 22:25:51+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+49,733,40.760514,-73.98735301666666,10484,Paper / Office Supplies Store,2012-04-07 22:03:20+00:00,New York City,Retail,Office Supply Store,,,,
+50,733,40.76044707055429,-73.98752245874954,9356,Coffee Shop,2012-04-07 22:08:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+51,733,40.75678244392934,-74.00150299072266,25885,General Entertainment,2012-04-14 00:15:28+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+52,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-21 17:11:40+00:00,New York City,Community and Government,Education,,,,
+53,733,40.73307782481848,-73.9998896285404,7755,Coffee Shop,2012-08-11 14:59:26+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+54,733,40.77512313487252,-73.98058960845994,4977,Pizza Place,2012-08-11 19:40:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+55,733,40.77512313487252,-73.98058960845994,4977,Pizza Place,2012-06-16 20:11:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+56,733,40.73492041854701,-73.98829722365633,17,Music Venue,2012-06-16 22:08:58+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+57,733,40.75724351364952,-73.98981231043612,7756,Drugstore / Pharmacy,2012-05-05 00:51:40+00:00,New York City,Retail,Pharmacy,,,,
+58,733,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-05-05 01:19:57+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+59,733,40.75695,-73.981180075,26803,Italian Restaurant,2012-05-05 17:31:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,733,40.75625946737783,-73.98153657710093,10819,Miscellaneous Shop,2012-05-05 18:50:43+00:00,New York City,Retail,Miscellaneous Store,,,,
+61,733,40.76077075688608,-73.98828000669236,35483,General Entertainment,2012-05-12 22:05:26+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+62,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-19 21:38:57+00:00,New York City,Community and Government,Education,,,,
+63,733,40.76078078870895,-73.98433685302734,178,Asian Restaurant,2012-05-26 23:44:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+64,733,40.760528,-73.99107,8856,Bar,2012-10-27 16:52:59+00:00,New York City,Dining and Drinking,Juice Bar,,,,
+65,733,40.78534773308225,-73.97571695061713,29747,Church,2012-04-08 20:59:39+00:00,New York City,Community and Government,Spiritual Center,,,,
+66,733,40.7594122094148,-73.9917807575885,1556,Diner,2012-04-08 23:00:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+67,733,40.76175595827059,-73.98618221282959,5753,Food & Drink Shop,2012-04-15 01:11:08+00:00,New York City,Retail,Food and Beverage Retail,,,,
+68,733,40.7646651291205,-73.98807048797607,25701,Neighborhood,2012-04-15 14:25:03+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+69,733,40.756534165264014,-73.99421402877248,1224,American Restaurant,2012-04-15 14:25:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+70,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-15 17:06:55+00:00,New York City,Community and Government,Education,,,,
+71,733,40.753645495975405,-73.99337042174062,4256,Performing Arts Venue,2012-04-15 21:32:10+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+72,733,40.75845677498381,-73.98914046612941,18884,Burger Joint,2012-08-12 00:01:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+73,733,40.75990632437138,-73.99154546321914,21245,Caf�,2012-08-12 03:18:38+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+74,733,40.763202433436525,-73.98326396942139,24129,Theater,2012-08-12 18:50:54+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+75,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-06 19:52:31+00:00,New York City,Community and Government,Education,,,,
+76,733,40.75377861076244,-73.99197445110599,3562,Performing Arts Venue,2012-05-13 16:59:56+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+77,733,40.7581662972909,-73.98925563221387,6734,Coffee Shop,2012-10-28 12:55:43+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+78,733,40.85755681582586,-73.93595054133993,37066,Church,2012-10-28 14:19:09+00:00,New York City,Community and Government,Spiritual Center,,,,
+79,733,40.85755681582586,-73.93595054133993,37066,Church,2012-09-09 14:26:53+00:00,New York City,Community and Government,Spiritual Center,,,,
+80,733,40.77153602090561,-73.98197504172984,6403,Coffee Shop,2012-09-09 17:57:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+81,733,40.76900427024065,-73.98231983184814,5063,Coffee Shop,2012-04-12 21:10:44+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+82,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-12 21:15:11+00:00,New York City,Community and Government,Education,,,,
+83,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2012-08-09 20:30:38+00:00,New York City,Community and Government,Education,,,,
+84,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2012-08-16 23:16:22+00:00,New York City,Community and Government,Education,,,,
+85,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-07-05 21:31:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+86,733,40.760487,-73.991105,5740,Pizza Place,2012-06-07 19:21:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+87,733,40.759534,-73.991765,3487,Mexican Restaurant,2012-05-03 17:27:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+88,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-05-03 20:57:05+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+89,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-03 22:56:32+00:00,New York City,Community and Government,Education,,,,
+90,733,40.760528,-73.99107,8856,Bar,2012-05-03 23:21:18+00:00,New York City,Dining and Drinking,Juice Bar,,,,
+91,733,40.753645495975405,-73.99337042174062,4256,Performing Arts Venue,2012-05-03 23:53:53+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+92,733,40.758039,-73.989254,23848,Vegetarian / Vegan Restaurant,2012-05-10 17:26:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+93,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-05-10 21:10:23+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+94,733,40.78534773308225,-73.97571695061713,29747,Church,2012-05-10 23:10:44+00:00,New York City,Community and Government,Spiritual Center,,,,
+95,733,40.762282,-73.989731,26559,American Restaurant,2012-05-24 02:35:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+96,733,40.76927305057831,-73.98820539983072,7903,Sandwich Place,2012-10-18 16:37:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+97,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2012-10-18 16:49:09+00:00,New York City,Community and Government,Education,,,,
+98,733,40.71126904840372,-73.96146558382536,1660,Fried Chicken Joint,2012-10-25 00:18:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+99,733,40.713565479798646,-73.97236347198486,2957,Bridge,2012-10-25 01:15:25+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+100,733,40.760514,-73.98735301666666,10484,Paper / Office Supplies Store,2012-09-13 13:50:09+00:00,New York City,Retail,Office Supply Store,,,,
+101,733,40.73528249691621,-73.99040315158283,758,Park,2012-04-03 23:33:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+102,733,40.73686901343388,-73.9913446019438,348,American Restaurant,2012-04-03 23:47:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+103,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-10 17:44:02+00:00,New York City,Community and Government,Education,,,,
+104,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-04-17 14:27:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+105,733,40.77659832355566,-73.98040021417187,16340,College Academic Building,2012-04-17 16:52:37+00:00,New York City,Community and Government,Education,,,,
+106,733,40.78299024253496,-73.98049778094963,10176,Electronics Store,2012-04-17 17:21:46+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+107,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-17 19:22:22+00:00,New York City,Community and Government,Education,,,,
+108,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-04-24 14:29:18+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+109,733,40.76958930130034,-73.98352146148682,12123,Post Office,2012-04-24 19:21:51+00:00,New York City,Community and Government,Government Building,,,,
+110,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-24 20:23:38+00:00,New York City,Community and Government,Education,,,,
+111,733,40.76900427024065,-73.98231983184814,5063,Coffee Shop,2012-08-14 23:04:03+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+112,733,40.77972961755197,-73.98221380029767,32154,College Academic Building,2012-07-03 11:32:23+00:00,New York City,Community and Government,Education,,,,
+113,733,40.75917172765403,-73.98837089538574,35483,General Entertainment,2012-07-03 14:34:50+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+114,733,40.7258054966638,-73.99475921501585,36512,Office,2012-07-17 18:47:05+00:00,New York City,Business and Professional Services,Office,,,,
+115,733,40.7270333463285,-73.99521257923753,5081,Coffee Shop,2012-07-24 16:54:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+116,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-06-12 15:10:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+117,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-01 19:21:59+00:00,New York City,Community and Government,Education,,,,
+118,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-08 14:37:03+00:00,New York City,Community and Government,Education,,,,
+119,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-15 19:16:08+00:00,New York City,Community and Government,Education,,,,
+120,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-22 10:36:51+00:00,New York City,Community and Government,Education,,,,
+121,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-05-29 10:25:40+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+122,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-29 11:14:33+00:00,New York City,Community and Government,Education,,,,
+123,733,40.76900427024065,-73.98231983184814,5063,Coffee Shop,2012-05-29 16:46:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+124,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-29 17:49:51+00:00,New York City,Community and Government,Education,,,,
+125,733,40.75816510418584,-73.98926137117284,6734,Coffee Shop,2012-04-11 18:55:07+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+126,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-11 22:54:23+00:00,New York City,Community and Government,Education,,,,
+127,733,40.70534572585503,-74.00799815619315,18733,Bar,2012-04-18 13:57:01+00:00,New York City,Dining and Drinking,Bar,,,,
+128,733,40.77005170684906,-73.9842167600201,5127,Deli / Bodega,2012-04-18 20:10:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+129,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-04-18 20:24:28+00:00,New York City,Community and Government,Education,,,,
+130,733,40.77972961755197,-73.98221380029767,32154,College Academic Building,2012-06-27 14:20:19+00:00,New York City,Community and Government,Education,,,,
+131,733,40.76162732877561,-73.99033455348567,6652,Coffee Shop,2012-05-16 11:51:05+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+132,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-16 13:05:29+00:00,New York City,Community and Government,Education,,,,
+133,733,40.76958930130034,-73.98352146148682,12123,Post Office,2012-05-16 15:06:53+00:00,New York City,Community and Government,Government Building,,,,
+134,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-16 21:41:10+00:00,New York City,Community and Government,Education,,,,
+135,733,40.77095885665391,-73.98710351049733,8070,Diner,2012-05-23 16:23:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+136,733,40.769076,-73.984595,6434,Coffee Shop,2012-05-23 16:51:14+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+137,733,40.77197905799648,-73.98753393677096,10127,College Academic Building,2012-05-23 17:00:22+00:00,New York City,Community and Government,Education,,,,
+138,733,40.76025741910786,-73.99089122857772,35416,Bakery,2012-05-30 02:07:10+00:00,New York City,Dining and Drinking,Bakery,,,,
+139,733,40.770983215678605,-73.98713220561226,8070,Diner,2012-10-24 20:23:08+00:00,New York City,Dining and Drinking,Restaurant,,,,
+140,733,40.769076,-73.984595,6434,Coffee Shop,2012-10-24 21:28:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+141,733,40.76900427024065,-73.98231983184814,5063,Coffee Shop,2012-09-05 23:55:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+142,733,40.769076,-73.984595,6434,Coffee Shop,2012-11-01 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",2.0,0.0,nyc,Return
+143,733,40.795504,-73.971137,27356,Tea Room,2012-11-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",3.0,0.0,nyc,Return
+144,733,40.79969791024797,-73.96598274410916,28686,School,2012-11-05 18:00:09+00:00,,Community and Government,Education,6.0,0.0,nyc,Explore
+145,733,40.759534,-73.991765,3487,Mexican Restaurant,2012-11-09 18:00:09+00:00,,Dining and Drinking,Restaurant,10.0,1.0,nyc,Return
+146,733,40.76000526277984,-73.98262128090157,22330,College Academic Building,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Rec
+147,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Return
+148,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2012-12-12 18:00:09+00:00,,Community and Government,Education,43.0,6.0,nyc,Return
+149,733,40.760528,-73.99107,8856,Bar,2012-12-14 18:00:09+00:00,,Dining and Drinking,Juice Bar,45.0,6.0,nyc,Return
+150,733,40.79272919548404,-73.97301369144537,31412,Church,2012-12-16 18:00:09+00:00,,Community and Government,Spiritual Center,47.0,6.0,nyc,Rec
+151,733,40.76035821078917,-73.97618293762207,18178,Clothing Store,2012-12-19 18:00:09+00:00,,Retail,Fashion Retail,50.0,7.0,nyc,Return
+152,733,40.769076,-73.984595,6434,Coffee Shop,2012-12-19 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",50.0,7.0,nyc,Rec
+153,733,40.73990873115271,-73.98478746414185,5777,College Academic Building,2012-12-21 18:00:09+00:00,,Community and Government,Education,52.0,7.0,nyc,Explore
+154,733,40.73850832201872,-73.98997896387137,2068,Movie Theater,2012-12-27 18:00:09+00:00,,Arts and Entertainment,Movie Theater,58.0,8.0,nyc,Rec
+155,733,40.74068911286629,-74.00761842727661,4023,American Restaurant,2012-12-28 18:00:09+00:00,,Dining and Drinking,Restaurant,59.0,8.0,nyc,Rec
+156,733,40.72898242586681,-73.9958381652832,1292,University,2012-12-31 18:00:09+00:00,,Community and Government,Education,62.0,8.0,nyc,Rec
+157,733,40.76078078870895,-73.98433685302734,178,Asian Restaurant,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Return
+158,733,40.76806170936614,-73.98184776306152,1792,Food & Drink Shop,2013-01-05 18:00:09+00:00,,Retail,Food and Beverage Retail,67.0,9.0,nyc,Rec
+159,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2013-01-12 18:00:09+00:00,,Community and Government,Education,74.0,10.0,nyc,Return
+160,733,40.75752044383661,-73.98714368365702,23170,Bowling Alley,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Bowling Alley,75.0,10.0,nyc,Rec
+161,733,40.759534,-73.991765,3487,Mexican Restaurant,2013-01-15 18:00:09+00:00,,Dining and Drinking,Restaurant,77.0,11.0,nyc,Return
+162,733,40.75990632437138,-73.99154546321914,21245,Caf�,2013-01-15 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",77.0,11.0,nyc,Rec
+163,733,40.750819,-73.974513,20374,Student Center,2013-01-15 18:00:09+00:00,,Community and Government,Education,77.0,11.0,nyc,Explore
+164,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2013-01-21 18:00:09+00:00,,Community and Government,Education,83.0,11.0,nyc,Return
+165,733,40.776676566038034,-73.98056665158647,16340,College Academic Building,2013-01-21 18:00:09+00:00,,Community and Government,Education,83.0,11.0,nyc,Rec
+166,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2013-01-22 18:00:09+00:00,,Community and Government,Education,84.0,12.0,nyc,Return
+167,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2013-01-24 18:00:09+00:00,,Community and Government,Education,86.0,12.0,nyc,Rec
+168,733,40.76000526277984,-73.98262128090157,22330,College Academic Building,2013-01-25 18:00:09+00:00,,Community and Government,Education,87.0,12.0,nyc,Rec
+169,733,40.73455542492954,-73.99114947936063,18533,Trade School,2013-01-26 18:00:09+00:00,,Community and Government,Education,88.0,12.0,nyc,Explore
+170,733,40.73506873749967,-73.98890800774097,14226,College Theater,2013-01-26 18:00:09+00:00,,Community and Government,Education,88.0,12.0,nyc,Rec
+171,733,40.72953528798119,-73.9934778213501,7493,College Academic Building,2013-01-27 18:00:09+00:00,,Community and Government,Education,89.0,12.0,nyc,Rec
+172,733,40.76000526277984,-73.98262128090157,22330,College Academic Building,2013-01-30 18:00:09+00:00,,Community and Government,Education,92.0,13.0,nyc,Return
+173,733,40.76174247599141,-73.98835461352502,17120,High School,2013-01-31 18:00:09+00:00,,Community and Government,Education,93.0,13.0,nyc,Explore
+174,733,40.747819655365696,-73.99595288053506,25106,School,2013-02-01 18:00:09+00:00,,Community and Government,Education,94.0,13.0,nyc,Explore
+175,733,40.73416736029532,-73.99048715829849,1514,Movie Theater,2013-02-02 18:00:09+00:00,,Arts and Entertainment,Movie Theater,95.0,13.0,nyc,Return
+176,733,40.7359494789306,-73.98941058404617,37778,American Restaurant,2013-02-03 18:00:09+00:00,,Dining and Drinking,Restaurant,96.0,13.0,nyc,Rec
+177,733,40.73316247409845,-73.99104044018358,5375,Bookstore,2013-02-03 18:00:09+00:00,,Retail,Bookstore,96.0,13.0,nyc,Rec
+178,733,40.7270333463285,-73.99521257923753,5081,Coffee Shop,2013-02-03 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",96.0,13.0,nyc,Rec
+179,733,40.71403139778074,-74.00765385202588,24042,Mosque,2013-02-03 18:00:09+00:00,,Community and Government,Spiritual Center,96.0,13.0,nyc,Rec
+180,733,40.71696987660609,-74.00713739461277,15349,College Academic Building,2013-02-04 18:00:09+00:00,,Community and Government,Education,97.0,13.0,nyc,Explore
+181,733,40.750819,-73.974513,20374,Student Center,2013-02-05 18:00:09+00:00,,Community and Government,Education,98.0,14.0,nyc,Return
+182,733,40.747819655365696,-73.99595288053506,25106,School,2013-02-06 18:00:09+00:00,,Community and Government,Education,99.0,14.0,nyc,Return
+183,733,40.73652697126574,-73.9905595779419,2449,Food & Drink Shop,2013-02-06 18:00:09+00:00,,Retail,Food and Beverage Retail,99.0,14.0,nyc,Rec
+184,733,40.77214895320598,-73.98764871694762,10127,College Academic Building,2013-02-07 18:00:09+00:00,,Community and Government,Education,100.0,14.0,nyc,Return

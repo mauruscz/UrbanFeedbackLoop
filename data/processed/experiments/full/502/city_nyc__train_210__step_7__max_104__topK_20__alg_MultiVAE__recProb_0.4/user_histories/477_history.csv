@@ -1,0 +1,113 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-10-19 11:15:34+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+1,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-10-26 11:00:10+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+2,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-26 11:00:34+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+3,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-26 13:01:01+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+4,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-22 15:12:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+5,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-10-22 15:13:28+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+6,477,40.6967419365,-73.86038456407891,14293,Other Great Outdoors,2012-10-27 15:59:01+00:00,New York City,Landmarks and Outdoors,Park,,,,
+7,477,40.71930319592984,-73.84248928555374,1628,Bar,2012-10-28 01:25:59+00:00,New York City,Dining and Drinking,Bar,,,,
+8,477,40.727049229319135,-73.85342994908308,6669,Donut Shop,2012-10-28 13:20:40+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+9,477,40.70699430376329,-73.85486125946045,7498,Food & Drink Shop,2012-10-28 18:28:41+00:00,New York City,Retail,Food and Beverage Retail,,,,
+10,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-11 23:31:46+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+11,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-18 14:32:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+12,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-10-18 14:32:56+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+13,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-18 23:33:43+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+14,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-16 14:34:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+15,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-10-23 13:35:59+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+16,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-23 13:38:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+17,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-10-17 10:53:54+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+18,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-17 10:57:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+19,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-17 12:14:21+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+20,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-10-24 11:00:33+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+21,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-24 11:02:43+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+22,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-10-24 12:01:17+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+23,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-10-24 21:51:45+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+24,477,40.727049229319135,-73.85342994908308,6669,Donut Shop,2012-10-31 18:00:09+00:00,,Dining and Drinking,Donut Shop,1.0,0.0,nyc,Rec
+25,477,40.72888618653993,-73.8515807037366,36990,Gym / Fitness Center,2012-10-31 18:00:09+00:00,,Sports and Recreation,Gym and Studio,1.0,0.0,nyc,Explore
+26,477,40.727049229319135,-73.85342994908308,6669,Donut Shop,2012-11-02 18:00:09+00:00,,Dining and Drinking,Donut Shop,3.0,0.0,nyc,Return
+27,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-11-02 18:00:09+00:00,,Sports and Recreation,Gym and Studio,3.0,0.0,nyc,Return
+28,477,40.71519351736084,-73.8326565285212,8884,Coffee Shop,2012-11-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",3.0,0.0,nyc,Explore
+29,477,40.72345355209305,-73.79508018493652,21536,Gym / Fitness Center,2012-11-05 18:00:09+00:00,,Sports and Recreation,Gym and Studio,6.0,0.0,nyc,Rec
+30,477,40.71519351736084,-73.8326565285212,8884,Coffee Shop,2012-11-05 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",6.0,0.0,nyc,Return
+31,477,40.727096155848784,-73.85378837585449,6194,Gym / Fitness Center,2012-11-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,7.0,1.0,nyc,Rec
+32,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-11-09 18:00:09+00:00,,Sports and Recreation,Gym and Studio,10.0,1.0,nyc,Rec
+33,477,40.73452709967436,-73.8709545135498,23930,Coffee Shop,2012-11-09 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",10.0,1.0,nyc,Rec
+34,477,40.74695985180416,-73.89102558186725,23765,Coffee Shop,2012-11-09 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",10.0,1.0,nyc,Rec
+35,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-11-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",12.0,1.0,nyc,Return
+36,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-11-11 18:00:09+00:00,,Sports and Recreation,Gym and Studio,12.0,1.0,nyc,Rec
+37,477,40.73709857380555,-73.99039768167009,3849,Coffee Shop,2012-11-12 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",13.0,1.0,nyc,Rec
+38,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-11-13 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",14.0,2.0,nyc,Return
+39,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-11-13 18:00:09+00:00,,Sports and Recreation,Gym and Studio,14.0,2.0,nyc,Rec
+40,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-11-15 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",16.0,2.0,nyc,Return
+41,477,40.70699430376329,-73.85486125946045,7498,Food & Drink Shop,2012-11-15 18:00:09+00:00,,Retail,Food and Beverage Retail,16.0,2.0,nyc,Return
+42,477,40.72345355209305,-73.79508018493652,21536,Gym / Fitness Center,2012-11-16 18:00:09+00:00,,Sports and Recreation,Gym and Studio,17.0,2.0,nyc,Return
+43,477,40.75811474431927,-73.82963977754116,3436,Coffee Shop,2012-11-16 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",17.0,2.0,nyc,Rec
+44,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-11-17 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",18.0,2.0,nyc,Return
+45,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-11-20 18:00:09+00:00,,Sports and Recreation,Gym and Studio,21.0,3.0,nyc,Return
+46,477,40.72285185282303,-73.86757493019104,9262,Coffee Shop,2012-11-20 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",21.0,3.0,nyc,Rec
+47,477,40.718083,-73.872387,33001,Gym / Fitness Center,2012-11-21 18:00:09+00:00,,Sports and Recreation,Gym and Studio,22.0,3.0,nyc,Rec
+48,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-11-21 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",22.0,3.0,nyc,Return
+49,477,40.70699430376329,-73.85486125946045,7498,Food & Drink Shop,2012-11-22 18:00:09+00:00,,Retail,Food and Beverage Retail,23.0,3.0,nyc,Return
+50,477,40.71226274511636,-73.86161925532339,25042,Playground,2012-11-22 18:00:09+00:00,,Landmarks and Outdoors,Park,23.0,3.0,nyc,Explore
+51,477,40.708328109767216,-73.86910915374756,14112,Coffee Shop,2012-11-24 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",25.0,3.0,nyc,Rec
+52,477,40.73452709967436,-73.8709545135498,23930,Coffee Shop,2012-11-27 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",28.0,4.0,nyc,Rec
+53,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-11-28 18:00:09+00:00,,Sports and Recreation,Gym and Studio,29.0,4.0,nyc,Return
+54,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-12-01 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",32.0,4.0,nyc,Rec
+55,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-12-02 18:00:09+00:00,,Sports and Recreation,Gym and Studio,33.0,4.0,nyc,Rec
+56,477,40.72040231147416,-73.84445160627365,8563,Coffee Shop,2012-12-04 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",35.0,5.0,nyc,Rec
+57,477,40.72888618653993,-73.8515807037366,36990,Gym / Fitness Center,2012-12-04 18:00:09+00:00,,Sports and Recreation,Gym and Studio,35.0,5.0,nyc,Return
+58,477,40.730185708117375,-73.8631010055542,18010,Coffee Shop,2012-12-05 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",36.0,5.0,nyc,Explore
+59,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-12-05 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",36.0,5.0,nyc,Return
+60,477,40.745901560214506,-73.98814227092512,5949,Coffee Shop,2012-12-06 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",37.0,5.0,nyc,Rec
+61,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-12-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,37.0,5.0,nyc,Return
+62,477,40.76164249465777,-73.9841880644695,4467,Gym / Fitness Center,2012-12-09 18:00:09+00:00,,Sports and Recreation,Gym and Studio,40.0,5.0,nyc,Rec
+63,477,40.727049229319135,-73.85342994908308,6669,Donut Shop,2012-12-09 18:00:09+00:00,,Dining and Drinking,Donut Shop,40.0,5.0,nyc,Return
+64,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-12-10 18:00:09+00:00,,Sports and Recreation,Gym and Studio,41.0,5.0,nyc,Return
+65,477,40.76489500515031,-73.916954,3860,Bagel Shop,2012-12-11 18:00:09+00:00,,Dining and Drinking,Bagel Shop,42.0,6.0,nyc,Rec
+66,477,40.76465036454902,-73.9165178220257,4322,Caf�,2012-12-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",42.0,6.0,nyc,Rec
+67,477,40.75937462848275,-73.96302106011225,26502,Gym / Fitness Center,2012-12-11 18:00:09+00:00,,Sports and Recreation,Gym and Studio,42.0,6.0,nyc,Explore
+68,477,40.774697291507216,-73.98194979831837,2817,Movie Theater,2012-12-14 18:00:09+00:00,,Arts and Entertainment,Movie Theater,45.0,6.0,nyc,Rec
+69,477,40.6967419365,-73.86038456407891,14293,Other Great Outdoors,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,Park,46.0,6.0,nyc,Return
+70,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2012-12-18 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",49.0,7.0,nyc,Rec
+71,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-12-18 18:00:09+00:00,,Sports and Recreation,Gym and Studio,49.0,7.0,nyc,Rec
+72,477,40.72040231147416,-73.84445160627365,8563,Coffee Shop,2012-12-18 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",49.0,7.0,nyc,Return
+73,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2012-12-19 18:00:09+00:00,,Sports and Recreation,Gym and Studio,50.0,7.0,nyc,Rec
+74,477,40.727096155848784,-73.85378837585449,6194,Gym / Fitness Center,2012-12-19 18:00:09+00:00,,Sports and Recreation,Gym and Studio,50.0,7.0,nyc,Rec
+75,477,40.72285185282303,-73.86757493019104,9262,Coffee Shop,2012-12-20 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",51.0,7.0,nyc,Rec
+76,477,40.708328109767216,-73.86910915374756,14112,Coffee Shop,2012-12-21 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",52.0,7.0,nyc,Return
+77,477,40.73083612189599,-73.99764060974121,896,Park,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,Park,53.0,7.0,nyc,Rec
+78,477,40.727096155848784,-73.85378837585449,6194,Gym / Fitness Center,2012-12-22 18:00:09+00:00,,Sports and Recreation,Gym and Studio,53.0,7.0,nyc,Return
+79,477,40.727049229319135,-73.85342994908308,6669,Donut Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Donut Shop,54.0,7.0,nyc,Return
+80,477,40.72775687471664,-73.856717,10478,Furniture / Home Store,2012-12-23 18:00:09+00:00,,Retail,Furniture and Home Store,54.0,7.0,nyc,Rec
+81,477,40.72847584883827,-73.85125335104324,17201,Playground,2012-12-23 18:00:09+00:00,,Landmarks and Outdoors,Park,54.0,7.0,nyc,Explore
+82,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2013-01-04 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",66.0,9.0,nyc,Return
+83,477,40.76489500515031,-73.916954,3860,Bagel Shop,2013-01-04 18:00:09+00:00,,Dining and Drinking,Bagel Shop,66.0,9.0,nyc,Return
+84,477,40.76527249139269,-73.91729861277493,3315,Coffee Shop,2013-01-07 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",69.0,9.0,nyc,Explore
+85,477,40.75589879828258,-73.9792121911996,8406,Bookstore,2013-01-07 18:00:09+00:00,,Retail,Bookstore,69.0,9.0,nyc,Rec
+86,477,40.75627189290939,-73.98303449978644,32779,Gym / Fitness Center,2013-01-09 18:00:09+00:00,,Sports and Recreation,Gym and Studio,71.0,10.0,nyc,Rec
+87,477,40.72912513547399,-73.9886186067,3090,Tea Room,2013-01-10 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",72.0,10.0,nyc,Explore
+88,477,40.73512485197505,-73.99009925734258,3495,Coffee Shop,2013-01-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",73.0,10.0,nyc,Rec
+89,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2013-01-11 18:00:09+00:00,,Sports and Recreation,Gym and Studio,73.0,10.0,nyc,Return
+90,477,40.72040231147416,-73.84445160627365,8563,Coffee Shop,2013-01-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",73.0,10.0,nyc,Rec
+91,477,40.70982309942442,-73.84680244904523,14359,Coffee Shop,2013-01-12 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",74.0,10.0,nyc,Explore
+92,477,40.75133544040475,-73.83511476367168,16601,Gym / Fitness Center,2013-01-15 18:00:09+00:00,,Sports and Recreation,Gym and Studio,77.0,11.0,nyc,Explore
+93,477,40.73452709967436,-73.8709545135498,23930,Coffee Shop,2013-01-16 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",78.0,11.0,nyc,Return
+94,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2013-01-18 18:00:09+00:00,,Sports and Recreation,Gym and Studio,80.0,11.0,nyc,Return
+95,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2013-01-18 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",80.0,11.0,nyc,Return
+96,477,40.72345355209305,-73.79508018493652,21536,Gym / Fitness Center,2013-01-24 18:00:09+00:00,,Sports and Recreation,Gym and Studio,86.0,12.0,nyc,Rec
+97,477,40.70257473392312,-73.8189978337963,10367,Gym / Fitness Center,2013-01-25 18:00:09+00:00,,Sports and Recreation,Gym and Studio,87.0,12.0,nyc,Rec
+98,477,40.721273088874895,-73.84692305545667,5690,Gym / Fitness Center,2013-01-26 18:00:09+00:00,,Sports and Recreation,Gym and Studio,88.0,12.0,nyc,Return
+99,477,40.72111512901744,-73.8473308194441,8334,Coffee Shop,2013-01-28 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",90.0,12.0,nyc,Return
+100,477,40.72888618653993,-73.8515807037366,36990,Gym / Fitness Center,2013-01-29 18:00:09+00:00,,Sports and Recreation,Gym and Studio,91.0,13.0,nyc,Return
+101,477,40.73452709967436,-73.8709545135498,23930,Coffee Shop,2013-01-29 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",91.0,13.0,nyc,Return
+102,477,40.730185708117375,-73.8631010055542,18010,Coffee Shop,2013-01-30 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",92.0,13.0,nyc,Rec
+103,477,40.7364141746679,-73.87720441135609,29228,Caf�,2013-01-31 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",93.0,13.0,nyc,Explore
+104,477,40.73714913245652,-73.88753449342389,10529,Gym / Fitness Center,2013-02-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,94.0,13.0,nyc,Explore
+105,477,40.73904817158152,-73.99932150226327,2362,Food & Drink Shop,2013-02-01 18:00:09+00:00,,Retail,Food and Beverage Retail,94.0,13.0,nyc,Rec
+106,477,40.7270333463285,-73.99521257923753,5081,Coffee Shop,2013-02-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",95.0,13.0,nyc,Rec
+107,477,40.73289,-73.99,2382,Gym / Fitness Center,2013-02-02 18:00:09+00:00,,Sports and Recreation,Gym and Studio,95.0,13.0,nyc,Rec
+108,477,40.73316247409845,-73.99104044018358,5375,Bookstore,2013-02-04 18:00:09+00:00,,Retail,Bookstore,97.0,13.0,nyc,Rec
+109,477,40.73289,-73.99,2382,Gym / Fitness Center,2013-02-05 18:00:09+00:00,,Sports and Recreation,Gym and Studio,98.0,14.0,nyc,Rec
+110,477,40.76527249139269,-73.91729861277493,3315,Coffee Shop,2013-02-05 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",98.0,14.0,nyc,Return
+111,477,40.77612993333334,-73.910881,2534,Coffee Shop,2013-02-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",101.0,14.0,nyc,Rec

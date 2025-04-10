@@ -1,0 +1,105 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,590,40.75645736467708,-73.8460636138916,2664,Stadium,2012-04-20 21:06:35+00:00,New York City,Arts and Entertainment,Stadium,,,,
+1,590,40.729001,-73.851754,26747,Medical Center,2012-06-01 12:40:49+00:00,New York City,Health and Medicine,Hospital,,,,
+2,590,40.728851,-73.851599,24127,Food Truck,2012-06-01 12:41:04+00:00,New York City,Dining and Drinking,Food Truck,,,,
+3,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-06-01 12:41:21+00:00,New York City,Health and Medicine,Hospital,,,,
+4,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-11 17:06:49+00:00,New York City,Health and Medicine,Hospital,,,,
+5,590,40.729001,-73.851754,26747,Medical Center,2012-05-18 13:13:43+00:00,New York City,Health and Medicine,Hospital,,,,
+6,590,40.728994,-73.851673,31080,Office,2012-05-18 13:13:55+00:00,New York City,Business and Professional Services,Office,,,,
+7,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-18 13:14:06+00:00,New York City,Health and Medicine,Hospital,,,,
+8,590,40.727630841752486,-73.85445793820857,17310,Bank,2012-05-25 10:23:40+00:00,New York City,Business and Professional Services,Financial Service,,,,
+9,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-25 10:23:51+00:00,New York City,Health and Medicine,Hospital,,,,
+10,590,40.72622617709173,-73.85275840759277,1922,Coffee Shop,2012-10-26 10:17:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+11,590,40.89928265995013,-73.81890593022023,13034,Athletic & Sport,2012-10-26 19:44:05+00:00,New York City,Sports and Recreation,Skating,,,,
+12,590,40.90300406983152,-73.81733179092407,27328,Athletic & Sport,2012-10-26 19:44:46+00:00,New York City,Sports and Recreation,Baseball,,,,
+13,590,40.72622617709173,-73.85275840759277,1922,Coffee Shop,2012-06-04 10:20:40+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+14,590,40.72865056597071,-73.85136821169937,31672,Garden,2012-06-25 09:56:11+00:00,New York City,Landmarks and Outdoors,Garden,,,,
+15,590,40.728851,-73.851599,24127,Food Truck,2012-06-25 09:56:29+00:00,New York City,Dining and Drinking,Food Truck,,,,
+16,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-06-25 09:57:53+00:00,New York City,Health and Medicine,Hospital,,,,
+17,590,40.72622617709173,-73.85275840759277,1922,Coffee Shop,2012-05-14 10:10:10+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+18,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-14 14:29:18+00:00,New York City,Health and Medicine,Hospital,,,,
+19,590,40.729001,-73.851754,26747,Medical Center,2012-05-21 14:57:22+00:00,New York City,Health and Medicine,Hospital,,,,
+20,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-21 14:57:35+00:00,New York City,Health and Medicine,Hospital,,,,
+21,590,40.729001,-73.851754,26747,Medical Center,2012-05-28 04:48:15+00:00,New York City,Health and Medicine,Hospital,,,,
+22,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-28 04:50:00+00:00,New York City,Health and Medicine,Hospital,,,,
+23,590,40.72622617709173,-73.85275840759277,1922,Coffee Shop,2012-10-22 10:20:09+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+24,590,40.727096155848784,-73.85378837585449,6194,Gym / Fitness Center,2012-10-22 10:23:57+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+25,590,40.7277140777778,-73.84911060333252,29725,Other Great Outdoors,2012-10-22 10:24:22+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+26,590,40.72911917050392,-73.85141989897276,31080,Office,2012-10-22 13:57:31+00:00,New York City,Business and Professional Services,Office,,,,
+27,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-10-22 13:57:43+00:00,New York City,Health and Medicine,Hospital,,,,
+28,590,40.75645736467708,-73.8460636138916,2664,Stadium,2012-06-02 22:02:17+00:00,New York City,Arts and Entertainment,Stadium,,,,
+29,590,40.75645736467708,-73.8460636138916,2664,Stadium,2012-05-26 02:12:53+00:00,New York City,Arts and Entertainment,Stadium,,,,
+30,590,40.728851,-73.851599,24127,Food Truck,2012-08-12 13:09:16+00:00,New York City,Dining and Drinking,Food Truck,,,,
+31,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-08-12 13:09:28+00:00,New York City,Health and Medicine,Hospital,,,,
+32,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-08-12 13:12:12+00:00,New York City,Health and Medicine,Hospital,,,,
+33,590,40.72898410675644,-73.85201143013575,28477,Arts & Entertainment,2012-06-03 00:04:07+00:00,New York City,Arts and Entertainment,Arts and Entertainment,,,,
+34,590,40.729001,-73.851754,26747,Medical Center,2012-06-03 00:04:27+00:00,New York City,Health and Medicine,Hospital,,,,
+35,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-06-03 00:05:15+00:00,New York City,Health and Medicine,Hospital,,,,
+36,590,40.72863302214128,-73.85132801047735,34319,Pizza Place,2012-06-03 03:39:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+37,590,40.7277140777778,-73.84911060333252,29725,Other Great Outdoors,2012-06-03 03:39:33+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+38,590,40.726608318694055,-73.85198593139648,24909,Asian Restaurant,2012-06-03 03:40:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,590,40.72916376096958,-73.85140841291317,35971,Other Great Outdoors,2012-06-03 03:46:43+00:00,New York City,Landmarks and Outdoors,Hiking Trail,,,,
+40,590,40.72747893333333,-73.853639,27133,College & University,2012-06-03 04:11:02+00:00,New York City,Community and Government,Education,,,,
+41,590,40.728851,-73.851599,24127,Food Truck,2012-06-03 04:32:17+00:00,New York City,Dining and Drinking,Food Truck,,,,
+42,590,40.72458111607981,-73.85005305317975,26770,Flower Shop,2012-06-03 06:59:09+00:00,New York City,Retail,Flower Store,,,,
+43,590,40.729129254581984,-73.85078242165285,23444,Bar,2012-06-03 06:59:24+00:00,New York City,Dining and Drinking,Bar,,,,
+44,590,40.72747893333333,-73.853639,27133,College & University,2012-06-03 09:22:02+00:00,New York City,Community and Government,Education,,,,
+45,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-06-03 09:23:49+00:00,New York City,Health and Medicine,Hospital,,,,
+46,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-06 22:41:13+00:00,New York City,Health and Medicine,Hospital,,,,
+47,590,40.72847584883827,-73.85125335104324,17201,Playground,2012-05-27 16:59:12+00:00,New York City,Landmarks and Outdoors,Park,,,,
+48,590,40.72863302214128,-73.85132801047735,34319,Pizza Place,2012-05-27 17:00:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,590,40.72622617709173,-73.85275840759277,1922,Coffee Shop,2012-04-12 10:19:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+50,590,40.84037521859294,-73.92638655678455,29819,Playground,2012-06-07 16:08:00+00:00,New York City,Landmarks and Outdoors,Park,,,,
+51,590,40.84493541997123,-73.92549672633302,16268,General Entertainment,2012-06-07 16:09:00+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+52,590,40.848504973199496,-73.9374303817749,22606,South American Restaurant,2012-06-07 16:20:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+53,590,40.85121557428245,-73.95206451416016,3686,Bridge,2012-06-07 16:22:58+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+54,590,40.8134844303353,-74.07433032989502,15737,Stadium,2012-06-07 16:32:55+00:00,New York City,Arts and Entertainment,Stadium,,,,
+55,590,40.60679958140643,-74.04416981025437,3921,Bridge,2012-06-07 20:12:01+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+56,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-03 19:07:11+00:00,New York City,Health and Medicine,Hospital,,,,
+57,590,40.72622617709173,-73.85275840759277,1922,Coffee Shop,2012-05-17 10:07:50+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+58,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-17 14:12:18+00:00,New York City,Health and Medicine,Hospital,,,,
+59,590,40.728851,-73.851599,24127,Food Truck,2012-05-31 15:13:51+00:00,New York City,Dining and Drinking,Food Truck,,,,
+60,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-31 15:14:21+00:00,New York City,Health and Medicine,Hospital,,,,
+61,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-31 15:14:49+00:00,New York City,Health and Medicine,Hospital,,,,
+62,590,40.87164257743646,-73.82922184036309,23875,Library,2012-05-31 19:45:42+00:00,New York City,Community and Government,Library,,,,
+63,590,40.72911917050392,-73.85141989897276,31080,Office,2012-10-25 14:56:26+00:00,New York City,Business and Professional Services,Office,,,,
+64,590,40.89656884509741,-73.79472806765762,9920,Food & Drink Shop,2012-04-10 22:31:02+00:00,New York City,Retail,Food and Beverage Retail,,,,
+65,590,40.727218836709135,-73.85561226596738,22885,Bank,2012-06-05 12:24:14+00:00,New York City,Business and Professional Services,Financial Service,,,,
+66,590,40.728851,-73.851599,24127,Food Truck,2012-06-05 12:24:27+00:00,New York City,Dining and Drinking,Food Truck,,,,
+67,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-06-05 12:24:55+00:00,New York City,Health and Medicine,Hospital,,,,
+68,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-08 18:45:58+00:00,New York City,Health and Medicine,Hospital,,,,
+69,590,40.727218836709135,-73.85561226596738,22885,Bank,2012-05-15 10:12:37+00:00,New York City,Business and Professional Services,Financial Service,,,,
+70,590,40.72622617709173,-73.85275840759277,1922,Coffee Shop,2012-05-15 10:12:48+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+71,590,40.728851,-73.851599,24127,Food Truck,2012-05-22 10:03:29+00:00,New York City,Dining and Drinking,Food Truck,,,,
+72,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-05-22 10:03:52+00:00,New York City,Health and Medicine,Hospital,,,,
+73,590,40.75196662683853,-73.85123612193904,24897,Science Museum,2012-05-22 10:59:54+00:00,New York City,Arts and Entertainment,Museum,,,,
+74,590,40.72888618653993,-73.8515807037366,36990,Gym / Fitness Center,2012-10-16 11:08:00+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+75,590,40.728851,-73.851599,24127,Food Truck,2012-10-16 11:08:30+00:00,New York City,Dining and Drinking,Food Truck,,,,
+76,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-10-16 17:32:49+00:00,New York City,Health and Medicine,Hospital,,,,
+77,590,40.729001,-73.851754,26747,Medical Center,2012-10-16 17:33:08+00:00,New York City,Health and Medicine,Hospital,,,,
+78,590,40.729242203860935,-73.85127058014594,37014,Medical Center,2012-10-16 17:33:15+00:00,New York City,Health and Medicine,Medical Center,,,,
+79,590,40.72878729696505,-73.85198593139648,11915,Medical Center,2012-10-23 17:31:46+00:00,New York City,Health and Medicine,Hospital,,,,
+80,590,40.728851,-73.851599,24127,Food Truck,2012-10-23 17:31:51+00:00,New York City,Dining and Drinking,Food Truck,,,,
+81,590,40.80023122491412,-73.82881164550781,9362,Bridge,2012-10-23 20:49:47+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+82,590,40.72622617709173,-73.85275840759277,1922,Coffee Shop,2012-06-06 10:15:46+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+83,590,40.7439438035854,-73.84954766241772,4590,Other Great Outdoors,2012-11-05 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,6.0,0.0,nyc,Rec
+84,590,40.728994,-73.851673,31080,Office,2012-11-05 18:00:09+00:00,,Business and Professional Services,Office,6.0,0.0,nyc,Rec
+85,590,40.729242203860935,-73.85127058014594,37014,Medical Center,2012-11-05 18:00:09+00:00,,Health and Medicine,Medical Center,6.0,0.0,nyc,Return
+86,590,40.729001,-73.851754,26747,Medical Center,2012-11-13 18:00:09+00:00,,Health and Medicine,Hospital,14.0,2.0,nyc,Rec
+87,590,40.70022726664775,-73.81638765335083,10880,Medical Center,2012-11-16 18:00:09+00:00,,Health and Medicine,Hospital,17.0,2.0,nyc,Rec
+88,590,40.729001,-73.851754,26747,Medical Center,2012-11-16 18:00:09+00:00,,Health and Medicine,Hospital,17.0,2.0,nyc,Return
+89,590,40.730190907930414,-73.84078352110537,27797,Medical Center,2012-11-16 18:00:09+00:00,,Health and Medicine,Medical Center,17.0,2.0,nyc,Explore
+90,590,40.728851,-73.851599,24127,Food Truck,2012-11-16 18:00:09+00:00,,Dining and Drinking,Food Truck,17.0,2.0,nyc,Rec
+91,590,40.729242203860935,-73.85127058014594,37014,Medical Center,2012-11-20 18:00:09+00:00,,Health and Medicine,Medical Center,21.0,3.0,nyc,Rec
+92,590,40.727486422997785,-73.85490417480469,7339,Diner,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Explore
+93,590,40.730553069350144,-73.88788475346524,27139,Medical Center,2013-01-07 18:00:09+00:00,,Health and Medicine,Medical Center,69.0,9.0,nyc,Rec
+94,590,40.729001,-73.851754,26747,Medical Center,2013-01-07 18:00:09+00:00,,Health and Medicine,Hospital,69.0,9.0,nyc,Rec
+95,590,40.730553069350144,-73.88788475346524,27139,Medical Center,2013-01-14 18:00:09+00:00,,Health and Medicine,Medical Center,76.0,10.0,nyc,Return
+96,590,40.75338271988277,-73.97444280771313,25283,Tea Room,2013-01-17 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",79.0,11.0,nyc,Rec
+97,590,40.75645736467708,-73.8460636138916,2664,Stadium,2013-01-27 18:00:09+00:00,,Arts and Entertainment,Stadium,89.0,12.0,nyc,Return
+98,590,40.69137925322243,-73.82089333554757,26913,Medical Center,2013-01-29 18:00:09+00:00,,Health and Medicine,Medical Center,91.0,13.0,nyc,Rec
+99,590,40.713565479798646,-73.97236347198486,2957,Bridge,2013-01-29 18:00:09+00:00,,Landmarks and Outdoors,Bridge,91.0,13.0,nyc,Rec
+100,590,40.71515505125825,-73.96037502101534,4335,Gym / Fitness Center,2013-01-30 18:00:09+00:00,,Sports and Recreation,Gym and Studio,92.0,13.0,nyc,Rec
+101,590,40.72189644077951,-73.98809731006622,28961,Caf�,2013-01-30 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",92.0,13.0,nyc,Explore
+102,590,40.8134844303353,-74.07433032989502,15737,Stadium,2013-02-03 18:00:09+00:00,,Arts and Entertainment,Stadium,96.0,13.0,nyc,Return
+103,590,40.793679919218334,-73.99671613391786,30276,Medical Center,2013-02-03 18:00:09+00:00,,Health and Medicine,Hospital,96.0,13.0,nyc,Explore

@@ -1,0 +1,105 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-20 17:24:09+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+1,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-27 23:55:31+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+2,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-07-06 22:50:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+3,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-06-15 14:20:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+4,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-04 01:37:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+5,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-11 18:52:32+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+6,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-25 22:14:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+7,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-16 15:32:42+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+8,777,40.61738649032055,-74.00436571600838,34790,Laundry Service,2012-04-16 15:36:19+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+9,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-23 20:43:43+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+10,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-07-02 22:23:30+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+11,777,40.621435812210166,-74.02644047585369,3431,Pizza Place,2012-07-09 21:11:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,777,40.63913856641359,-74.01417257232058,24288,Church,2012-06-11 00:34:41+00:00,New York City,Community and Government,Spiritual Center,,,,
+13,777,40.64052203305652,-74.01515954227706,14426,Pizza Place,2012-06-11 00:36:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-06-11 02:31:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+15,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-06-11 17:43:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+16,777,40.620338698348974,-74.00737840824577,23133,Deli / Bodega,2012-06-11 17:44:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,777,40.63913856641359,-74.01417257232058,24288,Church,2012-06-18 00:31:59+00:00,New York City,Community and Government,Spiritual Center,,,,
+18,777,40.64052203305652,-74.01515954227706,14426,Pizza Place,2012-06-18 00:33:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,777,40.639652516059975,-74.03231620788574,14366,Park,2012-06-18 18:19:30+00:00,New York City,Landmarks and Outdoors,Park,,,,
+20,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-07 19:07:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+21,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-28 01:19:21+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+22,777,40.63415270628344,-74.01454555575245,4415,Donut Shop,2012-10-08 14:29:07+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+23,777,40.71462852035936,-73.97615888109496,22259,Other Great Outdoors,2012-10-08 21:57:54+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+24,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-14 17:50:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+25,777,40.73169799836348,-73.98922693741638,182,Music Venue,2012-04-28 02:27:10+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+26,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-28 23:57:45+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+27,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-07-14 02:28:09+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+28,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-07-28 14:43:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+29,777,40.70547452417812,-74.00831376780194,19520,Hotel,2012-06-09 14:27:13+00:00,New York City,Travel and Transportation,Lodging,,,,
+30,777,40.76609348850453,-73.98334441336685,14956,Fast Food Restaurant,2012-10-27 11:39:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,777,40.677882,-73.985852,1393,Bar,2012-09-15 23:48:39+00:00,New York City,Dining and Drinking,Bar,,,,
+32,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-08 01:15:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+33,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-08 18:39:23+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+34,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-15 19:52:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+35,777,40.61738649032055,-74.00436571600838,34790,Laundry Service,2012-04-15 19:57:48+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+36,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-22 01:25:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+37,777,40.620338698348974,-74.00737840824577,23133,Deli / Bodega,2012-04-22 01:26:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-08-12 18:00:46+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+39,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-08-19 13:56:42+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+40,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-07-08 23:49:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+41,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-06-17 16:30:06+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+42,777,40.76300141892671,-73.96764149685488,26524,Cupcake Shop,2012-05-27 18:49:07+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+43,777,40.671865409721065,-74.0104541746021,22507,Harbor / Marina,2012-10-28 17:36:42+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+44,777,40.67420193066911,-74.01670575141907,1649,Food & Drink Shop,2012-10-28 17:37:56+00:00,New York City,Retail,Food and Beverage Retail,,,,
+45,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-12 02:37:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+46,777,40.65934202487998,-73.98124694824219,32854,Moroccan Restaurant,2012-07-05 00:42:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-07-05 18:23:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+48,777,40.61886047578216,-74.00910566372713,31794,Salon / Barbershop,2012-07-05 18:53:09+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+49,777,40.70543559708729,-74.00834819812775,22037,Japanese Restaurant,2012-07-26 22:42:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,777,40.707225,-73.92125,27639,Bar,2012-05-03 23:16:58+00:00,New York City,Dining and Drinking,Bar,,,,
+51,777,40.70621215482598,-73.9225516455076,24598,Food & Drink Shop,2012-05-03 23:18:22+00:00,New York City,Retail,Food and Beverage Retail,,,,
+52,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-17 19:35:35+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+53,777,40.620338698348974,-74.00737840824577,23133,Deli / Bodega,2012-05-17 19:35:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+54,777,40.76452476154621,-73.97810451099409,3116,Movie Theater,2012-05-24 00:01:41+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+55,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-24 05:09:10+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+56,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-03 22:19:43+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+57,777,40.63434458771481,-74.01447669732755,4415,Donut Shop,2012-04-24 13:37:28+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+58,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-07-10 21:42:18+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+59,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-06-05 13:47:51+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+60,777,40.76410901494752,-73.97146977479942,20684,Medical Center,2012-06-12 17:56:43+00:00,New York City,Health and Medicine,Physician,,,,
+61,777,40.76300141892671,-73.96764149685488,26524,Cupcake Shop,2012-06-12 18:08:37+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+62,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-15 01:40:10+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+63,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-15 18:07:45+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+64,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-18 02:40:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+65,777,40.61738649032055,-74.00436571600838,34790,Laundry Service,2012-04-18 16:15:30+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+66,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-18 16:16:09+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+67,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-04-25 23:43:21+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+68,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-07-04 19:18:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+69,777,40.619996708417446,-74.0276741081729,13484,Post Office,2012-06-13 16:56:05+00:00,New York City,Community and Government,Government Building,,,,
+70,777,40.62061,-74.02898490428925,15524,Deli / Bodega,2012-06-13 17:07:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+71,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-05-16 17:17:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+72,777,40.619196108296535,-73.99012221307656,9534,Coffee Shop,2012-11-01 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",2.0,0.0,nyc,Rec
+73,777,40.61473254388194,-73.99480512536556,6917,Sushi Restaurant,2012-11-01 18:00:09+00:00,,Dining and Drinking,Restaurant,2.0,0.0,nyc,Rec
+74,777,40.61960195296289,-74.00806701695224,18625,Coffee Shop,2012-11-12 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",13.0,1.0,nyc,Rec
+75,777,40.61451,-73.97415,25991,Caf�,2012-11-20 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",21.0,3.0,nyc,Rec
+76,777,40.61922980192371,-74.0330457687378,11771,Coffee Shop,2012-11-21 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",22.0,3.0,nyc,Rec
+77,777,40.6751768480464,-73.97501100761805,31928,Caf�,2012-11-22 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",23.0,3.0,nyc,Rec
+78,777,40.675225,-73.975302,4426,Coffee Shop,2012-11-23 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",24.0,3.0,nyc,Rec
+79,777,40.674890555243714,-73.97621627458902,1062,Tea Room,2012-11-24 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",25.0,3.0,nyc,Rec
+80,777,40.6737575540462,-73.98242041028934,24487,Salon / Barbershop,2012-11-24 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,25.0,3.0,nyc,Rec
+81,777,40.67734846100556,-73.96896734085733,31520,Spa / Massage,2013-01-10 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,72.0,10.0,nyc,Rec
+82,777,40.69172233906705,-73.9844061505464,25602,Hotel,2013-01-11 18:00:09+00:00,,Travel and Transportation,Lodging,73.0,10.0,nyc,Rec
+83,777,40.674890555243714,-73.97621627458902,1062,Tea Room,2013-01-12 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",74.0,10.0,nyc,Rec
+84,777,40.71889367217039,-73.9891465919606,8531,Drugstore / Pharmacy,2013-01-13 18:00:09+00:00,,Retail,Pharmacy,75.0,10.0,nyc,Rec
+85,777,40.74386162284484,-73.97221016759855,25841,Harbor / Marina,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,76.0,10.0,nyc,Rec
+86,777,40.75761580717548,-74.00201865242491,25821,Convention Center,2013-01-14 18:00:09+00:00,,Business and Professional Services,Convention Center,76.0,10.0,nyc,Rec
+87,777,40.717997,-73.959328,31275,Coffee Shop,2013-01-15 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",77.0,11.0,nyc,Rec
+88,777,40.72227957678293,-73.99517675668822,2686,Coffee Shop,2013-01-16 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",78.0,11.0,nyc,Rec
+89,777,40.70543096679698,-74.0083539365148,22037,Japanese Restaurant,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Rec
+90,777,40.71554971735815,-74.00900781154633,4710,Coffee Shop,2013-01-17 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",79.0,11.0,nyc,Rec
+91,777,40.72790384278999,-73.9931064351043,27334,Convention Center,2013-01-18 18:00:09+00:00,,Business and Professional Services,Convention Center,80.0,11.0,nyc,Rec
+92,777,40.749747475452885,-73.9914192075849,36605,Convention Center,2013-01-18 18:00:09+00:00,,Business and Professional Services,Convention Center,80.0,11.0,nyc,Rec
+93,777,40.748999,-73.990316,16734,Spa / Massage,2013-01-21 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,83.0,11.0,nyc,Rec
+94,777,40.77413176464788,-73.98797010107711,23196,Laundry Service,2013-01-24 18:00:09+00:00,,Business and Professional Services,Laundry Service,86.0,12.0,nyc,Rec
+95,777,40.77759949343153,-73.98232284448763,31174,Caf�,2013-01-25 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",87.0,12.0,nyc,Rec
+96,777,40.77792520602471,-73.9799984680946,3371,Bagel Shop,2013-01-31 18:00:09+00:00,,Dining and Drinking,Bagel Shop,93.0,13.0,nyc,Rec
+97,777,40.76468422108557,-73.95832015434064,5787,Caf�,2013-02-01 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",94.0,13.0,nyc,Rec
+98,777,40.729625,-73.99097263813019,23879,Bar,2013-02-01 18:00:09+00:00,,Dining and Drinking,Bar,94.0,13.0,nyc,Rec
+99,777,40.717997,-73.959328,31275,Coffee Shop,2013-02-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",95.0,13.0,nyc,Rec
+100,777,40.61922980192371,-74.0330457687378,11771,Coffee Shop,2013-02-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",95.0,13.0,nyc,Rec
+101,777,40.619705,-74.03263,14392,Pizza Place,2013-02-04 18:00:09+00:00,,Dining and Drinking,Restaurant,97.0,13.0,nyc,Rec
+102,777,40.61922980192371,-74.0330457687378,11771,Coffee Shop,2013-02-05 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",98.0,14.0,nyc,Rec
+103,777,40.63613065097219,-74.01166495711207,21408,Bar,2013-02-05 18:00:09+00:00,,Dining and Drinking,Bar,98.0,14.0,nyc,Rec

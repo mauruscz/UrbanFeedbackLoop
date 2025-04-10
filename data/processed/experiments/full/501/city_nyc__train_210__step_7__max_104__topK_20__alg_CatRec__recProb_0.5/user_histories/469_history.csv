@@ -1,0 +1,78 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,469,40.74330301258302,-73.91826369774468,6062,Coffee Shop,2012-04-13 13:49:34+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+1,469,40.69001,-73.992035,9257,Video Game Store,2012-08-10 23:39:46+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+2,469,40.68846273331921,-73.99299739703976,2408,Bar,2012-08-17 01:45:07+00:00,New York City,Dining and Drinking,Bar,,,,
+3,469,40.748587132745314,-73.98689116651353,30027,Hotel,2012-07-06 13:43:22+00:00,New York City,Travel and Transportation,Lodging,,,,
+4,469,40.74739935731128,-73.98363710906709,16622,Mediterranean Restaurant,2012-07-06 18:04:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,469,40.748587132745314,-73.98689116651353,30027,Hotel,2012-07-13 16:46:35+00:00,New York City,Travel and Transportation,Lodging,,,,
+6,469,40.74911838275286,-73.98829722365633,4239,Coffee Shop,2012-07-13 20:38:42+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+7,469,40.754057,-73.90632,28522,Building,2012-05-04 23:40:43+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+8,469,40.74609652901651,-73.91352093432137,12483,Bakery,2012-05-11 14:10:58+00:00,New York City,Dining and Drinking,Bakery,,,,
+9,469,40.767775958545634,-73.96375574565683,11932,College Academic Building,2012-05-11 17:20:59+00:00,New York City,Community and Government,Education,,,,
+10,469,40.767353922908285,-73.95942220846221,13274,Chinese Restaurant,2012-05-11 19:27:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,469,40.76682163793336,-73.91306163710836,35943,Bar,2012-10-12 23:36:47+00:00,New York City,Dining and Drinking,Bar,,,,
+12,469,40.778936659294864,-73.96229820007625,1277,Art Museum,2012-09-14 20:09:58+00:00,New York City,Arts and Entertainment,Museum,,,,
+13,469,40.74557029238338,-73.90323815867245,19808,Donut Shop,2012-07-02 12:55:05+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+14,469,40.74853687590484,-73.98783810408904,6707,Hotel,2012-07-02 13:31:34+00:00,New York City,Travel and Transportation,Lodging,,,,
+15,469,40.74733835203195,-73.98198997255602,16935,American Restaurant,2012-07-02 18:00:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,469,40.748587132745314,-73.98689116651353,30027,Hotel,2012-07-09 13:39:10+00:00,New York City,Travel and Transportation,Lodging,,,,
+17,469,40.74739935731128,-73.98363710906709,16622,Mediterranean Restaurant,2012-07-09 17:27:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,469,40.7457613708401,-73.9033555984497,15801,Neighborhood,2012-07-09 23:03:11+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+19,469,40.748509003291616,-73.98605326633982,8176,Deli / Bodega,2012-07-16 18:56:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,469,40.741170398201966,-73.90427162798495,12658,Gym / Fitness Center,2012-07-30 00:53:34+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+21,469,40.748509003291616,-73.98605326633982,8176,Deli / Bodega,2012-07-30 19:03:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,469,40.748587132745314,-73.98689116651353,30027,Hotel,2012-07-30 19:28:02+00:00,New York City,Travel and Transportation,Lodging,,,,
+23,469,40.743233556155545,-73.91696562886808,10922,Video Game Store,2012-04-07 19:45:16+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+24,469,40.755003488534925,-73.92358501228514,2249,Movie Theater,2012-08-18 17:58:41+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+25,469,40.76682163793336,-73.91306163710836,35943,Bar,2012-07-07 01:16:36+00:00,New York City,Dining and Drinking,Bar,,,,
+26,469,40.7469318369775,-73.9176893234253,19527,Neighborhood,2012-07-07 13:47:09+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+27,469,40.74327406189919,-73.91850471496582,12661,Electronics Store,2012-07-07 13:51:35+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+28,469,40.76682163793336,-73.91306163710836,35943,Bar,2012-07-07 20:17:16+00:00,New York City,Dining and Drinking,Bar,,,,
+29,469,40.74666007786769,-73.90926091109282,22769,Park,2012-05-05 03:22:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+30,469,40.768078,-73.963983,19892,College Academic Building,2012-05-12 21:06:02+00:00,New York City,Community and Government,Education,,,,
+31,469,40.62882278953084,-74.1151267827991,15738,Donut Shop,2012-09-15 23:49:13+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+32,469,40.745388372913794,-73.90527064311374,25256,Salon / Barbershop,2012-08-19 19:31:43+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+33,469,40.74557029238338,-73.90323815867245,19808,Donut Shop,2012-07-08 14:28:05+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+34,469,40.740442231194535,-73.90375489401333,27923,Chinese Restaurant,2012-07-08 17:38:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,469,40.765971024184296,-73.91331425070962,31846,Mexican Restaurant,2012-07-29 02:23:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,469,40.722696669250325,-73.99906326248934,4346,Clothing Store,2012-05-06 00:07:10+00:00,New York City,Retail,Fashion Retail,,,,
+37,469,40.717909,-73.99280103333334,1469,Vietnamese Restaurant,2012-05-06 00:40:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,469,40.69001,-73.992035,9257,Video Game Store,2012-08-16 23:21:44+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+39,469,40.747316833333336,-73.98538455,19852,Pizza Place,2012-07-05 18:40:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+40,469,40.74557029238338,-73.90323815867245,19808,Donut Shop,2012-07-12 12:39:05+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+41,469,40.748509003291616,-73.98605326633982,8176,Deli / Bodega,2012-07-12 13:29:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+42,469,40.747168,-73.9857,6097,Pizza Place,2012-07-12 17:42:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,469,40.748587132745314,-73.98689116651353,30027,Hotel,2012-07-12 21:22:59+00:00,New York City,Travel and Transportation,Lodging,,,,
+44,469,40.73673498897392,-73.98976065994738,1593,Bookstore,2012-07-26 22:59:29+00:00,New York City,Retail,Bookstore,,,,
+45,469,40.767775958545634,-73.96375574565683,11932,College Academic Building,2012-05-03 16:55:21+00:00,New York City,Community and Government,Education,,,,
+46,469,40.76776,-73.964527,24815,College Academic Building,2012-04-03 21:48:33+00:00,New York City,Community and Government,Education,,,,
+47,469,40.75570967636433,-73.97847890853882,10304,Coffee Shop,2012-07-03 15:36:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+48,469,40.74557029238338,-73.90323815867245,19808,Donut Shop,2012-07-17 12:15:39+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+49,469,40.74739935731128,-73.98363710906709,16622,Mediterranean Restaurant,2012-07-17 18:34:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,469,40.748509003291616,-73.98605326633982,8176,Deli / Bodega,2012-07-24 18:02:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,469,40.76410315622695,-73.95882526326085,7870,Coffee Shop,2012-05-15 19:52:25+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+52,469,40.767775958545634,-73.96375574565683,11932,College Academic Building,2012-04-04 17:16:12+00:00,New York City,Community and Government,Education,,,,
+53,469,40.754057,-73.90632,28522,Building,2012-04-11 02:48:26+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+54,469,40.746287747886456,-73.90899680955027,22769,Park,2012-07-04 01:15:52+00:00,New York City,Landmarks and Outdoors,Park,,,,
+55,469,40.747744648563874,-73.9853024482727,10422,Coffee Shop,2012-07-11 13:33:25+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+56,469,40.74739935731128,-73.98363710906709,16622,Mediterranean Restaurant,2012-07-11 18:44:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+57,469,40.767777263100086,-73.96466261926561,28249,College Academic Building,2012-05-09 23:32:32+00:00,New York City,Community and Government,Education,,,,
+58,469,40.738787,-73.987359,5617,Pizza Place,2012-10-03 16:38:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+59,469,40.76590104372366,-73.9634343210755,1285,Coffee Shop,2012-10-24 15:09:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+60,469,40.73763663017882,-73.97615611553192,6591,College Academic Building,2012-09-05 12:44:34+00:00,New York City,Community and Government,Education,,,,
+61,469,40.754057,-73.90632,28522,Building,2012-11-01 18:00:09+00:00,,Landmarks and Outdoors,Structure,2.0,0.0,nyc,Return
+62,469,40.756197300130765,-73.97887051105499,8343,Salon / Barbershop,2012-11-01 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,2.0,0.0,nyc,Explore
+63,469,40.740442231194535,-73.90375489401333,27923,Chinese Restaurant,2012-11-30 18:00:09+00:00,,Dining and Drinking,Restaurant,31.0,4.0,nyc,Rec
+64,469,40.74520864355885,-73.90374183654785,17555,Caf�,2012-12-01 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",32.0,4.0,nyc,Rec
+65,469,40.74555516242981,-73.90348434448242,14456,Food Truck,2012-12-07 18:00:09+00:00,,Dining and Drinking,Food Truck,38.0,5.0,nyc,Explore
+66,469,40.74520864355885,-73.90374183654785,17555,Caf�,2012-12-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",39.0,5.0,nyc,Rec
+67,469,40.740442231194535,-73.90375489401333,27923,Chinese Restaurant,2012-12-09 18:00:09+00:00,,Dining and Drinking,Restaurant,40.0,5.0,nyc,Return
+68,469,40.74171489373257,-73.90448980413962,15730,Bar,2012-12-31 18:00:09+00:00,,Dining and Drinking,Bar,62.0,8.0,nyc,Rec
+69,469,40.75526953038375,-73.92368260775231,2249,Movie Theater,2013-01-06 18:00:09+00:00,,Arts and Entertainment,Movie Theater,68.0,9.0,nyc,Return
+70,469,40.7469318369775,-73.9176893234253,19527,Neighborhood,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,69.0,9.0,nyc,Rec
+71,469,40.74666007786769,-73.90926091109282,22769,Park,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Park,69.0,9.0,nyc,Return
+72,469,40.73299541227541,-73.86323869905914,13972,Department Store,2013-01-07 18:00:09+00:00,,Retail,Department Store,69.0,9.0,nyc,Explore
+73,469,40.62882278953084,-74.1151267827991,15738,Donut Shop,2013-01-10 18:00:09+00:00,,Dining and Drinking,Donut Shop,72.0,10.0,nyc,Return
+74,469,40.601832479552975,-74.15012955665588,14558,College Academic Building,2013-01-11 18:00:09+00:00,,Community and Government,Education,73.0,10.0,nyc,Rec
+75,469,40.62882278953084,-74.1151267827991,15738,Donut Shop,2013-01-13 18:00:09+00:00,,Dining and Drinking,Donut Shop,75.0,10.0,nyc,Rec
+76,469,40.601832479552975,-74.15012955665588,14558,College Academic Building,2013-02-07 18:00:09+00:00,,Community and Government,Education,100.0,14.0,nyc,Rec

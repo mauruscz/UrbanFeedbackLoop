@@ -1,0 +1,95 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+62324,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-04-13 11:45:20+00:00,New York City,Travel and Transportation,Fuel Station
+62325,385,40.784161363010654,-74.1729568403647,28214,Park,2012-04-13 19:11:03+00:00,New York City,Landmarks and Outdoors,Park
+62326,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-04-27 14:46:37+00:00,New York City,Community and Government,Education
+62327,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-06-01 09:45:30+00:00,New York City,Travel and Transportation,Fuel Station
+62328,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-06-01 14:28:27+00:00,New York City,Community and Government,Education
+62329,385,40.91232532,-74.042375,17875,Caf�,2012-05-04 14:05:56+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+62330,385,40.91195382583263,-74.04119763698954,28664,Food & Drink Shop,2012-05-04 14:17:38+00:00,New York City,Retail,Food and Beverage Retail
+62331,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-11 09:48:22+00:00,New York City,Travel and Transportation,Fuel Station
+62332,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-04-16 09:47:59+00:00,New York City,Travel and Transportation,Fuel Station
+62333,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-04-23 09:49:06+00:00,New York City,Travel and Transportation,Fuel Station
+62334,385,40.91195382583263,-74.04119763698954,28664,Food & Drink Shop,2012-04-23 14:27:11+00:00,New York City,Retail,Food and Beverage Retail
+62335,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-06-04 10:00:04+00:00,New York City,Travel and Transportation,Fuel Station
+62336,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-06-04 14:36:17+00:00,New York City,Community and Government,Education
+62337,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-07 09:45:51+00:00,New York City,Travel and Transportation,Fuel Station
+62338,385,40.92826707264012,-74.0269947052002,13909,Food & Drink Shop,2012-05-07 14:32:47+00:00,New York City,Retail,Food and Beverage Retail
+62339,385,40.930738480029774,-74.01805730250018,31497,Bar,2012-05-07 18:10:07+00:00,New York City,Arts and Entertainment,Night Club
+62340,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-14 09:51:46+00:00,New York City,Travel and Transportation,Fuel Station
+62341,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-05-14 14:38:00+00:00,New York City,Community and Government,Education
+62342,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-21 09:52:02+00:00,New York City,Travel and Transportation,Fuel Station
+62343,385,40.92826707264012,-74.0269947052002,13909,Food & Drink Shop,2012-05-21 14:28:34+00:00,New York City,Retail,Food and Beverage Retail
+62344,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-05-21 16:52:59+00:00,New York City,Community and Government,Education
+62345,385,40.86917188,-74.054129,27678,Candy Store,2012-04-14 17:23:24+00:00,New York City,Retail,Food and Beverage Retail
+62346,385,40.87627696797496,-74.03878791437232,5315,Food & Drink Shop,2012-04-14 20:35:55+00:00,New York City,Retail,Food and Beverage Retail
+62347,385,40.78034994867196,-74.1355886871918,34934,Medical Center,2012-04-21 13:16:39+00:00,New York City,Health and Medicine,Physician
+62348,385,40.86917188,-74.054129,27678,Candy Store,2012-04-21 16:59:11+00:00,New York City,Retail,Food and Beverage Retail
+62349,385,40.86833071688859,-74.04842088430463,14176,Food & Drink Shop,2012-04-21 17:42:44+00:00,New York City,Retail,Food and Beverage Retail
+62350,385,40.87627696797496,-74.03878791437232,5315,Food & Drink Shop,2012-04-21 19:14:59+00:00,New York City,Retail,Food and Beverage Retail
+62351,385,40.91313587162645,-74.04271804149388,11663,Electronics Store,2012-04-21 20:32:48+00:00,New York City,Retail,Computers and Electronics Retail
+62352,385,40.86917188,-74.054129,27678,Candy Store,2012-04-28 17:39:45+00:00,New York City,Retail,Food and Beverage Retail
+62353,385,40.86833071688859,-74.04842088430463,14176,Food & Drink Shop,2012-04-28 18:36:50+00:00,New York City,Retail,Food and Beverage Retail
+62354,385,40.87627696797496,-74.03878791437232,5315,Food & Drink Shop,2012-04-28 19:24:49+00:00,New York City,Retail,Food and Beverage Retail
+62355,385,40.91250720487265,-74.05145645141602,22560,Hardware Store,2012-06-02 22:00:43+00:00,New York City,Retail,Hardware Store
+62356,385,40.74563199111586,-74.11968617318207,29078,Other Great Outdoors,2012-05-05 14:25:44+00:00,New York City,Landmarks and Outdoors,Field
+62357,385,40.82459169561135,-74.13947582244873,10610,Bank,2012-05-05 14:44:42+00:00,New York City,Business and Professional Services,Financial Service
+62358,385,40.8292029376781,-74.13943290710449,9028,Bookstore,2012-05-05 15:30:21+00:00,New York City,Retail,Bookstore
+62359,385,40.779428197978056,-74.06773698617837,12230,Food & Drink Shop,2012-05-05 16:13:07+00:00,New York City,Retail,Food and Beverage Retail
+62360,385,40.86917188,-74.054129,27678,Candy Store,2012-05-05 18:15:01+00:00,New York City,Retail,Food and Beverage Retail
+62361,385,40.91532869189857,-74.07670140266418,8904,Movie Theater,2012-05-05 19:52:07+00:00,New York City,Arts and Entertainment,Movie Theater
+62362,385,40.93604833732571,-74.0698778629303,9128,Food & Drink Shop,2012-05-05 22:56:48+00:00,New York City,Retail,Food and Beverage Retail
+62363,385,40.822383381646446,-74.03017044067383,6982,Rest Area,2012-05-12 20:52:08+00:00,New York City,Travel and Transportation,Rest Area
+62364,385,40.73813998720504,-74.03077249830721,3143,Mexican Restaurant,2012-05-12 22:15:54+00:00,New York City,Dining and Drinking,Restaurant
+62365,385,40.753109169578906,-74.02617079702723,1743,American Restaurant,2012-05-19 00:15:43+00:00,New York City,Dining and Drinking,Restaurant
+62366,385,40.86833071688859,-74.04842088430463,14176,Food & Drink Shop,2012-05-19 18:09:49+00:00,New York City,Retail,Food and Beverage Retail
+62367,385,40.87403226318354,-74.06866057578365,30394,Miscellaneous Shop,2012-05-19 21:32:51+00:00,New York City,Retail,Miscellaneous Store
+62368,385,40.9141953501792,-74.05796798433062,9605,Food & Drink Shop,2012-04-29 20:53:16+00:00,New York City,Retail,Food and Beverage Retail
+62369,385,40.76166534423828,-73.97772216796875,35979,Moving Target,2012-06-03 15:26:19+00:00,New York City,Travel and Transportation,Moving Target
+62370,385,40.7604501091905,-73.98586961649815,35984,Vegetarian / Vegan Restaurant,2012-06-03 17:28:10+00:00,New York City,Dining and Drinking,Restaurant
+62371,385,40.87627696797496,-74.03878791437232,5315,Food & Drink Shop,2012-05-13 15:10:57+00:00,New York City,Retail,Food and Beverage Retail
+62372,385,40.8079979232637,-74.08242783595023,27619,Coffee Shop,2012-05-13 17:59:11+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+62373,385,40.79744338989258,-74.06548309326172,35504,General Entertainment,2012-05-13 18:21:13+00:00,New York City,Arts and Entertainment,General Entertainment
+62374,385,40.96696980238183,-74.07514572143555,5976,Food & Drink Shop,2012-05-13 19:20:48+00:00,New York City,Retail,Food and Beverage Retail
+62375,385,40.86833071688859,-74.04842088430463,14176,Food & Drink Shop,2012-05-27 14:41:41+00:00,New York City,Retail,Food and Beverage Retail
+62376,385,40.87627696797496,-74.03878791437232,5315,Food & Drink Shop,2012-05-27 16:30:52+00:00,New York City,Retail,Food and Beverage Retail
+62377,385,40.96696980238183,-74.07514572143555,5976,Food & Drink Shop,2012-05-27 17:28:27+00:00,New York City,Retail,Food and Beverage Retail
+62378,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-04-19 09:50:53+00:00,New York City,Travel and Transportation,Fuel Station
+62379,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-04-26 09:48:31+00:00,New York City,Travel and Transportation,Fuel Station
+62380,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-04-26 14:39:13+00:00,New York City,Community and Government,Education
+62381,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-06-07 09:55:50+00:00,New York City,Travel and Transportation,Fuel Station
+62382,385,40.886669515038925,-74.01419552516819,13016,Gas Station / Garage,2012-05-10 18:33:28+00:00,New York City,Travel and Transportation,Fuel Station
+62383,385,40.79744544134614,-74.06506597995758,16581,Coffee Shop,2012-05-10 20:20:58+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+62384,385,40.86833071688859,-74.04842088430463,14176,Food & Drink Shop,2012-05-10 21:20:39+00:00,New York City,Retail,Food and Beverage Retail
+62385,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-17 09:47:55+00:00,New York City,Travel and Transportation,Fuel Station
+62386,385,40.91232532,-74.042375,17875,Caf�,2012-05-17 14:32:50+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+62387,385,40.87627696797496,-74.03878791437232,5315,Food & Drink Shop,2012-05-17 19:25:28+00:00,New York City,Retail,Food and Beverage Retail
+62388,385,40.86917188,-74.054129,27678,Candy Store,2012-05-17 21:48:28+00:00,New York City,Retail,Food and Beverage Retail
+62389,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-24 09:52:59+00:00,New York City,Travel and Transportation,Fuel Station
+62390,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-05-31 15:35:38+00:00,New York City,Community and Government,Education
+62391,385,40.88957410381597,-74.09540176391602,7534,Gym / Fitness Center,2012-04-03 19:29:36+00:00,New York City,Sports and Recreation,Gym and Studio
+62392,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-04-17 09:45:22+00:00,New York City,Travel and Transportation,Fuel Station
+62393,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-04-17 14:53:49+00:00,New York City,Community and Government,Education
+62394,385,40.9657708121501,-74.07651901245117,13027,Furniture / Home Store,2012-04-17 19:21:38+00:00,New York City,Retail,Furniture and Home Store
+62395,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-04-24 09:49:05+00:00,New York City,Travel and Transportation,Fuel Station
+62396,385,40.95082573279547,-74.03221265878386,5476,Coffee Shop,2012-04-24 18:37:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+62397,385,40.86833071688859,-74.04842088430463,14176,Food & Drink Shop,2012-04-24 20:34:28+00:00,New York City,Retail,Food and Beverage Retail
+62398,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-06-05 09:51:04+00:00,New York City,Travel and Transportation,Fuel Station
+62399,385,40.91232532,-74.042375,17875,Caf�,2012-06-05 14:14:15+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+62400,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-05-15 19:38:02+00:00,New York City,Community and Government,Education
+62401,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-22 09:49:58+00:00,New York City,Travel and Transportation,Fuel Station
+62402,385,40.91195382583263,-74.04119763698954,28664,Food & Drink Shop,2012-05-22 14:13:34+00:00,New York City,Retail,Food and Beverage Retail
+62403,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-29 09:54:05+00:00,New York City,Travel and Transportation,Fuel Station
+62404,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-04-18 14:50:34+00:00,New York City,Community and Government,Education
+62405,385,40.86833071688859,-74.04842088430463,14176,Food & Drink Shop,2012-04-18 19:56:29+00:00,New York City,Retail,Food and Beverage Retail
+62406,385,40.937424,-74.018212,31209,School,2012-04-25 14:49:12+00:00,New York City,Community and Government,Education
+62407,385,40.914432525634766,-74.03382873535156,35064,Other Great Outdoors,2012-04-25 18:20:16+00:00,New York City,Landmarks and Outdoors,Farm
+62408,385,40.96696980238183,-74.07514572143555,5976,Food & Drink Shop,2012-04-25 22:13:23+00:00,New York City,Retail,Food and Beverage Retail
+62409,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-06-06 09:50:09+00:00,New York City,Travel and Transportation,Fuel Station
+62410,385,40.87627696797496,-74.03878791437232,5315,Food & Drink Shop,2012-06-06 21:14:41+00:00,New York City,Retail,Food and Beverage Retail
+62411,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-09 10:22:43+00:00,New York City,Travel and Transportation,Fuel Station
+62412,385,40.74970740277419,-74.21492038110526,19119,Gas Station / Garage,2012-05-16 09:54:26+00:00,New York City,Travel and Transportation,Fuel Station
+62413,385,40.93758532164576,-74.0182064929251,33769,Middle School,2012-05-16 14:48:53+00:00,New York City,Community and Government,Education
+62414,385,40.87917784652633,-74.0785444229442,32219,Convenience Store,2012-05-23 20:56:09+00:00,New York City,Retail,Convenience Store
+62415,385,40.86833071688859,-74.04842088430463,14176,Food & Drink Shop,2012-05-23 21:17:41+00:00,New York City,Retail,Food and Beverage Retail
+62416,385,40.87627696797496,-74.03878791437232,5315,Food & Drink Shop,2012-05-23 22:30:38+00:00,New York City,Retail,Food and Beverage Retail
+62417,385,40.93604833732571,-74.0698778629303,9128,Food & Drink Shop,2012-05-23 22:51:11+00:00,New York City,Retail,Food and Beverage Retail

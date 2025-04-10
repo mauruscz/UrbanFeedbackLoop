@@ -1,0 +1,52 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-06 13:19:25+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+1,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-13 12:40:02+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+2,239,40.789372,-73.811764,33128,Tattoo Parlor,2012-07-13 23:59:30+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+3,239,40.715005630180826,-73.83074965216159,20785,Building,2012-08-06 12:39:05+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+4,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-02 12:39:34+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+5,239,40.7154885,-73.832637,24810,Chinese Restaurant,2012-07-02 17:33:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-02 18:14:52+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+7,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-09 12:47:18+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+8,239,40.715005630180826,-73.83074965216159,20785,Building,2012-06-18 12:38:51+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+9,239,40.7152130911846,-73.83222001627905,10612,Bagel Shop,2012-06-18 17:50:55+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+10,239,40.75693760857892,-73.988389047438,8229,Museum,2012-08-11 21:43:30+00:00,New York City,Arts and Entertainment,Museum,,,,
+11,239,40.74798004367752,-73.99274488759964,9775,Vegetarian / Vegan Restaurant,2012-06-16 21:04:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,239,40.71424858464975,-73.95375967025757,16130,Neighborhood,2012-07-15 16:37:18+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+13,239,40.71348448915188,-73.95874490511197,8901,Design Studio,2012-07-15 19:37:04+00:00,New York City,Business and Professional Services,Design Studio,,,,
+14,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-05 14:06:33+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+15,239,40.662664225557165,-73.72021007577132,1985,Mall,2012-07-05 23:56:42+00:00,New York City,Retail,Shopping Mall,,,,
+16,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-12 12:35:44+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+17,239,40.715005630180826,-73.83074965216159,20785,Building,2012-06-21 13:05:31+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+18,239,40.75671096305903,-74.00100198012031,1295,Convention Center,2012-10-11 18:31:24+00:00,New York City,Business and Professional Services,Convention Center,,,,
+19,239,40.75781551309476,-73.97343267040648,34221,Plaza,2012-10-25 16:57:13+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+20,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-03 12:43:42+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+21,239,40.7154885,-73.832637,24810,Chinese Restaurant,2012-06-26 17:39:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,239,40.715005630180826,-73.83074965216159,20785,Building,2012-06-26 18:12:51+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+23,239,40.662664225557165,-73.72021007577132,1985,Mall,2012-07-04 16:24:59+00:00,New York City,Retail,Shopping Mall,,,,
+24,239,40.715005630180826,-73.83074965216159,20785,Building,2012-07-11 12:35:06+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+25,239,40.715005630180826,-73.83074965216159,20785,Building,2012-06-27 12:38:01+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+26,239,40.715005630180826,-73.83074965216159,20785,Building,2012-11-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,7.0,1.0,nyc,Return
+27,239,40.70892468631538,-73.82935968852856,12863,Post Office,2012-11-06 18:00:09+00:00,,Community and Government,Government Building,7.0,1.0,nyc,Explore
+28,239,40.70942218333333,-73.830125,6740,Bar,2012-11-10 18:00:09+00:00,,Dining and Drinking,Bar,11.0,1.0,nyc,Explore
+29,239,40.70546740763091,-73.81734930692686,20503,Park,2012-11-10 18:00:09+00:00,,Landmarks and Outdoors,Park,11.0,1.0,nyc,Explore
+30,239,40.74798004367752,-73.99274488759964,9775,Vegetarian / Vegan Restaurant,2012-11-10 18:00:09+00:00,,Dining and Drinking,Restaurant,11.0,1.0,nyc,Return
+31,239,40.73316247409845,-73.99104044018358,5375,Bookstore,2012-11-10 18:00:09+00:00,,Retail,Bookstore,11.0,1.0,nyc,Explore
+32,239,40.70942218333333,-73.830125,6740,Bar,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bar,12.0,1.0,nyc,Return
+33,239,40.7331450394645,-73.86301517486572,11617,Mall,2012-11-11 18:00:09+00:00,,Retail,Shopping Mall,12.0,1.0,nyc,Rec
+34,239,40.73316247409845,-73.99104044018358,5375,Bookstore,2012-11-17 18:00:09+00:00,,Retail,Bookstore,18.0,2.0,nyc,Return
+35,239,40.7154885,-73.832637,24810,Chinese Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Return
+36,239,40.70892468631538,-73.82935968852856,12863,Post Office,2012-11-20 18:00:09+00:00,,Community and Government,Government Building,21.0,3.0,nyc,Return
+37,239,40.7331450394645,-73.86301517486572,11617,Mall,2012-11-25 18:00:09+00:00,,Retail,Shopping Mall,26.0,3.0,nyc,Rec
+38,239,40.7154885,-73.832637,24810,Chinese Restaurant,2012-11-26 18:00:09+00:00,,Dining and Drinking,Restaurant,27.0,3.0,nyc,Return
+39,239,40.76707218663186,-73.84393658927819,13766,Hardware Store,2012-12-01 18:00:09+00:00,,Retail,Hardware Store,32.0,4.0,nyc,Rec
+40,239,40.70892468631538,-73.82935968852856,12863,Post Office,2012-12-04 18:00:09+00:00,,Community and Government,Government Building,35.0,5.0,nyc,Return
+41,239,40.7331450394645,-73.86301517486572,11617,Mall,2012-12-08 18:00:09+00:00,,Retail,Shopping Mall,39.0,5.0,nyc,Return
+42,239,40.75098504433473,-73.98074456728409,276,Italian Restaurant,2012-12-15 18:00:09+00:00,,Dining and Drinking,Restaurant,46.0,6.0,nyc,Explore
+43,239,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Rec
+44,239,40.67282273372251,-73.99241777260337,35399,Design Studio,2012-12-16 18:00:09+00:00,,Business and Professional Services,Design Studio,47.0,6.0,nyc,Rec
+45,239,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Return
+46,239,40.662664225557165,-73.72021007577132,1985,Mall,2013-01-12 18:00:09+00:00,,Retail,Shopping Mall,74.0,10.0,nyc,Return
+47,239,40.637400040020005,-73.7403530747124,33095,Mall,2013-01-13 18:00:09+00:00,,Retail,Shopping Mall,75.0,10.0,nyc,Rec
+48,239,40.63619922846672,-73.73959064483643,17284,American Restaurant,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Explore
+49,239,40.6791734818247,-73.75508308410645,15015,Food & Drink Shop,2013-01-17 18:00:09+00:00,,Retail,Food and Beverage Retail,79.0,11.0,nyc,Rec
+50,239,40.68886577851181,-73.74249640889236,28639,Park,2013-02-04 18:00:09+00:00,,Landmarks and Outdoors,Park,97.0,13.0,nyc,Rec

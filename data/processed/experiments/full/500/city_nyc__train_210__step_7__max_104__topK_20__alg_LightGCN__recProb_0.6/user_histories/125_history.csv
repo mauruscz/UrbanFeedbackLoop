@@ -1,0 +1,77 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,125,40.85121557428245,-73.95206451416016,3686,Bridge,2012-04-20 04:17:58+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+1,125,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-27 14:06:23+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+2,125,40.74158375083254,-74.00309176330678,31810,Sushi Restaurant,2012-04-27 16:23:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,125,40.74106165791133,-74.0025638164589,1770,Office,2012-08-10 13:21:11+00:00,New York City,Business and Professional Services,Office,,,,
+4,125,40.74106165791133,-74.0025638164589,1770,Office,2012-07-13 15:17:36+00:00,New York City,Business and Professional Services,Office,,,,
+5,125,40.74158375083254,-74.00309176330678,31810,Sushi Restaurant,2012-07-13 16:12:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,125,40.94425922898814,-73.96183866968715,34488,Athletic & Sport,2012-07-13 21:43:06+00:00,New York City,Sports and Recreation,Baseball,,,,
+7,125,40.74106165791133,-74.0025638164589,1770,Office,2012-06-08 13:18:46+00:00,New York City,Business and Professional Services,Office,,,,
+8,125,40.91004,-73.965,15739,Synagogue,2012-06-08 21:23:12+00:00,New York City,Community and Government,Spiritual Center,,,,
+9,125,40.74122198681612,-74.00247773803042,1770,Office,2012-05-04 13:18:18+00:00,New York City,Business and Professional Services,Office,,,,
+10,125,40.74137657428209,-74.00285074427426,1770,Office,2012-05-11 13:26:32+00:00,New York City,Business and Professional Services,Office,,,,
+11,125,40.74106165791133,-74.0025638164589,1770,Office,2012-10-12 13:12:28+00:00,New York City,Business and Professional Services,Office,,,,
+12,125,40.74106165791133,-74.0025638164589,1770,Office,2012-09-14 13:10:56+00:00,New York City,Business and Professional Services,Office,,,,
+13,125,40.741027222595015,-74.00241461382495,1770,Office,2012-04-23 13:35:59+00:00,New York City,Business and Professional Services,Office,,,,
+14,125,40.74106165791133,-74.0025638164589,1770,Office,2012-08-13 14:07:23+00:00,New York City,Business and Professional Services,Office,,,,
+15,125,40.74106165791133,-74.0025638164589,1770,Office,2012-07-02 14:14:19+00:00,New York City,Business and Professional Services,Office,,,,
+16,125,40.74106165791133,-74.0025638164589,1770,Office,2012-07-09 14:24:36+00:00,New York City,Business and Professional Services,Office,,,,
+17,125,40.74106165791133,-74.0025638164589,1770,Office,2012-07-16 13:27:10+00:00,New York City,Business and Professional Services,Office,,,,
+18,125,40.74106165791133,-74.0025638164589,1770,Office,2012-06-04 13:14:06+00:00,New York City,Business and Professional Services,Office,,,,
+19,125,40.74106165791133,-74.0025638164589,1770,Office,2012-06-18 13:21:15+00:00,New York City,Business and Professional Services,Office,,,,
+20,125,40.74122198681612,-74.00247773803042,1770,Office,2012-05-07 13:28:40+00:00,New York City,Business and Professional Services,Office,,,,
+21,125,40.741012327957804,-74.00225393393526,1770,Office,2012-05-14 13:14:49+00:00,New York City,Business and Professional Services,Office,,,,
+22,125,40.74106165791133,-74.0025638164589,1770,Office,2012-10-08 13:47:07+00:00,New York City,Business and Professional Services,Office,,,,
+23,125,40.91783,-74.076312,18631,Ice Cream Shop,2012-04-21 17:25:21+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+24,125,40.94198726311239,-73.96009376960656,11156,Other Great Outdoors,2012-04-21 23:56:46+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+25,125,40.943342440643086,-73.95983219146729,16408,School,2012-04-28 14:35:21+00:00,New York City,Community and Government,Education,,,,
+26,125,40.75081989112107,-74.0038664652844,23246,Theater,2012-07-21 22:48:57+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+27,125,40.943342440643086,-73.95983219146729,16408,School,2012-05-05 13:47:28+00:00,New York City,Community and Government,Education,,,,
+28,125,40.943342440643086,-73.95983219146729,16408,School,2012-05-19 12:50:44+00:00,New York City,Community and Government,Education,,,,
+29,125,40.74690553028086,-74.00953604057173,13592,Harbor / Marina,2012-04-29 01:23:03+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+30,125,40.943342440643086,-73.95983219146729,16408,School,2012-04-29 20:03:27+00:00,New York City,Community and Government,Education,,,,
+31,125,40.574130770241,-73.97511005401611,2938,Aquarium,2012-07-08 15:53:30+00:00,New York City,Arts and Entertainment,Aquarium,,,,
+32,125,40.57514126948244,-73.98150444030762,14022,Hot Dog Joint,2012-07-08 18:48:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,125,40.57204452998146,-73.97601127624512,17661,Beach,2012-07-08 19:40:57+00:00,New York City,Landmarks and Outdoors,Beach,,,,
+34,125,40.76029501554136,-73.98177762291908,8544,Bakery,2012-07-15 22:07:24+00:00,New York City,Dining and Drinking,Bakery,,,,
+35,125,40.756489872673846,-73.98626804351807,2360,Plaza,2012-07-15 23:17:33+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+36,125,40.759977459293175,-73.98071587121497,1095,Concert Hall,2012-07-29 23:48:56+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+37,125,40.75875624280933,-73.97866122153226,2357,Plaza,2012-07-29 23:59:01+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+38,125,40.943342440643086,-73.95983219146729,16408,School,2012-05-13 20:14:11+00:00,New York City,Community and Government,Education,,,,
+39,125,40.741027222595015,-74.00241461382495,1770,Office,2012-04-26 13:19:40+00:00,New York City,Business and Professional Services,Office,,,,
+40,125,40.74106165791133,-74.0025638164589,1770,Office,2012-06-07 15:26:07+00:00,New York City,Business and Professional Services,Office,,,,
+41,125,40.74106165791133,-74.0025638164589,1770,Office,2012-06-21 13:29:19+00:00,New York City,Business and Professional Services,Office,,,,
+42,125,40.74122198681612,-74.00247773803042,1770,Office,2012-05-03 13:31:18+00:00,New York City,Business and Professional Services,Office,,,,
+43,125,40.74106165791133,-74.0025638164589,1770,Office,2012-09-13 13:31:04+00:00,New York City,Business and Professional Services,Office,,,,
+44,125,40.739892473103,-73.98987293243407,36381,School,2012-09-13 16:32:08+00:00,New York City,Community and Government,Education,,,,
+45,125,40.741143749429234,-74.0023687052988,1770,Office,2012-04-17 14:15:22+00:00,New York City,Business and Professional Services,Office,,,,
+46,125,40.74220545065553,-74.00611595251165,35027,Music Venue,2012-04-24 13:50:09+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+47,125,40.74106165791133,-74.0025638164589,1770,Office,2012-07-17 13:34:18+00:00,New York City,Business and Professional Services,Office,,,,
+48,125,40.74106165791133,-74.0025638164589,1770,Office,2012-07-24 13:23:05+00:00,New York City,Business and Professional Services,Office,,,,
+49,125,40.74121679461067,-74.00236296673226,1770,Office,2012-05-15 13:05:27+00:00,New York City,Business and Professional Services,Office,,,,
+50,125,40.74121679461067,-74.00236296673226,1770,Office,2012-05-22 13:38:53+00:00,New York City,Business and Professional Services,Office,,,,
+51,125,40.741027222595015,-74.00241461382495,1770,Office,2012-04-25 13:18:45+00:00,New York City,Business and Professional Services,Office,,,,
+52,125,40.74106165791133,-74.0025638164589,1770,Office,2012-07-11 13:27:17+00:00,New York City,Business and Professional Services,Office,,,,
+53,125,40.74106165791133,-74.0025638164589,1770,Office,2012-07-18 16:27:12+00:00,New York City,Business and Professional Services,Office,,,,
+54,125,40.94175830564713,-73.95873916524292,11156,Other Great Outdoors,2012-06-06 12:07:56+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+55,125,40.74106165791133,-74.0025638164589,1770,Office,2012-06-06 13:15:41+00:00,New York City,Business and Professional Services,Office,,,,
+56,125,40.74106165791133,-74.0025638164589,1770,Office,2012-06-27 13:19:12+00:00,New York City,Business and Professional Services,Office,,,,
+57,125,40.705953265881305,-73.99656772613525,3916,Bridge,2012-05-09 01:25:35+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+58,125,40.74106165791133,-74.0025638164589,1770,Office,2012-09-05 13:50:56+00:00,New York City,Business and Professional Services,Office,,,,
+59,125,40.738924,-74.00779,11844,Office,2012-11-05 18:00:09+00:00,,Business and Professional Services,Office,6.0,0.0,nyc,Rec
+60,125,40.73941420756851,-74.00780878897787,19418,French Restaurant,2012-11-15 18:00:09+00:00,,Dining and Drinking,Restaurant,16.0,2.0,nyc,Rec
+61,125,40.741027222595015,-74.00241461382495,1770,Office,2012-11-16 18:00:09+00:00,,Business and Professional Services,Office,17.0,2.0,nyc,Return
+62,125,40.741027222595015,-74.00241461382495,1770,Office,2012-11-19 18:00:09+00:00,,Business and Professional Services,Office,20.0,2.0,nyc,Rec
+63,125,40.753125961930586,-73.97379425425618,32794,Office,2012-11-20 18:00:09+00:00,,Business and Professional Services,Office,21.0,3.0,nyc,Explore
+64,125,40.75415331430367,-73.97203798348073,5716,Coffee Shop,2012-11-30 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",31.0,4.0,nyc,Explore
+65,125,40.75323752383464,-73.97326048738216,10387,Office,2012-12-19 18:00:09+00:00,,Business and Professional Services,Office,50.0,7.0,nyc,Rec
+66,125,40.753181480759054,-73.97310552252858,29197,Hotel,2012-12-20 18:00:09+00:00,,Travel and Transportation,Lodging,51.0,7.0,nyc,Rec
+67,125,40.745868414644185,-73.9902427306349,37436,Office,2012-12-27 18:00:09+00:00,,Business and Professional Services,Office,58.0,8.0,nyc,Explore
+68,125,40.741027222595015,-74.00241461382495,1770,Office,2013-01-09 18:00:09+00:00,,Business and Professional Services,Office,71.0,10.0,nyc,Return
+69,125,40.78118443649759,-73.9732030930065,1315,Science Museum,2013-01-27 18:00:09+00:00,,Arts and Entertainment,Museum,89.0,12.0,nyc,Rec
+70,125,40.7442504101507,-73.9536248740982,3457,Pizza Place,2013-01-27 18:00:09+00:00,,Dining and Drinking,Restaurant,89.0,12.0,nyc,Explore
+71,125,40.74989855122141,-73.98581743240356,35263,Office,2013-01-30 18:00:09+00:00,,Business and Professional Services,Office,92.0,13.0,nyc,Rec
+72,125,40.75281239893301,-73.97717474340911,31763,Electronics Store,2013-01-30 18:00:09+00:00,,Retail,Computers and Electronics Retail,92.0,13.0,nyc,Rec
+73,125,40.741027222595015,-74.00241461382495,1770,Office,2013-02-04 18:00:09+00:00,,Business and Professional Services,Office,97.0,13.0,nyc,Return
+74,125,40.741027222595015,-74.00241461382495,1770,Office,2013-02-05 18:00:09+00:00,,Business and Professional Services,Office,98.0,14.0,nyc,Return
+75,125,40.73904817158152,-73.99932150226327,2362,Food & Drink Shop,2013-02-10 18:00:09+00:00,,Retail,Food and Beverage Retail,103.0,14.0,nyc,Rec

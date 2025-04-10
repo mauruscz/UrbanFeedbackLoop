@@ -1,0 +1,37 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,213,40.77315726822019,-73.95519763349618,13393,Synagogue,2012-04-13 13:50:01+00:00,New York City,Community and Government,Spiritual Center,,,,
+1,213,40.752973198215656,-73.97481012905551,9019,Post Office,2012-04-16 17:43:22+00:00,New York City,Community and Government,Government Building,,,,
+2,213,40.74025823153738,-73.98386667401014,4006,University,2012-08-13 21:34:40+00:00,New York City,Community and Government,Education,,,,
+3,213,40.77316471772558,-73.95498525432538,13393,Synagogue,2012-10-08 13:47:53+00:00,New York City,Community and Government,Spiritual Center,,,,
+4,213,40.77315726822019,-73.95519763349618,13393,Synagogue,2012-04-14 14:10:01+00:00,New York City,Community and Government,Spiritual Center,,,,
+5,213,40.774642605894,-73.95421035537034,5276,Coffee Shop,2012-04-14 18:17:04+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+6,213,40.774642605894,-73.95421035537034,5276,Coffee Shop,2012-04-21 17:31:08+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+7,213,40.77315726822019,-73.95519763349618,13393,Synagogue,2012-04-28 14:10:16+00:00,New York City,Community and Government,Spiritual Center,,,,
+8,213,40.774642605894,-73.95421035537034,5276,Coffee Shop,2012-04-28 20:01:50+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+9,213,40.77316471772558,-73.95498525432538,13393,Synagogue,2012-08-18 14:09:25+00:00,New York City,Community and Government,Spiritual Center,,,,
+10,213,40.77315726822019,-73.95519763349618,13393,Synagogue,2012-07-07 14:04:55+00:00,New York City,Community and Government,Spiritual Center,,,,
+11,213,40.7733757495496,-73.95504839410326,13393,Synagogue,2012-07-28 14:06:06+00:00,New York City,Community and Government,Spiritual Center,,,,
+12,213,40.671039074008426,-73.97454611691154,12156,Synagogue,2012-06-09 20:30:39+00:00,New York City,Community and Government,Spiritual Center,,,,
+13,213,40.77315726822019,-73.95519763349618,13393,Synagogue,2012-05-12 14:12:00+00:00,New York City,Community and Government,Spiritual Center,,,,
+14,213,40.77315726822019,-73.95519763349618,13393,Synagogue,2012-05-19 13:53:43+00:00,New York City,Community and Government,Spiritual Center,,,,
+15,213,40.77316471772558,-73.95498525432538,13393,Synagogue,2012-10-13 14:05:32+00:00,New York City,Community and Government,Spiritual Center,,,,
+16,213,40.77316471772558,-73.95498525432538,13393,Synagogue,2012-10-27 13:58:49+00:00,New York City,Community and Government,Spiritual Center,,,,
+17,213,40.77656274050388,-73.9794073259115,4191,Diner,2012-07-08 16:42:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,213,40.77315726822019,-73.95519763349618,13393,Synagogue,2012-05-27 13:57:50+00:00,New York City,Community and Government,Spiritual Center,,,,
+19,213,40.74024250291211,-73.98381502192187,4006,University,2012-04-19 21:51:52+00:00,New York City,Community and Government,Education,,,,
+20,213,40.740225077794776,-73.98348215257546,4006,University,2012-05-10 21:56:39+00:00,New York City,Community and Government,Education,,,,
+21,213,40.749565310466586,-73.93914699554443,26108,Government Building,2012-09-13 13:40:34+00:00,New York City,Community and Government,Government Building,,,,
+22,213,40.76422632379533,-73.95678520202637,6981,Medical Center,2012-06-19 09:31:43+00:00,New York City,Health and Medicine,Hospital,,,,
+23,213,40.7766506,-73.9527495,22314,Mexican Restaurant,2012-04-18 23:19:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,213,40.74025823153738,-73.98386667401014,4006,University,2012-07-18 21:42:02+00:00,New York City,Community and Government,Education,,,,
+25,213,40.77315726822019,-73.95519763349618,13393,Synagogue,2012-05-23 22:56:08+00:00,New York City,Community and Government,Spiritual Center,,,,
+26,213,40.77405363903685,-73.95984695680805,13210,College Academic Building,2012-11-05 18:00:09+00:00,,Community and Government,Education,6.0,0.0,nyc,Rec
+27,213,40.740225077794776,-73.98348215257546,4006,University,2012-11-12 18:00:09+00:00,,Community and Government,Education,13.0,1.0,nyc,Return
+28,213,40.809829,-73.958117,4819,College Academic Building,2012-11-17 18:00:09+00:00,,Community and Government,Education,18.0,2.0,nyc,Explore
+29,213,40.80821992957681,-73.96215395358303,1185,University,2012-11-19 18:00:09+00:00,,Community and Government,Education,20.0,2.0,nyc,Rec
+30,213,40.758505337427664,-73.97652626037598,3813,Church,2012-12-01 18:00:09+00:00,,Community and Government,Spiritual Center,32.0,4.0,nyc,Rec
+31,213,40.76354514314322,-73.96989714809072,5121,Church,2012-12-08 18:00:09+00:00,,Community and Government,Spiritual Center,39.0,5.0,nyc,Rec
+32,213,40.756825098393165,-73.97828242897018,29765,Building,2012-12-12 18:00:09+00:00,,Landmarks and Outdoors,Structure,43.0,6.0,nyc,Explore
+33,213,40.75589879828258,-73.9792121911996,8406,Bookstore,2012-12-12 18:00:09+00:00,,Retail,Bookstore,43.0,6.0,nyc,Rec
+34,213,40.77361447158453,-73.9641058682518,1176,Art Museum,2012-12-23 18:00:09+00:00,,Arts and Entertainment,Museum,54.0,7.0,nyc,Rec
+35,213,40.758505337427664,-73.97652626037598,3813,Church,2013-01-05 18:00:09+00:00,,Community and Government,Spiritual Center,67.0,9.0,nyc,Return

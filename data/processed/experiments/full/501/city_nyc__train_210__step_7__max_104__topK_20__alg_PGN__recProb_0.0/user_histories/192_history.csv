@@ -1,0 +1,98 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,192,40.74143884860924,-73.99381231160116,30481,BBQ Joint,2012-04-13 16:25:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,192,40.738656,-73.993777,3261,Mediterranean Restaurant,2012-04-20 00:29:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,192,40.7165736243376,-73.98917528677009,16234,Bar,2012-04-27 22:22:22+00:00,New York City,Dining and Drinking,Bar,,,,
+3,192,40.74088398082356,-74.00765959043375,2652,Hotel,2012-07-13 00:45:34+00:00,New York City,Travel and Transportation,Lodging,,,,
+4,192,40.735697,-74.006838,1483,Gastropub,2012-07-13 03:32:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,192,40.72091881728302,-73.98791845009258,46,Music Venue,2012-06-08 23:49:45+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+6,192,40.73337739365365,-73.99148807430478,34405,Pizza Place,2012-05-11 00:20:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,192,40.7196485455181,-73.9846070190824,54,Molecular Gastronomy Restaurant,2012-05-11 22:41:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,192,40.72912513547399,-73.9886186067,3090,Tea Room,2012-05-18 23:00:10+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+9,192,40.74276195733468,-73.97692322731018,1808,Movie Theater,2012-10-12 01:56:12+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+10,192,40.72588468699477,-73.99244785308838,33663,Sandwich Place,2012-08-13 17:14:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,192,40.73430989487854,-73.99350815375443,524,Steakhouse,2012-07-02 22:51:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,192,40.73046578912947,-73.98927858804879,1540,Tea Room,2012-06-04 23:00:59+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+13,192,40.72352673136299,-73.98937940597534,31083,Seafood Restaurant,2012-05-21 22:15:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,192,40.73046578912947,-73.98927858804879,1540,Tea Room,2012-10-22 22:38:17+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+15,192,40.73485817874847,-73.98609343971927,7467,Sushi Restaurant,2012-09-10 00:10:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,192,40.7636878120714,-73.96763001764619,4716,American Restaurant,2012-04-14 15:33:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,192,40.72687935074888,-73.98571466180762,28538,Filipino Restaurant,2012-07-28 17:16:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,192,40.72076040481287,-73.98856121691024,35368,Chinese Restaurant,2012-06-09 02:10:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,192,40.75951667388144,-73.83275416928555,33679,Chinese Restaurant,2012-06-09 15:37:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,192,40.734086557642925,-73.99319825658422,1883,Burger Joint,2012-05-12 19:49:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,192,40.726368,-73.98977,486,Italian Restaurant,2012-05-12 23:56:17+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,192,40.75501638768548,-73.98844643727924,1294,Bar,2012-10-13 05:00:20+00:00,New York City,Dining and Drinking,Bar,,,,
+23,192,40.73809430948774,-74.00388368084829,530,Burger Joint,2012-10-27 00:51:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,192,40.75607156254799,-73.98945649567615,14860,Church,2012-04-15 15:26:39+00:00,New York City,Community and Government,Spiritual Center,,,,
+25,192,40.72659891856718,-73.99597583556834,25537,Bar,2012-04-29 05:33:59+00:00,New York City,Dining and Drinking,Bar,,,,
+26,192,40.7681609826876,-73.96455356506993,4920,Church,2012-07-15 15:04:53+00:00,New York City,Community and Government,Spiritual Center,,,,
+27,192,40.738486841424326,-73.98580648682452,2268,Hotel,2012-07-15 17:49:13+00:00,New York City,Travel and Transportation,Lodging,,,,
+28,192,40.71866888294458,-74.00897941966893,29722,Korean Restaurant,2012-06-03 00:58:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+29,192,40.72639997828572,-73.9917348465147,32038,Gastropub,2012-06-10 00:19:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,192,40.743597144110296,-74.0033270434982,26476,Bar,2012-06-17 02:31:08+00:00,New York City,Dining and Drinking,Bar,,,,
+31,192,40.72718559227258,-73.98873567581177,668,Seafood Restaurant,2012-05-06 00:17:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,192,40.75248097148231,-73.99438619301681,1938,Movie Theater,2012-05-06 18:48:03+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+33,192,40.747785,-73.986556,3069,Korean Restaurant,2012-05-06 21:52:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+34,192,40.722912,-73.994089,29174,Cuban Restaurant,2012-05-13 18:15:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,192,40.726818,-73.985435,1046,Arepa Restaurant,2012-10-28 16:08:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,192,40.716015913157406,-73.99733017766593,716,Dim Sum Restaurant,2012-09-09 18:54:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+37,192,40.72645383618287,-73.99859547615051,1721,Coffee Shop,2012-10-11 19:14:58+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+38,192,40.721294,-73.983994,892,Breakfast Spot,2012-10-25 23:22:43+00:00,New York City,Dining and Drinking,Breakfast Spot,,,,
+39,192,40.73047915,-73.995187,6471,Coffee Shop,2012-09-13 12:55:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+40,192,40.737367546551965,-73.99015090774017,3830,Burger Joint,2012-04-03 21:29:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,192,40.72925858035448,-73.99025994742276,2573,Ramen /  Noodle House,2012-08-14 16:55:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+42,192,40.72908901998626,-73.9842454555664,23327,Tapas Restaurant,2012-07-17 21:56:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,192,40.72123780832135,-73.99551093578339,1494,Caf�,2012-06-26 19:58:17+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+44,192,40.740073,-73.995494,2637,Caf�,2012-05-22 13:19:38+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+45,192,40.7386405913415,-73.99253368377686,868,Bakery,2012-05-29 16:56:19+00:00,New York City,Dining and Drinking,Bakery,,,,
+46,192,40.729110403548944,-73.9842454555664,2178,Ramen /  Noodle House,2012-04-25 16:14:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,192,40.72568187382265,-74.00740136190926,24946,Bar,2012-07-04 05:00:29+00:00,New York City,Dining and Drinking,Bar,,,,
+48,192,40.73653170754329,-73.9908281005557,275,Diner,2012-07-04 06:12:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,192,40.75802038863343,-73.8293252264962,35503,Chinese Restaurant,2012-07-18 16:45:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,192,40.71931387969475,-73.98571466180762,33498,Japanese Restaurant,2012-05-09 23:25:07+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,192,40.728863,-73.980763,7882,American Restaurant,2012-05-23 23:29:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+52,192,40.716015913157406,-73.99733017766593,716,Dim Sum Restaurant,2012-11-01 18:00:09+00:00,,Dining and Drinking,Restaurant,2.0,0.0,nyc,Return
+53,192,40.7142079238429,-73.99784713983536,4824,Ramen /  Noodle House,2012-11-07 18:00:09+00:00,,Dining and Drinking,Restaurant,8.0,1.0,nyc,Explore
+54,192,40.758737,-73.993396,3423,Theater,2012-11-10 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,11.0,1.0,nyc,Explore
+55,192,40.7165736243376,-73.98917528677009,16234,Bar,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bar,12.0,1.0,nyc,Return
+56,192,40.76071577689616,-73.97616147994995,9053,Coffee Shop,2012-11-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",12.0,1.0,nyc,Explore
+57,192,40.72687935074888,-73.98571466180762,28538,Filipino Restaurant,2012-11-12 18:00:09+00:00,,Dining and Drinking,Restaurant,13.0,1.0,nyc,Return
+58,192,40.7196485455181,-73.9846070190824,54,Molecular Gastronomy Restaurant,2012-11-16 18:00:09+00:00,,Dining and Drinking,Restaurant,17.0,2.0,nyc,Return
+59,192,40.72659891856718,-73.99597583556834,25537,Bar,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Return
+60,192,40.72659891856718,-73.99597583556834,25537,Bar,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Return
+61,192,40.72659891856718,-73.99597583556834,25537,Bar,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Return
+62,192,40.72659891856718,-73.99597583556834,25537,Bar,2012-11-18 18:00:09+00:00,,Dining and Drinking,Bar,19.0,2.0,nyc,Return
+63,192,40.72093306371737,-73.98790123309466,46,Music Venue,2012-11-24 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,25.0,3.0,nyc,Return
+64,192,40.75150160315114,-73.98271884655175,3818,Department Store,2012-11-24 18:00:09+00:00,,Retail,Department Store,25.0,3.0,nyc,Explore
+65,192,40.75501638768548,-73.98844643727924,1294,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Return
+66,192,40.737367546551965,-73.99015090774017,3830,Burger Joint,2012-11-25 18:00:09+00:00,,Dining and Drinking,Restaurant,26.0,3.0,nyc,Return
+67,192,40.75951667388144,-73.83275416928555,33679,Chinese Restaurant,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Return
+68,192,40.71546839730884,-73.99738311767578,27814,Tea Room,2012-12-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",33.0,4.0,nyc,Explore
+69,192,40.738664,-73.981006,4286,Mediterranean Restaurant,2012-12-04 18:00:09+00:00,,Dining and Drinking,Restaurant,35.0,5.0,nyc,Explore
+70,192,40.72908901998626,-73.9842454555664,23327,Tapas Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Return
+71,192,40.737367546551965,-73.99015090774017,3830,Burger Joint,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Return
+72,192,40.72352673136299,-73.98937940597534,31083,Seafood Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Return
+73,192,40.743597144110296,-74.0033270434982,26476,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Return
+74,192,40.732758323855705,-73.98576631338501,2331,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Explore
+75,192,40.72912513547399,-73.9886186067,3090,Tea Room,2012-12-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",39.0,5.0,nyc,Return
+76,192,40.758737,-73.993396,3423,Theater,2012-12-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,39.0,5.0,nyc,Return
+77,192,40.747785,-73.986556,3069,Korean Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Return
+78,192,40.729110403548944,-73.9842454555664,2178,Ramen /  Noodle House,2012-12-10 18:00:09+00:00,,Dining and Drinking,Restaurant,41.0,5.0,nyc,Return
+79,192,40.72659891856718,-73.99597583556834,25537,Bar,2012-12-15 18:00:09+00:00,,Dining and Drinking,Bar,46.0,6.0,nyc,Return
+80,192,40.75951667388144,-73.83275416928555,33679,Chinese Restaurant,2012-12-15 18:00:09+00:00,,Dining and Drinking,Restaurant,46.0,6.0,nyc,Return
+81,192,40.72659891856718,-73.99597583556834,25537,Bar,2012-12-16 18:00:09+00:00,,Dining and Drinking,Bar,47.0,6.0,nyc,Return
+82,192,40.734086557642925,-73.99319825658422,1883,Burger Joint,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Return
+83,192,40.72568187382265,-74.00740136190926,24946,Bar,2012-12-16 18:00:09+00:00,,Dining and Drinking,Bar,47.0,6.0,nyc,Return
+84,192,40.7165736243376,-73.98917528677009,16234,Bar,2012-12-19 18:00:09+00:00,,Dining and Drinking,Bar,50.0,7.0,nyc,Return
+85,192,40.72645383618287,-73.99859547615051,1721,Coffee Shop,2013-01-28 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",90.0,12.0,nyc,Return
+86,192,40.75150160315114,-73.98271884655175,3818,Department Store,2013-01-29 18:00:09+00:00,,Retail,Department Store,91.0,13.0,nyc,Return
+87,192,40.75951667388144,-73.83275416928555,33679,Chinese Restaurant,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Return
+88,192,40.7585071196909,-73.83094493552565,31779,Chinese Restaurant,2013-01-31 18:00:09+00:00,,Dining and Drinking,Restaurant,93.0,13.0,nyc,Explore
+89,192,40.73337739365365,-73.99148807430478,34405,Pizza Place,2013-02-02 18:00:09+00:00,,Dining and Drinking,Restaurant,95.0,13.0,nyc,Return
+90,192,40.72687935074888,-73.98571466180762,28538,Filipino Restaurant,2013-02-02 18:00:09+00:00,,Dining and Drinking,Restaurant,95.0,13.0,nyc,Return
+91,192,40.75501638768548,-73.98844643727924,1294,Bar,2013-02-02 18:00:09+00:00,,Dining and Drinking,Bar,95.0,13.0,nyc,Return
+92,192,40.747785,-73.986556,3069,Korean Restaurant,2013-02-03 18:00:09+00:00,,Dining and Drinking,Restaurant,96.0,13.0,nyc,Return
+93,192,40.747617164273045,-73.9862828283949,35126,Bar,2013-02-03 18:00:09+00:00,,Dining and Drinking,Bar,96.0,13.0,nyc,Explore
+94,192,40.72054257810071,-73.98959398269653,1771,Bar,2013-02-08 18:00:09+00:00,,Dining and Drinking,Bar,101.0,14.0,nyc,Explore
+95,192,40.72639997828572,-73.9917348465147,32038,Gastropub,2013-02-10 18:00:09+00:00,,Dining and Drinking,Restaurant,103.0,14.0,nyc,Return
+96,192,40.71969039429001,-74.00854330319025,4924,Sandwich Place,2013-02-10 18:00:09+00:00,,Dining and Drinking,Restaurant,103.0,14.0,nyc,Explore

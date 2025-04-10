@@ -1,0 +1,31 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,576,40.74139595354401,-73.90348504350614,12499,Miscellaneous Shop,2012-08-10 13:52:57+00:00,New York City,Retail,Miscellaneous Store,,,,
+1,576,40.78008648315284,-73.92702341079712,6153,Bridge,2012-05-18 23:26:05+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+2,576,40.76279612336697,-73.89567375183105,20888,Hardware Store,2012-04-16 20:33:01+00:00,New York City,Retail,Hardware Store,,,,
+3,576,40.75239373990142,-73.91296863555908,4541,Hardware Store,2012-04-16 20:59:35+00:00,New York City,Retail,Hardware Store,,,,
+4,576,40.72460652360066,-73.92165605652191,14514,Office,2012-04-23 14:48:56+00:00,New York City,Business and Professional Services,Office,,,,
+5,576,40.76164736537185,-73.91007617881331,35950,Salon / Barbershop,2012-07-07 16:52:40+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+6,576,40.75271883902363,-73.90970706939697,9396,Coffee Shop,2012-07-07 17:58:08+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+7,576,40.73405557647634,-73.87084722518921,1789,Mall,2012-06-16 22:46:41+00:00,New York City,Retail,Shopping Mall,,,,
+8,576,40.74039647079659,-73.89850616455078,15301,Convenience Store,2012-09-15 12:47:35+00:00,New York City,Retail,Convenience Store,,,,
+9,576,40.81780414338999,-73.85728597640991,34966,Other Great Outdoors,2012-04-22 15:43:11+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+10,576,40.763421420005706,-73.9812496173994,1453,Bar,2012-04-29 01:59:41+00:00,New York City,Dining and Drinking,Bar,,,,
+11,576,40.76441662707523,-73.98302302149607,20039,Bar,2012-04-29 04:03:06+00:00,New York City,Dining and Drinking,Bar,,,,
+12,576,40.71303805275479,-73.94418804894958,35785,Bar,2012-07-08 00:06:59+00:00,New York City,Dining and Drinking,Bar,,,,
+13,576,40.77888603930127,-73.77881468540704,13984,Movie Theater,2012-05-13 00:34:42+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+14,576,40.73746785507434,-73.88261930277426,5719,Diner,2012-05-13 04:33:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,576,40.771831872647006,-73.93009185791016,21321,Neighborhood,2012-07-05 22:44:55+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+16,576,40.735161,-73.895461,19687,Building,2012-04-17 18:31:52+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+17,576,40.76026092904135,-73.76967397062295,21447,Other Nightlife,2012-04-17 21:11:55+00:00,New York City,Nightlife Spot,Other Nightlife,,,,
+18,576,40.73437108733907,-73.87157690013743,31025,Department Store,2012-07-03 21:22:52+00:00,New York City,Retail,Department Store,,,,
+19,576,40.71118592877382,-74.00129559036392,12897,High School,2012-05-15 22:06:49+00:00,New York City,Community and Government,Education,,,,
+20,576,40.77888603930127,-73.77881468540704,13984,Movie Theater,2012-11-18 18:00:09+00:00,,Arts and Entertainment,Movie Theater,19.0,2.0,nyc,Return
+21,576,40.780208053425,-73.79259103746172,32775,Bar,2012-11-18 18:00:09+00:00,,Dining and Drinking,Bar,19.0,2.0,nyc,Explore
+22,576,40.73746785507434,-73.88261930277426,5719,Diner,2012-11-24 18:00:09+00:00,,Dining and Drinking,Restaurant,25.0,3.0,nyc,Return
+23,576,40.74088398082356,-74.00765959043375,2652,Hotel,2012-12-04 18:00:09+00:00,,Travel and Transportation,Lodging,35.0,5.0,nyc,Rec
+24,576,40.74656211486993,-73.99408777489505,5404,Museum,2012-12-09 18:00:09+00:00,,Arts and Entertainment,Museum,40.0,5.0,nyc,Rec
+25,576,40.735161,-73.895461,19687,Building,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,Structure,53.0,7.0,nyc,Return
+26,576,40.760684,-73.92234228333334,7236,Italian Restaurant,2013-01-08 18:00:09+00:00,,Dining and Drinking,Restaurant,70.0,10.0,nyc,Explore
+27,576,40.76279612336697,-73.89567375183105,20888,Hardware Store,2013-01-12 18:00:09+00:00,,Retail,Hardware Store,74.0,10.0,nyc,Return
+28,576,40.74039647079659,-73.89850616455078,15301,Convenience Store,2013-01-18 18:00:09+00:00,,Retail,Convenience Store,80.0,11.0,nyc,Return
+29,576,40.71034503395649,-74.00510251522064,5131,Medical Center,2013-02-07 18:00:09+00:00,,Health and Medicine,Hospital,100.0,14.0,nyc,Explore

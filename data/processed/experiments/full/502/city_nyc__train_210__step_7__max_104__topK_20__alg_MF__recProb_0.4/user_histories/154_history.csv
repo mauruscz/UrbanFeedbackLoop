@@ -1,0 +1,135 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,154,40.690525226258906,-73.99196440177379,7075,Movie Theater,2012-08-17 00:32:28+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+1,154,40.693976984299226,-73.99056984934022,27443,Bank,2012-07-06 21:06:41+00:00,New York City,Business and Professional Services,Financial Service,,,,
+2,154,40.690525226258906,-73.99196440177379,7075,Movie Theater,2012-07-13 00:05:26+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+3,154,40.674193793620304,-73.93476963043213,20660,Park,2012-07-27 23:18:56+00:00,New York City,Landmarks and Outdoors,Park,,,,
+4,154,40.75315436423719,-73.98905476854135,8595,Mexican Restaurant,2012-10-12 00:27:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,154,40.598445892333984,-73.93956756591797,37399,Bank,2012-10-12 02:08:48+00:00,New York City,Business and Professional Services,Financial Service,,,,
+6,154,40.761268375278135,-73.96862983703613,22689,Clothing Store,2012-10-12 10:55:54+00:00,New York City,Retail,Fashion Retail,,,,
+7,154,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-10-12 11:11:33+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+8,154,40.757666508634586,-73.96961017102844,14645,Donut Shop,2012-10-12 11:39:20+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+9,154,40.63747186489681,-73.91008766143291,35655,Miscellaneous Shop,2012-10-12 21:13:25+00:00,New York City,Retail,Miscellaneous Store,,,,
+10,154,40.60233803273628,-74.06333122960736,17737,Bridge,2012-08-13 04:42:01+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+11,154,40.63179642533567,-73.94767812067376,4618,Bookstore,2012-07-16 20:49:08+00:00,New York City,Retail,Bookstore,,,,
+12,154,40.625661858308206,-73.93936613579156,36365,Chinese Restaurant,2012-07-07 00:40:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+13,154,40.60978237983301,-73.92187356948853,26366,Electronics Store,2012-07-07 18:22:23+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+14,154,40.60948916260309,-73.92172336578369,27069,Sandwich Place,2012-07-07 19:49:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,154,40.60952174235882,-73.92069339752197,9304,Clothing Store,2012-07-07 20:39:45+00:00,New York City,Retail,Fashion Retail,,,,
+16,154,40.60978237983301,-73.92232418060303,20721,Clothing Store,2012-07-07 20:48:11+00:00,New York City,Retail,Fashion Retail,,,,
+17,154,40.69247216233601,-73.99433454375975,35259,College Academic Building,2012-10-27 04:52:26+00:00,New York City,Community and Government,Education,,,,
+18,154,40.693976984299226,-73.99056984934022,27443,Bank,2012-10-27 06:31:22+00:00,New York City,Business and Professional Services,Financial Service,,,,
+19,154,40.69232474202854,-73.98860692977905,16063,Plaza,2012-10-27 06:42:38+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+20,154,40.700178463402345,-73.90524387359619,12255,Fast Food Restaurant,2012-10-27 22:21:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,154,40.68312,-73.975979,12936,Stadium,2012-10-27 22:56:07+00:00,New York City,Arts and Entertainment,Stadium,,,,
+22,154,40.680911175000006,-73.975411,23645,Cosmetics Shop,2012-10-27 22:57:53+00:00,New York City,Retail,Cosmetics Store,,,,
+23,154,40.75501638768548,-73.98844643727924,1294,Bar,2012-09-15 07:12:42+00:00,New York City,Dining and Drinking,Bar,,,,
+24,154,40.61818633764284,-73.95874490511197,19756,Miscellaneous Shop,2012-08-05 16:30:45+00:00,New York City,Retail,Miscellaneous Store,,,,
+25,154,40.716153,-74.137425,36530,Moving Target,2012-08-05 18:21:14+00:00,New York City,Travel and Transportation,Moving Target,,,,
+26,154,40.671492,-73.93104,33230,Deli / Bodega,2012-10-28 08:19:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+27,154,40.669635,-73.95052,4858,Breakfast Spot,2012-10-28 08:51:14+00:00,New York City,Dining and Drinking,Breakfast Spot,,,,
+28,154,40.690525226258906,-73.99196440177379,7075,Movie Theater,2012-08-16 22:29:33+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+29,154,40.73694970065323,-73.99047374725342,4447,Fast Food Restaurant,2012-07-05 01:45:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,154,40.73528249691621,-73.99040315158283,758,Park,2012-07-05 02:05:19+00:00,New York City,Landmarks and Outdoors,Park,,,,
+31,154,40.690525226258906,-73.99196440177379,7075,Movie Theater,2012-07-12 21:09:21+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+32,154,40.76803326982161,-73.98186922073364,2490,Plaza,2012-10-25 07:14:12+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+33,154,40.76820821285607,-73.9818177971927,9180,Clothing Store,2012-10-25 07:14:22+00:00,New York City,Retail,Boutique,,,,
+34,154,40.73528249691621,-73.99040315158283,758,Park,2012-07-03 21:20:58+00:00,New York City,Landmarks and Outdoors,Park,,,,
+35,154,40.63179642533567,-73.94767812067376,4618,Bookstore,2012-07-10 22:04:47+00:00,New York City,Retail,Bookstore,,,,
+36,154,40.62566335978522,-73.93884949511768,36571,Convenience Store,2012-07-10 23:01:43+00:00,New York City,Retail,Convenience Store,,,,
+37,154,40.6234967387,-73.94626028662924,15542,High School,2012-07-17 21:24:21+00:00,New York City,Community and Government,Education,,,,
+38,154,40.76803326982161,-73.98186922073364,2490,Plaza,2012-10-23 01:20:17+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+39,154,40.76820821285607,-73.9818177971927,9180,Clothing Store,2012-10-23 01:21:16+00:00,New York City,Retail,Boutique,,,,
+40,154,40.76803326982161,-73.98186922073364,2490,Plaza,2012-10-23 11:33:31+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+41,154,40.73694970065323,-73.99047374725342,4447,Fast Food Restaurant,2012-07-04 00:04:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+42,154,40.73528249691621,-73.99040315158283,758,Park,2012-07-04 00:26:26+00:00,New York City,Landmarks and Outdoors,Park,,,,
+43,154,40.86713495993607,-73.95386595483691,20724,Gas Station / Garage,2012-07-04 15:10:45+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+44,154,40.73913530108799,-73.99137329642457,2535,Clothing Store,2012-07-11 18:53:55+00:00,New York City,Retail,Fashion Retail,,,,
+45,154,40.737517859385406,-73.99140772979585,8480,Jewelry Store,2012-07-11 19:02:35+00:00,New York City,Retail,Fashion Retail,,,,
+46,154,40.73714480561841,-73.99020552635193,4784,Mexican Restaurant,2012-07-11 19:09:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,154,40.61818633764284,-73.95874490511197,19756,Miscellaneous Shop,2012-07-11 21:22:34+00:00,New York City,Retail,Miscellaneous Store,,,,
+48,154,40.61818633764284,-73.95874490511197,19756,Miscellaneous Shop,2012-07-11 21:23:08+00:00,New York City,Retail,Miscellaneous Store,,,,
+49,154,40.63179642533567,-73.94767812067376,4618,Bookstore,2012-07-11 21:47:35+00:00,New York City,Retail,Bookstore,,,,
+50,154,40.59792234564146,-73.92099380493164,14009,Park,2012-07-18 01:01:43+00:00,New York City,Landmarks and Outdoors,Park,,,,
+51,154,40.887610075781744,-74.01821223101604,10126,Donut Shop,2012-10-03 17:59:04+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+52,154,40.888721,-74.020922,28973,Gas Station / Garage,2012-10-03 18:49:08+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+53,154,40.76803326982161,-73.98186922073364,2490,Plaza,2012-10-24 12:09:55+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+54,154,40.61798059047922,-73.95923279335794,37507,Bank,2012-10-24 13:26:50+00:00,New York City,Business and Professional Services,Financial Service,,,,
+55,154,40.76803326982161,-73.98186922073364,2490,Plaza,2012-11-01 18:00:09+00:00,,Landmarks and Outdoors,Plaza,2.0,0.0,nyc,Return
+56,154,40.756489872673846,-73.98626804351807,2360,Plaza,2012-11-22 18:00:09+00:00,,Landmarks and Outdoors,Plaza,23.0,3.0,nyc,Rec
+57,154,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-11-23 18:00:09+00:00,,Retail,Computers and Electronics Retail,24.0,3.0,nyc,Return
+58,154,40.76346247057747,-73.97400498390198,1857,Department Store,2012-11-25 18:00:09+00:00,,Retail,Department Store,26.0,3.0,nyc,Explore
+59,154,40.887610075781744,-74.01821223101604,10126,Donut Shop,2012-11-27 18:00:09+00:00,,Dining and Drinking,Donut Shop,28.0,4.0,nyc,Return
+60,154,40.81011509621309,-73.95118534970048,11780,Bank,2012-11-27 18:00:09+00:00,,Business and Professional Services,Financial Service,28.0,4.0,nyc,Rec
+61,154,40.73694970065323,-73.99047374725342,4447,Fast Food Restaurant,2012-12-03 18:00:09+00:00,,Dining and Drinking,Restaurant,34.0,4.0,nyc,Return
+62,154,40.733880272998086,-73.99971746924042,25969,Burger Joint,2012-12-04 18:00:09+00:00,,Dining and Drinking,Restaurant,35.0,5.0,nyc,Explore
+63,154,40.761382,-73.981635,28190,Plaza,2012-12-05 18:00:09+00:00,,Landmarks and Outdoors,Plaza,36.0,5.0,nyc,Explore
+64,154,40.73694970065323,-73.99047374725342,4447,Fast Food Restaurant,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Return
+65,154,40.761268375278135,-73.96862983703613,22689,Clothing Store,2012-12-05 18:00:09+00:00,,Retail,Fashion Retail,36.0,5.0,nyc,Return
+66,154,40.804510118099934,-73.93754640640921,13161,Drugstore / Pharmacy,2012-12-05 18:00:09+00:00,,Retail,Pharmacy,36.0,5.0,nyc,Rec
+67,154,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-12-05 18:00:09+00:00,,Retail,Computers and Electronics Retail,36.0,5.0,nyc,Rec
+68,154,40.753384484535445,-73.97450594111876,7188,Bookstore,2012-12-05 18:00:09+00:00,,Retail,Bookstore,36.0,5.0,nyc,Rec
+69,154,40.756489872673846,-73.98626804351807,2360,Plaza,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Plaza,37.0,5.0,nyc,Rec
+70,154,40.75794644028298,-73.98576057432156,37566,Electronics Store,2012-12-07 18:00:09+00:00,,Retail,Computers and Electronics Retail,38.0,5.0,nyc,Rec
+71,154,40.77060380069988,-73.97125167405214,37244,Athletic & Sport,2012-12-09 18:00:09+00:00,,Sports and Recreation,Sports and Recreation,40.0,5.0,nyc,Explore
+72,154,40.76803326982161,-73.98186922073364,2490,Plaza,2012-12-09 18:00:09+00:00,,Landmarks and Outdoors,Plaza,40.0,5.0,nyc,Return
+73,154,40.73743415035814,-73.99128147407096,3237,Bar,2012-12-10 18:00:09+00:00,,Dining and Drinking,Bar,41.0,5.0,nyc,Rec
+74,154,40.75501638768548,-73.98844643727924,1294,Bar,2012-12-12 18:00:09+00:00,,Dining and Drinking,Bar,43.0,6.0,nyc,Return
+75,154,40.756489872673846,-73.98626804351807,2360,Plaza,2012-12-18 18:00:09+00:00,,Landmarks and Outdoors,Plaza,49.0,7.0,nyc,Rec
+76,154,40.761268375278135,-73.96862983703613,22689,Clothing Store,2012-12-19 18:00:09+00:00,,Retail,Fashion Retail,50.0,7.0,nyc,Return
+77,154,40.76161332785865,-73.96829581061981,24290,Plaza,2012-12-21 18:00:09+00:00,,Landmarks and Outdoors,Plaza,52.0,7.0,nyc,Rec
+78,154,40.761382,-73.981635,28190,Plaza,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,Plaza,53.0,7.0,nyc,Return
+79,154,40.75794644028298,-73.98576057432156,37566,Electronics Store,2012-12-22 18:00:09+00:00,,Retail,Computers and Electronics Retail,53.0,7.0,nyc,Return
+80,154,40.68312,-73.975979,12936,Stadium,2012-12-22 18:00:09+00:00,,Arts and Entertainment,Stadium,53.0,7.0,nyc,Return
+81,154,40.68235890557997,-73.9761531417446,32396,Italian Restaurant,2012-12-27 18:00:09+00:00,,Dining and Drinking,Restaurant,58.0,8.0,nyc,Explore
+82,154,40.69118178774824,-73.97480964660645,1038,Park,2012-12-29 18:00:09+00:00,,Landmarks and Outdoors,Park,60.0,8.0,nyc,Rec
+83,154,40.71532844619961,-73.94954367594879,36564,General Travel,2012-12-29 18:00:09+00:00,,Travel and Transportation,General Travel,60.0,8.0,nyc,Rec
+84,154,40.76803326982161,-73.98186922073364,2490,Plaza,2012-12-29 18:00:09+00:00,,Landmarks and Outdoors,Plaza,60.0,8.0,nyc,Return
+85,154,40.761268375278135,-73.96862983703613,22689,Clothing Store,2012-12-31 18:00:09+00:00,,Retail,Fashion Retail,62.0,8.0,nyc,Return
+86,154,40.74053450896559,-73.99484529691256,34452,Neighborhood,2012-12-31 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,62.0,8.0,nyc,Explore
+87,154,40.76803326982161,-73.98186922073364,2490,Plaza,2012-12-31 18:00:09+00:00,,Landmarks and Outdoors,Plaza,62.0,8.0,nyc,Return
+88,154,40.749695355837886,-73.99184703826904,17609,Bank,2012-12-31 18:00:09+00:00,,Business and Professional Services,Financial Service,62.0,8.0,nyc,Rec
+89,154,40.7592174253766,-73.98830296264396,18942,Deli / Bodega,2013-01-01 18:00:09+00:00,,Dining and Drinking,Restaurant,63.0,9.0,nyc,Rec
+90,154,40.671492,-73.93104,33230,Deli / Bodega,2013-01-01 18:00:09+00:00,,Dining and Drinking,Restaurant,63.0,9.0,nyc,Return
+91,154,40.66390776998241,-73.970947265625,1301,Park,2013-01-01 18:00:09+00:00,,Landmarks and Outdoors,Park,63.0,9.0,nyc,Rec
+92,154,40.73215319032559,-74.03588891029358,4547,Department Store,2013-01-02 18:00:09+00:00,,Retail,Department Store,64.0,9.0,nyc,Rec
+93,154,40.671492,-73.93104,33230,Deli / Bodega,2013-01-02 18:00:09+00:00,,Dining and Drinking,Restaurant,64.0,9.0,nyc,Return
+94,154,40.761268375278135,-73.96862983703613,22689,Clothing Store,2013-01-04 18:00:09+00:00,,Retail,Fashion Retail,66.0,9.0,nyc,Return
+95,154,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-01-04 18:00:09+00:00,,Retail,Computers and Electronics Retail,66.0,9.0,nyc,Return
+96,154,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-05 18:00:09+00:00,,Landmarks and Outdoors,Plaza,67.0,9.0,nyc,Return
+97,154,40.63179642533567,-73.94767812067376,4618,Bookstore,2013-01-05 18:00:09+00:00,,Retail,Bookstore,67.0,9.0,nyc,Return
+98,154,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-05 18:00:09+00:00,,Landmarks and Outdoors,Plaza,67.0,9.0,nyc,Return
+99,154,40.733880272998086,-73.99971746924042,25969,Burger Joint,2013-01-06 18:00:09+00:00,,Dining and Drinking,Restaurant,68.0,9.0,nyc,Return
+100,154,40.61798059047922,-73.95923279335794,37507,Bank,2013-01-08 18:00:09+00:00,,Business and Professional Services,Financial Service,70.0,10.0,nyc,Return
+101,154,40.7592174253766,-73.98830296264396,18942,Deli / Bodega,2013-01-08 18:00:09+00:00,,Dining and Drinking,Restaurant,70.0,10.0,nyc,Return
+102,154,40.73316247409845,-73.99104044018358,5375,Bookstore,2013-01-10 18:00:09+00:00,,Retail,Bookstore,72.0,10.0,nyc,Rec
+103,154,40.60233803273628,-74.06333122960736,17737,Bridge,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,Bridge,73.0,10.0,nyc,Return
+104,154,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-01-12 18:00:09+00:00,,Retail,Computers and Electronics Retail,74.0,10.0,nyc,Return
+105,154,40.73743415035814,-73.99128147407096,3237,Bar,2013-01-12 18:00:09+00:00,,Dining and Drinking,Bar,74.0,10.0,nyc,Return
+106,154,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-12 18:00:09+00:00,,Landmarks and Outdoors,Plaza,74.0,10.0,nyc,Return
+107,154,40.75794644028298,-73.98576057432156,37566,Electronics Store,2013-01-12 18:00:09+00:00,,Retail,Computers and Electronics Retail,74.0,10.0,nyc,Return
+108,154,40.693976984299226,-73.99056984934022,27443,Bank,2013-01-12 18:00:09+00:00,,Business and Professional Services,Financial Service,74.0,10.0,nyc,Return
+109,154,40.7592174253766,-73.98830296264396,18942,Deli / Bodega,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Return
+110,154,40.73528249691621,-73.99040315158283,758,Park,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,Park,76.0,10.0,nyc,Return
+111,154,40.671492,-73.93104,33230,Deli / Bodega,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Return
+112,154,40.68098625701369,-73.97555624837348,3268,Bookstore,2013-01-18 18:00:09+00:00,,Retail,Bookstore,80.0,11.0,nyc,Rec
+113,154,40.671492,-73.93104,33230,Deli / Bodega,2013-01-18 18:00:09+00:00,,Dining and Drinking,Restaurant,80.0,11.0,nyc,Return
+114,154,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-18 18:00:09+00:00,,Landmarks and Outdoors,Plaza,80.0,11.0,nyc,Return
+115,154,40.60948916260309,-73.92172336578369,27069,Sandwich Place,2013-01-21 18:00:09+00:00,,Dining and Drinking,Restaurant,83.0,11.0,nyc,Return
+116,154,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-25 18:00:09+00:00,,Landmarks and Outdoors,Plaza,87.0,12.0,nyc,Return
+117,154,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-25 18:00:09+00:00,,Landmarks and Outdoors,Plaza,87.0,12.0,nyc,Return
+118,154,40.75509131121782,-73.98537605667838,18177,Electronics Store,2013-01-25 18:00:09+00:00,,Retail,Computers and Electronics Retail,87.0,12.0,nyc,Explore
+119,154,40.72993391333697,-73.98683377620732,3735,Park,2013-01-27 18:00:09+00:00,,Landmarks and Outdoors,Park,89.0,12.0,nyc,Explore
+120,154,40.73743415035814,-73.99128147407096,3237,Bar,2013-01-28 18:00:09+00:00,,Dining and Drinking,Bar,90.0,12.0,nyc,Return
+121,154,40.74324269017522,-73.99245220578715,25800,Electronics Store,2013-01-28 18:00:09+00:00,,Retail,Computers and Electronics Retail,90.0,12.0,nyc,Explore
+122,154,40.756489872673846,-73.98626804351807,2360,Plaza,2013-01-30 18:00:09+00:00,,Landmarks and Outdoors,Plaza,92.0,13.0,nyc,Rec
+123,154,40.761382,-73.981635,28190,Plaza,2013-01-31 18:00:09+00:00,,Landmarks and Outdoors,Plaza,93.0,13.0,nyc,Return
+124,154,40.76803326982161,-73.98186922073364,2490,Plaza,2013-01-31 18:00:09+00:00,,Landmarks and Outdoors,Plaza,93.0,13.0,nyc,Return
+125,154,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-02-01 18:00:09+00:00,,Retail,Computers and Electronics Retail,94.0,13.0,nyc,Rec
+126,154,40.762383,-73.969165,26761,Bookstore,2013-02-01 18:00:09+00:00,,Retail,Bookstore,94.0,13.0,nyc,Explore
+127,154,40.716153,-74.137425,36530,Moving Target,2013-02-02 18:00:09+00:00,,Travel and Transportation,Moving Target,95.0,13.0,nyc,Return
+128,154,40.73694970065323,-73.99047374725342,4447,Fast Food Restaurant,2013-02-02 18:00:09+00:00,,Dining and Drinking,Restaurant,95.0,13.0,nyc,Return
+129,154,40.75501638768548,-73.98844643727924,1294,Bar,2013-02-03 18:00:09+00:00,,Dining and Drinking,Bar,96.0,13.0,nyc,Return
+130,154,40.768522910406574,-73.96591960790946,33984,Nursery School,2013-02-05 18:00:09+00:00,,Community and Government,Education,98.0,14.0,nyc,Rec
+131,154,40.693976984299226,-73.99056984934022,27443,Bank,2013-02-05 18:00:09+00:00,,Business and Professional Services,Financial Service,98.0,14.0,nyc,Return
+132,154,40.703083611834224,-73.94261519999797,27540,Miscellaneous Shop,2013-02-05 18:00:09+00:00,,Retail,Miscellaneous Store,98.0,14.0,nyc,Rec
+133,154,40.62566335978522,-73.93884949511768,36571,Convenience Store,2013-02-05 18:00:09+00:00,,Retail,Convenience Store,98.0,14.0,nyc,Return

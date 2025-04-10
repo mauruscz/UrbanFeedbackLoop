@@ -1,0 +1,225 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,481,40.631344,-74.023161,30675,Food,2012-04-13 12:07:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,481,40.63003300793903,-74.02723803440517,19537,Neighborhood,2012-04-13 12:07:36+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+2,481,40.74320844051549,-74.00018229899517,27444,Building,2012-04-13 17:13:44+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+3,481,40.743831,-73.999587,25069,Miscellaneous Shop,2012-04-13 17:13:55+00:00,New York City,Retail,Miscellaneous Store,,,,
+4,481,40.74320844051549,-74.00018229899517,27444,Building,2012-04-20 13:07:47+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+5,481,40.7417052,-73.989812,8558,Miscellaneous Shop,2012-04-27 13:45:20+00:00,New York City,Retail,Miscellaneous Store,,,,
+6,481,40.74311584876924,-73.99978059433505,27444,Building,2012-06-08 18:24:23+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+7,481,40.74311584876924,-73.99978059433505,27444,Building,2012-06-15 13:06:46+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+8,481,40.706871115902345,-74.00984017295771,5648,Building,2012-06-15 14:27:55+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+9,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-04 14:30:42+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+10,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-11 17:16:18+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+11,481,40.72288437724696,-73.99875640869139,19232,Neighborhood,2012-05-11 18:29:46+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+12,481,40.7238538382678,-74.00405009788602,21764,Bar,2012-05-18 15:56:00+00:00,New York City,Dining and Drinking,Bar,,,,
+13,481,40.795185408318666,-73.93126619965264,7951,Food & Drink Shop,2012-05-18 21:29:24+00:00,New York City,Retail,Food and Beverage Retail,,,,
+14,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-25 23:31:05+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+15,481,40.68312,-73.975979,12936,Stadium,2012-10-19 00:16:57+00:00,New York City,Arts and Entertainment,Stadium,,,,
+16,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-10-26 11:26:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+17,481,40.620285,-74.03218057500001,11351,American Restaurant,2012-10-26 23:30:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,481,40.69495630955058,-74.01334762573242,16506,Bridge,2012-09-14 14:30:24+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+19,481,40.773643750011495,-73.96081924438477,4044,Medical Center,2012-09-14 17:59:19+00:00,New York City,Health and Medicine,Hospital,,,,
+20,481,40.74768838542047,-73.98277049893474,28898,Building,2012-04-09 14:59:30+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+21,481,40.76294756693763,-73.96349171836145,18985,Building,2012-04-09 20:15:04+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+22,481,40.7417052,-73.989812,8558,Miscellaneous Shop,2012-04-16 13:03:12+00:00,New York City,Retail,Miscellaneous Store,,,,
+23,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2012-04-16 13:56:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,481,40.74320844051549,-74.00018229899517,27444,Building,2012-04-16 13:57:28+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+25,481,40.73823003977592,-73.9878323650875,7333,Mediterranean Restaurant,2012-04-16 17:37:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+26,481,40.63003300793903,-74.02723803440517,19537,Neighborhood,2012-04-23 01:29:02+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+27,481,40.62908664367926,-74.02280838643584,32352,Food & Drink Shop,2012-04-23 01:29:34+00:00,New York City,Retail,Food and Beverage Retail,,,,
+28,481,40.74320844051549,-74.00018229899517,27444,Building,2012-04-23 16:40:04+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+29,481,40.74311584876924,-73.99978059433505,27444,Building,2012-07-16 20:03:17+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+30,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-06-11 15:17:05+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+31,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2012-06-18 17:22:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,481,40.74828059076867,-73.98556262254715,1434,Building,2012-06-18 19:09:04+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+33,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-06-25 09:31:39+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+34,481,40.773643750011495,-73.96081924438477,4044,Medical Center,2012-06-25 12:05:42+00:00,New York City,Health and Medicine,Hospital,,,,
+35,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-14 14:47:04+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+36,481,40.743831,-73.999587,25069,Miscellaneous Shop,2012-05-14 14:48:40+00:00,New York City,Retail,Miscellaneous Store,,,,
+37,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-05-14 22:14:44+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+38,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-21 13:05:53+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+39,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2012-05-21 13:23:08+00:00,New York City,Dining and Drinking,Restaurant,,,,
+40,481,40.73819409171801,-73.99690551210607,37185,Building,2012-10-22 22:43:12+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+41,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-10-29 11:03:17+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+42,481,40.79515940954075,-73.9309676838477,7951,Food & Drink Shop,2012-04-07 16:04:45+00:00,New York City,Retail,Food and Beverage Retail,,,,
+43,481,40.79040388037265,-73.93980814949656,20522,Building,2012-04-07 16:04:57+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+44,481,40.6520626979589,-74.00796946420289,17981,Automotive Shop,2012-04-14 12:21:14+00:00,New York City,Retail,Automotive Shop,,,,
+45,481,40.71623280185079,-73.85018348693848,24922,Neighborhood,2012-06-09 15:55:00+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+46,481,40.71927002990572,-73.96150576233745,20087,Cuban Restaurant,2012-05-12 21:09:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-05-12 22:36:20+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+48,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-19 15:19:12+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+49,481,40.69388718825108,-73.9832411088956,12826,Arcade,2012-05-19 18:41:17+00:00,New York City,Arts and Entertainment,Arcade,,,,
+50,481,40.631344,-74.023161,30675,Food,2012-05-26 03:38:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-10-13 00:36:16+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+52,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-09-15 12:12:18+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+53,481,40.690626011196095,-73.98577205244833,8068,Department Store,2012-04-22 16:24:47+00:00,New York City,Retail,Department Store,,,,
+54,481,40.62180121851556,-74.03189134902395,13003,Mexican Restaurant,2012-07-08 00:47:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+55,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-07-08 03:44:52+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+56,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-07-08 13:38:27+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+57,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-07-15 12:46:48+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+58,481,40.67878217617617,-74.00854330319025,34430,Church,2012-07-15 13:53:09+00:00,New York City,Community and Government,Spiritual Center,,,,
+59,481,40.74311584876924,-73.99978059433505,27444,Building,2012-06-03 16:00:10+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+60,481,40.743831,-73.999587,25069,Miscellaneous Shop,2012-06-03 16:00:27+00:00,New York City,Retail,Miscellaneous Store,,,,
+61,481,40.79561946033889,-73.97385738787456,25182,Building,2012-06-03 20:04:46+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+62,481,40.79132506335222,-73.94332126150972,28574,Professional & Other Places,2012-06-03 20:23:18+00:00,New York City,Business and Professional Services,Business and Professional Services,,,,
+63,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-06-10 12:20:04+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+64,481,40.713240189310966,-74.01618003845215,3232,Burger Joint,2012-06-10 23:44:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+65,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-06-17 18:18:13+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+66,481,40.60246738333333,-74.06398418333333,28290,Park,2012-06-17 18:19:28+00:00,New York City,Landmarks and Outdoors,Park,,,,
+67,481,40.629995,-74.02245698134155,3835,Italian Restaurant,2012-06-17 23:33:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+68,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-06 18:19:32+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+69,481,40.743831,-73.999587,25069,Miscellaneous Shop,2012-05-06 18:19:43+00:00,New York City,Retail,Miscellaneous Store,,,,
+70,481,40.659685,-73.96364601832441,6480,Other Great Outdoors,2012-05-13 17:08:38+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+71,481,40.78736528854554,-73.95652770996094,21435,Other Great Outdoors,2012-05-13 19:03:54+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+72,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-10-28 11:25:03+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+73,481,40.67878217617617,-74.00854330319025,34430,Church,2012-10-28 14:00:47+00:00,New York City,Community and Government,Spiritual Center,,,,
+74,481,40.619628,-74.027667,30306,Shop & Service,2012-10-28 20:38:29+00:00,New York City,Retail,Retail,,,,
+75,481,40.74311584876924,-73.99978059433505,27444,Building,2012-09-09 15:17:32+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+76,481,40.80555881189124,-73.96193504333496,7714,Medical Center,2012-09-09 21:11:39+00:00,New York City,Health and Medicine,Hospital,,,,
+77,481,40.74320844051549,-74.00018229899517,27444,Building,2012-04-19 19:08:22+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+78,481,40.76796322894073,-73.981680056791,25986,Building,2012-07-05 11:52:56+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+79,481,40.74311584876924,-73.99978059433505,27444,Building,2012-07-12 17:10:20+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+80,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-07-12 23:22:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+81,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-07-19 00:25:07+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+82,481,40.631344,-74.023161,30675,Food,2012-06-07 02:14:19+00:00,New York City,Dining and Drinking,Restaurant,,,,
+83,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-06-07 02:15:14+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+84,481,40.74311584876924,-73.99978059433505,27444,Building,2012-06-07 13:48:15+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+85,481,40.743831,-73.999587,25069,Miscellaneous Shop,2012-06-07 16:27:37+00:00,New York City,Retail,Miscellaneous Store,,,,
+86,481,40.74181897032258,-73.9900131733157,8558,Miscellaneous Shop,2012-06-07 17:50:20+00:00,New York City,Retail,Miscellaneous Store,,,,
+87,481,40.7904090741916,-73.94028460469825,20522,Building,2012-06-07 23:21:09+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+88,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-06-14 01:23:46+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+89,481,40.726442552526784,-73.99574628511174,3751,Clothing Store,2012-05-10 21:12:25+00:00,New York City,Retail,Fashion Retail,,,,
+90,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-17 14:48:07+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+91,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-05-24 02:02:53+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+92,481,40.74311584876924,-73.99978059433505,27444,Building,2012-10-11 20:13:04+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+93,481,40.73819409171801,-73.99690551210607,37185,Building,2012-10-11 21:40:28+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+94,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-10-25 10:08:02+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+95,481,40.63003300793903,-74.02723803440517,19537,Neighborhood,2012-04-17 20:09:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+96,481,40.6299055921874,-74.02847739934303,19537,Neighborhood,2012-04-24 18:44:28+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+97,481,40.74311584876924,-73.99978059433505,27444,Building,2012-07-03 15:26:52+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+98,481,40.74311584876924,-73.99978059433505,27444,Building,2012-07-17 20:08:29+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+99,481,40.743831,-73.999587,25069,Miscellaneous Shop,2012-07-17 20:35:14+00:00,New York City,Retail,Miscellaneous Store,,,,
+100,481,40.631344,-74.023161,30675,Food,2012-06-12 00:22:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+101,481,40.73926100788259,-73.99541343646136,10816,Electronics Store,2012-06-26 22:47:57+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+102,481,40.74320844051549,-74.00018229899517,27444,Building,2012-05-01 21:34:06+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+103,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-08 18:56:43+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+104,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2012-05-08 18:57:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+105,481,40.62908664367926,-74.02280838643584,32352,Food & Drink Shop,2012-05-08 22:52:17+00:00,New York City,Retail,Food and Beverage Retail,,,,
+106,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-15 14:23:41+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+107,481,40.70613219542541,-74.01637315750122,10753,Building,2012-05-15 15:28:16+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+108,481,40.629261776517936,-74.02266493756625,32352,Food & Drink Shop,2012-10-23 00:01:55+00:00,New York City,Retail,Food and Beverage Retail,,,,
+109,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-10-23 10:11:40+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+110,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-10-23 10:13:12+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+111,481,40.74311584876924,-73.99978059433505,27444,Building,2012-10-23 21:17:03+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+112,481,40.773643750011495,-73.96081924438477,4044,Medical Center,2012-10-23 21:55:56+00:00,New York City,Health and Medicine,Hospital,,,,
+113,481,40.782936,-73.949914,9149,Building,2012-04-04 14:16:44+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+114,481,40.77911327922214,-73.94782736575806,10704,Building,2012-04-04 15:28:03+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+115,481,40.77966402799148,-73.95498275756836,24461,Building,2012-04-04 15:28:30+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+116,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2012-04-04 18:29:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+117,481,40.63004222957583,-74.02755361420529,19537,Neighborhood,2012-04-11 01:23:41+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+118,481,40.743831,-73.999587,25069,Miscellaneous Shop,2012-04-11 17:01:26+00:00,New York City,Retail,Miscellaneous Store,,,,
+119,481,40.74320844051549,-74.00018229899517,27444,Building,2012-04-18 17:33:01+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+120,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2012-04-18 18:07:19+00:00,New York City,Dining and Drinking,Restaurant,,,,
+121,481,40.79412552488167,-73.97595226437454,13842,Building,2012-04-18 20:25:30+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+122,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-07-04 23:19:35+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+123,481,40.759977459293175,-73.98071587121497,1095,Concert Hall,2012-07-11 12:10:33+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+124,481,40.74181897032258,-73.9900131733157,8558,Miscellaneous Shop,2012-07-11 15:47:38+00:00,New York City,Retail,Miscellaneous Store,,,,
+125,481,40.74311584876924,-73.99978059433505,27444,Building,2012-07-18 14:15:49+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+126,481,40.74311584876924,-73.99978059433505,27444,Building,2012-07-18 20:08:50+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+127,481,40.74311584876924,-73.99978059433505,27444,Building,2012-07-18 20:25:10+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+128,481,40.62294050861277,-74.02805854079831,22536,Trade School,2012-06-13 23:27:10+00:00,New York City,Community and Government,Education,,,,
+129,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2012-06-27 14:19:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+130,481,40.74311584876924,-73.99978059433505,27444,Building,2012-06-27 14:22:55+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+131,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-16 13:25:29+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+132,481,40.71927002990572,-73.96150576233745,20087,Cuban Restaurant,2012-05-23 18:30:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+133,481,40.74107414663219,-74.0051408163161,2460,Electronics Store,2012-05-23 19:17:19+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+134,481,40.74311584876924,-73.99978059433505,27444,Building,2012-05-23 19:26:35+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+135,481,40.74181897032258,-73.9900131733157,8558,Miscellaneous Shop,2012-10-03 17:40:15+00:00,New York City,Retail,Miscellaneous Store,,,,
+136,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-10-17 10:17:19+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+137,481,40.63382181425697,-74.0152359008789,19537,Neighborhood,2012-10-24 03:20:18+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+138,481,40.74311584876924,-73.99978059433505,27444,Building,2012-09-12 18:13:50+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+139,481,40.75228411897016,-73.99383526689076,33537,Neighborhood,2012-10-31 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,1.0,0.0,nyc,Explore
+140,481,40.80774561312955,-73.94624880614921,17806,Neighborhood,2012-10-31 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,1.0,0.0,nyc,Rec
+141,481,40.7417052,-73.989812,8558,Miscellaneous Shop,2012-11-05 18:00:09+00:00,,Retail,Miscellaneous Store,6.0,0.0,nyc,Return
+142,481,40.773643750011495,-73.96081924438477,4044,Medical Center,2012-11-05 18:00:09+00:00,,Health and Medicine,Hospital,6.0,0.0,nyc,Return
+143,481,40.79041075003397,-73.93977944733855,20522,Building,2012-11-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,7.0,1.0,nyc,Return
+144,481,40.778504,-73.982092,16761,Food & Drink Shop,2012-11-06 18:00:09+00:00,,Retail,Food and Beverage Retail,7.0,1.0,nyc,Rec
+145,481,40.63003300793903,-74.02723803440517,19537,Neighborhood,2012-11-07 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,8.0,1.0,nyc,Return
+146,481,40.62227986137512,-74.02728967477186,7790,Gym / Fitness Center,2012-11-07 18:00:09+00:00,,Sports and Recreation,Gym and Studio,8.0,1.0,nyc,Rec
+147,481,40.61865973674054,-74.0329921245575,25203,Neighborhood,2012-11-08 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,9.0,1.0,nyc,Rec
+148,481,40.62227986137512,-74.02728967477186,7790,Gym / Fitness Center,2012-11-12 18:00:09+00:00,,Sports and Recreation,Gym and Studio,13.0,1.0,nyc,Return
+149,481,40.773643750011495,-73.96081924438477,4044,Medical Center,2012-11-12 18:00:09+00:00,,Health and Medicine,Hospital,13.0,1.0,nyc,Return
+150,481,40.62227986137512,-74.02728967477186,7790,Gym / Fitness Center,2012-11-13 18:00:09+00:00,,Sports and Recreation,Gym and Studio,14.0,2.0,nyc,Return
+151,481,40.630321,-74.009149,13602,Building,2012-11-15 18:00:09+00:00,,Landmarks and Outdoors,Structure,16.0,2.0,nyc,Rec
+152,481,40.743831,-73.999587,25069,Miscellaneous Shop,2012-11-16 18:00:09+00:00,,Retail,Miscellaneous Store,17.0,2.0,nyc,Return
+153,481,40.71927002990572,-73.96150576233745,20087,Cuban Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Return
+154,481,40.71927002990572,-73.96150576233745,20087,Cuban Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Return
+155,481,40.716882,-73.964703,15721,Performing Arts Venue,2012-11-17 18:00:09+00:00,,Sports and Recreation,Gym and Studio,18.0,2.0,nyc,Rec
+156,481,40.69352593230279,-73.98518092802766,26604,Building,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,Structure,18.0,2.0,nyc,Rec
+157,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Return
+158,481,40.74320844051549,-74.00018229899517,27444,Building,2012-11-19 18:00:09+00:00,,Landmarks and Outdoors,Structure,20.0,2.0,nyc,Return
+159,481,40.79515543869133,-73.93099638731043,7951,Food & Drink Shop,2012-11-20 18:00:09+00:00,,Retail,Food and Beverage Retail,21.0,3.0,nyc,Return
+160,481,40.716882,-73.964703,15721,Performing Arts Venue,2012-11-20 18:00:09+00:00,,Sports and Recreation,Gym and Studio,21.0,3.0,nyc,Return
+161,481,40.74320844051549,-74.00018229899517,27444,Building,2012-11-21 18:00:09+00:00,,Landmarks and Outdoors,Structure,22.0,3.0,nyc,Return
+162,481,40.63003300793903,-74.02723803440517,19537,Neighborhood,2012-11-22 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,23.0,3.0,nyc,Return
+163,481,40.63003300793903,-74.02723803440517,19537,Neighborhood,2012-11-23 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,24.0,3.0,nyc,Rec
+164,481,40.62178434062343,-74.0319257750956,13003,Mexican Restaurant,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Return
+165,481,40.60486402852488,-73.99864433944897,8927,Coffee Shop,2012-11-23 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",24.0,3.0,nyc,Rec
+166,481,40.74320844051549,-74.00018229899517,27444,Building,2012-11-24 18:00:09+00:00,,Landmarks and Outdoors,Structure,25.0,3.0,nyc,Return
+167,481,40.631344,-74.023161,30675,Food,2012-11-25 18:00:09+00:00,,Dining and Drinking,Restaurant,26.0,3.0,nyc,Return
+168,481,40.696097351538974,-73.97011525037209,8676,Automotive Shop,2012-11-25 18:00:09+00:00,,Retail,Automotive Shop,26.0,3.0,nyc,Rec
+169,481,40.69368731314954,-73.9670205116272,21446,Neighborhood,2012-11-29 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,30.0,4.0,nyc,Explore
+170,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-12-02 18:00:09+00:00,,Sports and Recreation,Gym and Studio,33.0,4.0,nyc,Return
+171,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-12-03 18:00:09+00:00,,Sports and Recreation,Gym and Studio,34.0,4.0,nyc,Return
+172,481,40.71834202528393,-74.00061816553153,9550,Neighborhood,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,34.0,4.0,nyc,Rec
+173,481,40.7417052,-73.989812,8558,Miscellaneous Shop,2012-12-03 18:00:09+00:00,,Retail,Miscellaneous Store,34.0,4.0,nyc,Return
+174,481,40.79561946033889,-73.97385738787456,25182,Building,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Structure,34.0,4.0,nyc,Return
+175,481,40.74828059076867,-73.98556262254715,1434,Building,2012-12-04 18:00:09+00:00,,Landmarks and Outdoors,Structure,35.0,5.0,nyc,Rec
+176,481,40.631303,-74.023116,36686,Gym / Fitness Center,2012-12-05 18:00:09+00:00,,Sports and Recreation,Gym and Studio,36.0,5.0,nyc,Return
+177,481,40.74320844051549,-74.00018229899517,27444,Building,2012-12-05 18:00:09+00:00,,Landmarks and Outdoors,Structure,36.0,5.0,nyc,Return
+178,481,40.74320844051549,-74.00018229899517,27444,Building,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,37.0,5.0,nyc,Return
+179,481,40.75953471798171,-73.97844886821815,7664,Building,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,37.0,5.0,nyc,Rec
+180,481,40.759220487652186,-73.98880004882812,35300,Mexican Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Rec
+181,481,40.71927002990572,-73.96150576233745,20087,Cuban Restaurant,2012-12-09 18:00:09+00:00,,Dining and Drinking,Restaurant,40.0,5.0,nyc,Return
+182,481,40.74320844051549,-74.00018229899517,27444,Building,2012-12-11 18:00:09+00:00,,Landmarks and Outdoors,Structure,42.0,6.0,nyc,Return
+183,481,40.74471768966725,-73.97109096808028,34801,Neighborhood,2012-12-14 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,45.0,6.0,nyc,Rec
+184,481,40.74269664463923,-73.98441762875413,27305,Building,2012-12-14 18:00:09+00:00,,Landmarks and Outdoors,Structure,45.0,6.0,nyc,Explore
+185,481,40.74226610630077,-73.98446559906006,23120,Office,2012-12-14 18:00:09+00:00,,Business and Professional Services,Office,45.0,6.0,nyc,Rec
+186,481,40.63003300793903,-74.02723803440517,19537,Neighborhood,2012-12-16 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,47.0,6.0,nyc,Return
+187,481,40.69352593230279,-73.98518092802766,26604,Building,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Structure,48.0,6.0,nyc,Rec
+188,481,40.69379488214113,-73.98541049112558,31987,American Restaurant,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Rec
+189,481,40.68647960590641,-73.97434294223785,1337,Cuban Restaurant,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Rec
+190,481,40.74828059076867,-73.98556262254715,1434,Building,2012-12-21 18:00:09+00:00,,Landmarks and Outdoors,Structure,52.0,7.0,nyc,Return
+191,481,40.74831361076324,-73.98822069168091,10073,Neighborhood,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,53.0,7.0,nyc,Explore
+192,481,40.73328158904387,-74.00329261226874,26310,Neighborhood,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,53.0,7.0,nyc,Explore
+193,481,40.72201114788852,-74.00430259242555,297,Hotel,2012-12-22 18:00:09+00:00,,Travel and Transportation,Lodging,53.0,7.0,nyc,Rec
+194,481,40.72201114788852,-74.00430259242555,297,Hotel,2012-12-22 18:00:09+00:00,,Travel and Transportation,Lodging,53.0,7.0,nyc,Return
+195,481,40.75061379403183,-73.98856401443481,1028,Department Store,2012-12-22 18:00:09+00:00,,Retail,Department Store,53.0,7.0,nyc,Rec
+196,481,40.74093223261556,-74.00535273659517,15055,Neighborhood,2012-12-23 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,54.0,7.0,nyc,Rec
+197,481,40.73252438626651,-74.0010717848869,16979,Neighborhood,2012-12-23 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,54.0,7.0,nyc,Rec
+198,481,40.759220487652186,-73.98880004882812,35300,Mexican Restaurant,2012-12-28 18:00:09+00:00,,Dining and Drinking,Restaurant,59.0,8.0,nyc,Rec
+199,481,40.631303,-74.023116,36686,Gym / Fitness Center,2013-01-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,63.0,9.0,nyc,Return
+200,481,40.74107414663219,-74.0051408163161,2460,Electronics Store,2013-01-02 18:00:09+00:00,,Retail,Computers and Electronics Retail,64.0,9.0,nyc,Return
+201,481,40.62178434062343,-74.0319257750956,13003,Mexican Restaurant,2013-01-03 18:00:09+00:00,,Dining and Drinking,Restaurant,65.0,9.0,nyc,Return
+202,481,40.62178434062343,-74.0319257750956,13003,Mexican Restaurant,2013-01-05 18:00:09+00:00,,Dining and Drinking,Restaurant,67.0,9.0,nyc,Rec
+203,481,40.631303,-74.023116,36686,Gym / Fitness Center,2013-01-07 18:00:09+00:00,,Sports and Recreation,Gym and Studio,69.0,9.0,nyc,Return
+204,481,40.74320844051549,-74.00018229899517,27444,Building,2013-01-08 18:00:09+00:00,,Landmarks and Outdoors,Structure,70.0,10.0,nyc,Return
+205,481,40.74320844051549,-74.00018229899517,27444,Building,2013-01-09 18:00:09+00:00,,Landmarks and Outdoors,Structure,71.0,10.0,nyc,Rec
+206,481,40.75239373990142,-73.91296863555908,4541,Hardware Store,2013-01-09 18:00:09+00:00,,Retail,Hardware Store,71.0,10.0,nyc,Rec
+207,481,40.60486402852488,-73.99864433944897,8927,Coffee Shop,2013-01-10 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",72.0,10.0,nyc,Return
+208,481,40.743216066858025,-74.00014212856706,12565,Deli / Bodega,2013-01-10 18:00:09+00:00,,Dining and Drinking,Restaurant,72.0,10.0,nyc,Return
+209,481,40.727486422997785,-73.98632168769836,11050,Neighborhood,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,73.0,10.0,nyc,Rec
+210,481,40.7238538382678,-74.00405009788602,21764,Bar,2013-01-12 18:00:09+00:00,,Dining and Drinking,Bar,74.0,10.0,nyc,Return
+211,481,40.738949,-73.989828,5280,Gym / Fitness Center,2013-01-13 18:00:09+00:00,,Sports and Recreation,Gym and Studio,75.0,10.0,nyc,Rec
+212,481,40.631303,-74.023116,36686,Gym / Fitness Center,2013-01-17 18:00:09+00:00,,Sports and Recreation,Gym and Studio,79.0,11.0,nyc,Return
+213,481,40.74320844051549,-74.00018229899517,27444,Building,2013-01-17 18:00:09+00:00,,Landmarks and Outdoors,Structure,79.0,11.0,nyc,Return
+214,481,40.72424,-73.997779,2407,Gym / Fitness Center,2013-01-18 18:00:09+00:00,,Sports and Recreation,Gym and Studio,80.0,11.0,nyc,Explore
+215,481,40.71186956191786,-74.01181415253035,33734,Building,2013-01-18 18:00:09+00:00,,Landmarks and Outdoors,Structure,80.0,11.0,nyc,Rec
+216,481,40.73813869163153,-73.9907649725129,24614,Gym / Fitness Center,2013-01-22 18:00:09+00:00,,Sports and Recreation,Gym and Studio,84.0,12.0,nyc,Rec
+217,481,40.73757,-74.0017,2530,Gym / Fitness Center,2013-01-28 18:00:09+00:00,,Sports and Recreation,Gym and Studio,90.0,12.0,nyc,Rec
+218,481,40.73819409171801,-73.99690551210607,37185,Building,2013-01-29 18:00:09+00:00,,Landmarks and Outdoors,Structure,91.0,13.0,nyc,Return
+219,481,40.74401129520365,-74.0034245986147,36084,Neighborhood,2013-01-30 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,92.0,13.0,nyc,Explore
+220,481,40.73328158904387,-74.00329261226874,26310,Neighborhood,2013-02-01 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,94.0,13.0,nyc,Rec
+221,481,40.72737259531574,-74.02115821838379,16286,Bridge,2013-02-05 18:00:09+00:00,,Landmarks and Outdoors,Bridge,98.0,14.0,nyc,Rec
+222,481,40.72670446465114,-73.99214804578325,21601,Gym / Fitness Center,2013-02-05 18:00:09+00:00,,Sports and Recreation,Gym and Studio,98.0,14.0,nyc,Explore
+223,481,40.74828059076867,-73.98556262254715,1434,Building,2013-02-07 18:00:09+00:00,,Landmarks and Outdoors,Structure,100.0,14.0,nyc,Rec

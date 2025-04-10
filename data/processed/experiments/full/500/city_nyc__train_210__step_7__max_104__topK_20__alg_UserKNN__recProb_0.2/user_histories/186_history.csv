@@ -1,0 +1,194 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,186,40.88584772149443,-73.9104551049021,8298,Drugstore / Pharmacy,2012-04-20 15:25:03+00:00,New York City,Retail,Pharmacy,,,,
+1,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-04-20 15:25:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,186,40.88544509833461,-73.90951352962458,10399,Food & Drink Shop,2012-04-20 15:28:16+00:00,New York City,Retail,Food and Beverage Retail,,,,
+3,186,40.88517000185645,-73.9100474722614,26131,Laundry Service,2012-04-20 16:06:34+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+4,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-08-10 16:15:48+00:00,New York City,Retail,Food and Beverage Retail,,,,
+5,186,40.88565750960401,-73.90901977491602,17109,Drugstore / Pharmacy,2012-08-10 17:14:25+00:00,New York City,Retail,Pharmacy,,,,
+6,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-08-17 16:08:01+00:00,New York City,Retail,Food and Beverage Retail,,,,
+7,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-07-06 16:03:11+00:00,New York City,Retail,Food and Beverage Retail,,,,
+8,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-07-06 16:03:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+9,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-06 16:04:34+00:00,New York City,Health and Medicine,Physician,,,,
+10,186,40.74706188749892,-73.98133277893065,35861,Scenic Lookout,2012-07-13 00:13:32+00:00,New York City,Landmarks and Outdoors,Scenic Lookout,,,,
+11,186,40.7616909474116,-73.99105310440063,1545,Bar,2012-07-13 00:47:12+00:00,New York City,Dining and Drinking,Bar,,,,
+12,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-07-13 17:45:29+00:00,New York City,Retail,Food and Beverage Retail,,,,
+13,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-07-13 17:45:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,186,40.88525622692983,-73.90950778829794,10399,Food & Drink Shop,2012-07-13 17:48:54+00:00,New York City,Retail,Food and Beverage Retail,,,,
+15,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-20 14:48:11+00:00,New York City,Health and Medicine,Physician,,,,
+16,186,40.88619344917718,-73.91382521812815,15181,Medical Center,2012-06-01 14:32:24+00:00,New York City,Health and Medicine,Physician,,,,
+17,186,40.74171628500964,-73.99195292401735,6856,Music Venue,2012-05-04 01:14:22+00:00,New York City,Dining and Drinking,Bar,,,,
+18,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-05-04 13:07:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,186,40.8853859037112,-73.91003024832821,15193,Drugstore / Pharmacy,2012-05-04 13:10:20+00:00,New York City,Retail,Pharmacy,,,,
+20,186,40.76398385972194,-73.96353189645147,25791,Medical Center,2012-05-04 14:10:25+00:00,New York City,Health and Medicine,Physician,,,,
+21,186,40.75063330992232,-73.9857950086998,33549,Restaurant,2012-05-04 15:47:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,186,40.751575,-73.992015,5917,Department Store,2012-05-04 16:49:59+00:00,New York City,Retail,Department Store,,,,
+23,186,40.76172345284903,-73.99415373802185,3130,Bar,2012-05-11 02:31:57+00:00,New York City,Dining and Drinking,Bar,,,,
+24,186,40.88517000185645,-73.9100474722614,26131,Laundry Service,2012-05-11 14:55:40+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+25,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-05-11 16:01:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+26,186,40.8784572528565,-73.91519735995116,4734,Gym / Fitness Center,2012-05-11 17:30:39+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+27,186,40.88619344917718,-73.91382521812815,15181,Medical Center,2012-05-25 13:50:29+00:00,New York City,Health and Medicine,Physician,,,,
+28,186,40.884571137545045,-73.91026564194986,32567,Candy Store,2012-05-25 23:37:45+00:00,New York City,Retail,Food and Beverage Retail,,,,
+29,186,40.906503,-73.90489,11218,Pizza Place,2012-10-12 17:17:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-10-19 15:22:57+00:00,New York City,Health and Medicine,Physician,,,,
+31,186,40.87338220952508,-73.8805234187619,31758,Electronics Store,2012-10-19 16:17:41+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+32,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-09-14 16:20:30+00:00,New York City,Health and Medicine,Physician,,,,
+33,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-09-14 17:14:34+00:00,New York City,Retail,Food and Beverage Retail,,,,
+34,186,40.61336,-73.980337,14510,Bar,2012-04-16 16:55:36+00:00,New York City,Dining and Drinking,Bar,,,,
+35,186,40.75061379403183,-73.98856401443481,1028,Department Store,2012-04-23 17:05:36+00:00,New York City,Retail,Department Store,,,,
+36,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-04-23 19:45:42+00:00,New York City,Retail,Food and Beverage Retail,,,,
+37,186,40.74759288294409,-73.98247780191426,17757,Caf�,2012-08-06 00:41:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+38,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-08-13 15:10:16+00:00,New York City,Health and Medicine,Physician,,,,
+39,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-02 20:12:55+00:00,New York City,Health and Medicine,Physician,,,,
+40,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-09 19:40:54+00:00,New York City,Health and Medicine,Physician,,,,
+41,186,40.87855781948937,-73.9151801364736,4734,Gym / Fitness Center,2012-07-09 21:52:06+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+42,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-16 14:35:23+00:00,New York City,Health and Medicine,Physician,,,,
+43,186,40.76398385972194,-73.96353189645147,25791,Medical Center,2012-07-16 17:14:55+00:00,New York City,Health and Medicine,Physician,,,,
+44,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-30 15:07:23+00:00,New York City,Health and Medicine,Physician,,,,
+45,186,40.6668396893602,-73.93968185996948,15028,Other Great Outdoors,2012-07-30 18:16:20+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+46,186,40.66409703053375,-73.9440847234983,3181,Burger Joint,2012-07-30 18:35:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,186,40.77843539407594,-73.98123813900243,5095,Vegetarian / Vegan Restaurant,2012-05-07 17:22:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+48,186,40.72804607403702,-73.98976639889126,7267,Museum,2012-05-14 14:22:57+00:00,New York City,Arts and Entertainment,Museum,,,,
+49,186,40.728602348741525,-73.98996152288103,313,Bar,2012-05-14 17:42:49+00:00,New York City,Dining and Drinking,Bar,,,,
+50,186,40.75064640423192,-73.98605900539454,33549,Restaurant,2012-05-14 19:09:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,186,40.76452476154621,-73.97810451099409,3116,Movie Theater,2012-05-14 21:23:27+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+52,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-04-15 20:06:55+00:00,New York City,Retail,Food and Beverage Retail,,,,
+53,186,40.88518725875308,-73.90948482298974,10399,Food & Drink Shop,2012-04-15 20:43:38+00:00,New York City,Retail,Food and Beverage Retail,,,,
+54,186,40.762861133145016,-73.98769497871399,36308,Theater,2012-08-05 22:07:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+55,186,40.733063,-74.00315,3332,Bar,2012-08-19 02:18:33+00:00,New York City,Dining and Drinking,Bar,,,,
+56,186,40.75763326470921,-73.98962866419079,31326,Theater,2012-08-19 19:03:36+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+57,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-15 15:34:39+00:00,New York City,Health and Medicine,Physician,,,,
+58,186,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-07-15 18:14:16+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+59,186,40.77607305064257,-73.98191213607788,11178,Italian Restaurant,2012-07-15 21:21:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,186,40.77473050116933,-73.98209327769995,7924,Electronics Store,2012-07-15 22:50:07+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+61,186,40.75212,-73.99976,1359,Event Space,2012-06-03 22:01:28+00:00,New York City,Business and Professional Services,Event Space,,,,
+62,186,40.752295,-73.98739196,4835,Deli / Bodega,2012-06-03 23:32:10+00:00,New York City,Dining and Drinking,Restaurant,,,,
+63,186,40.75151561010157,-73.99245794465051,5629,Building,2012-05-06 21:54:55+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+64,186,40.75187007775964,-73.98755115380185,2129,Deli / Bodega,2012-05-06 22:12:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+65,186,40.76443760079502,-73.96912336349487,5471,Concert Hall,2012-05-06 23:02:15+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+66,186,40.76373252155103,-73.97949341469202,10173,Theater,2012-05-13 22:44:44+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+67,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-09-09 14:28:55+00:00,New York City,Health and Medicine,Physician,,,,
+68,186,40.75893255940322,-73.98490545194795,21329,Theater,2012-09-09 14:29:33+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+69,186,40.906503,-73.90489,11218,Pizza Place,2012-09-09 17:43:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+70,186,40.906465,-73.904696,6816,Food & Drink Shop,2012-09-09 17:44:33+00:00,New York City,Retail,Food and Beverage Retail,,,,
+71,186,40.5896248681723,-73.97384590903638,5739,Restaurant,2012-09-16 01:52:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,186,40.75909046091092,-73.98592472076416,5186,Theater,2012-04-05 00:03:41+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+73,186,40.8784572528565,-73.91519735995116,4734,Gym / Fitness Center,2012-04-12 19:33:31+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+74,186,40.75908711345461,-73.98767741198104,31688,Theater,2012-04-26 01:26:10+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+75,186,40.75850533742767,-73.98914337158203,18918,Hotel,2012-04-26 01:32:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+76,186,40.66925130880315,-73.94231670167379,3024,Synagogue,2012-04-26 15:25:04+00:00,New York City,Community and Government,Spiritual Center,,,,
+77,186,40.774697291507216,-73.98194979831837,2817,Movie Theater,2012-08-09 20:57:44+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+78,186,40.77925535995122,-73.98278197724018,13991,Deli / Bodega,2012-08-09 21:39:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+79,186,40.7321662305793,-73.98190388489364,7153,Falafel Restaurant,2012-08-16 21:25:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+80,186,40.73547013604506,-73.99212598800659,3221,Drugstore / Pharmacy,2012-08-16 22:49:14+00:00,New York City,Retail,Pharmacy,,,,
+81,186,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-08-16 22:57:29+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+82,186,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-08-16 23:29:17+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+83,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-12 20:03:10+00:00,New York City,Health and Medicine,Physician,,,,
+84,186,40.74759288294409,-73.98247780191426,17757,Caf�,2012-07-12 22:47:17+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+85,186,40.761286,-73.98917320000001,26157,Synagogue,2012-06-07 19:04:33+00:00,New York City,Community and Government,Spiritual Center,,,,
+86,186,40.756912,-73.975423,2086,Steakhouse,2012-06-07 23:23:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+87,186,40.723599,-73.983361,17571,Theater,2012-05-03 19:41:19+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+88,186,40.731895408411134,-73.98397571726198,937,Bar,2012-05-03 23:22:13+00:00,New York City,Dining and Drinking,Bar,,,,
+89,186,40.75064640423192,-73.98605900539454,33549,Restaurant,2012-05-10 17:49:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+90,186,40.75187007775964,-73.98755115380185,2129,Deli / Bodega,2012-05-10 22:19:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+91,186,40.7582610051923,-73.9934105935882,3819,Office,2012-05-10 23:45:03+00:00,New York City,Business and Professional Services,Office,,,,
+92,186,40.885544,-73.90954104,21431,Bakery,2012-05-17 17:51:21+00:00,New York City,Dining and Drinking,Bakery,,,,
+93,186,40.7702393297702,-73.9818263053894,5264,Electronics Store,2012-05-17 20:50:03+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+94,186,40.63507571145087,-73.96375574565684,17836,Medical Center,2012-05-31 15:43:29+00:00,New York City,Health and Medicine,Physician,,,,
+95,186,40.62563471704175,-73.95767154662968,23320,Medical Center,2012-05-31 17:16:56+00:00,New York City,Health and Medicine,Physician,,,,
+96,186,40.7321662305793,-73.98190388489364,7153,Falafel Restaurant,2012-05-31 20:55:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+97,186,40.67241301878795,-73.9698167945564,13708,Gym / Fitness Center,2012-09-13 14:59:43+00:00,New York City,Sports and Recreation,Running and Track,,,,
+98,186,40.752067,-73.987573,4537,Pizza Place,2012-04-03 22:12:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+99,186,40.74897597836296,-73.99518388533123,2860,Theater,2012-04-03 22:55:31+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+100,186,40.88517000185645,-73.9100474722614,26131,Laundry Service,2012-04-17 18:54:37+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+101,186,40.8853859037112,-73.91003024832821,15193,Drugstore / Pharmacy,2012-04-17 18:55:08+00:00,New York City,Retail,Pharmacy,,,,
+102,186,40.7520198739458,-73.98174047470093,30586,Library,2012-04-17 21:20:08+00:00,New York City,Community and Government,Library,,,,
+103,186,40.74706407378672,-73.98168005679102,1397,Deli / Bodega,2012-04-17 22:21:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+104,186,40.761788463676254,-73.98365020751953,9570,Music Venue,2012-04-17 23:55:25+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+105,186,40.85530035155349,-73.88774120434381,26783,Medical Center,2012-04-24 12:48:37+00:00,New York City,Health and Medicine,Physician,,,,
+106,186,40.76398385972194,-73.96353189645147,25791,Medical Center,2012-04-24 14:38:45+00:00,New York City,Health and Medicine,Physician,,,,
+107,186,40.755839,-73.980716,12070,Breakfast Spot,2012-04-24 15:56:14+00:00,New York City,Dining and Drinking,Breakfast Spot,,,,
+108,186,40.75377861076244,-73.99197445110599,3562,Performing Arts Venue,2012-04-24 16:50:32+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+109,186,40.77032058288181,-73.98241639137268,15941,College Theater,2012-07-10 21:46:49+00:00,New York City,Community and Government,Education,,,,
+110,186,40.87855781948937,-73.9151801364736,4734,Gym / Fitness Center,2012-07-17 22:31:16+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+111,186,40.75038644043801,-73.98587535555836,33549,Restaurant,2012-07-24 16:11:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+112,186,40.74759288294409,-73.98247780191426,17757,Caf�,2012-05-01 20:45:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+113,186,40.76331619981086,-73.96214962005615,7023,Movie Theater,2012-05-01 23:26:24+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+114,186,40.62054383795189,-73.96447894900577,21331,Medical Center,2012-05-15 17:15:17+00:00,New York City,Health and Medicine,Physician,,,,
+115,186,40.63507571145087,-73.96375574565684,17836,Medical Center,2012-05-15 17:16:58+00:00,New York City,Health and Medicine,Physician,,,,
+116,186,40.75064640423192,-73.98605900539454,33549,Restaurant,2012-05-15 20:47:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+117,186,40.7749481543979,-73.98209901687298,2817,Movie Theater,2012-05-15 22:32:24+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+118,186,40.75916766431922,-73.98492157459259,7928,General Entertainment,2012-05-29 22:59:12+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+119,186,40.758728399405584,-73.97855791454388,2357,Plaza,2012-04-04 15:12:48+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+120,186,40.75871853361621,-73.97846034678166,18619,Toy / Game Store,2012-04-04 15:19:17+00:00,New York City,Retail,Toy Store,,,,
+121,186,40.75968529192435,-73.98342476125055,9343,Music Store,2012-04-11 23:41:06+00:00,New York City,Retail,Music Store,,,,
+122,186,40.759110777606,-73.98306548595428,33649,Theater,2012-04-11 23:44:09+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+123,186,40.8784572528565,-73.91519735995116,4734,Gym / Fitness Center,2012-04-18 22:18:38+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+124,186,40.751861854351,-73.98225397448012,33413,Paper / Office Supplies Store,2012-04-25 16:14:24+00:00,New York City,Retail,Office Supply Store,,,,
+125,186,40.75816510418584,-73.98926137117284,6734,Coffee Shop,2012-04-25 22:08:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+126,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-08-22 17:01:25+00:00,New York City,Health and Medicine,Physician,,,,
+127,186,40.774697291507216,-73.98194979831837,2817,Movie Theater,2012-07-04 19:47:42+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+128,186,40.77843539407594,-73.98123813900243,5095,Vegetarian / Vegan Restaurant,2012-07-04 22:52:17+00:00,New York City,Dining and Drinking,Restaurant,,,,
+129,186,40.77843539407594,-73.98123813900243,5095,Vegetarian / Vegan Restaurant,2012-07-11 01:03:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+130,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-07-18 14:37:09+00:00,New York City,Health and Medicine,Physician,,,,
+131,186,40.87855781948937,-73.9151801364736,4734,Gym / Fitness Center,2012-06-06 18:38:03+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+132,186,40.88543772697449,-73.910173,21009,Medical Center,2012-05-09 16:02:35+00:00,New York City,Health and Medicine,Medical Center,,,,
+133,186,40.88627165780236,-73.90969725198735,13858,Restaurant,2012-05-09 17:06:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+134,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-05-09 18:09:03+00:00,New York City,Retail,Food and Beverage Retail,,,,
+135,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-05-09 18:09:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+136,186,40.765774597644686,-73.98343623951689,34877,Restaurant,2012-05-16 22:09:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+137,186,40.76802121543666,-73.98202440761015,12898,Music Venue,2012-05-16 23:13:29+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+138,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-10-24 15:07:09+00:00,New York City,Health and Medicine,Physician,,,,
+139,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-10-24 16:42:16+00:00,New York City,Retail,Food and Beverage Retail,,,,
+140,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-09-05 15:06:26+00:00,New York City,Health and Medicine,Physician,,,,
+141,186,40.88543772697449,-73.910173,21009,Medical Center,2012-11-07 18:00:09+00:00,,Health and Medicine,Medical Center,8.0,1.0,nyc,Return
+142,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-11-11 18:00:09+00:00,,Health and Medicine,Physician,12.0,1.0,nyc,Rec
+143,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-11-14 18:00:09+00:00,,Health and Medicine,Physician,15.0,2.0,nyc,Return
+144,186,40.880538160382365,-73.9039134979248,11942,Breakfast Spot,2012-11-15 18:00:09+00:00,,Dining and Drinking,Breakfast Spot,16.0,2.0,nyc,Explore
+145,186,40.786910575209646,-73.97773719594208,4294,Movie Theater,2012-11-15 18:00:09+00:00,,Arts and Entertainment,Movie Theater,16.0,2.0,nyc,Rec
+146,186,40.88544509833461,-73.90951352962458,10399,Food & Drink Shop,2012-11-16 18:00:09+00:00,,Retail,Food and Beverage Retail,17.0,2.0,nyc,Return
+147,186,40.87863596015617,-73.90469649711358,8547,Drugstore / Pharmacy,2012-11-16 18:00:09+00:00,,Retail,Pharmacy,17.0,2.0,nyc,Explore
+148,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-11-16 18:00:09+00:00,,Retail,Food and Beverage Retail,17.0,2.0,nyc,Return
+149,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-11-18 18:00:09+00:00,,Health and Medicine,Physician,19.0,2.0,nyc,Rec
+150,186,40.88544509833461,-73.90951352962458,10399,Food & Drink Shop,2012-11-22 18:00:09+00:00,,Retail,Food and Beverage Retail,23.0,3.0,nyc,Return
+151,186,40.61336,-73.980337,14510,Bar,2012-11-22 18:00:09+00:00,,Dining and Drinking,Bar,23.0,3.0,nyc,Return
+152,186,40.88544509833461,-73.90951352962458,10399,Food & Drink Shop,2012-11-22 18:00:09+00:00,,Retail,Food and Beverage Retail,23.0,3.0,nyc,Return
+153,186,40.87907537498575,-73.90508691657763,32855,Neighborhood,2012-11-25 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,26.0,3.0,nyc,Explore
+154,186,40.731895408411134,-73.98397571726198,937,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Return
+155,186,40.75699374459088,-73.98907899856567,1786,Movie Theater,2012-11-26 18:00:09+00:00,,Arts and Entertainment,Movie Theater,27.0,3.0,nyc,Return
+156,186,40.76068891024557,-73.98640334836395,8729,Hotel,2012-11-27 18:00:09+00:00,,Travel and Transportation,Lodging,28.0,4.0,nyc,Explore
+157,186,40.75187007775964,-73.98755115380185,2129,Deli / Bodega,2012-11-28 18:00:09+00:00,,Dining and Drinking,Restaurant,29.0,4.0,nyc,Return
+158,186,40.76311665075799,-73.97771423872803,21942,Movie Theater,2012-11-28 18:00:09+00:00,,Arts and Entertainment,Movie Theater,29.0,4.0,nyc,Explore
+159,186,40.762969560358165,-73.97653767783936,37345,Sushi Restaurant,2012-11-29 18:00:09+00:00,,Dining and Drinking,Restaurant,30.0,4.0,nyc,Explore
+160,186,40.88544509833461,-73.90951352962458,10399,Food & Drink Shop,2012-11-30 18:00:09+00:00,,Retail,Food and Beverage Retail,31.0,4.0,nyc,Return
+161,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-12-05 18:00:09+00:00,,Health and Medicine,Physician,36.0,5.0,nyc,Return
+162,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Return
+163,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-12-07 18:00:09+00:00,,Health and Medicine,Physician,38.0,5.0,nyc,Rec
+164,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-12-07 18:00:09+00:00,,Retail,Food and Beverage Retail,38.0,5.0,nyc,Return
+165,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Return
+166,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2012-12-09 18:00:09+00:00,,Retail,Food and Beverage Retail,40.0,5.0,nyc,Return
+167,186,40.867421210996966,-73.92481930428818,22419,Neighborhood,2012-12-10 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,41.0,5.0,nyc,Explore
+168,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2012-12-14 18:00:09+00:00,,Dining and Drinking,Restaurant,45.0,6.0,nyc,Return
+169,186,40.865744,-73.926607,7894,Food & Drink Shop,2012-12-14 18:00:09+00:00,,Retail,Food and Beverage Retail,45.0,6.0,nyc,Explore
+170,186,40.8784572528565,-73.91519735995116,4734,Gym / Fitness Center,2012-12-16 18:00:09+00:00,,Sports and Recreation,Gym and Studio,47.0,6.0,nyc,Return
+171,186,40.88565750960401,-73.90901977491602,17109,Drugstore / Pharmacy,2012-12-16 18:00:09+00:00,,Retail,Pharmacy,47.0,6.0,nyc,Rec
+172,186,40.75063330992232,-73.9857950086998,33549,Restaurant,2012-12-17 18:00:09+00:00,,Dining and Drinking,Restaurant,48.0,6.0,nyc,Return
+173,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-12-19 18:00:09+00:00,,Health and Medicine,Physician,50.0,7.0,nyc,Return
+174,186,40.8784572528565,-73.91519735995116,4734,Gym / Fitness Center,2012-12-19 18:00:09+00:00,,Sports and Recreation,Gym and Studio,50.0,7.0,nyc,Return
+175,186,40.88547414213708,-73.90916904972732,23333,Food & Drink Shop,2012-12-28 18:00:09+00:00,,Retail,Food and Beverage Retail,59.0,8.0,nyc,Rec
+176,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2012-12-30 18:00:09+00:00,,Health and Medicine,Physician,61.0,8.0,nyc,Return
+177,186,40.87988299202424,-73.90841693316821,9623,Gym / Fitness Center,2012-12-30 18:00:09+00:00,,Sports and Recreation,Gym and Studio,61.0,8.0,nyc,Explore
+178,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2013-01-06 18:00:09+00:00,,Retail,Food and Beverage Retail,68.0,9.0,nyc,Return
+179,186,40.88822292326856,-73.91164355012553,35012,Medical Center,2013-01-13 18:00:09+00:00,,Health and Medicine,Physician,75.0,10.0,nyc,Return
+180,186,40.886210928571394,-73.90973169991108,13859,Food & Drink Shop,2013-01-17 18:00:09+00:00,,Retail,Food and Beverage Retail,79.0,11.0,nyc,Return
+181,186,40.906465,-73.904696,6816,Food & Drink Shop,2013-01-17 18:00:09+00:00,,Retail,Food and Beverage Retail,79.0,11.0,nyc,Return
+182,186,40.782860080688806,-73.95289014999135,1851,Event Space,2013-01-21 18:00:09+00:00,,Business and Professional Services,Event Space,83.0,11.0,nyc,Rec
+183,186,40.75608725117609,-73.96758984041038,17813,Bar,2013-01-22 18:00:09+00:00,,Dining and Drinking,Bar,84.0,12.0,nyc,Rec
+184,186,40.756912,-73.975423,2086,Steakhouse,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Return
+185,186,40.74897597836296,-73.99518388533123,2860,Theater,2013-01-26 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,88.0,12.0,nyc,Return
+186,186,40.75377861076244,-73.99197445110599,3562,Performing Arts Venue,2013-01-27 18:00:09+00:00,,Sports and Recreation,Gym and Studio,89.0,12.0,nyc,Return
+187,186,40.8860337190352,-73.90974318255097,13857,Restaurant,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Return
+188,186,40.88627165780236,-73.90969725198735,13858,Restaurant,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Return
+189,186,40.74171628500964,-73.99195292401735,6856,Music Venue,2013-02-01 18:00:09+00:00,,Dining and Drinking,Bar,94.0,13.0,nyc,Return
+190,186,40.76398385972194,-73.96353189645147,25791,Medical Center,2013-02-01 18:00:09+00:00,,Health and Medicine,Physician,94.0,13.0,nyc,Return
+191,186,40.7321662305793,-73.98190388489364,7153,Falafel Restaurant,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Return
+192,186,40.74476840533305,-73.97534389163138,6945,Medical Center,2013-02-03 18:00:09+00:00,,Health and Medicine,Physician,96.0,13.0,nyc,Explore

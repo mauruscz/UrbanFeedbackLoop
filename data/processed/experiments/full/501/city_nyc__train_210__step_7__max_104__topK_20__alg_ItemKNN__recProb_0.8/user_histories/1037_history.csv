@@ -1,0 +1,29 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,1037,40.76981004887623,-73.98213919107941,36964,Dessert Shop,2012-10-12 19:38:15+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+1,1037,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-12 21:12:13+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+2,1037,40.90441486664417,-73.78627172804937,25362,School,2012-10-26 14:48:16+00:00,New York City,Community and Government,Education,,,,
+3,1037,40.7714256153356,-73.97350072860723,1056,Park,2012-10-08 17:14:43+00:00,New York City,Landmarks and Outdoors,Park,,,,
+4,1037,40.76403087948803,-73.98344197864982,6349,Theater,2012-10-25 21:54:48+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+5,1037,40.7714256153356,-73.97350072860723,1056,Park,2012-10-23 04:23:38+00:00,New York City,Landmarks and Outdoors,Park,,,,
+6,1037,40.76403087948803,-73.98344197864982,6349,Theater,2012-11-01 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,2.0,0.0,nyc,Return
+7,1037,40.77032560771524,-73.98842348134481,33959,College Academic Building,2012-11-05 18:00:09+00:00,,Community and Government,Education,6.0,0.0,nyc,Rec
+8,1037,40.78224746176124,-73.97384405136108,4428,Park,2012-11-05 18:00:09+00:00,,Landmarks and Outdoors,Park,6.0,0.0,nyc,Rec
+9,1037,40.76981004887623,-73.98213919107941,36964,Dessert Shop,2012-11-06 18:00:09+00:00,,Dining and Drinking,Dessert Shop,7.0,1.0,nyc,Return
+10,1037,40.759272,-73.981107,3449,Bakery,2012-11-07 18:00:09+00:00,,Dining and Drinking,Bakery,8.0,1.0,nyc,Rec
+11,1037,40.868482907830256,-73.83256673812866,25952,Other Great Outdoors,2012-11-23 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,24.0,3.0,nyc,Rec
+12,1037,40.759272,-73.981107,3449,Bakery,2012-11-24 18:00:09+00:00,,Dining and Drinking,Bakery,25.0,3.0,nyc,Return
+13,1037,40.74764847532018,-73.99302035242692,33087,Bakery,2012-11-24 18:00:09+00:00,,Dining and Drinking,Bakery,25.0,3.0,nyc,Explore
+14,1037,40.7388714434338,-73.98297136918099,6919,Coffee Shop,2012-11-26 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",27.0,3.0,nyc,Rec
+15,1037,40.7714256153356,-73.97350072860723,1056,Park,2012-11-26 18:00:09+00:00,,Landmarks and Outdoors,Park,27.0,3.0,nyc,Return
+16,1037,40.77004915560613,-73.9742476679648,17799,Park,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Park,34.0,4.0,nyc,Rec
+17,1037,40.7388714434338,-73.98297136918099,6919,Coffee Shop,2012-12-06 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",37.0,5.0,nyc,Return
+18,1037,40.78224746176124,-73.97384405136108,4428,Park,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Park,48.0,6.0,nyc,Rec
+19,1037,40.72941621727988,-73.99291131431343,11535,College Academic Building,2012-12-18 18:00:09+00:00,,Community and Government,Education,49.0,7.0,nyc,Rec
+20,1037,40.75699374459088,-73.98907899856567,1786,Movie Theater,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Movie Theater,75.0,10.0,nyc,Explore
+21,1037,40.75903357413162,-73.97933721542358,1510,Scenic Lookout,2013-01-13 18:00:09+00:00,,Landmarks and Outdoors,Scenic Lookout,75.0,10.0,nyc,Rec
+22,1037,40.701593743002,-73.99592399597168,1371,Park,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,Park,76.0,10.0,nyc,Rec
+23,1037,40.74671072450108,-73.99170041320215,9591,American Restaurant,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Rec
+24,1037,40.74370081269097,-73.98277580738068,29193,Food & Drink Shop,2013-01-25 18:00:09+00:00,,Retail,Food and Beverage Retail,87.0,12.0,nyc,Explore
+25,1037,40.74218830848454,-73.98792418909154,902,Park,2013-01-29 18:00:09+00:00,,Landmarks and Outdoors,Park,91.0,13.0,nyc,Rec
+26,1037,40.73693344188031,-73.98545265197754,36999,Neighborhood,2013-01-29 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,91.0,13.0,nyc,Rec
+27,1037,40.74671072450108,-73.99170041320215,9591,American Restaurant,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Return

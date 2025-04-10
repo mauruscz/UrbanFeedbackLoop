@@ -1,0 +1,103 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,231,40.689525,-73.969322,2633,Brewery,2012-04-13 00:11:34+00:00,New York City,Dining and Drinking,Brewery,,,,
+1,231,40.72908585083546,-73.99602210429897,12401,College Academic Building,2012-04-20 01:02:31+00:00,New York City,Community and Government,Education,,,,
+2,231,40.72908585083546,-73.99602210429897,12401,College Academic Building,2012-04-20 17:50:52+00:00,New York City,Community and Government,Education,,,,
+3,231,40.72944585471527,-73.99366021156311,883,General College & University,2012-04-20 20:25:10+00:00,New York City,Community and Government,Education,,,,
+4,231,40.74685206103337,-73.9844061505464,1144,Korean Restaurant,2012-08-17 22:46:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,231,40.74218830848454,-73.98792418909154,902,Park,2012-06-08 00:07:07+00:00,New York City,Landmarks and Outdoors,Park,,,,
+6,231,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-06-08 00:30:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,231,40.72915881812997,-73.98888259951185,376,Bar,2012-05-04 03:16:43+00:00,New York City,Dining and Drinking,Bar,,,,
+8,231,40.729265,-73.996045,22664,College Academic Building,2012-05-11 22:31:06+00:00,New York City,Community and Government,Education,,,,
+9,231,40.689566,-73.97047543,19566,Pet Store,2012-05-18 20:04:11+00:00,New York City,Retail,Pet Supplies Store,,,,
+10,231,40.75372797263211,-73.98368835767094,726,Park,2012-05-25 18:57:06+00:00,New York City,Landmarks and Outdoors,Park,,,,
+11,231,40.76035821078917,-73.97618293762207,18178,Clothing Store,2012-05-25 20:05:14+00:00,New York City,Retail,Fashion Retail,,,,
+12,231,40.75407123579426,-73.98446354157814,2998,Bookstore,2012-05-25 20:40:50+00:00,New York City,Retail,Bookstore,,,,
+13,231,40.72984962098629,-73.9935138925862,37168,College Academic Building,2012-10-12 17:29:59+00:00,New York City,Community and Government,Education,,,,
+14,231,40.72984962098629,-73.9935138925862,37168,College Academic Building,2012-09-14 18:07:01+00:00,New York City,Community and Government,Education,,,,
+15,231,40.72944585471527,-73.99366021156311,883,General College & University,2012-09-14 20:14:57+00:00,New York City,Community and Government,Education,,,,
+16,231,40.726442552526784,-73.99574628511174,3751,Clothing Store,2012-04-23 19:51:02+00:00,New York City,Retail,Fashion Retail,,,,
+17,231,40.72944585471527,-73.99366021156311,883,General College & University,2012-04-23 21:54:27+00:00,New York City,Community and Government,Education,,,,
+18,231,40.713565479798646,-73.97236347198486,2957,Bridge,2012-07-30 21:44:56+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+19,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-06-04 22:08:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,231,40.78782018739577,-73.79104614257812,37651,Other Great Outdoors,2012-10-29 01:54:06+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+21,231,40.729559,-73.998249,30352,Burger Joint,2012-04-21 01:13:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,231,40.741160589048285,-73.98811340332031,950,Burger Joint,2012-07-28 02:31:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+23,231,40.68306,-73.964646,5935,Department Store,2012-05-12 00:05:24+00:00,New York City,Retail,Department Store,,,,
+24,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-05-12 00:09:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+25,231,40.68743959385937,-73.95933866500854,33756,Bakery,2012-05-19 16:35:51+00:00,New York City,Dining and Drinking,Bakery,,,,
+26,231,40.829909,-73.829874,32628,Hotel,2012-05-19 19:03:11+00:00,New York City,Landmarks and Outdoors,Roof Deck,,,,
+27,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-04-22 00:01:20+00:00,New York City,Dining and Drinking,Restaurant,,,,
+28,231,40.72944585471527,-73.99366021156311,883,General College & University,2012-04-22 22:25:02+00:00,New York City,Community and Government,Education,,,,
+29,231,40.72829298080731,-73.99119292464046,1282,BBQ Joint,2012-05-13 22:53:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,231,40.68696742717664,-73.96283738828878,4729,Food & Drink Shop,2012-05-27 23:38:05+00:00,New York City,Retail,Food and Beverage Retail,,,,
+31,231,40.727007,-73.983768,32724,Mexican Restaurant,2012-10-28 07:22:19+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,231,40.729542759037166,-73.99376640101369,33538,University,2012-04-12 19:35:20+00:00,New York City,Community and Government,Education,,,,
+33,231,40.729542759037166,-73.99376640101369,33538,University,2012-04-12 19:44:51+00:00,New York City,Community and Government,Education,,,,
+34,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-04-19 01:00:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,231,40.73021425669006,-73.99456409590688,29501,Convenience Store,2012-04-19 18:27:43+00:00,New York City,Retail,Convenience Store,,,,
+36,231,40.729542759037166,-73.99376640101369,33538,University,2012-04-19 19:27:14+00:00,New York City,Community and Government,Education,,,,
+37,231,40.75421199167392,-73.98673047361291,13768,Scenic Lookout,2012-08-16 23:21:29+00:00,New York City,Landmarks and Outdoors,Scenic Lookout,,,,
+38,231,40.74218830848454,-73.98792418909154,902,Park,2012-07-12 00:04:39+00:00,New York City,Landmarks and Outdoors,Park,,,,
+39,231,40.88506439757728,-73.78935098648071,11656,Gym / Fitness Center,2012-07-12 14:37:58+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+40,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-06-07 00:11:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,231,40.72944585471527,-73.99366021156311,883,General College & University,2012-05-03 20:03:22+00:00,New York City,Community and Government,Education,,,,
+42,231,40.729542759037166,-73.99376640101369,33538,University,2012-05-03 20:03:47+00:00,New York City,Community and Government,Education,,,,
+43,231,40.693427,-73.967298,1175,Southern / Soul Food Restaurant,2012-05-17 16:29:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+44,231,40.68696742717664,-73.96283738828878,4729,Food & Drink Shop,2012-05-17 17:46:25+00:00,New York City,Retail,Food and Beverage Retail,,,,
+45,231,40.694193,-73.98587,11210,College Academic Building,2012-10-11 22:33:07+00:00,New York City,Community and Government,Education,,,,
+46,231,40.73033587478202,-73.99279079843167,37162,University,2012-10-25 17:18:00+00:00,New York City,Community and Government,Education,,,,
+47,231,40.76242917082409,-73.97957376418573,30146,Convention Center,2012-10-25 19:37:59+00:00,New York City,Business and Professional Services,Convention Center,,,,
+48,231,40.729177554196376,-73.99661064147949,10417,College Academic Building,2012-04-10 22:32:55+00:00,New York City,Community and Government,Education,,,,
+49,231,40.72989539441671,-73.99211361254487,31602,Sandwich Place,2012-04-17 17:57:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,231,40.72847826361978,-73.9983918374479,21719,Burger Joint,2012-04-17 22:24:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,231,40.6809680945287,-73.97505692268861,4276,Pizza Place,2012-04-24 01:42:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+52,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-07-03 00:25:08+00:00,New York City,Dining and Drinking,Restaurant,,,,
+53,231,40.74218830848454,-73.98792418909154,902,Park,2012-07-03 23:50:23+00:00,New York City,Landmarks and Outdoors,Park,,,,
+54,231,40.72944585471527,-73.99366021156311,883,General College & University,2012-05-15 21:16:57+00:00,New York City,Community and Government,Education,,,,
+55,231,40.6937056469022,-73.9631243754361,25343,Food & Drink Shop,2012-05-29 00:35:21+00:00,New York City,Retail,Food and Beverage Retail,,,,
+56,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-05-29 22:16:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+57,231,40.72944585471527,-73.99366021156311,883,General College & University,2012-10-23 17:20:45+00:00,New York City,Community and Government,Education,,,,
+58,231,40.72944585471527,-73.99366021156311,883,General College & University,2012-04-04 15:21:26+00:00,New York City,Community and Government,Education,,,,
+59,231,40.72980531133216,-73.99349093725812,33513,University,2012-04-04 18:10:20+00:00,New York City,Community and Government,Education,,,,
+60,231,40.72651075083395,-73.98171901702881,879,Park,2012-04-04 19:27:34+00:00,New York City,Landmarks and Outdoors,Park,,,,
+61,231,40.68505643147357,-73.9662238094087,21137,General Travel,2012-04-11 01:22:16+00:00,New York City,Travel and Transportation,General Travel,,,,
+62,231,40.72908585083546,-73.99602210429897,12401,College Academic Building,2012-04-11 16:11:11+00:00,New York City,Community and Government,Education,,,,
+63,231,40.7289959375,-73.9967459875,29889,General College & University,2012-04-11 16:13:47+00:00,New York City,Community and Government,Education,,,,
+64,231,40.72980531133216,-73.99349093725812,33513,University,2012-04-11 18:04:44+00:00,New York City,Community and Government,Education,,,,
+65,231,40.73485228613973,-73.99108529090881,1524,Food & Drink Shop,2012-04-11 22:41:53+00:00,New York City,Retail,Food and Beverage Retail,,,,
+66,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-04-11 23:48:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+67,231,40.68306,-73.964646,5935,Department Store,2012-04-18 13:22:54+00:00,New York City,Retail,Department Store,,,,
+68,231,40.729441,-73.993288,17702,Coffee Shop,2012-04-18 16:04:25+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+69,231,40.72980531133216,-73.99349093725812,33513,University,2012-04-18 16:34:16+00:00,New York City,Community and Government,Education,,,,
+70,231,40.72980531133216,-73.99349093725812,33513,University,2012-04-25 16:36:21+00:00,New York City,Community and Government,Education,,,,
+71,231,40.72686849895493,-73.99480819702148,6116,Arts & Crafts Store,2012-04-25 22:36:52+00:00,New York City,Retail,Arts and Crafts Store,,,,
+72,231,40.73485228613973,-73.99108529090881,1524,Food & Drink Shop,2012-04-25 23:20:22+00:00,New York City,Retail,Food and Beverage Retail,,,,
+73,231,40.73485228613973,-73.99108529090881,1524,Food & Drink Shop,2012-07-04 00:15:31+00:00,New York City,Retail,Food and Beverage Retail,,,,
+74,231,40.75407123579426,-73.98446354157814,2998,Bookstore,2012-07-18 17:44:59+00:00,New York City,Retail,Bookstore,,,,
+75,231,40.715917287979,-74.0120207306095,2398,Food & Drink Shop,2012-06-06 22:45:14+00:00,New York City,Retail,Food and Beverage Retail,,,,
+76,231,40.682925,-73.9641651,26974,Mexican Restaurant,2012-05-02 01:28:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+77,231,40.719172424771976,-73.96151661872864,2411,Music Venue,2012-05-16 04:05:02+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+78,231,40.72953528798119,-73.9934778213501,7493,College Academic Building,2012-10-03 16:09:13+00:00,New York City,Community and Government,Education,,,,
+79,231,40.76242917082409,-73.97957376418573,30146,Convention Center,2012-10-24 19:42:00+00:00,New York City,Business and Professional Services,Convention Center,,,,
+80,231,40.76000526277984,-73.98262128090157,22330,College Academic Building,2012-11-06 18:00:09+00:00,,Community and Government,Education,7.0,1.0,nyc,Rec
+81,231,40.72908585083546,-73.99602210429897,12401,College Academic Building,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Rec
+82,231,40.7405579801227,-74.00777996246534,5015,Beer Garden,2012-11-09 18:00:09+00:00,,Dining and Drinking,Bar,10.0,1.0,nyc,Rec
+83,231,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-11-12 18:00:09+00:00,,Dining and Drinking,Restaurant,13.0,1.0,nyc,Return
+84,231,40.736461616381874,-73.9964751068622,1554,College Academic Building,2012-11-15 18:00:09+00:00,,Community and Government,Education,16.0,2.0,nyc,Rec
+85,231,40.729542759037166,-73.99376640101369,33538,University,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Return
+86,231,40.729177554196376,-73.99661064147949,10417,College Academic Building,2012-11-22 18:00:09+00:00,,Community and Government,Education,23.0,3.0,nyc,Rec
+87,231,40.76771599348754,-73.9818005796479,11982,Cosmetics Shop,2012-11-26 18:00:09+00:00,,Retail,Cosmetics Store,27.0,3.0,nyc,Rec
+88,231,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-11-27 18:00:09+00:00,,Community and Government,Education,28.0,4.0,nyc,Rec
+89,231,40.72984962098629,-73.9935138925862,37168,College Academic Building,2012-12-01 18:00:09+00:00,,Community and Government,Education,32.0,4.0,nyc,Return
+90,231,40.73169799836348,-73.98922693741638,182,Music Venue,2012-12-03 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,34.0,4.0,nyc,Rec
+91,231,40.74579269982819,-73.98022803738444,9908,College Academic Building,2012-12-16 18:00:09+00:00,,Community and Government,Education,47.0,6.0,nyc,Rec
+92,231,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Rec
+93,231,40.729559,-73.998249,30352,Burger Joint,2012-12-21 18:00:09+00:00,,Dining and Drinking,Restaurant,52.0,7.0,nyc,Return
+94,231,40.72270549271865,-73.99819850921631,410,French Restaurant,2012-12-29 18:00:09+00:00,,Dining and Drinking,Restaurant,60.0,8.0,nyc,Rec
+95,231,40.71110949732056,-74.00504350662231,2893,University,2013-01-07 18:00:09+00:00,,Community and Government,Education,69.0,9.0,nyc,Rec
+96,231,40.69772073971887,-73.99302035242692,2947,College Academic Building,2013-01-15 18:00:09+00:00,,Community and Government,Education,77.0,11.0,nyc,Rec
+97,231,40.74140750304299,-73.98843795061111,950,Burger Joint,2013-01-21 18:00:09+00:00,,Dining and Drinking,Restaurant,83.0,11.0,nyc,Rec
+98,231,40.74484351925524,-73.98396997814501,15947,School,2013-01-25 18:00:09+00:00,,Community and Government,Education,87.0,12.0,nyc,Rec
+99,231,40.749522986346776,-73.98322963061759,2276,Bar,2013-01-30 18:00:09+00:00,,Dining and Drinking,Bar,92.0,13.0,nyc,Rec
+100,231,40.77040183589408,-73.98463726043701,18041,College Academic Building,2013-01-31 18:00:09+00:00,,Community and Government,Education,93.0,13.0,nyc,Return
+101,231,40.77085290125466,-73.98486527831999,15818,College Academic Building,2013-02-06 18:00:09+00:00,,Community and Government,Education,99.0,14.0,nyc,Rec

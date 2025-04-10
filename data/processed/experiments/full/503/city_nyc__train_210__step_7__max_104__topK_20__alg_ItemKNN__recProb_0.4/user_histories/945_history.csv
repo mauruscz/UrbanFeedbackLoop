@@ -1,0 +1,96 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,945,40.85306424526431,-73.89025042781013,21666,Drugstore / Pharmacy,2012-04-07 17:33:14+00:00,New York City,Retail,Pharmacy,,,,
+1,945,40.854834946546106,-73.88604998588562,29385,Neighborhood,2012-04-07 17:33:32+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+2,945,40.85528864329572,-73.88771823647461,13855,Food & Drink Shop,2012-04-07 17:33:58+00:00,New York City,Retail,Food and Beverage Retail,,,,
+3,945,40.856046080589294,-73.888099193573,27982,Performing Arts Venue,2012-04-07 20:01:38+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+4,945,40.83715820003851,-73.88424754142761,27931,Mall,2012-04-07 20:35:15+00:00,New York City,Retail,Shopping Mall,,,,
+5,945,40.8563605419835,-73.79351377487183,19874,Bridge,2012-04-07 20:52:21+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+6,945,40.852149,-73.789044,26392,Japanese Restaurant,2012-04-07 21:07:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,945,40.85693,-73.83722,28728,Other Great Outdoors,2012-04-07 22:49:04+00:00,New York City,Landmarks and Outdoors,Hiking Trail,,,,
+8,945,40.85671832444538,-73.86720685405905,26197,Park,2012-04-07 23:10:57+00:00,New York City,Landmarks and Outdoors,Park,,,,
+9,945,40.90122520923615,-73.817176,7170,Department Store,2012-04-07 23:22:10+00:00,New York City,Retail,Department Store,,,,
+10,945,40.75553088008716,-73.9859676361084,32680,Food & Drink Shop,2012-04-14 05:22:23+00:00,New York City,Retail,Food and Beverage Retail,,,,
+11,945,40.856046080589294,-73.888099193573,27982,Performing Arts Venue,2012-04-14 16:02:26+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+12,945,40.854834946546106,-73.88604998588562,29385,Neighborhood,2012-04-14 19:31:12+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+13,945,40.85671832444538,-73.86720685405905,26197,Park,2012-04-08 00:43:33+00:00,New York City,Landmarks and Outdoors,Park,,,,
+14,945,40.854834946546106,-73.88604998588562,29385,Neighborhood,2012-04-08 00:48:56+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+15,945,40.83433373621397,-73.88697177925734,25911,School,2012-04-08 00:59:52+00:00,New York City,Community and Government,Education,,,,
+16,945,40.85563064546714,-73.83398329007592,22816,Other Great Outdoors,2012-04-08 11:31:55+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+17,945,40.85133390433466,-73.89813962993257,22110,Food & Drink Shop,2012-04-08 15:48:29+00:00,New York City,Retail,Food and Beverage Retail,,,,
+18,945,40.86225160733068,-73.89434337615967,13050,Gym / Fitness Center,2012-04-12 12:42:54+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+19,945,40.85568786666666,-73.88733061666667,9052,Bank,2012-04-12 13:53:52+00:00,New York City,Business and Professional Services,Financial Service,,,,
+20,945,40.78525321734988,-73.95721435546875,4778,Museum,2012-04-10 16:51:15+00:00,New York City,Arts and Entertainment,Museum,,,,
+21,945,40.775172,-73.955433,8635,Caf�,2012-11-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",12.0,1.0,nyc,Explore
+22,945,40.78750959293082,-73.95473269500745,35432,Neighborhood,2012-11-12 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,13.0,1.0,nyc,Rec
+23,945,40.76203225371199,-73.98515224456787,22183,Neighborhood,2012-11-12 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,13.0,1.0,nyc,Explore
+24,945,40.73539476106774,-73.99436323779317,5850,University,2012-11-13 18:00:09+00:00,,Community and Government,Education,14.0,2.0,nyc,Rec
+25,945,40.775172,-73.955433,8635,Caf�,2012-11-16 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",17.0,2.0,nyc,Return
+26,945,40.78750959293082,-73.95473269500745,35432,Neighborhood,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,18.0,2.0,nyc,Return
+27,945,40.789791071067576,-73.9460364171459,20193,Gym / Fitness Center,2012-11-17 18:00:09+00:00,,Sports and Recreation,Gym and Studio,18.0,2.0,nyc,Rec
+28,945,40.85315056272333,-73.88924559390271,21666,Drugstore / Pharmacy,2012-11-17 18:00:09+00:00,,Retail,Pharmacy,18.0,2.0,nyc,Return
+29,945,40.85671832444538,-73.86720685405905,26197,Park,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,Park,18.0,2.0,nyc,Rec
+30,945,40.775172,-73.955433,8635,Caf�,2012-11-20 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",21.0,3.0,nyc,Return
+31,945,40.76539704528552,-73.95949682648256,22170,School,2012-11-20 18:00:09+00:00,,Community and Government,Education,21.0,3.0,nyc,Explore
+32,945,40.77825158126896,-73.9546293751913,6976,Bank,2012-11-21 18:00:09+00:00,,Business and Professional Services,Financial Service,22.0,3.0,nyc,Rec
+33,945,40.78750959293082,-73.95473269500745,35432,Neighborhood,2012-11-21 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,22.0,3.0,nyc,Return
+34,945,40.83433373621397,-73.88697177925734,25911,School,2012-11-21 18:00:09+00:00,,Community and Government,Education,22.0,3.0,nyc,Rec
+35,945,40.76203225371199,-73.98515224456787,22183,Neighborhood,2012-11-23 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,24.0,3.0,nyc,Return
+36,945,40.69930622702559,-73.9830459780761,23532,Other Great Outdoors,2012-11-23 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,24.0,3.0,nyc,Rec
+37,945,40.69629035662898,-73.98324251174927,30654,Neighborhood,2012-11-24 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,25.0,3.0,nyc,Rec
+38,945,40.65016889724004,-73.94957542419434,21907,Neighborhood,2012-11-25 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,26.0,3.0,nyc,Rec
+39,945,40.775172,-73.955433,8635,Caf�,2012-11-26 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",27.0,3.0,nyc,Return
+40,945,40.775172,-73.955433,8635,Caf�,2012-11-27 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",28.0,4.0,nyc,Return
+41,945,40.77937325315485,-73.95507135401736,6551,College Academic Building,2012-11-27 18:00:09+00:00,,Community and Government,Education,28.0,4.0,nyc,Rec
+42,945,40.79672258044242,-73.94124984741211,18153,Neighborhood,2012-11-29 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,30.0,4.0,nyc,Rec
+43,945,40.7512887421762,-73.97284150804626,25798,General Travel,2012-11-30 18:00:09+00:00,,Travel and Transportation,General Travel,31.0,4.0,nyc,Explore
+44,945,40.78750959293082,-73.95473269500745,35432,Neighborhood,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,32.0,4.0,nyc,Return
+45,945,40.78517150878906,-73.9694595336914,36745,Neighborhood,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,32.0,4.0,nyc,Rec
+46,945,40.761748,-73.968833,6544,Gym / Fitness Center,2012-12-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,32.0,4.0,nyc,Rec
+47,945,40.7668997409232,-73.9738655090332,21704,Bridge,2012-12-02 18:00:09+00:00,,Landmarks and Outdoors,Bridge,33.0,4.0,nyc,Rec
+48,945,40.775172,-73.955433,8635,Caf�,2012-12-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",33.0,4.0,nyc,Rec
+49,945,40.7524154505952,-73.99425993925276,36683,Fraternity House,2012-12-03 18:00:09+00:00,,Community and Government,Education,34.0,4.0,nyc,Explore
+50,945,40.74780967306162,-73.98916482925415,5065,Coffee Shop,2012-12-06 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",37.0,5.0,nyc,Rec
+51,945,40.7524154505952,-73.99425993925276,36683,Fraternity House,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+52,945,40.76203225371199,-73.98515224456787,22183,Neighborhood,2012-12-08 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,39.0,5.0,nyc,Return
+53,945,40.7688813932515,-73.9820036551295,3167,Gym / Fitness Center,2012-12-08 18:00:09+00:00,,Sports and Recreation,Gym and Studio,39.0,5.0,nyc,Rec
+54,945,40.76203225371199,-73.98515224456787,22183,Neighborhood,2012-12-09 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,40.0,5.0,nyc,Return
+55,945,40.852149,-73.789044,26392,Japanese Restaurant,2012-12-09 18:00:09+00:00,,Dining and Drinking,Restaurant,40.0,5.0,nyc,Return
+56,945,40.85035207961527,-73.82837751825335,21416,Neighborhood,2012-12-09 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,40.0,5.0,nyc,Rec
+57,945,40.85315056272333,-73.88924559390271,21666,Drugstore / Pharmacy,2012-12-10 18:00:09+00:00,,Retail,Pharmacy,41.0,5.0,nyc,Return
+58,945,40.854834946546106,-73.88604998588562,29385,Neighborhood,2012-12-10 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,41.0,5.0,nyc,Rec
+59,945,40.85568786666666,-73.88733061666667,9052,Bank,2012-12-12 18:00:09+00:00,,Business and Professional Services,Financial Service,43.0,6.0,nyc,Return
+60,945,40.83433373621397,-73.88697177925734,25911,School,2012-12-12 18:00:09+00:00,,Community and Government,Education,43.0,6.0,nyc,Rec
+61,945,40.775172,-73.955433,8635,Caf�,2012-12-13 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",44.0,6.0,nyc,Return
+62,945,40.775276834803655,-73.95360946655273,18440,Neighborhood,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,48.0,6.0,nyc,Rec
+63,945,40.83433373621397,-73.88697177925734,25911,School,2012-12-18 18:00:09+00:00,,Community and Government,Education,49.0,7.0,nyc,Return
+64,945,40.85035207961527,-73.82837751825335,21416,Neighborhood,2012-12-19 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,50.0,7.0,nyc,Return
+65,945,40.854834946546106,-73.88604998588562,29385,Neighborhood,2012-12-20 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,51.0,7.0,nyc,Rec
+66,945,40.83433373621397,-73.88697177925734,25911,School,2012-12-21 18:00:09+00:00,,Community and Government,Education,52.0,7.0,nyc,Return
+67,945,40.845883053770216,-73.8455676648739,14114,Medical Center,2012-12-22 18:00:09+00:00,,Health and Medicine,Physician,53.0,7.0,nyc,Explore
+68,945,40.862803360720974,-73.84731888771057,30993,Neighborhood,2012-12-23 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,54.0,7.0,nyc,Rec
+69,945,40.775172,-73.955433,8635,Caf�,2012-12-27 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",58.0,8.0,nyc,Return
+70,945,40.8563605419835,-73.79351377487183,19874,Bridge,2012-12-27 18:00:09+00:00,,Landmarks and Outdoors,Bridge,58.0,8.0,nyc,Return
+71,945,40.78525321734988,-73.95721435546875,4778,Museum,2012-12-27 18:00:09+00:00,,Arts and Entertainment,Museum,58.0,8.0,nyc,Rec
+72,945,40.77692455260866,-73.94631768901912,2653,Deli / Bodega,2012-12-29 18:00:09+00:00,,Dining and Drinking,Restaurant,60.0,8.0,nyc,Rec
+73,945,40.761748,-73.968833,6544,Gym / Fitness Center,2013-01-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,63.0,9.0,nyc,Rec
+74,945,40.76468422108557,-73.95832015434064,5787,Caf�,2013-01-04 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",66.0,9.0,nyc,Rec
+75,945,40.852149,-73.789044,26392,Japanese Restaurant,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Return
+76,945,40.74780967306162,-73.98916482925415,5065,Coffee Shop,2013-01-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",70.0,10.0,nyc,Return
+77,945,40.76468422108557,-73.95832015434064,5787,Caf�,2013-01-10 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",72.0,10.0,nyc,Rec
+78,945,40.775172,-73.955433,8635,Caf�,2013-01-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",73.0,10.0,nyc,Return
+79,945,40.77352187640244,-73.95678520202637,17922,Neighborhood,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,73.0,10.0,nyc,Rec
+80,945,40.72093306371737,-73.98790123309466,46,Music Venue,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,75.0,10.0,nyc,Rec
+81,945,40.75066233528688,-73.98916380884681,20474,Fast Food Restaurant,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Explore
+82,945,40.74907763805906,-73.98815631866455,35553,Video Game Store,2013-01-13 18:00:09+00:00,,Retail,Computers and Electronics Retail,75.0,10.0,nyc,Explore
+83,945,40.727486422997785,-73.98632168769836,11050,Neighborhood,2013-01-15 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,77.0,11.0,nyc,Rec
+84,945,40.76539704528552,-73.95949682648256,22170,School,2013-01-16 18:00:09+00:00,,Community and Government,Education,78.0,11.0,nyc,Return
+85,945,40.72973447982324,-73.99551093578339,29551,Tea Room,2013-01-17 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",79.0,11.0,nyc,Explore
+86,945,40.76539704528552,-73.95949682648256,22170,School,2013-01-18 18:00:09+00:00,,Community and Government,Education,80.0,11.0,nyc,Return
+87,945,40.76539704528552,-73.95949682648256,22170,School,2013-01-18 18:00:09+00:00,,Community and Government,Education,80.0,11.0,nyc,Return
+88,945,40.775172,-73.955433,8635,Caf�,2013-01-22 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",84.0,12.0,nyc,Return
+89,945,40.78517150878906,-73.9694595336914,36745,Neighborhood,2013-01-31 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,93.0,13.0,nyc,Rec
+90,945,40.7512887421762,-73.97284150804626,25798,General Travel,2013-01-31 18:00:09+00:00,,Travel and Transportation,General Travel,93.0,13.0,nyc,Return
+91,945,40.76539704528552,-73.95949682648256,22170,School,2013-02-04 18:00:09+00:00,,Community and Government,Education,97.0,13.0,nyc,Return
+92,945,40.775172,-73.955433,8635,Caf�,2013-02-05 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",98.0,14.0,nyc,Rec
+93,945,40.75919236359588,-73.95305661116662,4204,Neighborhood,2013-02-07 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,100.0,14.0,nyc,Explore
+94,945,40.775172,-73.955433,8635,Caf�,2013-02-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",101.0,14.0,nyc,Return

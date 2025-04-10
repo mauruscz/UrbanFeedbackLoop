@@ -1,0 +1,21 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,42,40.705888200473375,-73.9900016784668,3668,Bridge,2012-04-13 13:44:51+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+1,42,40.71984172698753,-74.00366561692464,15492,Music Venue,2012-06-01 14:03:41+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+2,42,40.66369166302825,-73.95934759041303,14186,Laundry Service,2012-06-08 01:10:16+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+3,42,40.66381011025656,-73.95159244537354,13916,Post Office,2012-10-12 14:17:09+00:00,New York City,Community and Government,Government Building,,,,
+4,42,40.67609667778015,-73.98447001,23105,Bar,2012-04-14 19:40:53+00:00,New York City,Dining and Drinking,Bar,,,,
+5,42,40.66115439511968,-73.72579733587669,20245,Department Store,2012-04-21 16:31:30+00:00,New York City,Retail,Department Store,,,,
+6,42,40.72737259531574,-74.02115821838379,16286,Bridge,2012-04-28 11:43:11+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+7,42,40.7926289275032,-74.04188632965088,4674,Department Store,2012-06-16 21:28:42+00:00,New York City,Retail,Department Store,,,,
+8,42,40.8134844303353,-74.07433032989502,15737,Stadium,2012-06-16 22:58:36+00:00,New York City,Arts and Entertainment,Stadium,,,,
+9,42,40.70784259917964,-73.95592086892056,17360,Clothing Store,2012-05-05 17:44:39+00:00,New York City,Retail,Fashion Retail,,,,
+10,42,40.80875345155931,-73.94460135020307,379,Southern / Soul Food Restaurant,2012-06-17 18:34:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,42,40.657485,-73.96016233333333,16436,Food & Drink Shop,2012-06-17 22:10:06+00:00,New York City,Retail,Food and Beverage Retail,,,,
+12,42,40.58606020705239,-73.92983436584473,3357,Movie Theater,2012-09-16 02:35:33+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+13,42,40.65505825638195,-73.96093752260296,16513,Video Game Store,2012-05-03 23:07:30+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+14,42,40.71749323698053,-74.00106579065323,2258,Music Venue,2012-04-10 23:11:02+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+15,42,40.61151,-73.92399471298137,22649,Paper / Office Supplies Store,2012-04-11 23:42:52+00:00,New York City,Retail,Office Supply Store,,,,
+16,42,40.678014,-73.968602,10230,Mexican Restaurant,2012-07-18 00:47:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,42,40.678989,-73.968288,29664,Australian Restaurant,2012-11-25 18:00:09+00:00,,Dining and Drinking,Restaurant,26.0,3.0,nyc,Rec
+18,42,40.679911,-73.97484251666667,7915,Spanish Restaurant,2013-02-04 18:00:09+00:00,,Dining and Drinking,Restaurant,97.0,13.0,nyc,Rec
+19,42,40.65505825638195,-73.96093752260296,16513,Video Game Store,2013-02-04 18:00:09+00:00,,Retail,Computers and Electronics Retail,97.0,13.0,nyc,Return

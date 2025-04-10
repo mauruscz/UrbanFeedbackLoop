@@ -1,0 +1,90 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+36430,240,40.74281621210842,-74.00040610551176,6476,Coffee Shop,2012-04-06 13:29:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36431,240,40.742788354778206,-74.00067582070984,1747,Theater,2012-04-06 13:59:35+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+36432,240,40.687084,-73.976106,4861,Caf�,2012-04-13 12:48:56+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36433,240,40.72973447982324,-73.99551093578339,29551,Tea Room,2012-04-13 21:50:26+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36434,240,40.72941621727988,-73.99291131431343,11535,College Academic Building,2012-04-13 21:51:08+00:00,New York City,Community and Government,Education
+36435,240,40.72962472112688,-73.99666428565979,1843,College Academic Building,2012-04-13 21:54:26+00:00,New York City,Community and Government,Education
+36436,240,40.68189338566111,-73.96026596439529,3229,Sandwich Place,2012-04-20 13:25:21+00:00,New York City,Dining and Drinking,Restaurant
+36437,240,40.68667485881373,-73.97774934768677,1492,Movie Theater,2012-07-06 20:09:06+00:00,New York City,Arts and Entertainment,Movie Theater
+36438,240,40.68839542122394,-73.98045760640008,15885,Bank,2012-07-13 00:01:02+00:00,New York City,Business and Professional Services,Financial Service
+36439,240,40.68667485881373,-73.97774934768677,1492,Movie Theater,2012-07-13 19:45:43+00:00,New York City,Arts and Entertainment,Movie Theater
+36440,240,40.68327966422105,-73.9439010336709,13164,Fried Chicken Joint,2012-07-13 23:08:42+00:00,New York City,Dining and Drinking,Restaurant
+36441,240,40.687084,-73.976106,4861,Caf�,2012-07-20 13:38:57+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36442,240,40.682481,-73.96168,20239,Bar,2012-05-11 23:36:53+00:00,New York City,Dining and Drinking,Bar
+36443,240,40.687084,-73.976106,4861,Caf�,2012-04-16 13:10:44+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36444,240,40.68721,-73.97720485,24977,Sandwich Place,2012-04-16 17:08:01+00:00,New York City,Dining and Drinking,Restaurant
+36445,240,40.730042915173954,-73.99819098334575,32890,Student Center,2012-04-16 21:06:00+00:00,New York City,Community and Government,Education
+36446,240,40.68238709382192,-73.95916965494852,32832,Dim Sum Restaurant,2012-07-09 01:01:47+00:00,New York City,Dining and Drinking,Restaurant
+36447,240,40.687084,-73.976106,4861,Caf�,2012-07-16 13:36:01+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36448,240,40.687084,-73.976106,4861,Caf�,2012-06-11 13:53:21+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36449,240,40.68278696780867,-73.96347449917748,6866,Food & Drink Shop,2012-06-11 23:27:05+00:00,New York City,Retail,Food and Beverage Retail
+36450,240,40.687084,-73.976106,4861,Caf�,2012-06-18 14:04:23+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36451,240,40.73097,-73.985965,1582,Sushi Restaurant,2012-04-21 23:34:40+00:00,New York City,Dining and Drinking,Restaurant
+36452,240,40.72408786157011,-73.94340736639595,2604,Park,2012-07-07 23:14:47+00:00,New York City,Landmarks and Outdoors,Park
+36453,240,40.723250275921046,-73.94338488578796,17933,Other Great Outdoors,2012-07-07 23:33:05+00:00,New York City,Landmarks and Outdoors,Park
+36454,240,40.6634023,-73.976447,2265,Performing Arts Venue,2012-07-28 00:06:10+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+36455,240,40.68189338566111,-73.96026596439529,3229,Sandwich Place,2012-07-28 16:30:08+00:00,New York City,Dining and Drinking,Restaurant
+36456,240,40.75642231,-73.92332313,17630,Sporting Goods Shop,2012-06-09 19:22:54+00:00,New York City,Retail,Sporting Goods Retail
+36457,240,40.75570967636433,-73.92322540283203,3667,Coffee Shop,2012-06-09 19:48:25+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36458,240,40.7450820709752,-73.94559441766181,5277,Art Gallery,2012-06-09 20:11:07+00:00,New York City,Arts and Entertainment,Art Gallery
+36459,240,40.72104672237615,-73.94075632095337,32016,Bar,2012-06-09 22:20:13+00:00,New York City,Dining and Drinking,Bar
+36460,240,40.723466418830206,-73.96096622161959,36206,Beer Garden,2012-06-16 22:03:49+00:00,New York City,Dining and Drinking,Bar
+36461,240,40.729545,-73.99658518000001,7713,Coffee Shop,2012-05-05 13:38:18+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36462,240,40.68859984195059,-73.96005933063037,5313,Salon / Barbershop,2012-05-12 21:19:14+00:00,New York City,Business and Professional Services,Health and Beauty Service
+36463,240,40.682976,-73.992939,26041,Gift Shop,2012-09-15 18:27:00+00:00,New York City,Retail,Gift Store
+36464,240,40.68229149,-73.95884945,29503,Bakery,2012-09-15 19:57:24+00:00,New York City,Dining and Drinking,Bakery
+36465,240,40.76526384874912,-73.98754541479173,1218,American Restaurant,2012-09-15 22:31:38+00:00,New York City,Dining and Drinking,Restaurant
+36466,240,40.7583836958649,-73.98823983377046,23011,Theater,2012-09-15 23:47:25+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+36467,240,40.68667485881373,-73.97774934768677,1492,Movie Theater,2012-04-08 04:02:45+00:00,New York City,Arts and Entertainment,Movie Theater
+36468,240,40.720480045234375,-73.99355980323412,736,Music Venue,2012-04-15 01:13:03+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+36469,240,40.71802637772943,-73.98978361572186,2241,Bar,2012-04-15 04:51:17+00:00,New York City,Dining and Drinking,Bar
+36470,240,40.68189338566111,-73.96026596439529,3229,Sandwich Place,2012-04-22 14:48:38+00:00,New York City,Dining and Drinking,Restaurant
+36471,240,40.733063,-74.00315,3332,Bar,2012-07-01 03:48:33+00:00,New York City,Dining and Drinking,Bar
+36472,240,40.72842472502752,-73.9872756811226,189,Breakfast Spot,2012-07-08 16:17:03+00:00,New York City,Dining and Drinking,Breakfast Spot
+36473,240,40.72838682517076,-73.99447801388392,17398,Drugstore / Pharmacy,2012-07-08 17:50:55+00:00,New York City,Retail,Pharmacy
+36474,240,40.68197326265679,-73.9587850841906,35135,Sandwich Place,2012-07-15 16:53:38+00:00,New York City,Dining and Drinking,Restaurant
+36475,240,40.68189338566111,-73.96026596439529,3229,Sandwich Place,2012-06-03 14:05:26+00:00,New York City,Dining and Drinking,Restaurant
+36476,240,40.72408786157011,-73.94340736639595,2604,Park,2012-06-03 17:34:27+00:00,New York City,Landmarks and Outdoors,Park
+36477,240,40.68282041683056,-73.9623380296344,9837,Laundry Service,2012-06-10 22:46:57+00:00,New York City,Business and Professional Services,Laundry Service
+36478,240,40.68238709382192,-73.95916965494852,32832,Dim Sum Restaurant,2012-06-10 23:42:57+00:00,New York City,Dining and Drinking,Restaurant
+36479,240,40.68695960161149,-73.97574305534363,15365,Plaza,2012-05-13 18:33:14+00:00,New York City,Landmarks and Outdoors,Plaza
+36480,240,40.687084,-73.976106,4861,Caf�,2012-04-05 12:03:48+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36481,240,40.687084,-73.976106,4861,Caf�,2012-04-12 13:40:10+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36482,240,40.729119,-73.995854,8749,Deli / Bodega,2012-04-19 22:50:03+00:00,New York City,Dining and Drinking,Restaurant
+36483,240,40.74419837088426,-73.99190127410492,23172,Pizza Place,2012-04-26 03:07:30+00:00,New York City,Dining and Drinking,Restaurant
+36484,240,40.687084,-73.976106,4861,Caf�,2012-04-26 12:12:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36485,240,40.745180776401206,-73.97943602217596,36471,Other Great Outdoors,2012-07-05 03:22:58+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+36486,240,40.723001,-73.94389723333335,5636,Food & Drink Shop,2012-07-05 23:16:50+00:00,New York City,Retail,Food and Beverage Retail
+36487,240,40.723250275921046,-73.94338488578796,17933,Other Great Outdoors,2012-07-05 23:17:17+00:00,New York City,Landmarks and Outdoors,Park
+36488,240,40.72316735070195,-73.94423971165455,3739,Pet Store,2012-07-05 23:27:40+00:00,New York City,Retail,Pet Supplies Store
+36489,240,40.687084,-73.976106,4861,Caf�,2012-07-12 13:35:44+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36490,240,40.687084,-73.976106,4861,Caf�,2012-05-03 12:08:20+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36491,240,40.72993419219496,-73.99944201403862,14730,Bar,2012-05-10 23:34:33+00:00,New York City,Dining and Drinking,Bar
+36492,240,40.687084,-73.976106,4861,Caf�,2012-04-17 12:17:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36493,240,40.73112880602221,-73.9935314655304,6233,Mexican Restaurant,2012-04-17 22:36:15+00:00,New York City,Dining and Drinking,Restaurant
+36494,240,40.72941621727988,-73.99291131431343,11535,College Academic Building,2012-04-17 22:36:56+00:00,New York City,Community and Government,Education
+36495,240,40.729165,-73.995864,28119,College Academic Building,2012-04-17 22:38:00+00:00,New York City,Community and Government,Education
+36496,240,40.687084,-73.976106,4861,Caf�,2012-07-03 19:43:37+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36497,240,40.67211113616719,-74.00474445706809,16169,Athletic & Sport,2012-07-10 22:08:05+00:00,New York City,Sports and Recreation,Baseball
+36498,240,40.687084,-73.976106,4861,Caf�,2012-07-17 13:36:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36499,240,40.687084,-73.976106,4861,Caf�,2012-07-24 13:35:04+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36500,240,40.687084,-73.976106,4861,Caf�,2012-06-05 13:56:25+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36501,240,40.687084,-73.976106,4861,Caf�,2012-06-12 13:57:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36502,240,40.68454006475695,-73.97773719594208,15257,Coffee Shop,2012-05-01 17:27:59+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36503,240,40.729924,-73.997424,18420,General Entertainment,2012-05-01 21:31:35+00:00,New York City,Arts and Entertainment,General Entertainment
+36504,240,40.72838682517076,-73.99447801388392,17398,Drugstore / Pharmacy,2012-05-01 21:52:08+00:00,New York City,Retail,Pharmacy
+36505,240,40.68189338566111,-73.96026596439529,3229,Sandwich Place,2012-05-15 14:20:33+00:00,New York City,Dining and Drinking,Restaurant
+36506,240,40.7405579801227,-74.00777996246534,5015,Beer Garden,2012-05-15 22:26:55+00:00,New York City,Dining and Drinking,Bar
+36507,240,40.687084,-73.976106,4861,Caf�,2012-04-04 12:04:38+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36508,240,40.68839542122394,-73.98045760640008,15885,Bank,2012-04-04 16:53:27+00:00,New York City,Business and Professional Services,Financial Service
+36509,240,40.68740845679963,-73.97741579469607,8338,Chinese Restaurant,2012-04-04 16:59:24+00:00,New York City,Dining and Drinking,Restaurant
+36510,240,40.7583836958649,-73.98823983377046,23011,Theater,2012-04-25 23:49:34+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+36511,240,40.68197326265679,-73.9587850841906,35135,Sandwich Place,2012-07-04 00:00:40+00:00,New York City,Dining and Drinking,Restaurant
+36512,240,40.722547,-73.949033,3552,Coffee Shop,2012-07-04 15:38:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36513,240,40.687084,-73.976106,4861,Caf�,2012-07-11 13:45:11+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36514,240,40.687084,-73.976106,4861,Caf�,2012-07-18 13:35:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36515,240,40.687122,-73.975488,2665,Bagel Shop,2012-07-18 16:42:40+00:00,New York City,Dining and Drinking,Bagel Shop
+36516,240,40.686421,-73.9746521,2749,Food & Drink Shop,2012-06-13 14:23:14+00:00,New York City,Retail,Food and Beverage Retail
+36517,240,40.687084,-73.976106,4861,Caf�,2012-06-27 15:11:39+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+36518,240,40.723435,-73.951738,2225,Mediterranean Restaurant,2012-05-16 19:46:57+00:00,New York City,Dining and Drinking,Restaurant

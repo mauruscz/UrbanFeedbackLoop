@@ -1,0 +1,83 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+7244,52,40.745901560214506,-73.98814227092512,5949,Coffee Shop,2012-07-13 14:51:42+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7245,52,40.75019614115674,-73.99493711755977,4408,Pizza Place,2012-07-13 22:25:42+00:00,New York City,Dining and Drinking,Restaurant
+7246,52,40.74026116105982,-73.9977146713475,2216,Art Museum,2012-07-13 22:44:56+00:00,New York City,Arts and Entertainment,Museum
+7247,52,40.72908585083546,-73.99602210429897,12401,College Academic Building,2012-07-27 22:47:13+00:00,New York City,Community and Government,Education
+7248,52,40.74808602646766,-73.9924693107605,26581,Mexican Restaurant,2012-06-01 16:55:20+00:00,New York City,Dining and Drinking,Restaurant
+7249,52,40.75196554530371,-73.99857547529987,12393,College Academic Building,2012-06-15 12:36:37+00:00,New York City,Community and Government,Education
+7250,52,40.73528249691621,-73.99040315158283,758,Park,2012-04-23 17:37:25+00:00,New York City,Landmarks and Outdoors,Park
+7251,52,40.71634664858483,-73.9885425567627,113,Donut Shop,2012-04-23 18:32:23+00:00,New York City,Dining and Drinking,Donut Shop
+7252,52,40.74224984882722,-74.00609493255615,2841,Coffee Shop,2012-04-23 22:45:53+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7253,52,40.73946479913673,-74.00265603689895,31603,Coffee Shop,2012-04-23 22:56:02+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7254,52,40.74224984882722,-74.00609493255615,2841,Coffee Shop,2012-07-02 23:56:02+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7255,52,40.747871081163495,-73.98922119845638,36457,Coffee Shop,2012-07-16 20:23:32+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7256,52,40.71427455929432,-73.95585772942792,5980,Music Venue,2012-06-04 23:35:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+7257,52,40.77244937900301,-73.97154808044434,2940,Park,2012-06-11 00:50:20+00:00,New York City,Landmarks and Outdoors,Park
+7258,52,40.74866717767752,-73.98837625980377,3577,Park,2012-06-11 19:26:38+00:00,New York City,Landmarks and Outdoors,Park
+7259,52,40.747819655365696,-73.99595288053506,25106,School,2012-06-18 00:04:03+00:00,New York City,Community and Government,Education
+7260,52,40.74247745309511,-74.00684595108032,33361,Coffee Shop,2012-05-28 14:14:08+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7261,52,40.75599818752485,-73.99114966392517,29191,Bar,2012-07-14 02:08:48+00:00,New York City,Dining and Drinking,Bar
+7262,52,40.72226742542826,-73.98837183048228,2318,Bar,2012-07-14 03:36:18+00:00,New York City,Dining and Drinking,Bar
+7263,52,40.74456391628884,-73.99663005286135,24749,Donut Shop,2012-07-28 15:01:42+00:00,New York City,Dining and Drinking,Donut Shop
+7264,52,40.74906015561122,-73.98607622255768,9513,Clothing Store,2012-06-02 23:56:05+00:00,New York City,Retail,Fashion Retail
+7265,52,40.72955059800335,-73.9843602377087,494,Bakery,2012-06-09 18:46:17+00:00,New York City,Dining and Drinking,Bakery
+7266,52,40.72948263681272,-73.98105448455763,11506,Antique Shop,2012-06-09 19:44:20+00:00,New York City,Retail,Antique Store
+7267,52,40.70145732419213,-74.01321428847186,1097,Ferry,2012-06-09 20:37:18+00:00,New York City,Travel and Transportation,Pier
+7268,52,40.6444055420497,-74.0729570388794,3974,Ferry,2012-06-09 21:29:36+00:00,New York City,Travel and Transportation,Pier
+7269,52,40.73528249691621,-73.99040315158283,758,Park,2012-06-09 22:17:11+00:00,New York City,Landmarks and Outdoors,Park
+7270,52,40.729110403548944,-73.9842454555664,2178,Ramen /  Noodle House,2012-06-09 22:38:45+00:00,New York City,Dining and Drinking,Restaurant
+7271,52,40.747739,-74.00026949000001,28652,Coffee Shop,2012-06-16 19:26:15+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7272,52,40.748516493357066,-74.00829655263671,627,Harbor / Marina,2012-06-16 20:09:22+00:00,New York City,Landmarks and Outdoors,Harbor or Marina
+7273,52,40.72992160603484,-74.010901763343,1534,Harbor / Marina,2012-06-16 20:55:09+00:00,New York City,Landmarks and Outdoors,Harbor or Marina
+7274,52,40.74762449484074,-73.9863746531401,23979,Asian Restaurant,2012-06-16 22:17:45+00:00,New York City,Dining and Drinking,Restaurant
+7275,52,40.7148694149892,-74.01538906944295,2895,Movie Theater,2012-06-30 20:44:51+00:00,New York City,Arts and Entertainment,Movie Theater
+7276,52,40.704381,-73.990356,36131,Beach,2012-07-08 02:02:10+00:00,New York City,Landmarks and Outdoors,Beach
+7277,52,40.674890555243714,-73.97621627458902,1062,Tea Room,2012-07-08 21:35:51+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7278,52,40.745901560214506,-73.98814227092512,5949,Coffee Shop,2012-07-15 12:54:31+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7279,52,40.745884,-73.988116,7239,Hotel,2012-07-15 12:58:42+00:00,New York City,Dining and Drinking,Bar
+7280,52,40.75005743516752,-73.99500598301633,654,Bar,2012-06-03 02:33:54+00:00,New York City,Dining and Drinking,Bar
+7281,52,40.75196554530371,-73.99857547529987,12393,College Academic Building,2012-06-10 02:33:29+00:00,New York City,Community and Government,Education
+7282,52,40.74247745309511,-74.00684595108032,33361,Coffee Shop,2012-06-10 16:21:32+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7283,52,40.76803326982161,-73.98186922073364,2490,Plaza,2012-06-10 17:33:49+00:00,New York City,Landmarks and Outdoors,Plaza
+7284,52,40.7680942116878,-73.97828578948975,13502,Park,2012-06-10 17:36:33+00:00,New York City,Landmarks and Outdoors,Park
+7285,52,40.74247745309511,-74.00684595108032,33361,Coffee Shop,2012-06-17 15:39:21+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7286,52,40.674890555243714,-73.97621627458902,1062,Tea Room,2012-06-17 18:03:14+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7287,52,40.75019614115674,-73.99493711755977,4408,Pizza Place,2012-06-17 23:06:05+00:00,New York City,Dining and Drinking,Restaurant
+7288,52,40.738215284871565,-73.99004186799563,4969,Furniture / Home Store,2012-05-27 18:25:08+00:00,New York City,Retail,Furniture and Home Store
+7289,52,40.72568701208368,-74.00570103493192,5529,Coffee Shop,2012-07-05 17:45:14+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7290,52,40.72732381196384,-74.00590181350708,25545,Office,2012-07-05 17:49:55+00:00,New York City,Business and Professional Services,Office
+7291,52,40.74023847141217,-73.99228003980646,5840,General Entertainment,2012-07-05 23:14:26+00:00,New York City,Arts and Entertainment,General Entertainment
+7292,52,40.674890555243714,-73.97621627458902,1062,Tea Room,2012-07-12 01:49:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7293,52,40.72264044368007,-73.98834943771362,2355,Food & Drink Shop,2012-06-21 03:17:14+00:00,New York City,Retail,Food and Beverage Retail
+7294,52,40.72746375464245,-74.00558227553681,17231,Hotel,2012-05-17 02:32:23+00:00,New York City,Travel and Transportation,Lodging
+7295,52,40.74712177284176,-73.9900074343792,35620,Food & Drink Shop,2012-05-31 17:56:50+00:00,New York City,Dining and Drinking,Food Court
+7296,52,40.745901560214506,-73.98814227092512,5949,Coffee Shop,2012-05-31 19:45:45+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7297,52,40.75196554530371,-73.99857547529987,12393,College Academic Building,2012-07-03 00:14:00+00:00,New York City,Community and Government,Education
+7298,52,40.74712177284176,-73.9900074343792,35620,Food & Drink Shop,2012-07-03 16:35:40+00:00,New York City,Dining and Drinking,Food Court
+7299,52,40.729730414689584,-73.99755477905273,4438,Performing Arts Venue,2012-07-10 22:35:07+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+7300,52,40.74808602646766,-73.9924693107605,26581,Mexican Restaurant,2012-07-17 16:04:20+00:00,New York City,Dining and Drinking,Restaurant
+7301,52,40.75196554530371,-73.99857547529987,12393,College Academic Building,2012-06-05 01:44:32+00:00,New York City,Community and Government,Education
+7302,52,40.751047930125885,-73.99102322346575,34234,Drugstore / Pharmacy,2012-06-05 02:29:56+00:00,New York City,Retail,Pharmacy
+7303,52,40.76624155398039,-73.97862911224365,8611,Hotel,2012-06-05 13:47:31+00:00,New York City,Travel and Transportation,Lodging
+7304,52,40.75196554530371,-73.99857547529987,12393,College Academic Building,2012-06-12 02:19:43+00:00,New York City,Community and Government,Education
+7305,52,40.754018027698336,-73.98453241079356,4108,Bar,2012-06-12 15:02:39+00:00,New York City,Dining and Drinking,Bar
+7306,52,40.752304337364166,-73.97745430469513,11462,Gift Shop,2012-06-12 15:11:26+00:00,New York City,Retail,Gift Store
+7307,52,40.75661474010244,-73.98536457852794,7162,Italian Restaurant,2012-06-12 17:56:52+00:00,New York City,Dining and Drinking,Restaurant
+7308,52,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-12 17:57:11+00:00,New York City,Landmarks and Outdoors,Plaza
+7309,52,40.73528249691621,-73.99040315158283,758,Park,2012-04-04 14:55:00+00:00,New York City,Landmarks and Outdoors,Park
+7310,52,40.72568701208368,-74.00570103493192,5529,Coffee Shop,2012-04-04 16:19:39+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7311,52,40.72948263681272,-73.98105448455763,11506,Antique Shop,2012-04-04 18:18:30+00:00,New York City,Retail,Antique Store
+7312,52,40.73898201597659,-73.989677131176,27601,Food & Drink Shop,2012-04-04 19:08:51+00:00,New York City,Retail,Food and Beverage Retail
+7313,52,40.71402088381144,-73.98987293243407,832,Bar,2012-07-04 00:07:18+00:00,New York City,Dining and Drinking,Bar
+7314,52,40.75019614115674,-73.99493711755977,4408,Pizza Place,2012-07-04 01:20:24+00:00,New York City,Dining and Drinking,Restaurant
+7315,52,40.75645736467708,-73.8460636138916,2664,Stadium,2012-07-04 16:02:47+00:00,New York City,Arts and Entertainment,Stadium
+7316,52,40.745901560214506,-73.98814227092512,5949,Coffee Shop,2012-07-11 14:00:37+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+7317,52,40.74808602646766,-73.9924693107605,26581,Mexican Restaurant,2012-06-06 16:54:46+00:00,New York City,Dining and Drinking,Restaurant
+7318,52,40.782860080688806,-73.95289014999135,1851,Event Space,2012-06-06 23:21:39+00:00,New York City,Business and Professional Services,Event Space
+7319,52,40.75196554530371,-73.99857547529987,12393,College Academic Building,2012-06-13 12:53:51+00:00,New York City,Community and Government,Education
+7320,52,40.735754595656175,-74.00079059301935,588,Bar,2012-06-13 23:45:00+00:00,New York City,Dining and Drinking,Bar
+7321,52,40.75196554530371,-73.99857547529987,12393,College Academic Building,2012-06-20 22:16:38+00:00,New York City,Community and Government,Education
+7322,52,40.75019614115674,-73.99493711755977,4408,Pizza Place,2012-06-20 22:50:16+00:00,New York City,Dining and Drinking,Restaurant
+7323,52,40.721139,-73.984133,15920,Art Gallery,2012-06-20 23:23:51+00:00,New York City,Arts and Entertainment,Art Gallery
+7324,52,40.72746375464245,-74.00558227553681,17231,Hotel,2012-05-16 18:31:48+00:00,New York City,Travel and Transportation,Lodging
+7325,52,40.74587751338479,-73.98814227092514,3348,Hotel,2012-05-16 22:19:14+00:00,New York City,Travel and Transportation,Lodging

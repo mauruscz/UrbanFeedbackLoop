@@ -1,0 +1,116 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-15 10:00:07+00:00,New York City,Landmarks and Outdoors,Park,,,,
+1,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2012-06-15 10:00:23+00:00,New York City,Health and Medicine,Physician,,,,
+2,209,40.71103442719016,-73.85624972764876,16709,Medical Center,2012-06-15 11:56:16+00:00,New York City,Health and Medicine,Physician,,,,
+3,209,40.70990587018248,-73.8594102859497,6163,Bakery,2012-06-15 11:56:25+00:00,New York City,Dining and Drinking,Bakery,,,,
+4,209,40.71121873774284,-73.85638755692999,32260,Greek Restaurant,2012-06-15 11:56:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,209,40.709917,-73.847299,7262,Ice Cream Shop,2012-06-15 12:14:54+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+6,209,40.709754,-73.84536,8045,Pizza Place,2012-06-15 12:15:17+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,209,40.71202316011473,-73.81571799855105,26668,Neighborhood,2012-06-15 12:20:25+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+8,209,40.72501209078804,-73.77161590476516,15840,Gas Station / Garage,2012-06-15 12:22:30+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+9,209,40.75552701049908,-73.69397563120253,26230,Medical School,2012-06-15 12:34:02+00:00,New York City,Community and Government,Education,,,,
+10,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2012-06-15 12:35:11+00:00,New York City,Health and Medicine,Physician,,,,
+11,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-18 00:11:19+00:00,New York City,Landmarks and Outdoors,Park,,,,
+12,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-18 10:26:00+00:00,New York City,Landmarks and Outdoors,Park,,,,
+13,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2012-06-18 10:26:14+00:00,New York City,Health and Medicine,Physician,,,,
+14,209,40.72244524030959,-73.85077667860456,10437,Government Building,2012-06-18 10:54:31+00:00,New York City,Community and Government,Government Building,,,,
+15,209,40.721986230319445,-73.84924327871961,22020,Medical Center,2012-06-18 10:55:41+00:00,New York City,Health and Medicine,Dentist,,,,
+16,209,40.68063764153655,-73.84540685520338,19813,Sporting Goods Shop,2012-06-18 11:07:53+00:00,New York City,Retail,Sporting Goods Retail,,,,
+17,209,40.68002166824501,-73.84565955605531,27465,Automotive Shop,2012-06-18 11:08:05+00:00,New York City,Retail,Automotive Shop,,,,
+18,209,40.68053452479885,-73.84527476144734,15027,Electronics Store,2012-06-18 11:08:06+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+19,209,40.67633325971561,-73.84377577827765,25700,Food & Drink Shop,2012-06-18 11:10:47+00:00,New York City,Retail,Food and Beverage Retail,,,,
+20,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-18 12:29:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+21,209,40.709754,-73.84536,8045,Pizza Place,2012-06-18 12:55:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,209,40.709917,-73.847299,7262,Ice Cream Shop,2012-06-18 13:00:04+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+23,209,40.72177102122507,-73.77748181023046,28435,Mosque,2012-06-18 13:00:22+00:00,New York City,Community and Government,Spiritual Center,,,,
+24,209,40.72501209078804,-73.77161590476516,15840,Gas Station / Garage,2012-06-18 13:01:23+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+25,209,40.75552701049908,-73.69397563120253,26230,Medical School,2012-06-18 13:16:08+00:00,New York City,Community and Government,Education,,,,
+26,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2012-06-18 13:16:20+00:00,New York City,Health and Medicine,Physician,,,,
+27,209,40.66636685104022,-73.82205360342913,28470,Automotive Shop,2012-06-25 10:55:41+00:00,New York City,Retail,Automotive Shop,,,,
+28,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-25 11:22:26+00:00,New York City,Landmarks and Outdoors,Park,,,,
+29,209,40.66308272506468,-73.85289010906875,24589,Event Space,2012-06-09 02:47:48+00:00,New York City,Business and Professional Services,Event Space,,,,
+30,209,40.66194562725975,-73.85448665291156,25461,Harbor / Marina,2012-06-09 03:04:48+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+31,209,40.661716,-73.855536,30741,Other Great Outdoors,2012-06-09 03:05:07+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+32,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-09 11:04:29+00:00,New York City,Landmarks and Outdoors,Park,,,,
+33,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2012-06-09 11:04:46+00:00,New York City,Health and Medicine,Physician,,,,
+34,209,40.66674780934064,-73.85081113689182,17762,Deli / Bodega,2012-06-09 11:31:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,209,40.66681911758007,-73.85113849032014,18206,Food & Drink Shop,2012-06-09 12:28:59+00:00,New York City,Retail,Food and Beverage Retail,,,,
+36,209,40.6731951409393,-73.84339672325763,18703,Automotive Shop,2012-06-09 12:30:04+00:00,New York City,Retail,Automotive Shop,,,,
+37,209,40.72535326851007,-73.72415953399323,25584,Building,2012-06-09 12:43:37+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+38,209,40.752993276779854,-73.72307340541529,28025,Other Great Outdoors,2012-06-09 12:46:27+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+39,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2012-06-09 12:51:38+00:00,New York City,Health and Medicine,Physician,,,,
+40,209,40.756047,-73.691644,10450,Caf�,2012-06-09 12:52:05+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+41,209,40.72501209078804,-73.77161590476516,15840,Gas Station / Garage,2012-06-09 12:52:34+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+42,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2012-06-09 16:08:35+00:00,New York City,Health and Medicine,Physician,,,,
+43,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2012-06-09 18:22:06+00:00,New York City,Health and Medicine,Physician,,,,
+44,209,40.66681911758007,-73.85113849032014,18206,Food & Drink Shop,2012-06-09 19:08:26+00:00,New York City,Retail,Food and Beverage Retail,,,,
+45,209,40.66674780934064,-73.85081113689182,17762,Deli / Bodega,2012-06-09 19:08:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,209,40.66653192043304,-73.851788,13134,Chinese Restaurant,2012-06-09 19:08:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-10 00:45:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+48,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-10 02:07:23+00:00,New York City,Landmarks and Outdoors,Park,,,,
+49,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-10 13:04:13+00:00,New York City,Landmarks and Outdoors,Park,,,,
+50,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-10 15:18:12+00:00,New York City,Landmarks and Outdoors,Park,,,,
+51,209,40.66342426980154,-73.85426267811728,24874,Bar,2012-06-10 15:18:25+00:00,New York City,Dining and Drinking,Bar,,,,
+52,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-17 12:55:01+00:00,New York City,Landmarks and Outdoors,Park,,,,
+53,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2012-06-17 13:58:38+00:00,New York City,Health and Medicine,Physician,,,,
+54,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-17 13:58:52+00:00,New York City,Landmarks and Outdoors,Park,,,,
+55,209,40.656552502748845,-73.83981863771695,19518,Drugstore / Pharmacy,2012-06-17 14:52:38+00:00,New York City,Retail,Pharmacy,,,,
+56,209,40.65629603750217,-73.83899159105859,25805,Jewelry Store,2012-06-17 14:52:57+00:00,New York City,Retail,Fashion Retail,,,,
+57,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-14 03:54:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+58,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-14 11:06:24+00:00,New York City,Landmarks and Outdoors,Park,,,,
+59,209,40.67462848548248,-73.73529632452865,15438,Salon / Barbershop,2012-06-21 00:55:54+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+60,209,40.66531993705178,-73.75644188836374,15045,Fast Food Restaurant,2012-06-21 00:56:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+61,209,40.66548344131472,-73.7553501882041,25142,Bank,2012-06-21 00:57:04+00:00,New York City,Business and Professional Services,Financial Service,,,,
+62,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-21 10:19:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+63,209,40.66316627372548,-73.85426267811728,26044,Gym / Fitness Center,2012-08-14 10:48:56+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+64,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-12 02:38:58+00:00,New York City,Landmarks and Outdoors,Park,,,,
+65,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2012-06-12 11:17:33+00:00,New York City,Health and Medicine,Physician,,,,
+66,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-12 11:17:50+00:00,New York City,Landmarks and Outdoors,Park,,,,
+67,209,40.73421871303257,-73.72251597207712,17528,Gas Station / Garage,2012-06-12 12:46:04+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+68,209,40.735266896577926,-73.71717810630798,18347,Library,2012-06-12 12:48:59+00:00,New York City,Community and Government,Library,,,,
+69,209,40.739242147855705,-73.69970083236694,11968,Diner,2012-06-12 12:49:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+70,209,40.74198972871025,-73.69804859161377,13933,Clothing Store,2012-06-12 12:50:18+00:00,New York City,Retail,Fashion Retail,,,,
+71,209,40.7519224163342,-73.70097603060603,21100,Deli / Bodega,2012-06-12 12:53:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2012-06-12 12:54:26+00:00,New York City,Health and Medicine,Physician,,,,
+73,209,40.74932230551783,-73.72838331178356,26118,Japanese Restaurant,2012-06-12 21:58:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+74,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2012-06-12 22:38:49+00:00,New York City,Health and Medicine,Physician,,,,
+75,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-12 22:39:07+00:00,New York City,Landmarks and Outdoors,Park,,,,
+76,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-19 09:58:43+00:00,New York City,Landmarks and Outdoors,Park,,,,
+77,209,40.66308272506468,-73.85289010906875,24589,Event Space,2012-06-19 09:59:22+00:00,New York City,Business and Professional Services,Event Space,,,,
+78,209,40.66135940490949,-73.85457279699534,25012,Other Great Outdoors,2012-06-19 10:04:33+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+79,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2012-06-13 09:51:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+80,209,40.70990587018248,-73.8594102859497,6163,Bakery,2012-06-13 11:11:56+00:00,New York City,Dining and Drinking,Bakery,,,,
+81,209,40.71103442719016,-73.85624972764876,16709,Medical Center,2012-06-13 11:12:05+00:00,New York City,Health and Medicine,Physician,,,,
+82,209,40.711608,-73.85917,6657,Food & Drink Shop,2012-06-13 11:12:22+00:00,New York City,Retail,Food and Beverage Retail,,,,
+83,209,40.7101528714379,-73.84928348036706,23610,Gym / Fitness Center,2012-06-13 11:46:59+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+84,209,40.709917,-73.847299,7262,Ice Cream Shop,2012-06-13 11:47:26+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+85,209,40.709754,-73.84536,8045,Pizza Place,2012-06-13 11:47:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+86,209,40.73901892778352,-73.73810053804675,12664,Park,2012-06-13 11:58:58+00:00,New York City,Landmarks and Outdoors,Park,,,,
+87,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2012-06-13 12:04:26+00:00,New York City,Health and Medicine,Physician,,,,
+88,209,40.75366256612769,-73.69150416816696,32309,Ice Cream Shop,2012-06-13 12:23:22+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+89,209,40.72972086539229,-73.72356187666284,26387,Other Great Outdoors,2012-12-31 18:00:09+00:00,,Landmarks and Outdoors,Park,62.0,8.0,nyc,Explore
+90,209,40.72644570551446,-73.72920513153076,13614,Playground,2013-01-01 18:00:09+00:00,,Landmarks and Outdoors,Park,63.0,9.0,nyc,Rec
+91,209,40.71965462500779,-73.72679150386982,34830,Medical Center,2013-01-01 18:00:09+00:00,,Health and Medicine,Physician,63.0,9.0,nyc,Explore
+92,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2013-01-02 18:00:09+00:00,,Health and Medicine,Physician,64.0,9.0,nyc,Return
+93,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2013-01-03 18:00:09+00:00,,Health and Medicine,Physician,65.0,9.0,nyc,Return
+94,209,40.753629108109145,-73.69131088256836,9681,Food & Drink Shop,2013-01-03 18:00:09+00:00,,Retail,Food and Beverage Retail,65.0,9.0,nyc,Rec
+95,209,40.73971363429379,-73.69873523712158,21627,Gas Station / Garage,2013-01-04 18:00:09+00:00,,Travel and Transportation,Fuel Station,66.0,9.0,nyc,Rec
+96,209,40.78187376372141,-73.82992744445801,10312,Fast Food Restaurant,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Explore
+97,209,40.66328944505612,-73.85417079094847,31218,Other Great Outdoors,2013-01-08 18:00:09+00:00,,Landmarks and Outdoors,Park,70.0,10.0,nyc,Return
+98,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2013-01-08 18:00:09+00:00,,Health and Medicine,Physician,70.0,10.0,nyc,Return
+99,209,40.71103442719016,-73.85624972764876,16709,Medical Center,2013-01-09 18:00:09+00:00,,Health and Medicine,Physician,71.0,10.0,nyc,Rec
+100,209,40.69133792233316,-73.82031894299239,30970,Medical Center,2013-01-14 18:00:09+00:00,,Health and Medicine,Physician,76.0,10.0,nyc,Explore
+101,209,40.66674780934064,-73.85081113689182,17762,Deli / Bodega,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Rec
+102,209,40.75577582071087,-73.69202145361648,16812,Medical Center,2013-01-17 18:00:09+00:00,,Health and Medicine,Physician,79.0,11.0,nyc,Return
+103,209,40.72501209078804,-73.77161590476516,15840,Gas Station / Garage,2013-01-28 18:00:09+00:00,,Travel and Transportation,Fuel Station,90.0,12.0,nyc,Return
+104,209,40.71103442719016,-73.85624972764876,16709,Medical Center,2013-01-28 18:00:09+00:00,,Health and Medicine,Physician,90.0,12.0,nyc,Rec
+105,209,40.66338524388371,-73.8541880197959,21555,Medical Center,2013-01-29 18:00:09+00:00,,Health and Medicine,Physician,91.0,13.0,nyc,Rec
+106,209,40.66929505,-73.859486775,23603,Medical Center,2013-01-29 18:00:09+00:00,,Health and Medicine,Physician,91.0,13.0,nyc,Rec
+107,209,40.709917,-73.847299,7262,Ice Cream Shop,2013-01-29 18:00:09+00:00,,Dining and Drinking,Dessert Shop,91.0,13.0,nyc,Return
+108,209,40.709917,-73.847299,7262,Ice Cream Shop,2013-01-30 18:00:09+00:00,,Dining and Drinking,Dessert Shop,92.0,13.0,nyc,Return
+109,209,40.73971363429379,-73.69873523712158,21627,Gas Station / Garage,2013-01-30 18:00:09+00:00,,Travel and Transportation,Fuel Station,92.0,13.0,nyc,Return
+110,209,40.73901892778352,-73.73810053804675,12664,Park,2013-01-31 18:00:09+00:00,,Landmarks and Outdoors,Park,93.0,13.0,nyc,Rec
+111,209,40.69805177520576,-73.83537896469491,32769,Medical Center,2013-01-31 18:00:09+00:00,,Health and Medicine,Physician,93.0,13.0,nyc,Explore
+112,209,40.715025170493085,-73.85696184456249,21508,Park,2013-02-01 18:00:09+00:00,,Landmarks and Outdoors,Park,94.0,13.0,nyc,Rec
+113,209,40.71103442719016,-73.85624972764876,16709,Medical Center,2013-02-01 18:00:09+00:00,,Health and Medicine,Physician,94.0,13.0,nyc,Rec
+114,209,40.71121873774284,-73.85638755692999,32260,Greek Restaurant,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Rec

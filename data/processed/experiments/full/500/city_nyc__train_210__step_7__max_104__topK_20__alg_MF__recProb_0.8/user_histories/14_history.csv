@@ -1,0 +1,349 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,14,40.73991469094372,-73.98923267637623,9843,Salon / Barbershop,2012-04-06 15:45:10+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+1,14,40.74095989432878,-73.98918102573148,11259,Tea Room,2012-04-06 16:22:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+2,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-06 16:23:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+3,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-13 11:15:26+00:00,New York City,Landmarks and Outdoors,Park,,,,
+4,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-04-20 00:02:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-20 00:03:21+00:00,New York City,Landmarks and Outdoors,Park,,,,
+6,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-20 11:07:00+00:00,New York City,Landmarks and Outdoors,Park,,,,
+7,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-27 12:37:23+00:00,New York City,Landmarks and Outdoors,Park,,,,
+8,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-27 20:24:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+9,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-10 10:59:13+00:00,New York City,Landmarks and Outdoors,Park,,,,
+10,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-08-10 16:19:46+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+11,14,40.73826215868053,-73.98367728295193,6391,Italian Restaurant,2012-08-10 23:26:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,14,40.736827,-73.986909,29,Caf�,2012-08-17 23:50:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+13,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-06 11:27:04+00:00,New York City,Landmarks and Outdoors,Park,,,,
+14,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-06 12:00:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+15,14,40.739710540895686,-73.98925563221387,9843,Salon / Barbershop,2012-07-06 13:42:27+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+16,14,40.74215230390258,-73.99064540863037,3502,Hardware Store,2012-07-06 16:06:12+00:00,New York City,Retail,Hardware Store,,,,
+17,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-06 16:32:11+00:00,New York City,Landmarks and Outdoors,Park,,,,
+18,14,40.74082035731044,-73.99148807430478,26582,Italian Restaurant,2012-07-06 22:55:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-13 10:10:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+20,14,40.736827,-73.986909,29,Caf�,2012-07-20 23:58:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+21,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-08 15:41:14+00:00,New York City,Landmarks and Outdoors,Park,,,,
+22,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-04 11:23:17+00:00,New York City,Landmarks and Outdoors,Park,,,,
+23,14,40.739710540895686,-73.98925563221387,9843,Salon / Barbershop,2012-05-04 14:31:27+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+24,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-04 21:36:28+00:00,New York City,Landmarks and Outdoors,Park,,,,
+25,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-11 11:52:23+00:00,New York City,Landmarks and Outdoors,Park,,,,
+26,14,40.734225002140064,-73.993703273938,593,American Restaurant,2012-05-11 18:06:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+27,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-11 21:28:18+00:00,New York City,Landmarks and Outdoors,Park,,,,
+28,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-18 14:34:50+00:00,New York City,Landmarks and Outdoors,Park,,,,
+29,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-18 15:55:23+00:00,New York City,Landmarks and Outdoors,Park,,,,
+30,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-25 11:26:29+00:00,New York City,Landmarks and Outdoors,Park,,,,
+31,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-05-25 17:07:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-25 20:21:26+00:00,New York City,Landmarks and Outdoors,Park,,,,
+33,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-10-19 15:19:39+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+34,14,40.74118665791861,-73.98908920232871,2974,Coffee Shop,2012-10-26 11:56:43+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+35,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-26 11:58:28+00:00,New York City,Landmarks and Outdoors,Park,,,,
+36,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-10-26 21:05:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+37,14,40.74218830848454,-73.98792418909154,902,Park,2012-09-14 12:44:27+00:00,New York City,Landmarks and Outdoors,Park,,,,
+38,14,40.74233355166768,-73.99688255718414,323,Italian Restaurant,2012-09-14 22:27:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-09 11:08:30+00:00,New York City,Landmarks and Outdoors,Park,,,,
+40,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-16 11:56:59+00:00,New York City,Landmarks and Outdoors,Park,,,,
+41,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-23 22:58:23+00:00,New York City,Landmarks and Outdoors,Park,,,,
+42,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-06 12:14:48+00:00,New York City,Landmarks and Outdoors,Park,,,,
+43,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-08-13 17:10:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+44,14,40.743107753743374,-73.98923841533589,21614,Fried Chicken Joint,2012-08-13 21:50:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-20 09:48:39+00:00,New York City,Landmarks and Outdoors,Park,,,,
+46,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-02 12:31:03+00:00,New York City,Landmarks and Outdoors,Park,,,,
+47,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-02 13:07:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+48,14,40.740409879691086,-73.98941058404617,36287,Furniture / Home Store,2012-07-02 14:28:22+00:00,New York City,Retail,Furniture and Home Store,,,,
+49,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-02 14:29:51+00:00,New York City,Landmarks and Outdoors,Park,,,,
+50,14,40.741128,-73.989902,2636,Bar,2012-07-02 20:49:31+00:00,New York City,Dining and Drinking,Juice Bar,,,,
+51,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-02 20:50:12+00:00,New York City,Landmarks and Outdoors,Park,,,,
+52,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-07-02 22:45:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+53,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-02 23:38:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+54,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-09 12:25:34+00:00,New York City,Landmarks and Outdoors,Park,,,,
+55,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-16 10:53:21+00:00,New York City,Landmarks and Outdoors,Park,,,,
+56,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-16 15:20:05+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+57,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-30 10:50:07+00:00,New York City,Landmarks and Outdoors,Park,,,,
+58,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-30 17:32:55+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+59,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-04 12:04:48+00:00,New York City,Landmarks and Outdoors,Park,,,,
+60,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-06-04 23:13:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+61,14,40.739507,-73.990549,7526,Coffee Shop,2012-06-04 23:44:46+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+62,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-11 11:41:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+63,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-11 15:14:19+00:00,New York City,Landmarks and Outdoors,Park,,,,
+64,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-06-11 22:49:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+65,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-18 09:35:43+00:00,New York City,Landmarks and Outdoors,Park,,,,
+66,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-06-18 16:16:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+67,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-18 16:32:15+00:00,New York City,Landmarks and Outdoors,Park,,,,
+68,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-25 11:42:17+00:00,New York City,Landmarks and Outdoors,Park,,,,
+69,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-07 11:26:50+00:00,New York City,Landmarks and Outdoors,Park,,,,
+70,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-14 11:26:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+71,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-14 12:51:24+00:00,New York City,Landmarks and Outdoors,Park,,,,
+72,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-21 12:49:57+00:00,New York City,Landmarks and Outdoors,Park,,,,
+73,14,40.74019282278642,-73.98957127470307,2212,Italian Restaurant,2012-05-21 23:52:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+74,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-28 11:25:59+00:00,New York City,Landmarks and Outdoors,Park,,,,
+75,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-28 18:47:00+00:00,New York City,Landmarks and Outdoors,Park,,,,
+76,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-28 22:38:48+00:00,New York City,Landmarks and Outdoors,Park,,,,
+77,14,40.74118665791861,-73.98908920232871,2974,Coffee Shop,2012-10-08 10:36:32+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+78,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-08 10:37:34+00:00,New York City,Landmarks and Outdoors,Park,,,,
+79,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-10-08 21:24:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+80,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-22 11:43:51+00:00,New York City,Landmarks and Outdoors,Park,,,,
+81,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-07 12:46:08+00:00,New York City,Landmarks and Outdoors,Park,,,,
+82,14,40.73652697126574,-73.9905595779419,2449,Food & Drink Shop,2012-04-07 16:00:15+00:00,New York City,Retail,Food and Beverage Retail,,,,
+83,14,40.73431843737578,-73.9886702574961,1937,Food & Drink Shop,2012-04-07 16:02:00+00:00,New York City,Retail,Food and Beverage Retail,,,,
+84,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-07 20:18:46+00:00,New York City,Landmarks and Outdoors,Park,,,,
+85,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-14 14:46:02+00:00,New York City,Landmarks and Outdoors,Park,,,,
+86,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-14 22:40:53+00:00,New York City,Landmarks and Outdoors,Park,,,,
+87,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-21 12:32:44+00:00,New York City,Landmarks and Outdoors,Park,,,,
+88,14,40.73652697126574,-73.9905595779419,2449,Food & Drink Shop,2012-04-21 14:58:34+00:00,New York City,Retail,Food and Beverage Retail,,,,
+89,14,40.740778258449865,-73.98768315098722,27605,Burger Joint,2012-04-21 23:26:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+90,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-28 11:30:19+00:00,New York City,Landmarks and Outdoors,Park,,,,
+91,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-11 12:44:32+00:00,New York City,Landmarks and Outdoors,Park,,,,
+92,14,40.736031073752805,-73.9793586730957,220,Bagel Shop,2012-08-11 13:58:48+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+93,14,40.740778258449865,-73.98768315098722,27605,Burger Joint,2012-08-11 21:29:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+94,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-18 11:08:17+00:00,New York City,Landmarks and Outdoors,Park,,,,
+95,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-08-18 17:44:34+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+96,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-07 23:11:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+97,14,40.736827,-73.986909,29,Caf�,2012-07-14 00:14:04+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+98,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-14 10:39:25+00:00,New York City,Landmarks and Outdoors,Park,,,,
+99,14,40.74123105421344,-73.9895368410022,9064,Drugstore / Pharmacy,2012-07-14 12:19:04+00:00,New York City,Retail,Pharmacy,,,,
+100,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-28 12:22:05+00:00,New York City,Landmarks and Outdoors,Park,,,,
+101,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-28 16:50:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+102,14,40.73816,-73.98898461,2183,Italian Restaurant,2012-07-28 23:56:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+103,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-09 11:08:51+00:00,New York City,Landmarks and Outdoors,Park,,,,
+104,14,40.74095989432878,-73.98918102573148,11259,Tea Room,2012-06-09 11:47:32+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+105,14,40.74091672247482,-73.98914337158203,9241,Gift Shop,2012-06-09 11:47:49+00:00,New York City,Retail,Gift Store,,,,
+106,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-09 11:48:57+00:00,New York City,Landmarks and Outdoors,Park,,,,
+107,14,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-06-09 22:15:31+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+108,14,40.741128,-73.989902,2636,Bar,2012-06-16 20:40:47+00:00,New York City,Dining and Drinking,Juice Bar,,,,
+109,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-16 20:41:21+00:00,New York City,Landmarks and Outdoors,Park,,,,
+110,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-06-16 22:23:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+111,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-30 19:30:10+00:00,New York City,Landmarks and Outdoors,Park,,,,
+112,14,40.73821643777286,-73.9878495820916,332,French Restaurant,2012-05-05 00:52:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+113,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-05 10:58:50+00:00,New York City,Landmarks and Outdoors,Park,,,,
+114,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-05 16:01:34+00:00,New York City,Landmarks and Outdoors,Park,,,,
+115,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-12 12:05:48+00:00,New York City,Landmarks and Outdoors,Park,,,,
+116,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-12 21:58:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+117,14,40.73654941641445,-73.98927858804879,89,Hotel,2012-05-12 23:10:30+00:00,New York City,Dining and Drinking,Bar,,,,
+118,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-19 14:40:24+00:00,New York City,Landmarks and Outdoors,Park,,,,
+119,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-19 21:08:47+00:00,New York City,Landmarks and Outdoors,Park,,,,
+120,14,40.740690295685134,-73.99115521826296,24624,American Restaurant,2012-05-26 00:12:19+00:00,New York City,Dining and Drinking,Restaurant,,,,
+121,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-13 13:31:48+00:00,New York City,Landmarks and Outdoors,Park,,,,
+122,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-27 10:21:01+00:00,New York City,Landmarks and Outdoors,Park,,,,
+123,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-10-27 14:42:28+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+124,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-27 23:54:54+00:00,New York City,Landmarks and Outdoors,Park,,,,
+125,14,40.74218830848454,-73.98792418909154,902,Park,2012-09-15 10:37:08+00:00,New York City,Landmarks and Outdoors,Park,,,,
+126,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-09-15 14:42:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+127,14,40.74218830848454,-73.98792418909154,902,Park,2012-09-15 21:17:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+128,14,40.74082035731044,-73.99148807430478,26582,Italian Restaurant,2012-09-15 23:34:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+129,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-08 10:16:20+00:00,New York City,Landmarks and Outdoors,Park,,,,
+130,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-15 10:54:30+00:00,New York City,Landmarks and Outdoors,Park,,,,
+131,14,40.73802516090471,-73.98798731806886,3074,Diner,2012-04-15 16:32:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+132,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-15 18:56:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+133,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-22 12:49:31+00:00,New York City,Landmarks and Outdoors,Park,,,,
+134,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-22 16:15:04+00:00,New York City,Landmarks and Outdoors,Park,,,,
+135,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-29 00:54:17+00:00,New York City,Landmarks and Outdoors,Park,,,,
+136,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-29 12:17:27+00:00,New York City,Landmarks and Outdoors,Park,,,,
+137,14,40.740019218226266,-73.99469608826703,5012,Furniture / Home Store,2012-04-29 16:42:30+00:00,New York City,Retail,Furniture and Home Store,,,,
+138,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-04-29 16:48:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+139,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-05 12:21:28+00:00,New York City,Landmarks and Outdoors,Park,,,,
+140,14,40.737511,-74.00645,9692,French Restaurant,2012-08-05 17:26:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+141,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-08-05 19:45:21+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+142,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-12 11:22:25+00:00,New York City,Landmarks and Outdoors,Park,,,,
+143,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-08-12 17:08:00+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+144,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-12 20:11:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+145,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-19 23:43:12+00:00,New York City,Landmarks and Outdoors,Park,,,,
+146,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-08 19:02:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+147,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-15 13:06:25+00:00,New York City,Landmarks and Outdoors,Park,,,,
+148,14,40.740409879691086,-73.98941058404617,36287,Furniture / Home Store,2012-07-15 14:46:11+00:00,New York City,Retail,Furniture and Home Store,,,,
+149,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-15 14:47:42+00:00,New York City,Landmarks and Outdoors,Park,,,,
+150,14,40.769031,-74.224504,33292,Government Building,2012-07-15 16:23:20+00:00,New York City,Community and Government,Government Building,,,,
+151,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-15 22:13:58+00:00,New York City,Landmarks and Outdoors,Park,,,,
+152,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-22 13:59:11+00:00,New York City,Landmarks and Outdoors,Park,,,,
+153,14,40.74095989432878,-73.98918102573148,11259,Tea Room,2012-07-29 00:23:22+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+154,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-29 14:10:59+00:00,New York City,Landmarks and Outdoors,Park,,,,
+155,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-03 12:20:06+00:00,New York City,Landmarks and Outdoors,Park,,,,
+156,14,40.740019218226266,-73.99469608826703,5012,Furniture / Home Store,2012-06-03 15:51:46+00:00,New York City,Retail,Furniture and Home Store,,,,
+157,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-03 20:36:50+00:00,New York City,Landmarks and Outdoors,Park,,,,
+158,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-10 11:41:23+00:00,New York City,Landmarks and Outdoors,Park,,,,
+159,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-06-10 12:27:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+160,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-10 15:09:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+161,14,40.74492342607472,-73.9980360386088,3867,Movie Theater,2012-06-10 17:32:59+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+162,14,40.74571043315757,-73.99087975075709,8447,Pizza Place,2012-06-10 20:08:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+163,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-10 21:17:37+00:00,New York City,Landmarks and Outdoors,Park,,,,
+164,14,40.74093287182729,-73.9894220619547,27174,Miscellaneous Shop,2012-06-17 20:26:58+00:00,New York City,Retail,Miscellaneous Store,,,,
+165,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-17 21:29:44+00:00,New York City,Landmarks and Outdoors,Park,,,,
+166,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-13 11:51:04+00:00,New York City,Landmarks and Outdoors,Park,,,,
+167,14,40.74033689217464,-73.9886817354489,3880,French Restaurant,2012-05-13 16:30:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+168,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-05-13 22:33:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+169,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-27 11:53:19+00:00,New York City,Landmarks and Outdoors,Park,,,,
+170,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-27 16:06:43+00:00,New York City,Landmarks and Outdoors,Park,,,,
+171,14,40.74706188749892,-74.00519371032715,965,Park,2012-05-27 18:37:33+00:00,New York City,Landmarks and Outdoors,Park,,,,
+172,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-05 11:08:46+00:00,New York City,Landmarks and Outdoors,Park,,,,
+173,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-12 10:58:42+00:00,New York City,Landmarks and Outdoors,Park,,,,
+174,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-19 12:07:05+00:00,New York City,Landmarks and Outdoors,Park,,,,
+175,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-19 18:35:56+00:00,New York City,Landmarks and Outdoors,Park,,,,
+176,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-26 11:43:34+00:00,New York City,Landmarks and Outdoors,Park,,,,
+177,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-09 11:44:28+00:00,New York City,Landmarks and Outdoors,Park,,,,
+178,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-08-16 18:42:48+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+179,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-05 11:31:07+00:00,New York City,Landmarks and Outdoors,Park,,,,
+180,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-05 22:33:11+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+181,14,40.74118665791861,-73.98908920232871,2974,Coffee Shop,2012-07-12 12:08:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+182,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-12 12:09:38+00:00,New York City,Landmarks and Outdoors,Park,,,,
+183,14,40.73712514544606,-73.99028290313753,17420,Clothing Store,2012-07-12 14:00:28+00:00,New York City,Retail,Fashion Retail,,,,
+184,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-12 19:21:58+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+185,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-12 20:08:52+00:00,New York City,Landmarks and Outdoors,Park,,,,
+186,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-26 21:05:51+00:00,New York City,Landmarks and Outdoors,Park,,,,
+187,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-07 12:06:21+00:00,New York City,Landmarks and Outdoors,Park,,,,
+188,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-14 10:57:18+00:00,New York City,Landmarks and Outdoors,Park,,,,
+189,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-21 09:59:05+00:00,New York City,Landmarks and Outdoors,Park,,,,
+190,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-06-21 14:39:05+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+191,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-03 11:17:27+00:00,New York City,Landmarks and Outdoors,Park,,,,
+192,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-03 16:22:12+00:00,New York City,Landmarks and Outdoors,Park,,,,
+193,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-10 23:24:52+00:00,New York City,Landmarks and Outdoors,Park,,,,
+194,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-17 11:01:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+195,14,40.74696349202716,-73.98561135861114,8438,Clothing Store,2012-05-17 15:54:15+00:00,New York City,Retail,Boutique,,,,
+196,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-17 18:01:59+00:00,New York City,Landmarks and Outdoors,Park,,,,
+197,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-17 23:25:54+00:00,New York City,Landmarks and Outdoors,Park,,,,
+198,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-10-18 21:26:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+199,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-09-06 16:57:24+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+200,14,40.74218830848454,-73.98792418909154,902,Park,2012-09-13 11:21:36+00:00,New York City,Landmarks and Outdoors,Park,,,,
+201,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-03 22:55:46+00:00,New York City,Landmarks and Outdoors,Park,,,,
+202,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-10 10:00:02+00:00,New York City,Landmarks and Outdoors,Park,,,,
+203,14,40.74167304814132,-73.97428784381152,3733,Medical Center,2012-04-10 17:54:12+00:00,New York City,Health and Medicine,Hospital,,,,
+204,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-17 11:57:59+00:00,New York City,Landmarks and Outdoors,Park,,,,
+205,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-17 19:33:48+00:00,New York City,Landmarks and Outdoors,Park,,,,
+206,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-24 10:54:15+00:00,New York City,Landmarks and Outdoors,Park,,,,
+207,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-14 11:20:00+00:00,New York City,Landmarks and Outdoors,Park,,,,
+208,14,40.74218830848454,-73.98792418909154,902,Park,2012-08-14 19:45:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+209,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-03 12:17:54+00:00,New York City,Landmarks and Outdoors,Park,,,,
+210,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-03 17:49:56+00:00,New York City,Landmarks and Outdoors,Park,,,,
+211,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-10 23:50:44+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+212,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-17 10:39:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+213,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-17 22:56:38+00:00,New York City,Landmarks and Outdoors,Park,,,,
+214,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-24 19:09:39+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+215,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-05 11:52:34+00:00,New York City,Landmarks and Outdoors,Park,,,,
+216,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-12 12:31:13+00:00,New York City,Landmarks and Outdoors,Park,,,,
+217,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-19 10:39:47+00:00,New York City,Landmarks and Outdoors,Park,,,,
+218,14,40.74064033927743,-73.98781299591064,34700,Salad Place,2012-06-26 22:55:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+219,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-01 18:53:48+00:00,New York City,Landmarks and Outdoors,Park,,,,
+220,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-08 11:47:06+00:00,New York City,Landmarks and Outdoors,Park,,,,
+221,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-08 18:15:47+00:00,New York City,Landmarks and Outdoors,Park,,,,
+222,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-15 13:04:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+223,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-15 16:12:55+00:00,New York City,Landmarks and Outdoors,Park,,,,
+224,14,40.72519123146282,-73.99637754820587,4830,Clothing Store,2012-05-15 17:57:27+00:00,New York City,Retail,Fashion Retail,,,,
+225,14,40.725768758926016,-73.99730722279487,2083,Movie Theater,2012-05-15 18:00:27+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+226,14,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-05-15 20:08:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+227,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-15 20:09:10+00:00,New York City,Landmarks and Outdoors,Park,,,,
+228,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-22 10:16:08+00:00,New York City,Landmarks and Outdoors,Park,,,,
+229,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-29 12:30:07+00:00,New York City,Landmarks and Outdoors,Park,,,,
+230,14,40.740778258449865,-73.98768315098722,27605,Burger Joint,2012-05-29 16:55:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+231,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-29 17:53:04+00:00,New York City,Landmarks and Outdoors,Park,,,,
+232,14,40.74265628447347,-73.98901462554932,6806,Food Truck,2012-05-29 23:23:08+00:00,New York City,Dining and Drinking,Food Truck,,,,
+233,14,40.74118665791861,-73.98908920232871,2974,Coffee Shop,2012-10-16 11:08:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+234,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-16 11:09:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+235,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-10-23 00:30:56+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+236,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-23 10:31:46+00:00,New York City,Landmarks and Outdoors,Park,,,,
+237,14,40.74082035731044,-73.99148807430478,26582,Italian Restaurant,2012-10-23 23:18:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+238,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-04 11:01:14+00:00,New York City,Landmarks and Outdoors,Park,,,,
+239,14,40.74167304814132,-73.97428784381152,3733,Medical Center,2012-04-04 13:48:30+00:00,New York City,Health and Medicine,Hospital,,,,
+240,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-04 19:49:02+00:00,New York City,Landmarks and Outdoors,Park,,,,
+241,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-11 15:53:01+00:00,New York City,Landmarks and Outdoors,Park,,,,
+242,14,40.742099571675965,-73.97494213499166,3733,Medical Center,2012-04-18 12:59:03+00:00,New York City,Health and Medicine,Hospital,,,,
+243,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-25 11:55:42+00:00,New York City,Landmarks and Outdoors,Park,,,,
+244,14,40.742099571675965,-73.97494213499166,3733,Medical Center,2012-04-25 16:29:42+00:00,New York City,Health and Medicine,Hospital,,,,
+245,14,40.74218830848454,-73.98792418909154,902,Park,2012-04-25 20:04:41+00:00,New York City,Landmarks and Outdoors,Park,,,,
+246,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-04 10:48:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+247,14,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-07-04 18:01:25+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+248,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-04 22:49:41+00:00,New York City,Landmarks and Outdoors,Park,,,,
+249,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-11 21:38:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+250,14,40.74218830848454,-73.98792418909154,902,Park,2012-07-11 21:39:36+00:00,New York City,Landmarks and Outdoors,Park,,,,
+251,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-07-18 17:13:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+252,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-06 10:55:05+00:00,New York City,Landmarks and Outdoors,Park,,,,
+253,14,40.74090548735305,-73.9891178971468,27174,Miscellaneous Shop,2012-06-06 13:00:38+00:00,New York City,Retail,Miscellaneous Store,,,,
+254,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-06 18:23:10+00:00,New York City,Landmarks and Outdoors,Park,,,,
+255,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-13 11:10:27+00:00,New York City,Landmarks and Outdoors,Park,,,,
+256,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-06-13 19:18:39+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+257,14,40.74218830848454,-73.98792418909154,902,Park,2012-06-27 13:28:28+00:00,New York City,Landmarks and Outdoors,Park,,,,
+258,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-09 11:08:41+00:00,New York City,Landmarks and Outdoors,Park,,,,
+259,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-09 23:08:24+00:00,New York City,Landmarks and Outdoors,Park,,,,
+260,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-16 10:48:42+00:00,New York City,Landmarks and Outdoors,Park,,,,
+261,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-16 17:38:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+262,14,40.75672504450451,-73.98452667169322,84,Italian Restaurant,2012-05-16 23:46:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+263,14,40.75669320915917,-73.9838609348899,3234,Theater,2012-05-16 23:52:12+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+264,14,40.74218830848454,-73.98792418909154,902,Park,2012-05-23 21:45:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+265,14,40.74118665791861,-73.98908920232871,2974,Coffee Shop,2012-10-17 11:37:31+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+266,14,40.74218830848454,-73.98792418909154,902,Park,2012-10-17 11:38:31+00:00,New York City,Landmarks and Outdoors,Park,,,,
+267,14,40.74218830848454,-73.98792418909154,902,Park,2012-09-05 10:59:56+00:00,New York City,Landmarks and Outdoors,Park,,,,
+268,14,40.74218830848454,-73.98792418909154,902,Park,2012-09-12 17:35:16+00:00,New York City,Landmarks and Outdoors,Park,,,,
+269,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-11-06 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",7.0,1.0,nyc,Rec
+270,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-07 18:00:09+00:00,,Landmarks and Outdoors,Park,8.0,1.0,nyc,Return
+271,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-11-08 18:00:09+00:00,,Landmarks and Outdoors,Park,9.0,1.0,nyc,Rec
+272,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-08 18:00:09+00:00,,Landmarks and Outdoors,Park,9.0,1.0,nyc,Rec
+273,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-11-09 18:00:09+00:00,,Landmarks and Outdoors,Park,10.0,1.0,nyc,Rec
+274,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-11-09 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",10.0,1.0,nyc,Rec
+275,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-11 18:00:09+00:00,,Landmarks and Outdoors,Park,12.0,1.0,nyc,Rec
+276,14,40.73293544907754,-74.00398123568105,2416,Coffee Shop,2012-11-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",12.0,1.0,nyc,Rec
+277,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-12 18:00:09+00:00,,Landmarks and Outdoors,Park,13.0,1.0,nyc,Return
+278,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-11-12 18:00:09+00:00,,Landmarks and Outdoors,Park,13.0,1.0,nyc,Rec
+279,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-12 18:00:09+00:00,,Landmarks and Outdoors,Park,13.0,1.0,nyc,Rec
+280,14,40.73083612189599,-73.99764060974121,896,Park,2012-11-13 18:00:09+00:00,,Landmarks and Outdoors,Park,14.0,2.0,nyc,Rec
+281,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-11-15 18:00:09+00:00,,Landmarks and Outdoors,Park,16.0,2.0,nyc,Rec
+282,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-18 18:00:09+00:00,,Landmarks and Outdoors,Park,19.0,2.0,nyc,Rec
+283,14,40.73528249691621,-73.99040315158283,758,Park,2012-11-20 18:00:09+00:00,,Landmarks and Outdoors,Park,21.0,3.0,nyc,Rec
+284,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-11-20 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",21.0,3.0,nyc,Rec
+285,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-21 18:00:09+00:00,,Landmarks and Outdoors,Park,22.0,3.0,nyc,Rec
+286,14,40.73816,-73.98898461,2183,Italian Restaurant,2012-11-21 18:00:09+00:00,,Dining and Drinking,Restaurant,22.0,3.0,nyc,Rec
+287,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-22 18:00:09+00:00,,Landmarks and Outdoors,Park,23.0,3.0,nyc,Rec
+288,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-11-23 18:00:09+00:00,,Landmarks and Outdoors,Park,24.0,3.0,nyc,Rec
+289,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-24 18:00:09+00:00,,Landmarks and Outdoors,Park,25.0,3.0,nyc,Rec
+290,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-11-25 18:00:09+00:00,,Landmarks and Outdoors,Park,26.0,3.0,nyc,Rec
+291,14,40.76685911228834,-73.9790153503418,19825,Park,2012-11-25 18:00:09+00:00,,Landmarks and Outdoors,Park,26.0,3.0,nyc,Explore
+292,14,40.76864674872412,-73.98086071014404,5691,Park,2012-11-26 18:00:09+00:00,,Landmarks and Outdoors,Park,27.0,3.0,nyc,Rec
+293,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-11-26 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",27.0,3.0,nyc,Rec
+294,14,40.74218830848454,-73.98792418909154,902,Park,2012-11-27 18:00:09+00:00,,Landmarks and Outdoors,Park,28.0,4.0,nyc,Rec
+295,14,40.74095989432878,-73.98918102573148,11259,Tea Room,2012-11-27 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",28.0,4.0,nyc,Return
+296,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-12-01 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",32.0,4.0,nyc,Rec
+297,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,Park,32.0,4.0,nyc,Rec
+298,14,40.73528249691621,-73.99040315158283,758,Park,2012-12-02 18:00:09+00:00,,Landmarks and Outdoors,Park,33.0,4.0,nyc,Rec
+299,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-02 18:00:09+00:00,,Landmarks and Outdoors,Park,33.0,4.0,nyc,Rec
+300,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-12-02 18:00:09+00:00,,Landmarks and Outdoors,Park,33.0,4.0,nyc,Rec
+301,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Park,34.0,4.0,nyc,Rec
+302,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-12-04 18:00:09+00:00,,Landmarks and Outdoors,Park,35.0,5.0,nyc,Rec
+303,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-05 18:00:09+00:00,,Landmarks and Outdoors,Park,36.0,5.0,nyc,Rec
+304,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-12-05 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",36.0,5.0,nyc,Rec
+305,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Park,37.0,5.0,nyc,Rec
+306,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Park,38.0,5.0,nyc,Rec
+307,14,40.73528249691621,-73.99040315158283,758,Park,2012-12-08 18:00:09+00:00,,Landmarks and Outdoors,Park,39.0,5.0,nyc,Rec
+308,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-12-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",39.0,5.0,nyc,Rec
+309,14,40.76864674872412,-73.98086071014404,5691,Park,2012-12-09 18:00:09+00:00,,Landmarks and Outdoors,Park,40.0,5.0,nyc,Return
+310,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-12-09 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",40.0,5.0,nyc,Rec
+311,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-09 18:00:09+00:00,,Landmarks and Outdoors,Park,40.0,5.0,nyc,Return
+312,14,40.74118665791861,-73.98908920232871,2974,Coffee Shop,2012-12-10 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",41.0,5.0,nyc,Rec
+313,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-12 18:00:09+00:00,,Landmarks and Outdoors,Park,43.0,6.0,nyc,Rec
+314,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-12-13 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",44.0,6.0,nyc,Rec
+315,14,40.74866717767752,-73.98837625980377,3577,Park,2012-12-14 18:00:09+00:00,,Landmarks and Outdoors,Park,45.0,6.0,nyc,Explore
+316,14,40.74118665791861,-73.98908920232871,2974,Coffee Shop,2012-12-14 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",45.0,6.0,nyc,Rec
+317,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,Park,46.0,6.0,nyc,Rec
+318,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-12-16 18:00:09+00:00,,Landmarks and Outdoors,Park,47.0,6.0,nyc,Rec
+319,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Park,48.0,6.0,nyc,Rec
+320,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-18 18:00:09+00:00,,Landmarks and Outdoors,Park,49.0,7.0,nyc,Return
+321,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-12-18 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",49.0,7.0,nyc,Rec
+322,14,40.74706188749892,-74.00519371032715,965,Park,2012-12-19 18:00:09+00:00,,Landmarks and Outdoors,Park,50.0,7.0,nyc,Rec
+323,14,40.73616749334199,-74.00531830573017,34435,Park,2012-12-19 18:00:09+00:00,,Landmarks and Outdoors,Park,50.0,7.0,nyc,Rec
+324,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2012-12-19 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",50.0,7.0,nyc,Rec
+325,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,Park,53.0,7.0,nyc,Return
+326,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2012-12-28 18:00:09+00:00,,Landmarks and Outdoors,Park,59.0,8.0,nyc,Rec
+327,14,40.73319215117446,-73.98261554174415,5205,Medical Center,2012-12-28 18:00:09+00:00,,Health and Medicine,Hospital,59.0,8.0,nyc,Explore
+328,14,40.74218830848454,-73.98792418909154,902,Park,2012-12-30 18:00:09+00:00,,Landmarks and Outdoors,Park,61.0,8.0,nyc,Return
+329,14,40.74706188749892,-74.00519371032715,965,Park,2012-12-30 18:00:09+00:00,,Landmarks and Outdoors,Park,61.0,8.0,nyc,Rec
+330,14,40.76900427024065,-73.98231983184814,5063,Coffee Shop,2012-12-31 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",62.0,8.0,nyc,Explore
+331,14,40.767614327003976,-73.98287380365903,5445,Coffee Shop,2012-12-31 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",62.0,8.0,nyc,Rec
+332,14,40.7714256153356,-73.97350072860723,1056,Park,2013-01-01 18:00:09+00:00,,Landmarks and Outdoors,Park,63.0,9.0,nyc,Rec
+333,14,40.76900427024065,-73.98231983184814,5063,Coffee Shop,2013-01-01 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",63.0,9.0,nyc,Rec
+334,14,40.7714256153356,-73.97350072860723,1056,Park,2013-01-02 18:00:09+00:00,,Landmarks and Outdoors,Park,64.0,9.0,nyc,Rec
+335,14,40.78224746176124,-73.97384405136108,4428,Park,2013-01-03 18:00:09+00:00,,Landmarks and Outdoors,Park,65.0,9.0,nyc,Rec
+336,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2013-01-05 18:00:09+00:00,,Landmarks and Outdoors,Park,67.0,9.0,nyc,Rec
+337,14,40.74218830848454,-73.98792418909154,902,Park,2013-01-06 18:00:09+00:00,,Landmarks and Outdoors,Park,68.0,9.0,nyc,Rec
+338,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Park,69.0,9.0,nyc,Rec
+339,14,40.74218830848454,-73.98792418909154,902,Park,2013-01-08 18:00:09+00:00,,Landmarks and Outdoors,Park,70.0,10.0,nyc,Rec
+340,14,40.75376996005066,-73.98366006557374,36327,Park,2013-01-10 18:00:09+00:00,,Landmarks and Outdoors,Park,72.0,10.0,nyc,Explore
+341,14,40.74218830848454,-73.98792418909154,902,Park,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,Park,73.0,10.0,nyc,Rec
+342,14,40.73991469094372,-73.98923267637623,9843,Salon / Barbershop,2013-01-11 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,73.0,10.0,nyc,Rec
+343,14,40.741904376575214,-73.98906826972961,21412,Coffee Shop,2013-01-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",73.0,10.0,nyc,Rec
+344,14,40.74218830848454,-73.98792418909154,902,Park,2013-01-12 18:00:09+00:00,,Landmarks and Outdoors,Park,74.0,10.0,nyc,Return
+345,14,40.742184818893,-73.98838288,4226,Other Great Outdoors,2013-01-13 18:00:09+00:00,,Landmarks and Outdoors,Park,75.0,10.0,nyc,Rec
+346,14,40.737511,-74.00645,9692,French Restaurant,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Rec
+347,14,40.73702496764239,-74.0054870079431,4600,Park,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,Park,76.0,10.0,nyc,Rec

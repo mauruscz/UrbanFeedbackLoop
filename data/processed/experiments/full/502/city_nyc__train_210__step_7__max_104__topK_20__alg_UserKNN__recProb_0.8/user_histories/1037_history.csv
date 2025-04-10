@@ -1,0 +1,29 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,1037,40.76981004887623,-73.98213919107941,36964,Dessert Shop,2012-10-12 19:38:15+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+1,1037,40.756489872673846,-73.98626804351807,2360,Plaza,2012-10-12 21:12:13+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+2,1037,40.90441486664417,-73.78627172804937,25362,School,2012-10-26 14:48:16+00:00,New York City,Community and Government,Education,,,,
+3,1037,40.7714256153356,-73.97350072860723,1056,Park,2012-10-08 17:14:43+00:00,New York City,Landmarks and Outdoors,Park,,,,
+4,1037,40.76403087948803,-73.98344197864982,6349,Theater,2012-10-25 21:54:48+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+5,1037,40.7714256153356,-73.97350072860723,1056,Park,2012-10-23 04:23:38+00:00,New York City,Landmarks and Outdoors,Park,,,,
+6,1037,40.77314374521057,-73.95259740757663,33058,Stadium,2012-11-01 18:00:09+00:00,,Arts and Entertainment,Stadium,2.0,0.0,nyc,Rec
+7,1037,40.77365559748017,-73.98337310904346,7466,School,2012-11-05 18:00:09+00:00,,Community and Government,Education,6.0,0.0,nyc,Rec
+8,1037,40.7714256153356,-73.97350072860723,1056,Park,2012-11-05 18:00:09+00:00,,Landmarks and Outdoors,Park,6.0,0.0,nyc,Rec
+9,1037,40.75935532828397,-73.98454962809355,25478,American Restaurant,2012-11-06 18:00:09+00:00,,Dining and Drinking,Restaurant,7.0,1.0,nyc,Rec
+10,1037,40.75935532828397,-73.98454962809355,25478,American Restaurant,2012-11-07 18:00:09+00:00,,Dining and Drinking,Restaurant,8.0,1.0,nyc,Return
+11,1037,40.75925243678466,-73.98430284664612,19223,Other Great Outdoors,2012-11-23 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,24.0,3.0,nyc,Rec
+12,1037,40.76042349214541,-73.99119539057452,24800,BBQ Joint,2012-11-24 18:00:09+00:00,,Dining and Drinking,Restaurant,25.0,3.0,nyc,Rec
+13,1037,40.7386405913415,-73.99253368377686,868,Bakery,2012-11-24 18:00:09+00:00,,Dining and Drinking,Bakery,25.0,3.0,nyc,Rec
+14,1037,40.73690276598786,-73.99580367275166,23953,Coffee Shop,2012-11-26 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",27.0,3.0,nyc,Rec
+15,1037,40.73714,-74.000557,33676,Park,2012-11-26 18:00:09+00:00,,Landmarks and Outdoors,Park,27.0,3.0,nyc,Rec
+16,1037,40.73528249691621,-73.99040315158283,758,Park,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Park,34.0,4.0,nyc,Rec
+17,1037,40.75935532828397,-73.98454962809355,25478,American Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Return
+18,1037,40.73714,-74.000557,33676,Park,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Park,48.0,6.0,nyc,Return
+19,1037,40.735529,-73.997197,8276,College Academic Building,2012-12-18 18:00:09+00:00,,Community and Government,Education,49.0,7.0,nyc,Rec
+20,1037,40.736003,-73.995881,1913,Movie Theater,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Movie Theater,75.0,10.0,nyc,Rec
+21,1037,40.73528249691621,-73.99040315158283,758,Park,2013-01-13 18:00:09+00:00,,Landmarks and Outdoors,Park,75.0,10.0,nyc,Return
+22,1037,40.73224537390078,-73.99000169544254,21554,Other Great Outdoors,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,Park,76.0,10.0,nyc,Rec
+23,1037,40.77095885665391,-73.98710351049733,8070,Diner,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Rec
+24,1037,40.77739834785461,-73.98245361666666,5171,Food & Drink Shop,2013-01-25 18:00:09+00:00,,Retail,Food and Beverage Retail,87.0,12.0,nyc,Rec
+25,1037,40.7772917298741,-73.98412227630615,20696,Playground,2013-01-29 18:00:09+00:00,,Landmarks and Outdoors,Park,91.0,13.0,nyc,Rec
+26,1037,40.72930763943153,-74.00120258331299,25790,Neighborhood,2013-01-29 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,91.0,13.0,nyc,Rec
+27,1037,40.730178,-74.0003224,160,Falafel Restaurant,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Rec

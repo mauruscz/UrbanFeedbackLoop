@@ -1,0 +1,114 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,753,40.74736527554775,-74.04809386474848,31317,Department Store,2012-06-01 10:45:09+00:00,New York City,Retail,Department Store,,,,
+1,753,40.738478007566,-73.99049520492554,17745,Office,2012-06-01 11:50:06+00:00,New York City,Business and Professional Services,Office,,,,
+2,753,40.738478007566,-73.99049520492554,17745,Office,2012-06-08 14:22:22+00:00,New York City,Business and Professional Services,Office,,,,
+3,753,40.738478007566,-73.99049520492554,17745,Office,2012-06-08 16:53:54+00:00,New York City,Business and Professional Services,Office,,,,
+4,753,40.74655830860138,-74.049,17029,Drugstore / Pharmacy,2012-06-08 22:14:10+00:00,New York City,Retail,Pharmacy,,,,
+5,753,40.71727164038982,-74.05266635020136,5861,Donut Shop,2012-06-08 22:39:31+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+6,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-12 12:03:58+00:00,New York City,Business and Professional Services,Office,,,,
+7,753,40.865093839010775,-73.97286446584171,36611,Medical Center,2012-10-12 22:53:34+00:00,New York City,Health and Medicine,Physician,,,,
+8,753,40.7362216865279,-73.99354832557317,7554,Bank,2012-10-19 11:37:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+9,753,40.7389100052285,-73.99141346869047,4505,Restaurant,2012-10-19 11:45:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-19 12:57:01+00:00,New York City,Business and Professional Services,Office,,,,
+11,753,40.73813749867823,-73.99001891225203,11609,Drugstore / Pharmacy,2012-10-19 18:15:27+00:00,New York City,Retail,Pharmacy,,,,
+12,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-19 18:24:16+00:00,New York City,Business and Professional Services,Office,,,,
+13,753,40.82144157832533,-73.9878988265991,15185,Neighborhood,2012-10-26 00:15:25+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+14,753,40.75369412685269,-74.02948379516602,20526,Building,2012-10-26 00:31:30+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+15,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-26 11:50:49+00:00,New York City,Business and Professional Services,Office,,,,
+16,753,40.738478007566,-73.99049520492554,17745,Office,2012-06-04 11:51:16+00:00,New York City,Business and Professional Services,Office,,,,
+17,753,40.73228484498883,-74.06362953927928,24490,Parking,2012-06-04 21:10:34+00:00,New York City,Travel and Transportation,Parking,,,,
+18,753,40.7389100052285,-73.99141346869047,4505,Restaurant,2012-10-08 11:21:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-08 11:28:35+00:00,New York City,Business and Professional Services,Office,,,,
+20,753,40.74826484276548,-74.0475082397461,15505,Deli / Bodega,2012-10-22 11:13:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,753,40.74550126445644,-74.0494179725647,11603,Coffee Shop,2012-10-22 11:15:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+22,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-22 12:05:58+00:00,New York City,Business and Professional Services,Office,,,,
+23,753,40.74936550911485,-74.05015924196044,36435,Office,2012-10-22 22:50:31+00:00,New York City,Business and Professional Services,Office,,,,
+24,753,40.827270801334265,-74.13460493087769,19834,Burger Joint,2012-06-02 23:47:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+25,753,40.71631412096641,-74.05027627944946,4837,Medical Center,2012-06-09 00:51:52+00:00,New York City,Health and Medicine,Hospital,,,,
+26,753,40.73866497887356,-74.06215310096741,25147,Gas Station / Garage,2012-06-09 01:20:21+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+27,753,40.74550126445644,-74.0494179725647,11603,Coffee Shop,2012-06-09 01:29:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+28,753,40.71631412096641,-74.05027627944946,4837,Medical Center,2012-06-09 14:21:21+00:00,New York City,Health and Medicine,Hospital,,,,
+29,753,40.74550126445644,-74.0494179725647,11603,Coffee Shop,2012-06-09 15:51:38+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+30,753,40.75863212393393,-74.04358437975178,21233,Drugstore / Pharmacy,2012-06-09 18:07:45+00:00,New York City,Retail,Pharmacy,,,,
+31,753,40.76013133908869,-74.04415237421385,8084,Diner,2012-10-13 00:48:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,753,40.74550126445644,-74.0494179725647,11603,Coffee Shop,2012-10-27 14:09:15+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+33,753,40.77612179824107,-74.03489112854004,14183,Food & Drink Shop,2012-10-27 16:08:49+00:00,New York City,Retail,Food and Beverage Retail,,,,
+34,753,40.74826484276548,-74.0475082397461,15505,Deli / Bodega,2012-10-25 11:26:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-25 12:20:50+00:00,New York City,Business and Professional Services,Office,,,,
+36,753,40.865093839010775,-73.97286446584171,36611,Medical Center,2012-10-25 23:11:25+00:00,New York City,Health and Medicine,Physician,,,,
+37,753,40.738478007566,-73.99049520492554,17745,Office,2012-06-05 12:13:25+00:00,New York City,Business and Professional Services,Office,,,,
+38,753,40.738478007566,-73.99049520492554,17745,Office,2012-05-29 11:48:56+00:00,New York City,Business and Professional Services,Office,,,,
+39,753,40.7362216865279,-73.99354832557317,7554,Bank,2012-10-23 11:40:38+00:00,New York City,Business and Professional Services,Financial Service,,,,
+40,753,40.7389100052285,-73.99141346869047,4505,Restaurant,2012-10-23 11:46:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-23 12:26:24+00:00,New York City,Business and Professional Services,Office,,,,
+42,753,40.738478007566,-73.99049520492554,17745,Office,2012-06-06 12:03:22+00:00,New York City,Business and Professional Services,Office,,,,
+43,753,40.71631412096641,-74.05027627944946,4837,Medical Center,2012-06-06 23:35:22+00:00,New York City,Health and Medicine,Hospital,,,,
+44,753,40.73902552132967,-73.99299165819254,4323,Pizza Place,2012-10-03 16:51:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-03 17:10:24+00:00,New York City,Business and Professional Services,Office,,,,
+46,753,40.7389100052285,-73.99141346869047,4505,Restaurant,2012-10-17 11:27:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-17 11:29:31+00:00,New York City,Business and Professional Services,Office,,,,
+48,753,40.738478007566,-73.99049520492554,17745,Office,2012-10-24 11:52:35+00:00,New York City,Business and Professional Services,Office,,,,
+49,753,40.74655830860138,-74.049,17029,Drugstore / Pharmacy,2012-10-24 22:27:30+00:00,New York City,Retail,Pharmacy,,,,
+50,753,40.738478007566,-73.99049520492554,17745,Office,2012-11-02 18:00:09+00:00,,Business and Professional Services,Office,3.0,0.0,nyc,Return
+51,753,40.738478007566,-73.99049520492554,17745,Office,2012-11-06 18:00:09+00:00,,Business and Professional Services,Office,7.0,1.0,nyc,Return
+52,753,40.76552647929644,-73.98365020751953,11791,Mexican Restaurant,2012-11-07 18:00:09+00:00,,Dining and Drinking,Restaurant,8.0,1.0,nyc,Explore
+53,753,40.738478007566,-73.99049520492554,17745,Office,2012-11-07 18:00:09+00:00,,Business and Professional Services,Office,8.0,1.0,nyc,Return
+54,753,40.73239389746868,-73.98783810408904,27160,Thai Restaurant,2012-11-09 18:00:09+00:00,,Dining and Drinking,Restaurant,10.0,1.0,nyc,Explore
+55,753,40.7362216865279,-73.99354832557317,7554,Bank,2012-11-09 18:00:09+00:00,,Business and Professional Services,Financial Service,10.0,1.0,nyc,Return
+56,753,40.7418191670992,-73.99140199090107,27083,Office,2012-11-12 18:00:09+00:00,,Business and Professional Services,Office,13.0,1.0,nyc,Explore
+57,753,40.7415098277292,-73.99959695763839,33877,Office,2012-11-13 18:00:09+00:00,,Business and Professional Services,Office,14.0,2.0,nyc,Explore
+58,753,40.746368,-73.983417,24559,Office,2012-11-15 18:00:09+00:00,,Business and Professional Services,Office,16.0,2.0,nyc,Explore
+59,753,40.72894633938345,-73.98850382710332,4112,Plaza,2012-11-15 18:00:09+00:00,,Landmarks and Outdoors,Plaza,16.0,2.0,nyc,Explore
+60,753,40.74655830860138,-74.049,17029,Drugstore / Pharmacy,2012-11-17 18:00:09+00:00,,Retail,Pharmacy,18.0,2.0,nyc,Return
+61,753,40.72894633938345,-73.98850382710332,4112,Plaza,2012-11-20 18:00:09+00:00,,Landmarks and Outdoors,Plaza,21.0,3.0,nyc,Return
+62,753,40.738478007566,-73.99049520492554,17745,Office,2012-11-20 18:00:09+00:00,,Business and Professional Services,Office,21.0,3.0,nyc,Return
+63,753,40.73794147828757,-73.97990584373474,16915,Plaza,2012-11-21 18:00:09+00:00,,Landmarks and Outdoors,Plaza,22.0,3.0,nyc,Explore
+64,753,40.738478007566,-73.99049520492554,17745,Office,2012-11-21 18:00:09+00:00,,Business and Professional Services,Office,22.0,3.0,nyc,Return
+65,753,40.77612179824107,-74.03489112854004,14183,Food & Drink Shop,2012-11-25 18:00:09+00:00,,Retail,Food and Beverage Retail,26.0,3.0,nyc,Return
+66,753,40.738478007566,-73.99049520492554,17745,Office,2012-11-26 18:00:09+00:00,,Business and Professional Services,Office,27.0,3.0,nyc,Rec
+67,753,40.72894633938345,-73.98850382710332,4112,Plaza,2012-11-26 18:00:09+00:00,,Landmarks and Outdoors,Plaza,27.0,3.0,nyc,Rec
+68,753,40.72894633938345,-73.98850382710332,4112,Plaza,2012-11-26 18:00:09+00:00,,Landmarks and Outdoors,Plaza,27.0,3.0,nyc,Return
+69,753,40.72894633938345,-73.98850382710332,4112,Plaza,2012-11-27 18:00:09+00:00,,Landmarks and Outdoors,Plaza,28.0,4.0,nyc,Return
+70,753,40.738478007566,-73.99049520492554,17745,Office,2012-11-28 18:00:09+00:00,,Business and Professional Services,Office,29.0,4.0,nyc,Return
+71,753,40.74736527554775,-74.04809386474848,31317,Department Store,2012-12-02 18:00:09+00:00,,Retail,Department Store,33.0,4.0,nyc,Return
+72,753,40.73813749867823,-73.99001891225203,11609,Drugstore / Pharmacy,2012-12-02 18:00:09+00:00,,Retail,Pharmacy,33.0,4.0,nyc,Return
+73,753,40.738478007566,-73.99049520492554,17745,Office,2012-12-03 18:00:09+00:00,,Business and Professional Services,Office,34.0,4.0,nyc,Return
+74,753,40.72894633938345,-73.98850382710332,4112,Plaza,2012-12-04 18:00:09+00:00,,Landmarks and Outdoors,Plaza,35.0,5.0,nyc,Return
+75,753,40.72719421783423,-73.99503467694925,32669,Office,2012-12-04 18:00:09+00:00,,Business and Professional Services,Office,35.0,5.0,nyc,Explore
+76,753,40.7418191670992,-73.99140199090107,27083,Office,2012-12-05 18:00:09+00:00,,Business and Professional Services,Office,36.0,5.0,nyc,Return
+77,753,40.75781551309476,-73.97343267040648,34221,Plaza,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Plaza,38.0,5.0,nyc,Explore
+78,753,40.75738012820853,-73.9721757307873,27271,Office,2012-12-07 18:00:09+00:00,,Business and Professional Services,Office,38.0,5.0,nyc,Explore
+79,753,40.75612593825469,-73.9693002353209,2510,Plaza,2012-12-07 18:00:09+00:00,,Landmarks and Outdoors,Plaza,38.0,5.0,nyc,Explore
+80,753,40.741258608132725,-73.99317530121836,35269,Bar,2012-12-10 18:00:09+00:00,,Arts and Entertainment,Night Club,41.0,5.0,nyc,Explore
+81,753,40.73938001760171,-73.99433454375975,4533,Gift Shop,2012-12-12 18:00:09+00:00,,Retail,Gift Store,43.0,6.0,nyc,Explore
+82,753,40.74736527554775,-74.04809386474848,31317,Department Store,2012-12-15 18:00:09+00:00,,Retail,Department Store,46.0,6.0,nyc,Return
+83,753,40.738478007566,-73.99049520492554,17745,Office,2012-12-17 18:00:09+00:00,,Business and Professional Services,Office,48.0,6.0,nyc,Return
+84,753,40.75781551309476,-73.97343267040648,34221,Plaza,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Plaza,48.0,6.0,nyc,Return
+85,753,40.75885846001004,-73.97268080340146,22150,Bank,2012-12-18 18:00:09+00:00,,Business and Professional Services,Financial Service,49.0,7.0,nyc,Explore
+86,753,40.72894633938345,-73.98850382710332,4112,Plaza,2012-12-19 18:00:09+00:00,,Landmarks and Outdoors,Plaza,50.0,7.0,nyc,Return
+87,753,40.7418191670992,-73.99140199090107,27083,Office,2012-12-19 18:00:09+00:00,,Business and Professional Services,Office,50.0,7.0,nyc,Return
+88,753,40.73377766209309,-73.99956252573816,16454,Plaza,2012-12-19 18:00:09+00:00,,Landmarks and Outdoors,Plaza,50.0,7.0,nyc,Explore
+89,753,40.75863212393393,-74.04358437975178,21233,Drugstore / Pharmacy,2012-12-21 18:00:09+00:00,,Retail,Pharmacy,52.0,7.0,nyc,Return
+90,753,40.74655830860138,-74.049,17029,Drugstore / Pharmacy,2012-12-22 18:00:09+00:00,,Retail,Pharmacy,53.0,7.0,nyc,Return
+91,753,40.74736527554775,-74.04809386474848,31317,Department Store,2012-12-22 18:00:09+00:00,,Retail,Department Store,53.0,7.0,nyc,Return
+92,753,40.76013133908869,-74.04415237421385,8084,Diner,2012-12-27 18:00:09+00:00,,Dining and Drinking,Restaurant,58.0,8.0,nyc,Return
+93,753,40.74936550911485,-74.05015924196044,36435,Office,2012-12-27 18:00:09+00:00,,Business and Professional Services,Office,58.0,8.0,nyc,Rec
+94,753,40.75781551309476,-73.97343267040648,34221,Plaza,2012-12-27 18:00:09+00:00,,Landmarks and Outdoors,Plaza,58.0,8.0,nyc,Return
+95,753,40.766240095503576,-73.97662950724082,32243,Plaza,2012-12-28 18:00:09+00:00,,Landmarks and Outdoors,Plaza,59.0,8.0,nyc,Explore
+96,753,40.746368,-73.983417,24559,Office,2012-12-28 18:00:09+00:00,,Business and Professional Services,Office,59.0,8.0,nyc,Return
+97,753,40.738478007566,-73.99049520492554,17745,Office,2012-12-31 18:00:09+00:00,,Business and Professional Services,Office,62.0,8.0,nyc,Return
+98,753,40.73377766209309,-73.99956252573816,16454,Plaza,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Plaza,69.0,9.0,nyc,Rec
+99,753,40.74077716502735,-74.0019670052254,12374,Office,2013-01-09 18:00:09+00:00,,Business and Professional Services,Office,71.0,10.0,nyc,Explore
+100,753,40.75781551309476,-73.97343267040648,34221,Plaza,2013-01-09 18:00:09+00:00,,Landmarks and Outdoors,Plaza,71.0,10.0,nyc,Rec
+101,753,40.72894633938345,-73.98850382710332,4112,Plaza,2013-01-10 18:00:09+00:00,,Landmarks and Outdoors,Plaza,72.0,10.0,nyc,Return
+102,753,40.738478007566,-73.99049520492554,17745,Office,2013-01-11 18:00:09+00:00,,Business and Professional Services,Office,73.0,10.0,nyc,Return
+103,753,40.746368,-73.983417,24559,Office,2013-01-14 18:00:09+00:00,,Business and Professional Services,Office,76.0,10.0,nyc,Rec
+104,753,40.745868414644185,-73.9902427306349,37436,Office,2013-01-15 18:00:09+00:00,,Business and Professional Services,Office,77.0,11.0,nyc,Explore
+105,753,40.738478007566,-73.99049520492554,17745,Office,2013-01-17 18:00:09+00:00,,Business and Professional Services,Office,79.0,11.0,nyc,Return
+106,753,40.738478007566,-73.99049520492554,17745,Office,2013-01-21 18:00:09+00:00,,Business and Professional Services,Office,83.0,11.0,nyc,Return
+107,753,40.72894633938345,-73.98850382710332,4112,Plaza,2013-01-21 18:00:09+00:00,,Landmarks and Outdoors,Plaza,83.0,11.0,nyc,Return
+108,753,40.738478007566,-73.99049520492554,17745,Office,2013-01-25 18:00:09+00:00,,Business and Professional Services,Office,87.0,12.0,nyc,Rec
+109,753,40.73673750278412,-73.98838904743799,36491,Plaza,2013-01-25 18:00:09+00:00,,Landmarks and Outdoors,Plaza,87.0,12.0,nyc,Explore
+110,753,40.738478007566,-73.99049520492554,17745,Office,2013-02-05 18:00:09+00:00,,Business and Professional Services,Office,98.0,14.0,nyc,Return
+111,753,40.7418191670992,-73.99140199090107,27083,Office,2013-02-06 18:00:09+00:00,,Business and Professional Services,Office,99.0,14.0,nyc,Rec
+112,753,40.738478007566,-73.99049520492554,17745,Office,2013-02-07 18:00:09+00:00,,Business and Professional Services,Office,100.0,14.0,nyc,Return

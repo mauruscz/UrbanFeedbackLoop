@@ -1,0 +1,114 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,788,40.82744940453421,-73.92622947692871,773,American Restaurant,2012-04-13 20:45:19+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,788,40.73234593572486,-73.98798731806886,590,Bar,2012-04-13 22:01:10+00:00,New York City,Dining and Drinking,Bar,,,,
+2,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-04-20 13:41:18+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+3,788,40.73673497254247,-74.06938338189356,17114,Building,2012-08-17 16:16:36+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+4,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-08-17 20:36:32+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+5,788,40.589512727710606,-74.06630283189004,10924,Steakhouse,2012-08-17 23:53:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-07-13 11:13:38+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+7,788,40.71334219349639,-73.99140199090107,21219,College Academic Building,2012-06-08 12:44:46+00:00,New York City,Community and Government,Education,,,,
+8,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-06-08 17:08:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+9,788,40.7148694149892,-74.01538906944295,2895,Movie Theater,2012-05-04 23:04:11+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+10,788,40.73548639517562,-73.99890661239624,6288,High School,2012-05-18 13:21:36+00:00,New York City,Community and Government,Education,,,,
+11,788,40.69447601742518,-73.98743637356685,25957,Government Building,2012-10-19 12:50:47+00:00,New York City,Community and Government,Government Building,,,,
+12,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-09-14 12:16:58+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+13,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-09-14 15:53:30+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+14,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-09-14 22:47:26+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+15,788,40.7636462551771,-73.98938762822706,6534,Bar,2012-04-23 23:38:27+00:00,New York City,Dining and Drinking,Bar,,,,
+16,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-08-20 15:01:15+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+17,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-07-02 12:21:09+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+18,788,40.752294,-74.008758,126,Bar,2012-07-16 00:02:07+00:00,New York City,Dining and Drinking,Bar,,,,
+19,788,40.73234593572486,-73.98798731806886,590,Bar,2012-07-16 03:22:35+00:00,New York City,Dining and Drinking,Bar,,,,
+20,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-07-30 21:17:27+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+21,788,40.77381437268857,-73.98463726043701,7685,High School,2012-06-18 13:41:55+00:00,New York City,Community and Government,Education,,,,
+22,788,40.67621785391348,-73.98339539766312,14055,Beer Garden,2012-05-14 00:53:15+00:00,New York City,Dining and Drinking,Bar,,,,
+23,788,40.82827721161922,-73.92655344439045,751,Stadium,2012-04-28 19:48:23+00:00,New York City,Arts and Entertainment,Stadium,,,,
+24,788,40.72133752277011,-73.9521841234126,875,Park,2012-08-11 14:55:17+00:00,New York City,Landmarks and Outdoors,Park,,,,
+25,788,40.715756661237904,-73.9589744997343,23097,Bar,2012-08-11 18:15:09+00:00,New York City,Dining and Drinking,Bar,,,,
+26,788,40.72133752277011,-73.9521841234126,875,Park,2012-08-18 17:37:26+00:00,New York City,Landmarks and Outdoors,Park,,,,
+27,788,40.82827721161922,-73.92655344439045,751,Stadium,2012-08-18 20:22:16+00:00,New York City,Arts and Entertainment,Stadium,,,,
+28,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-06-09 16:01:43+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+29,788,40.72306326129451,-73.95069122314453,23589,Bar,2012-06-30 21:52:17+00:00,New York City,Dining and Drinking,Bar,,,,
+30,788,40.71390602858493,-74.0090712335377,12290,Bar,2012-05-05 02:38:46+00:00,New York City,Dining and Drinking,Bar,,,,
+31,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-05-05 21:53:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+32,788,40.82827721161922,-73.92655344439045,751,Stadium,2012-05-12 20:22:52+00:00,New York City,Arts and Entertainment,Stadium,,,,
+33,788,40.72988845526377,-74.00061269591029,36,Bar,2012-05-19 20:51:41+00:00,New York City,Dining and Drinking,Bar,,,,
+34,788,40.72686790791358,-73.98896294507819,30570,Bar,2012-09-15 00:49:01+00:00,New York City,Dining and Drinking,Bar,,,,
+35,788,40.737604,-73.997361,3467,Diner,2012-09-15 20:35:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,788,40.73234593572486,-73.98798731806886,590,Bar,2012-09-15 21:15:17+00:00,New York City,Dining and Drinking,Bar,,,,
+37,788,40.72788438327404,-73.9850948417952,20185,Bar,2012-09-15 21:42:29+00:00,New York City,Dining and Drinking,Bar,,,,
+38,788,40.678234702252034,-73.96857131048762,858,Bar,2012-04-22 01:30:55+00:00,New York City,Dining and Drinking,Bar,,,,
+39,788,40.679372,-73.9682,17178,Bar,2012-04-22 16:10:30+00:00,New York City,Dining and Drinking,Bar,,,,
+40,788,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-07-29 20:20:34+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+41,788,40.723546865121946,-73.99813359642076,1825,Clothing Store,2012-06-03 18:10:40+00:00,New York City,Retail,Fashion Retail,,,,
+42,788,40.77381437268857,-73.98463726043701,7685,High School,2012-06-17 18:46:50+00:00,New York City,Community and Government,Education,,,,
+43,788,40.7843169021422,-73.97760519192389,232,Bar,2012-06-17 20:50:16+00:00,New York City,Dining and Drinking,Bar,,,,
+44,788,40.78782018739577,-73.79104614257812,37651,Other Great Outdoors,2012-10-28 17:26:04+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+45,788,40.72801404034635,-73.99303756896549,3055,Food & Drink Shop,2012-10-28 20:40:37+00:00,New York City,Retail,Food and Beverage Retail,,,,
+46,788,40.77138107266706,-73.95646042374283,2621,Bar,2012-09-09 15:45:52+00:00,New York City,Dining and Drinking,Bar,,,,
+47,788,40.755998370536446,-73.9677333304998,17813,Bar,2012-09-09 22:18:56+00:00,New York City,Dining and Drinking,Bar,,,,
+48,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-04-19 13:29:42+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+49,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-08-09 19:21:40+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+50,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-05-03 13:41:02+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+51,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-05-17 12:30:28+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+52,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-05-31 18:15:57+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+53,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-10-11 18:17:08+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+54,788,40.82827721161922,-73.92655344439045,751,Stadium,2012-10-11 23:42:49+00:00,New York City,Arts and Entertainment,Stadium,,,,
+55,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-04-03 22:57:11+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+56,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-04-17 14:00:07+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+57,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-04-24 15:50:48+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+58,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-07-03 13:00:55+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+59,788,40.82355238476592,-73.94409620410673,25010,Deli / Bodega,2012-07-03 16:17:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-07-03 22:40:25+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+61,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-07-17 12:19:13+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+62,788,40.82355238476592,-73.94409620410673,25010,Deli / Bodega,2012-07-17 16:52:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+63,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-06-12 15:32:08+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+64,788,40.73673497254247,-74.06938338189356,17114,Building,2012-06-26 16:44:29+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+65,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-06-26 23:07:12+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+66,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-05-08 16:14:19+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+67,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-05-15 13:46:42+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+68,788,40.738307,-73.981808,16029,College Academic Building,2012-05-22 13:24:55+00:00,New York City,Community and Government,Education,,,,
+69,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-05-29 16:41:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+70,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-10-16 15:55:21+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+71,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-04-04 12:19:09+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+72,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-04-18 17:53:51+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+73,788,40.729812319490144,-74.00070451379366,3047,Bar,2012-07-04 00:42:15+00:00,New York City,Dining and Drinking,Bar,,,,
+74,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-07-11 18:15:15+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+75,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-07-11 21:43:36+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+76,788,40.82465,-73.94034685,12049,Chinese Restaurant,2012-07-18 18:42:58+00:00,New York City,Dining and Drinking,Restaurant,,,,
+77,788,40.82827721161922,-73.92655344439045,751,Stadium,2012-06-06 23:45:48+00:00,New York City,Arts and Entertainment,Stadium,,,,
+78,788,40.77381437268857,-73.98463726043701,7685,High School,2012-06-13 15:03:28+00:00,New York City,Community and Government,Education,,,,
+79,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-05-09 15:33:23+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+80,788,40.70819,-74.00648,4320,Gym / Fitness Center,2012-10-24 12:21:43+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+81,788,40.70771000786733,-74.01056349277496,28788,Department Store,2012-11-01 18:00:09+00:00,,Retail,Department Store,2.0,0.0,nyc,Explore
+82,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-11-12 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,13.0,1.0,nyc,Return
+83,788,40.73234593572486,-73.98798731806886,590,Bar,2012-11-16 18:00:09+00:00,,Dining and Drinking,Bar,17.0,2.0,nyc,Rec
+84,788,40.73466775058902,-73.98776349705562,283,Bar,2012-11-16 18:00:09+00:00,,Dining and Drinking,Bar,17.0,2.0,nyc,Rec
+85,788,40.73169799836348,-73.98922693741638,182,Music Venue,2012-11-19 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,20.0,2.0,nyc,Rec
+86,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-11-20 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,21.0,3.0,nyc,Return
+87,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-11-26 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,27.0,3.0,nyc,Return
+88,788,40.73548639517562,-73.99890661239624,6288,High School,2012-11-27 18:00:09+00:00,,Community and Government,Education,28.0,4.0,nyc,Return
+89,788,40.734173842953865,-74.00273023464419,2737,Music Venue,2012-11-28 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,29.0,4.0,nyc,Rec
+90,788,40.735734,-74.00059,2580,Bar,2012-12-01 18:00:09+00:00,,Dining and Drinking,Bar,32.0,4.0,nyc,Rec
+91,788,40.738307,-73.981808,16029,College Academic Building,2012-12-01 18:00:09+00:00,,Community and Government,Education,32.0,4.0,nyc,Return
+92,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-12-03 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,34.0,4.0,nyc,Return
+93,788,40.80896,-73.9596,2120,American Restaurant,2012-12-05 18:00:09+00:00,,Dining and Drinking,Restaurant,36.0,5.0,nyc,Explore
+94,788,40.80861223601287,-73.96154880523682,4131,College Academic Building,2012-12-06 18:00:09+00:00,,Community and Government,Education,37.0,5.0,nyc,Rec
+95,788,40.67939403103602,-73.96815806053817,17178,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Return
+96,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-12-10 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,41.0,5.0,nyc,Return
+97,788,40.823747348954086,-73.93987655639648,32149,Performing Arts Venue,2012-12-11 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,42.0,6.0,nyc,Return
+98,788,40.713240189310966,-74.01594400405884,3135,Performing Arts Venue,2012-12-13 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,44.0,6.0,nyc,Rec
+99,788,40.72856334811506,-73.99995849221705,2309,Music Venue,2012-12-18 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,49.0,7.0,nyc,Rec
+100,788,40.738307,-73.981808,16029,College Academic Building,2012-12-18 18:00:09+00:00,,Community and Government,Education,49.0,7.0,nyc,Return
+101,788,40.678234702252034,-73.96857131048762,858,Bar,2012-12-21 18:00:09+00:00,,Dining and Drinking,Bar,52.0,7.0,nyc,Return
+102,788,40.73234593572486,-73.98798731806886,590,Bar,2012-12-22 18:00:09+00:00,,Dining and Drinking,Bar,53.0,7.0,nyc,Return
+103,788,40.71507988486874,-74.0081358776865,1217,Bar,2013-01-08 18:00:09+00:00,,Dining and Drinking,Bar,70.0,10.0,nyc,Rec
+104,788,40.71863980562837,-73.95997166633606,3834,Music Venue,2013-01-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,70.0,10.0,nyc,Rec
+105,788,40.733630095642326,-74.00228836535156,5,Music Venue,2013-01-09 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,71.0,10.0,nyc,Rec
+106,788,40.72801404034635,-73.99303756896549,3055,Food & Drink Shop,2013-01-09 18:00:09+00:00,,Retail,Food and Beverage Retail,71.0,10.0,nyc,Return
+107,788,40.72856334811506,-73.99995849221705,2309,Music Venue,2013-01-11 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,73.0,10.0,nyc,Rec
+108,788,40.76950686568525,-73.99265306590263,2166,Concert Hall,2013-01-12 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,74.0,10.0,nyc,Rec
+109,788,40.77111685811769,-73.98942232131958,24791,College Academic Building,2013-01-15 18:00:09+00:00,,Community and Government,Education,77.0,11.0,nyc,Rec
+110,788,40.71863980562837,-73.95997166633606,3834,Music Venue,2013-01-16 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,78.0,11.0,nyc,Return
+111,788,40.71334219349639,-73.99140199090107,21219,College Academic Building,2013-01-17 18:00:09+00:00,,Community and Government,Education,79.0,11.0,nyc,Return
+112,788,40.7536621886656,-73.9683417272918,5345,Sushi Restaurant,2013-01-21 18:00:09+00:00,,Dining and Drinking,Restaurant,83.0,11.0,nyc,Explore

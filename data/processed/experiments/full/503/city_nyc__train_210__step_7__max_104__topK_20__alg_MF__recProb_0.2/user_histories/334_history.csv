@@ -1,0 +1,111 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,334,40.756265,-73.994375,24157,Gastropub,2012-04-20 01:12:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+1,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-08-10 04:06:24+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+2,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-06 08:26:01+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+3,334,40.76207382469487,-73.98630578458533,1216,American Restaurant,2012-06-08 23:45:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+4,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-04 14:04:55+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+5,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-05-25 23:33:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-26 04:00:17+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+7,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-26 07:02:06+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+8,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-26 10:18:44+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+9,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-26 13:24:21+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+10,334,40.69702021681344,-74.17830600126622,35106,Restaurant,2012-04-09 20:14:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+11,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-06-18 00:47:42+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+12,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-07 04:03:15+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+13,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-05-07 19:04:19+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-14 06:06:31+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+15,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-05-14 23:59:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,334,40.75404836175849,-73.98442336785773,31950,Other Great Outdoors,2012-05-21 23:14:19+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+17,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-05-21 23:50:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-28 08:26:29+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+19,334,40.755352083329136,-73.98656845092773,8517,Salad Place,2012-10-22 17:21:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,334,40.7653749999788,-73.97998125038681,29904,Building,2012-10-22 22:54:35+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+21,334,40.72592125637849,-73.99782370672871,21964,Burger Joint,2012-04-07 22:43:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,334,40.71595836441204,-73.99743347455168,563,Dim Sum Restaurant,2012-04-28 03:52:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+23,334,40.71916167288125,-73.99774336487488,24147,Bar,2012-04-28 04:38:37+00:00,New York City,Dining and Drinking,Bar,,,,
+24,334,40.71749323698053,-74.00106579065323,2258,Music Venue,2012-04-28 06:25:59+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+25,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-04-28 07:22:09+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+26,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-08-11 01:22:59+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+27,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-08-11 08:12:22+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+28,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-08-18 16:45:34+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+29,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-07 03:54:39+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+30,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-14 00:22:27+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+31,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-06-09 07:58:13+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+32,334,40.73889905445084,-73.98458980178754,25508,Concert Hall,2012-05-12 00:38:14+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+33,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-26 08:11:17+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+34,334,40.71655807771725,-74.00008678436278,2494,Bar,2012-10-13 02:28:44+00:00,New York City,Dining and Drinking,Bar,,,,
+35,334,40.7160378308815,-73.99996423085565,628,Bar,2012-10-13 03:05:49+00:00,New York City,Dining and Drinking,Bar,,,,
+36,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-13 06:35:10+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+37,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-27 12:30:53+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+38,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-27 20:58:37+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+39,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-09-15 02:18:08+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+40,334,40.725006561556526,-73.9984130859375,893,Bar,2012-04-08 02:17:20+00:00,New York City,Dining and Drinking,Bar,,,,
+41,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-04-08 04:34:43+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+42,334,40.765111,-73.81767215,3967,BBQ Joint,2012-04-08 22:32:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-08-19 21:58:14+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+44,334,40.74274396103071,-74.00791208020945,10195,American Restaurant,2012-05-27 01:04:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,334,40.76449077096785,-73.9958840154187,17287,Hotel,2012-05-27 05:36:58+00:00,New York City,Landmarks and Outdoors,Roof Deck,,,,
+46,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-27 14:30:13+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+47,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-28 05:29:07+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+48,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-09-16 04:12:52+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+49,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-04-19 04:20:37+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+50,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-08-16 20:12:49+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+51,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-05 03:15:30+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+52,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-12 01:19:48+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+53,334,40.73169799836348,-73.98922693741638,182,Music Venue,2012-05-03 23:39:29+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+54,334,40.75455922327495,-73.99558559962855,33554,Thai Restaurant,2012-05-10 17:59:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+55,334,40.756265,-73.994375,24157,Gastropub,2012-05-17 00:36:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+56,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-17 05:42:08+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+57,334,40.76053012221109,-73.99104044018358,22276,Sandwich Place,2012-05-17 18:30:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+58,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-24 04:50:17+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+59,334,40.755854,-73.989698,17314,Vietnamese Restaurant,2012-05-31 18:47:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,334,40.755352083329136,-73.98656845092773,8517,Salad Place,2012-10-11 17:33:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+61,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-09-06 00:19:49+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+62,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-04-17 18:54:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+63,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-04-24 02:09:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+64,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-03 04:00:35+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+65,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-17 05:26:10+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+66,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-06-05 01:55:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+67,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-06-05 06:53:37+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+68,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-06-12 05:22:39+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+69,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-15 07:21:49+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+70,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-05-15 20:29:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+71,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-22 08:48:29+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+72,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-22 12:49:21+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+73,334,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-10-23 22:56:33+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+74,334,40.75258770978715,-73.99450670789588,22027,Burger Joint,2012-04-04 17:07:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+75,334,40.75455922327495,-73.99558559962855,33554,Thai Restaurant,2012-04-18 23:57:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+76,334,40.75599818752485,-73.99114966392517,29191,Bar,2012-04-25 23:16:05+00:00,New York City,Dining and Drinking,Bar,,,,
+77,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-04 01:25:25+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+78,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-07-11 05:11:31+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+79,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-06-13 08:18:40+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+80,334,40.73125061070061,-73.99203900717384,35196,Government Building,2012-05-02 04:48:43+00:00,New York City,Community and Government,Government Building,,,,
+81,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-02 06:04:50+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+82,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-16 06:00:51+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+83,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-05-30 06:24:30+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+84,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-10-24 02:25:43+00:00,New York City,Landmarks and Outdoors,Harbor or Marina,,,,
+85,334,40.695581979666805,-74.07573936739638,23407,Harbor / Marina,2012-11-08 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,9.0,1.0,nyc,Explore
+86,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-11-12 18:00:09+00:00,,Dining and Drinking,Restaurant,13.0,1.0,nyc,Return
+87,334,40.756876,-73.99371338,9498,Thai Restaurant,2012-11-16 18:00:09+00:00,,Dining and Drinking,Restaurant,17.0,2.0,nyc,Rec
+88,334,40.767095523894206,-73.99984371940887,35749,Harbor / Marina,2012-11-18 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,19.0,2.0,nyc,Rec
+89,334,40.765497,-73.98747681,25084,Seafood Restaurant,2012-11-19 18:00:09+00:00,,Dining and Drinking,Restaurant,20.0,2.0,nyc,Explore
+90,334,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-11-23 18:00:09+00:00,,Arts and Entertainment,Movie Theater,24.0,3.0,nyc,Return
+91,334,40.73119384676431,-73.992018699646,4147,Restaurant,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Explore
+92,334,40.73431843737578,-73.9886702574961,1937,Food & Drink Shop,2012-11-23 18:00:09+00:00,,Retail,Food and Beverage Retail,24.0,3.0,nyc,Explore
+93,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Return
+94,334,40.75599818752485,-73.99114966392517,29191,Bar,2012-11-24 18:00:09+00:00,,Dining and Drinking,Bar,25.0,3.0,nyc,Return
+95,334,40.759220487652186,-73.98880004882812,35300,Mexican Restaurant,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Explore
+96,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-12-10 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,41.0,5.0,nyc,Return
+97,334,40.756265,-73.994375,24157,Gastropub,2012-12-10 18:00:09+00:00,,Dining and Drinking,Restaurant,41.0,5.0,nyc,Return
+98,334,40.748516493357066,-74.00829655263671,627,Harbor / Marina,2012-12-20 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,51.0,7.0,nyc,Explore
+99,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2012-12-21 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,52.0,7.0,nyc,Return
+100,334,40.75684745958904,-73.99362802505493,29014,Ramen /  Noodle House,2012-12-27 18:00:09+00:00,,Dining and Drinking,Restaurant,58.0,8.0,nyc,Return
+101,334,40.725006561556526,-73.9984130859375,893,Bar,2012-12-28 18:00:09+00:00,,Dining and Drinking,Bar,59.0,8.0,nyc,Return
+102,334,40.72377066168169,-73.9969003200531,33375,American Restaurant,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Rec
+103,334,40.725006561556526,-73.9984130859375,893,Bar,2013-01-12 18:00:09+00:00,,Dining and Drinking,Bar,74.0,10.0,nyc,Return
+104,334,40.71441897635021,-73.94948053437223,8491,Pizza Place,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Explore
+105,334,40.725006561556526,-73.9984130859375,893,Bar,2013-01-18 18:00:09+00:00,,Dining and Drinking,Bar,80.0,11.0,nyc,Return
+106,334,40.76053012221109,-73.99104044018358,22276,Sandwich Place,2013-01-29 18:00:09+00:00,,Dining and Drinking,Restaurant,91.0,13.0,nyc,Return
+107,334,40.76134,-73.990517,1728,American Restaurant,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Explore
+108,334,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Rec
+109,334,40.68571485984485,-74.07188415527344,12566,Harbor / Marina,2013-02-07 18:00:09+00:00,,Landmarks and Outdoors,Harbor or Marina,100.0,14.0,nyc,Return

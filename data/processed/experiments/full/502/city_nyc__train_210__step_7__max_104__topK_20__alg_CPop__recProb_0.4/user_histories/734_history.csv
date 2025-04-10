@@ -1,0 +1,372 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,734,40.895825,-74.053215,17972,Medical Center,2012-04-06 14:05:30+00:00,New York City,Health and Medicine,Physician,,,,
+1,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-04-13 19:05:35+00:00,New York City,Travel and Transportation,General Travel,,,,
+2,734,40.960550613729495,-74.02981429785244,24904,Medical Center,2012-04-13 19:15:12+00:00,New York City,Health and Medicine,Medical Center,,,,
+3,734,40.959960899934856,-74.03037085798489,31391,Medical Center,2012-04-13 19:52:45+00:00,New York City,Health and Medicine,Physician,,,,
+4,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-04-20 13:40:53+00:00,New York City,Travel and Transportation,General Travel,,,,
+5,734,40.94584291271339,-74.01342660327202,31648,General Travel,2012-04-27 17:14:49+00:00,New York City,Travel and Transportation,General Travel,,,,
+6,734,40.960550613729495,-74.02981429785244,24904,Medical Center,2012-04-27 17:20:50+00:00,New York City,Health and Medicine,Medical Center,,,,
+7,734,40.959735,-74.029749,31283,Medical Center,2012-04-27 17:40:19+00:00,New York City,Health and Medicine,Physician,,,,
+8,734,40.94584291271339,-74.01342660327202,31648,General Travel,2012-04-27 19:00:08+00:00,New York City,Travel and Transportation,General Travel,,,,
+9,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-10 05:46:41+00:00,New York City,Travel and Transportation,General Travel,,,,
+10,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2012-08-10 20:33:29+00:00,New York City,Community and Government,Education,,,,
+11,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-08-10 20:34:14+00:00,New York City,Travel and Transportation,Parking,,,,
+12,734,40.816892517125126,-74.07422496425988,30475,Food,2012-08-10 20:46:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+13,734,40.81695201971413,-74.0740758178397,33115,Building,2012-08-10 22:50:54+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+14,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-08-10 22:51:21+00:00,New York City,Sports and Recreation,Race Track,,,,
+15,734,40.844771956597526,-74.01793680245646,30063,Other Great Outdoors,2012-08-17 20:26:23+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+16,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-08-17 20:35:05+00:00,New York City,Travel and Transportation,Parking,,,,
+17,734,40.816892517125126,-74.07422496425988,30475,Food,2012-08-17 20:44:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,734,40.816892517125126,-74.07422496425988,30475,Food,2012-08-17 20:50:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,734,40.81686235398352,-74.07475844856818,30443,Office,2012-08-17 20:51:08+00:00,New York City,Business and Professional Services,Office,,,,
+20,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-08-17 21:03:28+00:00,New York City,Sports and Recreation,Race Track,,,,
+21,734,40.94284298507007,-74.0163358660862,31648,General Travel,2012-07-06 05:28:12+00:00,New York City,Travel and Transportation,General Travel,,,,
+22,734,40.84517812635861,-74.01789663575833,30063,Other Great Outdoors,2012-07-06 20:16:20+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+23,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-07-06 20:23:14+00:00,New York City,Travel and Transportation,Parking,,,,
+24,734,40.81669915496876,-74.07417333666622,30475,Food,2012-07-06 20:58:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+25,734,40.81695201971413,-74.0740758178397,33115,Building,2012-07-06 21:58:37+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+26,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-07-06 23:50:40+00:00,New York City,Sports and Recreation,Race Track,,,,
+27,734,40.94451079590417,-74.01641046198586,31648,General Travel,2012-07-13 02:57:26+00:00,New York City,Travel and Transportation,General Travel,,,,
+28,734,40.94451079590417,-74.01641046198586,31648,General Travel,2012-07-13 18:41:25+00:00,New York City,Travel and Transportation,General Travel,,,,
+29,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-07-13 20:32:53+00:00,New York City,Travel and Transportation,Parking,,,,
+30,734,40.816892517125126,-74.07422496425988,30475,Food,2012-07-13 20:43:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,734,40.81695201971413,-74.0740758178397,33115,Building,2012-07-27 20:51:39+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+32,734,40.81695201971413,-74.0740758178397,33115,Building,2012-07-27 21:06:46+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+33,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-07-27 21:59:08+00:00,New York City,Sports and Recreation,Race Track,,,,
+34,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-06-01 13:21:49+00:00,New York City,Travel and Transportation,Parking,,,,
+35,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-06-01 15:27:05+00:00,New York City,Sports and Recreation,Race Track,,,,
+36,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-06-08 12:39:28+00:00,New York City,Travel and Transportation,Parking,,,,
+37,734,40.81302434589268,-74.05718135627835,32634,General Entertainment,2012-06-08 12:53:58+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+38,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-06-08 18:01:45+00:00,New York City,Travel and Transportation,Parking,,,,
+39,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-06-08 19:37:00+00:00,New York City,Travel and Transportation,General Travel,,,,
+40,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-06-08 21:09:25+00:00,New York City,Travel and Transportation,Parking,,,,
+41,734,40.81695201971413,-74.0740758178397,33115,Building,2012-06-08 21:32:34+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+42,734,40.945521109202765,-74.01418404874472,31648,General Travel,2012-05-04 14:36:02+00:00,New York City,Travel and Transportation,General Travel,,,,
+43,734,40.895825,-74.053215,17972,Medical Center,2012-05-04 14:51:32+00:00,New York City,Health and Medicine,Physician,,,,
+44,734,40.78008648315284,-73.92702341079712,6153,Bridge,2012-05-04 22:06:06+00:00,New York City,Landmarks and Outdoors,Bridge,,,,
+45,734,40.75645736467708,-73.8460636138916,2664,Stadium,2012-05-04 22:38:02+00:00,New York City,Arts and Entertainment,Stadium,,,,
+46,734,40.878386231184585,-74.00553636777052,28324,General Travel,2012-05-11 20:56:44+00:00,New York City,Travel and Transportation,General Travel,,,,
+47,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-11 21:15:15+00:00,New York City,Travel and Transportation,Parking,,,,
+48,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-05-11 21:15:36+00:00,New York City,Sports and Recreation,Race Track,,,,
+49,734,40.94384250643646,-74.01486689474048,31648,General Travel,2012-05-11 22:52:05+00:00,New York City,Travel and Transportation,General Travel,,,,
+50,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-05-25 15:47:42+00:00,New York City,Travel and Transportation,General Travel,,,,
+51,734,40.9258908033371,-74.034242,20306,Salon / Barbershop,2012-05-25 18:19:25+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+52,734,40.96163471003255,-74.06060052691976,16480,Flower Shop,2012-05-25 19:00:40+00:00,New York City,Retail,Flower Store,,,,
+53,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-05-25 19:26:10+00:00,New York City,Travel and Transportation,General Travel,,,,
+54,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-05-25 23:02:19+00:00,New York City,Travel and Transportation,General Travel,,,,
+55,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-10-12 23:31:28+00:00,New York City,Travel and Transportation,General Travel,,,,
+56,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2012-10-19 16:41:56+00:00,New York City,Community and Government,Education,,,,
+57,734,40.81695201971413,-74.0740758178397,33115,Building,2012-10-19 16:52:56+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+58,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-10-19 18:17:25+00:00,New York City,Travel and Transportation,General Travel,,,,
+59,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2012-10-26 16:10:37+00:00,New York City,Community and Government,Education,,,,
+60,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-10-26 16:10:48+00:00,New York City,Travel and Transportation,Parking,,,,
+61,734,40.816892517125126,-74.07422496425988,30475,Food,2012-10-26 21:12:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+62,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-10-26 21:13:04+00:00,New York City,Sports and Recreation,Race Track,,,,
+63,734,40.901593,-74.062437,35359,Moving Target,2012-10-26 22:42:42+00:00,New York City,Travel and Transportation,Moving Target,,,,
+64,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-04-16 19:14:48+00:00,New York City,Travel and Transportation,General Travel,,,,
+65,734,40.81780414338999,-73.85728597640991,34966,Other Great Outdoors,2012-04-23 01:38:33+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+66,734,40.92502934427317,-74.03424378293039,5923,Diner,2012-04-23 01:54:12+00:00,New York City,Dining and Drinking,Restaurant,,,,
+67,734,40.94578834430311,-74.01596288615076,31648,General Travel,2012-04-23 03:20:02+00:00,New York City,Travel and Transportation,General Travel,,,,
+68,734,40.941099,-73.996668,17876,Drugstore / Pharmacy,2012-04-23 20:41:14+00:00,New York City,Retail,Pharmacy,,,,
+69,734,40.94578834430311,-74.01596288615076,31648,General Travel,2012-04-23 21:56:59+00:00,New York City,Travel and Transportation,General Travel,,,,
+70,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-06 02:14:14+00:00,New York City,Travel and Transportation,General Travel,,,,
+71,734,40.931745323614464,-73.99589549293981,11776,Bank,2012-08-13 22:31:26+00:00,New York City,Business and Professional Services,Financial Service,,,,
+72,734,40.78240640306816,-74.09715769156773,36935,Aquarium,2012-08-13 22:43:19+00:00,New York City,Arts and Entertainment,Aquarium,,,,
+73,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-08-13 22:43:39+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+74,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-08-13 22:43:48+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+75,734,40.90277210074285,-74.07811420240645,17382,Diner,2012-08-20 01:07:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+76,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-08-20 03:34:49+00:00,New York City,Travel and Transportation,General Travel,,,,
+77,734,40.909656573760685,-74.0730604717732,25574,Building,2012-07-02 19:08:56+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+78,734,40.94284298507007,-74.0163358660862,31648,General Travel,2012-07-02 20:50:23+00:00,New York City,Travel and Transportation,General Travel,,,,
+79,734,40.94451079590417,-74.01641046198586,31648,General Travel,2012-07-09 13:13:41+00:00,New York City,Travel and Transportation,General Travel,,,,
+80,734,40.94451079590417,-74.01670310715694,31648,General Travel,2012-07-16 16:20:39+00:00,New York City,Travel and Transportation,General Travel,,,,
+81,734,40.864153199536005,-74.03604538338232,14028,Mexican Restaurant,2012-07-16 16:37:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+82,734,40.895162,-74.065651,28826,Other Great Outdoors,2012-07-30 19:21:20+00:00,New York City,Landmarks and Outdoors,Field,,,,
+83,734,40.945611,-74.02010633333333,22759,American Restaurant,2012-06-11 22:52:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+84,734,40.90277210074285,-74.07811420240645,17382,Diner,2012-05-07 01:59:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+85,734,40.94384250643646,-74.01486689474048,31648,General Travel,2012-05-07 05:49:23+00:00,New York City,Travel and Transportation,General Travel,,,,
+86,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-05-14 19:50:42+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+87,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-21 12:38:37+00:00,New York City,Travel and Transportation,Parking,,,,
+88,734,40.81302434589268,-74.05718135627835,32634,General Entertainment,2012-05-21 12:39:53+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+89,734,40.81143815229546,-74.06779646873474,2256,Stadium,2012-05-21 15:41:09+00:00,New York City,Arts and Entertainment,Stadium,,,,
+90,734,40.90277210074285,-74.07811420240645,17382,Diner,2012-05-21 18:02:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+91,734,40.77552917709761,-73.97142385887315,35777,Moving Target,2012-05-28 22:52:01+00:00,New York City,Travel and Transportation,Moving Target,,,,
+92,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-05-28 22:52:24+00:00,New York City,Travel and Transportation,General Travel,,,,
+93,734,40.98139343333333,-74.0244994,16039,Convenience Store,2012-10-08 19:48:16+00:00,New York City,Retail,Convenience Store,,,,
+94,734,40.94657151801924,-74.0305143010544,29394,Other Great Outdoors,2012-04-14 20:11:15+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+95,734,40.91250720487265,-74.05145645141602,22560,Hardware Store,2012-04-14 20:21:12+00:00,New York City,Retail,Hardware Store,,,,
+96,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-04-14 21:21:43+00:00,New York City,Travel and Transportation,General Travel,,,,
+97,734,40.9460393052988,-74.01234781211146,31648,General Travel,2012-04-28 01:06:36+00:00,New York City,Travel and Transportation,General Travel,,,,
+98,734,40.94584291271339,-74.01418404874472,31648,General Travel,2012-04-28 07:40:58+00:00,New York City,Travel and Transportation,General Travel,,,,
+99,734,40.94584291271339,-74.01418404874472,31648,General Travel,2012-04-28 20:34:18+00:00,New York City,Travel and Transportation,General Travel,,,,
+100,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2012-08-11 03:27:37+00:00,New York City,Community and Government,Education,,,,
+101,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-08-11 03:27:47+00:00,New York City,Travel and Transportation,Parking,,,,
+102,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2012-08-11 20:47:36+00:00,New York City,Community and Government,Education,,,,
+103,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-08-11 20:47:49+00:00,New York City,Travel and Transportation,Parking,,,,
+104,734,40.81695201971413,-74.0740758178397,33115,Building,2012-08-11 21:14:41+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+105,734,40.82984604734087,-74.08300145000283,32109,Factory,2012-08-18 03:39:37+00:00,New York City,Business and Professional Services,Factory,,,,
+106,734,40.91033900441853,-74.07268186675861,20808,Deli / Bodega,2012-08-18 03:54:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+107,734,40.864153199536005,-74.03604538338232,14028,Mexican Restaurant,2012-08-18 21:10:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+108,734,40.91990119101166,-74.02652263641357,14579,Ice Cream Shop,2012-08-18 22:53:07+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+109,734,40.90277210074285,-74.07811420240645,17382,Diner,2012-07-07 03:57:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+110,734,40.91464765433098,-74.08042430877686,9954,Food & Drink Shop,2012-07-07 05:15:06+00:00,New York City,Retail,Food and Beverage Retail,,,,
+111,734,40.944973711077004,-74.01641046198586,31648,General Travel,2012-07-07 05:57:08+00:00,New York City,Travel and Transportation,General Travel,,,,
+112,734,40.931745323614464,-73.99589549293981,11776,Bank,2012-07-07 18:14:06+00:00,New York City,Business and Professional Services,Financial Service,,,,
+113,734,40.944973711077004,-74.01641046198586,31648,General Travel,2012-07-07 19:50:54+00:00,New York City,Travel and Transportation,General Travel,,,,
+114,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-07-07 21:00:06+00:00,New York City,Travel and Transportation,Parking,,,,
+115,734,40.81669915496876,-74.07417333666622,30475,Food,2012-07-07 21:37:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+116,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-07-07 21:37:46+00:00,New York City,Sports and Recreation,Race Track,,,,
+117,734,40.816892517125126,-74.07422496425988,30475,Food,2012-07-28 01:37:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+118,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-07-28 03:26:26+00:00,New York City,Sports and Recreation,Race Track,,,,
+119,734,40.90277210074285,-74.07811420240645,17382,Diner,2012-07-28 04:03:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+120,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-06-09 01:24:51+00:00,New York City,Sports and Recreation,Race Track,,,,
+121,734,40.945674161177074,-74.01735725356448,32868,Coffee Shop,2012-06-09 19:45:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+122,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-06-09 23:34:11+00:00,New York City,Sports and Recreation,Race Track,,,,
+123,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-06-16 20:15:53+00:00,New York City,Travel and Transportation,Parking,,,,
+124,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-06-16 21:45:31+00:00,New York City,Sports and Recreation,Race Track,,,,
+125,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-06-30 20:31:59+00:00,New York City,Travel and Transportation,Parking,,,,
+126,734,40.81669915496876,-74.07417333666622,30475,Food,2012-06-30 21:01:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+127,734,40.945521109202765,-74.01418404874472,31648,General Travel,2012-05-05 01:04:24+00:00,New York City,Travel and Transportation,General Travel,,,,
+128,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-05 16:47:01+00:00,New York City,Travel and Transportation,Parking,,,,
+129,734,40.81699041676607,-74.0745462023034,33115,Building,2012-05-05 17:00:45+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+130,734,40.98315079907453,-74.0104369596296,19780,Bank,2012-05-12 19:26:11+00:00,New York City,Business and Professional Services,Financial Service,,,,
+131,734,40.9657708121501,-74.0756607055664,12902,Electronics Store,2012-05-12 19:44:50+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+132,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-26 00:15:00+00:00,New York City,Travel and Transportation,Parking,,,,
+133,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-05-26 01:01:31+00:00,New York City,Sports and Recreation,Race Track,,,,
+134,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-26 01:01:49+00:00,New York City,Travel and Transportation,Parking,,,,
+135,734,40.82966211422836,-74.08288099119648,32109,Factory,2012-05-26 01:04:34+00:00,New York City,Business and Professional Services,Factory,,,,
+136,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-05-26 01:49:07+00:00,New York City,Travel and Transportation,General Travel,,,,
+137,734,40.94293113642799,-74.01657686811855,31648,General Travel,2012-10-27 16:00:08+00:00,New York City,Travel and Transportation,General Travel,,,,
+138,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2012-10-27 17:02:11+00:00,New York City,Community and Government,Education,,,,
+139,734,40.816892517125126,-74.07422496425988,30475,Food,2012-10-27 17:02:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+140,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2012-10-27 22:27:00+00:00,New York City,Community and Government,Education,,,,
+141,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-09-15 18:22:12+00:00,New York City,Travel and Transportation,General Travel,,,,
+142,734,40.73939794092962,-73.99320973426613,26195,General Entertainment,2012-04-08 16:40:17+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+143,734,40.95998593699977,-74.06716332576782,9604,Seafood Restaurant,2012-04-08 17:25:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+144,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-04-22 00:30:54+00:00,New York City,Travel and Transportation,Parking,,,,
+145,734,40.81699041676607,-74.0745462023034,33115,Building,2012-04-22 03:05:48+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+146,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-04-22 04:05:37+00:00,New York City,Travel and Transportation,Parking,,,,
+147,734,40.81752337725023,-74.0657062205039,13808,American Restaurant,2012-04-22 04:29:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+148,734,40.8183445,-74.06567439,11553,Gas Station / Garage,2012-04-22 04:51:01+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+149,734,40.83987941122479,-74.13427770137787,12152,Bar,2012-04-22 05:05:05+00:00,New York City,Dining and Drinking,Bar,,,,
+150,734,40.8466136549917,-74.01780482613083,30063,Other Great Outdoors,2012-04-22 21:26:11+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+151,734,40.75557964275588,-73.9885425567627,1539,Theater,2012-04-22 22:10:40+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+152,734,40.945521109202765,-74.01418404874472,31648,General Travel,2012-04-29 07:26:29+00:00,New York City,Travel and Transportation,General Travel,,,,
+153,734,40.945521109202765,-74.01418404874472,31648,General Travel,2012-04-29 07:27:41+00:00,New York City,Travel and Transportation,General Travel,,,,
+154,734,40.945521109202765,-74.01418404874472,31648,General Travel,2012-04-29 20:06:27+00:00,New York City,Travel and Transportation,General Travel,,,,
+155,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-05 18:24:24+00:00,New York City,Travel and Transportation,General Travel,,,,
+156,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-05 22:54:55+00:00,New York City,Travel and Transportation,General Travel,,,,
+157,734,40.91990119101166,-74.02652263641357,14579,Ice Cream Shop,2012-08-05 22:59:39+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+158,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-12 04:26:05+00:00,New York City,Travel and Transportation,General Travel,,,,
+159,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-12 19:55:23+00:00,New York City,Travel and Transportation,General Travel,,,,
+160,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-08-19 00:42:37+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+161,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-08-19 01:07:23+00:00,New York City,Travel and Transportation,General Travel,,,,
+162,734,40.82984604734087,-74.08300145000283,32109,Factory,2012-07-01 03:16:44+00:00,New York City,Business and Professional Services,Factory,,,,
+163,734,40.94284298507007,-74.0163358660862,31648,General Travel,2012-07-01 06:02:15+00:00,New York City,Travel and Transportation,General Travel,,,,
+164,734,40.944973711077004,-74.01641046198586,31648,General Travel,2012-07-08 07:02:13+00:00,New York City,Travel and Transportation,General Travel,,,,
+165,734,40.944973711077004,-74.01641046198586,31648,General Travel,2012-07-08 16:40:01+00:00,New York City,Travel and Transportation,General Travel,,,,
+166,734,40.944973711077004,-74.01641046198586,31648,General Travel,2012-07-08 23:49:05+00:00,New York City,Travel and Transportation,General Travel,,,,
+167,734,40.94451079590417,-74.01670310715694,31648,General Travel,2012-07-15 17:41:36+00:00,New York City,Travel and Transportation,General Travel,,,,
+168,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-06-03 01:33:05+00:00,New York City,Sports and Recreation,Race Track,,,,
+169,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-06-03 04:03:31+00:00,New York City,Travel and Transportation,Parking,,,,
+170,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-06-03 04:44:20+00:00,New York City,Travel and Transportation,General Travel,,,,
+171,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-06-10 04:17:44+00:00,New York City,Travel and Transportation,Parking,,,,
+172,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-06-10 04:36:39+00:00,New York City,Travel and Transportation,General Travel,,,,
+173,734,40.88595663003309,-74.0434956550598,23986,City,2012-06-10 17:39:05+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+174,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-06-10 18:05:50+00:00,New York City,Travel and Transportation,General Travel,,,,
+175,734,40.97031869732988,-74.02939544224722,15478,Ice Cream Shop,2012-06-10 22:14:26+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+176,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-06-17 05:55:06+00:00,New York City,Travel and Transportation,General Travel,,,,
+177,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-05-27 01:12:16+00:00,New York City,Travel and Transportation,General Travel,,,,
+178,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-05-27 17:31:27+00:00,New York City,Travel and Transportation,General Travel,,,,
+179,734,40.98139343333333,-74.0244994,16039,Convenience Store,2012-10-28 19:30:12+00:00,New York City,Retail,Convenience Store,,,,
+180,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-09-09 18:10:36+00:00,New York City,Travel and Transportation,General Travel,,,,
+181,734,40.941099,-73.996668,17876,Drugstore / Pharmacy,2012-04-19 18:47:02+00:00,New York City,Retail,Pharmacy,,,,
+182,734,40.73308000062968,-74.1708254814148,3114,Stadium,2012-04-19 23:34:09+00:00,New York City,Arts and Entertainment,Stadium,,,,
+183,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-09 17:27:36+00:00,New York City,Travel and Transportation,General Travel,,,,
+184,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-09 23:00:27+00:00,New York City,Travel and Transportation,General Travel,,,,
+185,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-16 18:33:00+00:00,New York City,Travel and Transportation,General Travel,,,,
+186,734,40.97669793151144,-74.02766263256024,27744,Neighborhood,2012-08-16 19:58:11+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+187,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-08-16 22:23:59+00:00,New York City,Travel and Transportation,General Travel,,,,
+188,734,40.91990119101166,-74.02652263641357,14579,Ice Cream Shop,2012-08-16 22:28:17+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+189,734,40.81222722272284,-74.0788082910556,27877,Other Great Outdoors,2012-07-05 03:00:39+00:00,New York City,Landmarks and Outdoors,Field,,,,
+190,734,40.94284298507007,-74.0163358660862,31648,General Travel,2012-07-05 07:45:12+00:00,New York City,Travel and Transportation,General Travel,,,,
+191,734,40.84517812635861,-74.01789663575833,30063,Other Great Outdoors,2012-07-05 20:22:13+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+192,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-07-05 20:28:07+00:00,New York City,Travel and Transportation,Parking,,,,
+193,734,40.81669915496876,-74.07417333666622,30475,Food,2012-07-05 20:41:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+194,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-07-05 21:59:35+00:00,New York City,Sports and Recreation,Race Track,,,,
+195,734,40.816892517125126,-74.07422496425988,30475,Food,2012-07-12 21:11:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+196,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-07-26 22:50:21+00:00,New York City,Sports and Recreation,Race Track,,,,
+197,734,40.9657708121501,-74.0756607055664,12902,Electronics Store,2012-06-07 19:56:13+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+198,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-06-07 23:24:49+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+199,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-06-07 23:49:12+00:00,New York City,Travel and Transportation,General Travel,,,,
+200,734,40.81971647936681,-74.178346133723,28629,General Travel,2012-06-21 12:59:14+00:00,New York City,Travel and Transportation,General Travel,,,,
+201,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-17 12:29:14+00:00,New York City,Travel and Transportation,Parking,,,,
+202,734,40.81302434589268,-74.05718135627835,32634,General Entertainment,2012-05-17 12:45:11+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+203,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-17 16:49:55+00:00,New York City,Travel and Transportation,Parking,,,,
+204,734,40.92037197471675,-73.99696863812723,22294,Automotive Shop,2012-05-31 20:36:34+00:00,New York City,Retail,Automotive Shop,,,,
+205,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-10-25 18:16:39+00:00,New York City,Travel and Transportation,General Travel,,,,
+206,734,40.9657708121501,-74.0756607055664,12902,Electronics Store,2012-04-03 20:07:51+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+207,734,40.970852,-73.959125,17712,Electronics Store,2012-04-17 15:27:59+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+208,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-04-17 19:11:56+00:00,New York City,Travel and Transportation,General Travel,,,,
+209,734,40.95903013727964,-74.07179832458496,15503,Sporting Goods Shop,2012-04-17 19:23:40+00:00,New York City,Retail,Sporting Goods Retail,,,,
+210,734,40.9657708121501,-74.07651901245117,13027,Furniture / Home Store,2012-04-17 19:44:24+00:00,New York City,Retail,Furniture and Home Store,,,,
+211,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-14 08:36:57+00:00,New York City,Travel and Transportation,General Travel,,,,
+212,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-14 16:45:56+00:00,New York City,Travel and Transportation,General Travel,,,,
+213,734,40.9438695727395,-74.01611781636625,31648,General Travel,2012-08-14 20:26:50+00:00,New York City,Travel and Transportation,General Travel,,,,
+214,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-08-14 20:35:50+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+215,734,40.94284298507007,-74.0163358660862,31648,General Travel,2012-07-03 01:45:49+00:00,New York City,Travel and Transportation,General Travel,,,,
+216,734,40.94284298507007,-74.0163358660862,31648,General Travel,2012-07-03 07:05:25+00:00,New York City,Travel and Transportation,General Travel,,,,
+217,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-07-17 00:15:08+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+218,734,40.94451079590417,-74.01670310715694,31648,General Travel,2012-07-17 00:56:18+00:00,New York City,Travel and Transportation,General Travel,,,,
+219,734,40.94451079590417,-74.01670310715694,31648,General Travel,2012-07-17 18:14:50+00:00,New York City,Travel and Transportation,General Travel,,,,
+220,734,40.9657708121501,-74.0756607055664,12902,Electronics Store,2012-07-17 23:05:44+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+221,734,40.94451079590417,-74.01670310715694,31648,General Travel,2012-07-24 15:19:29+00:00,New York City,Travel and Transportation,General Travel,,,,
+222,734,40.878386231184585,-74.00553636777052,28324,General Travel,2012-05-15 12:20:31+00:00,New York City,Travel and Transportation,General Travel,,,,
+223,734,40.81143815229546,-74.06779646873474,2256,Stadium,2012-05-15 12:42:27+00:00,New York City,Arts and Entertainment,Stadium,,,,
+224,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-05-22 00:40:43+00:00,New York City,Travel and Transportation,General Travel,,,,
+225,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-22 12:39:00+00:00,New York City,Travel and Transportation,Parking,,,,
+226,734,40.81302434589268,-74.05718135627835,32634,General Entertainment,2012-05-22 12:52:42+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+227,734,40.81143815229546,-74.06779646873474,2256,Stadium,2012-05-22 15:08:22+00:00,New York City,Arts and Entertainment,Stadium,,,,
+228,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-05-29 19:58:55+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+229,734,40.94870950087995,-74.02857494161167,29394,Other Great Outdoors,2012-10-16 20:37:25+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+230,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-10-23 00:23:59+00:00,New York City,Travel and Transportation,General Travel,,,,
+231,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-10-23 19:34:49+00:00,New York City,Travel and Transportation,General Travel,,,,
+232,734,40.93689125264822,-73.99545192718506,11878,Sandwich Place,2012-04-18 20:06:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+233,734,40.94584291271339,-74.01342660327202,31648,General Travel,2012-04-25 20:59:22+00:00,New York City,Travel and Transportation,General Travel,,,,
+234,734,40.94584291271339,-74.01342660327202,31648,General Travel,2012-04-25 23:40:42+00:00,New York City,Travel and Transportation,General Travel,,,,
+235,734,40.94284298507007,-74.0163358660862,31648,General Travel,2012-07-04 00:44:51+00:00,New York City,Travel and Transportation,General Travel,,,,
+236,734,40.959769709117055,-74.02999790549859,31283,Medical Center,2012-07-11 16:36:12+00:00,New York City,Health and Medicine,Physician,,,,
+237,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-06-06 19:49:17+00:00,New York City,Travel and Transportation,General Travel,,,,
+238,734,40.959735,-74.029749,31283,Medical Center,2012-06-06 19:55:53+00:00,New York City,Health and Medicine,Physician,,,,
+239,734,40.917982,-74.060302,15033,Drugstore / Pharmacy,2012-06-06 22:52:13+00:00,New York City,Retail,Pharmacy,,,,
+240,734,40.946033976478525,-74.01389139971357,31648,General Travel,2012-06-13 16:18:47+00:00,New York City,Travel and Transportation,General Travel,,,,
+241,734,40.959769709117055,-74.02999790549859,31283,Medical Center,2012-06-13 16:26:09+00:00,New York City,Health and Medicine,Physician,,,,
+242,734,40.94284298507007,-74.0163358660862,31648,General Travel,2012-06-20 22:26:13+00:00,New York City,Travel and Transportation,General Travel,,,,
+243,734,40.917335441802095,-74.0756607055664,3299,Mall,2012-05-09 16:50:37+00:00,New York City,Retail,Shopping Mall,,,,
+244,734,40.916545,-74.076031,18101,Clothing Store,2012-05-09 17:15:55+00:00,New York City,Retail,Boutique,,,,
+245,734,40.811340708909874,-74.0822696685791,20879,Parking,2012-05-16 12:36:59+00:00,New York City,Travel and Transportation,Parking,,,,
+246,734,40.81302434589268,-74.05718135627835,32634,General Entertainment,2012-05-16 12:47:14+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+247,734,40.81143815229546,-74.06779646873474,2256,Stadium,2012-05-16 14:43:08+00:00,New York City,Arts and Entertainment,Stadium,,,,
+248,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-10-03 17:48:26+00:00,New York City,Travel and Transportation,General Travel,,,,
+249,734,40.94278742803187,-74.01612929267351,31648,General Travel,2012-10-24 19:09:06+00:00,New York City,Travel and Transportation,General Travel,,,,
+250,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-09-05 20:34:33+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+251,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-10-31 18:00:09+00:00,,Travel and Transportation,General Travel,1.0,0.0,nyc,Return
+252,734,40.790508183795154,-73.93940631889734,24870,Food & Drink Shop,2012-11-01 18:00:09+00:00,,Retail,Food and Beverage Retail,2.0,0.0,nyc,Explore
+253,734,40.901593,-74.062437,35359,Moving Target,2012-11-05 18:00:09+00:00,,Travel and Transportation,Moving Target,6.0,0.0,nyc,Return
+254,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-06 18:00:09+00:00,,Travel and Transportation,General Travel,7.0,1.0,nyc,Return
+255,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-09 18:00:09+00:00,,Travel and Transportation,General Travel,10.0,1.0,nyc,Rec
+256,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-10 18:00:09+00:00,,Travel and Transportation,General Travel,11.0,1.0,nyc,Rec
+257,734,40.94657151801924,-74.0305143010544,29394,Other Great Outdoors,2012-11-10 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,11.0,1.0,nyc,Return
+258,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-10 18:00:09+00:00,,Travel and Transportation,General Travel,11.0,1.0,nyc,Return
+259,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-11 18:00:09+00:00,,Travel and Transportation,General Travel,12.0,1.0,nyc,Return
+260,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-12 18:00:09+00:00,,Travel and Transportation,General Travel,13.0,1.0,nyc,Rec
+261,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-15 18:00:09+00:00,,Travel and Transportation,General Travel,16.0,2.0,nyc,Rec
+262,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-16 18:00:09+00:00,,Travel and Transportation,General Travel,17.0,2.0,nyc,Rec
+263,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-19 18:00:09+00:00,,Travel and Transportation,General Travel,20.0,2.0,nyc,Rec
+264,734,40.9497947786291,-74.0319888895441,19096,Gas Station / Garage,2012-11-20 18:00:09+00:00,,Travel and Transportation,Fuel Station,21.0,3.0,nyc,Explore
+265,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-11-21 18:00:09+00:00,,Travel and Transportation,General Travel,22.0,3.0,nyc,Return
+266,734,40.940840936555965,-73.9938237892463,13796,Bank,2012-11-23 18:00:09+00:00,,Business and Professional Services,Financial Service,24.0,3.0,nyc,Rec
+267,734,40.940434104392914,-73.99597009681028,36122,General Travel,2012-11-25 18:00:09+00:00,,Travel and Transportation,General Travel,26.0,3.0,nyc,Explore
+268,734,40.81366776769526,-74.10953492625622,13282,Convenience Store,2012-11-25 18:00:09+00:00,,Retail,Convenience Store,26.0,3.0,nyc,Rec
+269,734,40.77414390188207,-74.15940264934345,19167,General Travel,2012-11-28 18:00:09+00:00,,Travel and Transportation,General Travel,29.0,4.0,nyc,Rec
+270,734,40.7579234577396,-74.16683349582559,19786,General Travel,2012-12-01 18:00:09+00:00,,Travel and Transportation,General Travel,32.0,4.0,nyc,Rec
+271,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-12-02 18:00:09+00:00,,Travel and Transportation,Fuel Station,33.0,4.0,nyc,Return
+272,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-12-02 18:00:09+00:00,,Travel and Transportation,General Travel,33.0,4.0,nyc,Return
+273,734,40.91497603020094,-74.0232502082762,24155,General Travel,2012-12-03 18:00:09+00:00,,Travel and Transportation,General Travel,34.0,4.0,nyc,Rec
+274,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-12-06 18:00:09+00:00,,Travel and Transportation,General Travel,37.0,5.0,nyc,Return
+275,734,40.90277210074285,-74.07811420240645,17382,Diner,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Return
+276,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-12-09 18:00:09+00:00,,Travel and Transportation,General Travel,40.0,5.0,nyc,Return
+277,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-12-11 18:00:09+00:00,,Travel and Transportation,General Travel,42.0,6.0,nyc,Return
+278,734,40.91354059666688,-73.99784092283586,15829,Gas Station / Garage,2012-12-11 18:00:09+00:00,,Travel and Transportation,Fuel Station,42.0,6.0,nyc,Return
+279,734,40.91138830598495,-73.98410081863403,28822,General Travel,2012-12-12 18:00:09+00:00,,Travel and Transportation,General Travel,43.0,6.0,nyc,Explore
+280,734,40.87353600780192,-74.00757925270794,34598,Other Great Outdoors,2012-12-12 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,43.0,6.0,nyc,Rec
+281,734,40.98139343333333,-74.0244994,16039,Convenience Store,2012-12-12 18:00:09+00:00,,Retail,Convenience Store,43.0,6.0,nyc,Return
+282,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-12-15 18:00:09+00:00,,Travel and Transportation,General Travel,46.0,6.0,nyc,Return
+283,734,40.803002608979725,-73.96761853843681,36826,Convenience Store,2012-12-17 18:00:09+00:00,,Retail,Convenience Store,48.0,6.0,nyc,Explore
+284,734,40.76660518890647,-73.9203471113501,34303,General Travel,2012-12-19 18:00:09+00:00,,Travel and Transportation,General Travel,50.0,7.0,nyc,Rec
+285,734,40.76660518890647,-73.9203471113501,34303,General Travel,2012-12-20 18:00:09+00:00,,Travel and Transportation,General Travel,51.0,7.0,nyc,Rec
+286,734,40.77329658183945,-73.94485392275678,14444,Other Great Outdoors,2012-12-22 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,53.0,7.0,nyc,Rec
+287,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-12-23 18:00:09+00:00,,Travel and Transportation,General Travel,54.0,7.0,nyc,Return
+288,734,40.901593,-74.062437,35359,Moving Target,2012-12-27 18:00:09+00:00,,Travel and Transportation,Moving Target,58.0,8.0,nyc,Return
+289,734,40.9460393052988,-74.01625553200782,31648,General Travel,2012-12-27 18:00:09+00:00,,Travel and Transportation,General Travel,58.0,8.0,nyc,Return
+290,734,40.945674161177074,-74.01735725356448,32868,Coffee Shop,2012-12-28 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",59.0,8.0,nyc,Return
+291,734,40.81695201971413,-74.0740758178397,33115,Building,2012-12-28 18:00:09+00:00,,Landmarks and Outdoors,Structure,59.0,8.0,nyc,Return
+292,734,40.69342491338439,-73.99171189097369,6159,University,2012-12-29 18:00:09+00:00,,Community and Government,Education,60.0,8.0,nyc,Rec
+293,734,40.878386231184585,-74.00553636777052,28324,General Travel,2012-12-29 18:00:09+00:00,,Travel and Transportation,General Travel,60.0,8.0,nyc,Return
+294,734,40.89339652009224,-73.97603835470167,29016,Parking,2012-12-29 18:00:09+00:00,,Travel and Transportation,Parking,60.0,8.0,nyc,Rec
+295,734,40.864153199536005,-74.03604538338232,14028,Mexican Restaurant,2012-12-29 18:00:09+00:00,,Dining and Drinking,Restaurant,60.0,8.0,nyc,Return
+296,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-12-29 18:00:09+00:00,,Sports and Recreation,Race Track,60.0,8.0,nyc,Rec
+297,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2012-12-30 18:00:09+00:00,,Sports and Recreation,Race Track,61.0,8.0,nyc,Return
+298,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2012-12-30 18:00:09+00:00,,Community and Government,Education,61.0,8.0,nyc,Explore
+299,734,40.70408637926169,-73.9480799340999,30488,General Travel,2012-12-30 18:00:09+00:00,,Travel and Transportation,General Travel,61.0,8.0,nyc,Rec
+300,734,40.68496,-73.930069,36140,Moving Target,2012-12-30 18:00:09+00:00,,Travel and Transportation,Moving Target,61.0,8.0,nyc,Rec
+301,734,40.901593,-74.062437,35359,Moving Target,2012-12-31 18:00:09+00:00,,Travel and Transportation,Moving Target,62.0,8.0,nyc,Return
+302,734,40.917335441802095,-74.0756607055664,3299,Mall,2013-01-01 18:00:09+00:00,,Retail,Shopping Mall,63.0,9.0,nyc,Return
+303,734,40.96532877881822,-74.06292392141155,32330,American Restaurant,2013-01-03 18:00:09+00:00,,Dining and Drinking,Restaurant,65.0,9.0,nyc,Rec
+304,734,40.9588310093963,-74.05939579262763,20554,High School,2013-01-03 18:00:09+00:00,,Community and Government,Education,65.0,9.0,nyc,Explore
+305,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2013-01-04 18:00:09+00:00,,Sports and Recreation,Race Track,66.0,9.0,nyc,Rec
+306,734,40.811340708909874,-74.0822696685791,20879,Parking,2013-01-04 18:00:09+00:00,,Travel and Transportation,Parking,66.0,9.0,nyc,Return
+307,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-01-04 18:00:09+00:00,,Travel and Transportation,General Travel,66.0,9.0,nyc,Return
+308,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2013-01-04 18:00:09+00:00,,Sports and Recreation,Race Track,66.0,9.0,nyc,Rec
+309,734,40.90277210074285,-74.07811420240645,17382,Diner,2013-01-05 18:00:09+00:00,,Dining and Drinking,Restaurant,67.0,9.0,nyc,Return
+310,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-01-05 18:00:09+00:00,,Travel and Transportation,General Travel,67.0,9.0,nyc,Return
+311,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2013-01-05 18:00:09+00:00,,Community and Government,Education,67.0,9.0,nyc,Return
+312,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2013-01-05 18:00:09+00:00,,Sports and Recreation,Race Track,67.0,9.0,nyc,Rec
+313,734,40.77197178763231,-73.97124593455545,35143,Racetrack,2013-01-05 18:00:09+00:00,,Sports and Recreation,Race Track,67.0,9.0,nyc,Explore
+314,734,40.97708539989917,-74.02595275854813,27744,Neighborhood,2013-01-06 18:00:09+00:00,,Landmarks and Outdoors,States and Municipalities,68.0,9.0,nyc,Return
+315,734,40.916494029390336,-74.08721172374203,33817,General Travel,2013-01-06 18:00:09+00:00,,Travel and Transportation,General Travel,68.0,9.0,nyc,Explore
+316,734,40.916494029390336,-74.08721172374203,33817,General Travel,2013-01-08 18:00:09+00:00,,Travel and Transportation,General Travel,70.0,10.0,nyc,Rec
+317,734,40.98139343333333,-74.0244994,16039,Convenience Store,2013-01-08 18:00:09+00:00,,Retail,Convenience Store,70.0,10.0,nyc,Return
+318,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-01-09 18:00:09+00:00,,Travel and Transportation,General Travel,71.0,10.0,nyc,Return
+319,734,40.87876976140397,-74.08407211303711,17063,Deli / Bodega,2013-01-10 18:00:09+00:00,,Dining and Drinking,Restaurant,72.0,10.0,nyc,Explore
+320,734,40.87591459930808,-74.07358822295204,24571,General Travel,2013-01-11 18:00:09+00:00,,Travel and Transportation,General Travel,73.0,10.0,nyc,Rec
+321,734,40.92502934427317,-74.03424378293039,5923,Diner,2013-01-11 18:00:09+00:00,,Dining and Drinking,Restaurant,73.0,10.0,nyc,Return
+322,734,40.81695201971413,-74.0740758178397,33115,Building,2013-01-11 18:00:09+00:00,,Landmarks and Outdoors,Structure,73.0,10.0,nyc,Return
+323,734,40.81686235398352,-74.07475844856818,30443,Office,2013-01-11 18:00:09+00:00,,Business and Professional Services,Office,73.0,10.0,nyc,Return
+324,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2013-01-11 18:00:09+00:00,,Sports and Recreation,Race Track,73.0,10.0,nyc,Return
+325,734,40.816892517125126,-74.07422496425988,30475,Food,2013-01-12 18:00:09+00:00,,Dining and Drinking,Restaurant,74.0,10.0,nyc,Rec
+326,734,40.69342491338439,-73.99171189097369,6159,University,2013-01-12 18:00:09+00:00,,Community and Government,Education,74.0,10.0,nyc,Return
+327,734,40.691361,-73.991508,7818,Fried Chicken Joint,2013-01-12 18:00:09+00:00,,Dining and Drinking,Restaurant,74.0,10.0,nyc,Rec
+328,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2013-01-13 18:00:09+00:00,,Sports and Recreation,Race Track,75.0,10.0,nyc,Return
+329,734,40.77197178763231,-73.97124593455545,35143,Racetrack,2013-01-13 18:00:09+00:00,,Sports and Recreation,Race Track,75.0,10.0,nyc,Rec
+330,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-01-13 18:00:09+00:00,,Travel and Transportation,General Travel,75.0,10.0,nyc,Return
+331,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-01-13 18:00:09+00:00,,Travel and Transportation,General Travel,75.0,10.0,nyc,Return
+332,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-01-15 18:00:09+00:00,,Travel and Transportation,General Travel,77.0,11.0,nyc,Explore
+333,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-01-17 18:00:09+00:00,,Travel and Transportation,General Travel,79.0,11.0,nyc,Return
+334,734,40.959109,-73.999856,29231,Parking,2013-01-17 18:00:09+00:00,,Travel and Transportation,Parking,79.0,11.0,nyc,Rec
+335,734,40.94885001666667,-73.98849,19273,Deli / Bodega,2013-01-17 18:00:09+00:00,,Dining and Drinking,Restaurant,79.0,11.0,nyc,Rec
+336,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2013-01-18 18:00:09+00:00,,Sports and Recreation,Race Track,80.0,11.0,nyc,Rec
+337,734,40.811340708909874,-74.0822696685791,20879,Parking,2013-01-18 18:00:09+00:00,,Travel and Transportation,Parking,80.0,11.0,nyc,Return
+338,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-01-21 18:00:09+00:00,,Travel and Transportation,General Travel,83.0,11.0,nyc,Return
+339,734,40.811340708909874,-74.0822696685791,20879,Parking,2013-01-24 18:00:09+00:00,,Travel and Transportation,Parking,86.0,12.0,nyc,Return
+340,734,40.816892517125126,-74.07422496425988,30475,Food,2013-01-24 18:00:09+00:00,,Dining and Drinking,Restaurant,86.0,12.0,nyc,Return
+341,734,40.81829847738759,-74.07686942546181,22474,College Stadium,2013-01-25 18:00:09+00:00,,Community and Government,Education,87.0,12.0,nyc,Rec
+342,734,40.70956429635586,-73.79806280136108,20898,Office,2013-01-25 18:00:09+00:00,,Business and Professional Services,Office,87.0,12.0,nyc,Rec
+343,734,40.67709052024723,-73.82782459259033,2232,Racetrack,2013-01-25 18:00:09+00:00,,Sports and Recreation,Race Track,87.0,12.0,nyc,Explore
+344,734,40.66658008,-73.86796954,30038,Racetrack,2013-01-26 18:00:09+00:00,,Sports and Recreation,Race Track,88.0,12.0,nyc,Explore
+345,734,40.67085008872493,-73.87511421175644,20493,School,2013-01-26 18:00:09+00:00,,Community and Government,Education,88.0,12.0,nyc,Rec
+346,734,40.67585235733669,-73.90315203598253,30901,General Travel,2013-01-26 18:00:09+00:00,,Travel and Transportation,General Travel,88.0,12.0,nyc,Rec
+347,734,40.69402062684463,-73.92782749938354,32557,School,2013-01-26 18:00:09+00:00,,Community and Government,Education,88.0,12.0,nyc,Rec
+348,734,40.811340708909874,-74.0822696685791,20879,Parking,2013-01-26 18:00:09+00:00,,Travel and Transportation,Parking,88.0,12.0,nyc,Return
+349,734,40.81366776769526,-74.10953492625622,13282,Convenience Store,2013-01-28 18:00:09+00:00,,Retail,Convenience Store,90.0,12.0,nyc,Return
+350,734,40.811340708909874,-74.0822696685791,20879,Parking,2013-01-31 18:00:09+00:00,,Travel and Transportation,Parking,93.0,13.0,nyc,Rec
+351,734,40.816892517125126,-74.07422496425988,30475,Food,2013-01-31 18:00:09+00:00,,Dining and Drinking,Restaurant,93.0,13.0,nyc,Return
+352,734,40.78435325006658,-74.08291540800614,21970,General Travel,2013-02-01 18:00:09+00:00,,Travel and Transportation,General Travel,94.0,13.0,nyc,Explore
+353,734,40.945674161177074,-74.01735725356448,32868,Coffee Shop,2013-02-01 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",94.0,13.0,nyc,Return
+354,734,40.94246719077515,-74.02115821838379,14654,High School,2013-02-01 18:00:09+00:00,,Community and Government,Education,94.0,13.0,nyc,Rec
+355,734,40.816892517125126,-74.07422496425988,30475,Food,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Return
+356,734,40.85037085897802,-74.09999110638731,25197,Building,2013-02-01 18:00:09+00:00,,Landmarks and Outdoors,Structure,94.0,13.0,nyc,Rec
+357,734,40.759220487652186,-73.98880004882812,35300,Mexican Restaurant,2013-02-02 18:00:09+00:00,,Dining and Drinking,Restaurant,95.0,13.0,nyc,Rec
+358,734,40.945674161177074,-74.01735725356448,32868,Coffee Shop,2013-02-02 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",95.0,13.0,nyc,Return
+359,734,40.81695201971413,-74.0740758178397,33115,Building,2013-02-02 18:00:09+00:00,,Landmarks and Outdoors,Structure,95.0,13.0,nyc,Return
+360,734,40.81721953702811,-74.07673358917236,10602,Racetrack,2013-02-02 18:00:09+00:00,,Sports and Recreation,Race Track,95.0,13.0,nyc,Return
+361,734,40.79028686044855,-74.05822547197857,32074,Convenience Store,2013-02-04 18:00:09+00:00,,Retail,Convenience Store,97.0,13.0,nyc,Explore
+362,734,40.74599258011808,-73.97403530977857,15382,General Travel,2013-02-05 18:00:09+00:00,,Travel and Transportation,General Travel,98.0,14.0,nyc,Explore
+363,734,40.98139343333333,-74.0244994,16039,Convenience Store,2013-02-05 18:00:09+00:00,,Retail,Convenience Store,98.0,14.0,nyc,Return
+364,734,40.9460393052988,-74.01625553200782,31648,General Travel,2013-02-05 18:00:09+00:00,,Travel and Transportation,General Travel,98.0,14.0,nyc,Return
+365,734,40.94724023633748,-74.02057630980455,10366,Pizza Place,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Explore
+366,734,40.88244673773804,-74.05593644157884,28617,School,2013-02-07 18:00:09+00:00,,Community and Government,Education,100.0,14.0,nyc,Rec
+367,734,40.816892517125126,-74.07422496425988,30475,Food,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Return
+368,734,40.770175302901045,-73.97181414389736,34956,Racetrack,2013-02-07 18:00:09+00:00,,Sports and Recreation,Race Track,100.0,14.0,nyc,Rec
+369,734,40.80019176006317,-73.99466335773468,24723,Gas Station / Garage,2013-02-08 18:00:09+00:00,,Travel and Transportation,Fuel Station,101.0,14.0,nyc,Rec
+370,734,40.80174537319216,-74.02587242851928,31381,General Travel,2013-02-08 18:00:09+00:00,,Travel and Transportation,General Travel,101.0,14.0,nyc,Rec

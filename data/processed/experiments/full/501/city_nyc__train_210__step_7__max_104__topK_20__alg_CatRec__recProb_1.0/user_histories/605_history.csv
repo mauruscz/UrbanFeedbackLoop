@@ -1,0 +1,145 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,605,40.77828768327368,-73.97859235021285,6955,Cosmetics Shop,2012-08-10 14:02:59+00:00,New York City,Retail,Cosmetics Store,,,,
+1,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-08-17 15:35:43+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+2,605,40.77755076676488,-73.97868991790808,9332,Bank,2012-10-12 17:52:37+00:00,New York City,Business and Professional Services,Financial Service,,,,
+3,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-10-12 18:05:22+00:00,New York City,Retail,Pharmacy,,,,
+4,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-10-12 18:13:10+00:00,New York City,Retail,Food and Beverage Retail,,,,
+5,605,40.77755076676488,-73.97868991790808,9332,Bank,2012-10-19 17:24:42+00:00,New York City,Business and Professional Services,Financial Service,,,,
+6,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-10-26 18:01:26+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+7,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-09-14 16:54:25+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+8,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-10-08 19:19:35+00:00,New York City,Retail,Pharmacy,,,,
+9,605,40.7813538325162,-73.98098945617676,5157,Clothing Store,2012-10-08 20:02:09+00:00,New York City,Retail,Boutique,,,,
+10,605,40.78068040599415,-73.98065847906388,27635,Tanning Salon,2012-10-22 20:21:30+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+11,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-10-22 20:46:28+00:00,New York City,Retail,Food and Beverage Retail,,,,
+12,605,40.77806402194491,-73.97823077538116,5462,Coffee Shop,2012-10-22 20:46:49+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+13,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-08-11 16:46:55+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+14,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-08-18 18:51:46+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+15,605,40.77818541376857,-73.98021697998047,9209,Pet Store,2012-07-28 18:22:23+00:00,New York City,Retail,Pet Supplies Store,,,,
+16,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-07-28 18:26:33+00:00,New York City,Retail,Pharmacy,,,,
+17,605,40.778292364049406,-73.98111761579283,8700,Miscellaneous Shop,2012-07-28 18:33:23+00:00,New York City,Retail,Miscellaneous Store,,,,
+18,605,40.78134583862931,-73.98118648620756,31026,Drugstore / Pharmacy,2012-07-28 18:57:36+00:00,New York City,Retail,Pharmacy,,,,
+19,605,40.78089970281194,-73.98125535659763,6554,Coffee Shop,2012-07-28 18:58:34+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+20,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-07-28 20:10:10+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+21,605,40.76311180427145,-73.98413641246766,73,Music Venue,2012-10-27 23:56:56+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+22,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-08-19 16:22:22+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+23,605,40.77832544855365,-73.98038873572416,12487,Clothing Store,2012-08-19 21:13:34+00:00,New York City,Retail,Fashion Retail,,,,
+24,605,40.77930053796968,-73.98270736824254,8078,Pet Store,2012-08-19 21:21:01+00:00,New York City,Retail,Pet Supplies Store,,,,
+25,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-08-19 21:40:31+00:00,New York City,Retail,Food and Beverage Retail,,,,
+26,605,40.77828768327368,-73.97859235021285,6955,Cosmetics Shop,2012-07-29 20:53:57+00:00,New York City,Retail,Cosmetics Store,,,,
+27,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-08-16 19:54:02+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+28,605,40.775719347012206,-73.97688777719742,22866,Medical Center,2012-10-11 20:31:05+00:00,New York City,Health and Medicine,Dentist,,,,
+29,605,40.77755076676488,-73.97868991790808,9332,Bank,2012-10-18 17:38:57+00:00,New York City,Business and Professional Services,Financial Service,,,,
+30,605,40.77943748615269,-73.97724361523622,5517,Drugstore / Pharmacy,2012-10-18 17:44:17+00:00,New York City,Retail,Pharmacy,,,,
+31,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-10-18 19:01:49+00:00,New York City,Retail,Food and Beverage Retail,,,,
+32,605,40.77930053796968,-73.98270736824254,8078,Pet Store,2012-10-18 19:12:31+00:00,New York City,Retail,Pet Supplies Store,,,,
+33,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-10-18 19:16:19+00:00,New York City,Retail,Pharmacy,,,,
+34,605,40.77706691098955,-73.97917775564163,20778,Cosmetics Shop,2012-09-13 16:40:22+00:00,New York City,Retail,Cosmetics Store,,,,
+35,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-09-13 16:52:19+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+36,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-08-14 16:55:13+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+37,605,40.77764,-73.97933,5174,Cosmetics Shop,2012-10-23 20:29:59+00:00,New York City,Retail,Cosmetics Store,,,,
+38,605,40.77755076676488,-73.97868991790808,9332,Bank,2012-10-03 17:50:01+00:00,New York City,Business and Professional Services,Financial Service,,,,
+39,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-10-24 17:20:52+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+40,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-10-24 18:38:53+00:00,New York City,Retail,Food and Beverage Retail,,,,
+41,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-10-24 19:46:53+00:00,New York City,Retail,Food and Beverage Retail,,,,
+42,605,40.77776,-73.979801,15099,Paper / Office Supplies Store,2012-09-05 13:34:24+00:00,New York City,Retail,Office Supply Store,,,,
+43,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-09-05 17:01:06+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+44,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-10-30 18:00:09+00:00,,Retail,Food and Beverage Retail,0.0,0.0,nyc,Rec
+45,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-11-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,2.0,0.0,nyc,Rec
+46,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-11-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,2.0,0.0,nyc,Rec
+47,605,40.778292364049406,-73.98111761579283,8700,Miscellaneous Shop,2012-11-01 18:00:09+00:00,,Retail,Miscellaneous Store,2.0,0.0,nyc,Rec
+48,605,40.775719347012206,-73.97688777719742,22866,Medical Center,2012-11-01 18:00:09+00:00,,Health and Medicine,Dentist,2.0,0.0,nyc,Rec
+49,605,40.777563466993584,-73.97842591108906,9332,Bank,2012-11-05 18:00:09+00:00,,Business and Professional Services,Financial Service,6.0,0.0,nyc,Rec
+50,605,40.77776,-73.979801,15099,Paper / Office Supplies Store,2012-11-05 18:00:09+00:00,,Retail,Office Supply Store,6.0,0.0,nyc,Rec
+51,605,40.77706691098955,-73.97917775564163,20778,Cosmetics Shop,2012-11-05 18:00:09+00:00,,Retail,Cosmetics Store,6.0,0.0,nyc,Rec
+52,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-11-05 18:00:09+00:00,,Sports and Recreation,Gym and Studio,6.0,0.0,nyc,Rec
+53,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-11-05 18:00:09+00:00,,Retail,Food and Beverage Retail,6.0,0.0,nyc,Rec
+54,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-11-09 18:00:09+00:00,,Retail,Food and Beverage Retail,10.0,1.0,nyc,Rec
+55,605,40.77769857525252,-73.9775994526167,6475,Gym / Fitness Center,2012-11-11 18:00:09+00:00,,Sports and Recreation,Gym and Studio,12.0,1.0,nyc,Rec
+56,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-11-11 18:00:09+00:00,,Retail,Food and Beverage Retail,12.0,1.0,nyc,Rec
+57,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-11-11 18:00:09+00:00,,Retail,Food and Beverage Retail,12.0,1.0,nyc,Rec
+58,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-11-12 18:00:09+00:00,,Sports and Recreation,Gym and Studio,13.0,1.0,nyc,Rec
+59,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-11-12 18:00:09+00:00,,Retail,Pharmacy,13.0,1.0,nyc,Rec
+60,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-11-12 18:00:09+00:00,,Retail,Food and Beverage Retail,13.0,1.0,nyc,Rec
+61,605,40.781875,-73.980894,4911,Cosmetics Shop,2012-11-15 18:00:09+00:00,,Retail,Cosmetics Store,16.0,2.0,nyc,Rec
+62,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-11-15 18:00:09+00:00,,Retail,Pharmacy,16.0,2.0,nyc,Rec
+63,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-11-15 18:00:09+00:00,,Retail,Food and Beverage Retail,16.0,2.0,nyc,Rec
+64,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-11-16 18:00:09+00:00,,Sports and Recreation,Gym and Studio,17.0,2.0,nyc,Rec
+65,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-11-16 18:00:09+00:00,,Retail,Food and Beverage Retail,17.0,2.0,nyc,Rec
+66,605,40.779404054249056,-73.98086071014404,5173,Candy Store,2012-11-17 18:00:09+00:00,,Retail,Food and Beverage Retail,18.0,2.0,nyc,Rec
+67,605,40.77818308261941,-73.98073882807061,25500,Gym / Fitness Center,2012-11-17 18:00:09+00:00,,Sports and Recreation,Gym and Studio,18.0,2.0,nyc,Rec
+68,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-11-17 18:00:09+00:00,,Retail,Food and Beverage Retail,18.0,2.0,nyc,Rec
+69,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-11-20 18:00:09+00:00,,Sports and Recreation,Gym and Studio,21.0,3.0,nyc,Rec
+70,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-11-20 18:00:09+00:00,,Retail,Food and Beverage Retail,21.0,3.0,nyc,Rec
+71,605,40.777563466993584,-73.97842591108906,9332,Bank,2012-11-21 18:00:09+00:00,,Business and Professional Services,Financial Service,22.0,3.0,nyc,Rec
+72,605,40.77828768327368,-73.97859235021285,6955,Cosmetics Shop,2012-11-21 18:00:09+00:00,,Retail,Cosmetics Store,22.0,3.0,nyc,Rec
+73,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-11-23 18:00:09+00:00,,Sports and Recreation,Gym and Studio,24.0,3.0,nyc,Rec
+74,605,40.77930053796968,-73.98270736824254,8078,Pet Store,2012-11-23 18:00:09+00:00,,Retail,Pet Supplies Store,24.0,3.0,nyc,Rec
+75,605,40.777382,-73.982306,5172,Cosmetics Shop,2012-11-23 18:00:09+00:00,,Retail,Cosmetics Store,24.0,3.0,nyc,Rec
+76,605,40.777563466993584,-73.97842591108906,9332,Bank,2012-11-26 18:00:09+00:00,,Business and Professional Services,Financial Service,27.0,3.0,nyc,Rec
+77,605,40.77828768327368,-73.97859235021285,6955,Cosmetics Shop,2012-11-26 18:00:09+00:00,,Retail,Cosmetics Store,27.0,3.0,nyc,Rec
+78,605,40.778292364049406,-73.98111761579283,8700,Miscellaneous Shop,2012-11-26 18:00:09+00:00,,Retail,Miscellaneous Store,27.0,3.0,nyc,Rec
+79,605,40.77769857525252,-73.9775994526167,6475,Gym / Fitness Center,2012-11-26 18:00:09+00:00,,Sports and Recreation,Gym and Studio,27.0,3.0,nyc,Rec
+80,605,40.775719347012206,-73.97688777719742,22866,Medical Center,2012-11-27 18:00:09+00:00,,Health and Medicine,Dentist,28.0,4.0,nyc,Rec
+81,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-11-27 18:00:09+00:00,,Retail,Food and Beverage Retail,28.0,4.0,nyc,Rec
+82,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-11-28 18:00:09+00:00,,Sports and Recreation,Gym and Studio,29.0,4.0,nyc,Rec
+83,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-11-28 18:00:09+00:00,,Retail,Pharmacy,29.0,4.0,nyc,Rec
+84,605,40.779404054249056,-73.98086071014404,5173,Candy Store,2012-11-29 18:00:09+00:00,,Retail,Food and Beverage Retail,30.0,4.0,nyc,Rec
+85,605,40.777563466993584,-73.97842591108906,9332,Bank,2012-12-03 18:00:09+00:00,,Business and Professional Services,Financial Service,34.0,4.0,nyc,Rec
+86,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-12-03 18:00:09+00:00,,Retail,Pharmacy,34.0,4.0,nyc,Rec
+87,605,40.778504,-73.982092,16761,Food & Drink Shop,2012-12-03 18:00:09+00:00,,Retail,Food and Beverage Retail,34.0,4.0,nyc,Rec
+88,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-12-03 18:00:09+00:00,,Retail,Food and Beverage Retail,34.0,4.0,nyc,Rec
+89,605,40.777563466993584,-73.97842591108906,9332,Bank,2012-12-04 18:00:09+00:00,,Business and Professional Services,Financial Service,35.0,5.0,nyc,Rec
+90,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-04 18:00:09+00:00,,Sports and Recreation,Gym and Studio,35.0,5.0,nyc,Rec
+91,605,40.78068040599415,-73.98065847906388,27635,Tanning Salon,2012-12-04 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,35.0,5.0,nyc,Rec
+92,605,40.77818541376857,-73.98021697998047,9209,Pet Store,2012-12-04 18:00:09+00:00,,Retail,Pet Supplies Store,35.0,5.0,nyc,Rec
+93,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-05 18:00:09+00:00,,Sports and Recreation,Gym and Studio,36.0,5.0,nyc,Rec
+94,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-12-05 18:00:09+00:00,,Retail,Food and Beverage Retail,36.0,5.0,nyc,Rec
+95,605,40.778292364049406,-73.98111761579283,8700,Miscellaneous Shop,2012-12-06 18:00:09+00:00,,Retail,Miscellaneous Store,37.0,5.0,nyc,Rec
+96,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,37.0,5.0,nyc,Rec
+97,605,40.779404054249056,-73.98086071014404,5173,Candy Store,2012-12-06 18:00:09+00:00,,Retail,Food and Beverage Retail,37.0,5.0,nyc,Rec
+98,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-12-07 18:00:09+00:00,,Retail,Food and Beverage Retail,38.0,5.0,nyc,Rec
+99,605,40.777563466993584,-73.97842591108906,9332,Bank,2012-12-07 18:00:09+00:00,,Business and Professional Services,Financial Service,38.0,5.0,nyc,Rec
+100,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-12-07 18:00:09+00:00,,Retail,Food and Beverage Retail,38.0,5.0,nyc,Rec
+101,605,40.78089970281194,-73.98125535659763,6554,Coffee Shop,2012-12-07 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",38.0,5.0,nyc,Rec
+102,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-08 18:00:09+00:00,,Sports and Recreation,Gym and Studio,39.0,5.0,nyc,Rec
+103,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-09 18:00:09+00:00,,Sports and Recreation,Gym and Studio,40.0,5.0,nyc,Rec
+104,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-10 18:00:09+00:00,,Sports and Recreation,Gym and Studio,41.0,5.0,nyc,Rec
+105,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-10 18:00:09+00:00,,Sports and Recreation,Gym and Studio,41.0,5.0,nyc,Rec
+106,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-11 18:00:09+00:00,,Sports and Recreation,Gym and Studio,42.0,6.0,nyc,Rec
+107,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2012-12-17 18:00:09+00:00,,Sports and Recreation,Gym and Studio,48.0,6.0,nyc,Rec
+108,605,40.77930053796968,-73.98270736824254,8078,Pet Store,2012-12-18 18:00:09+00:00,,Retail,Pet Supplies Store,49.0,7.0,nyc,Rec
+109,605,40.777563466993584,-73.97842591108906,9332,Bank,2012-12-19 18:00:09+00:00,,Business and Professional Services,Financial Service,50.0,7.0,nyc,Rec
+110,605,40.778292364049406,-73.98111761579283,8700,Miscellaneous Shop,2012-12-19 18:00:09+00:00,,Retail,Miscellaneous Store,50.0,7.0,nyc,Rec
+111,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-12-19 18:00:09+00:00,,Retail,Food and Beverage Retail,50.0,7.0,nyc,Rec
+112,605,40.7641035574988,-73.98672473457826,23850,Korean Restaurant,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Rec
+113,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2012-12-20 18:00:09+00:00,,Retail,Food and Beverage Retail,51.0,7.0,nyc,Rec
+114,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2012-12-22 18:00:09+00:00,,Retail,Pharmacy,53.0,7.0,nyc,Rec
+115,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2013-01-01 18:00:09+00:00,,Retail,Food and Beverage Retail,63.0,9.0,nyc,Rec
+116,605,40.77843198194854,-73.98193831996322,16947,Drugstore / Pharmacy,2013-01-03 18:00:09+00:00,,Retail,Pharmacy,65.0,9.0,nyc,Rec
+117,605,40.778292364049406,-73.98111761579283,8700,Miscellaneous Shop,2013-01-04 18:00:09+00:00,,Retail,Miscellaneous Store,66.0,9.0,nyc,Rec
+118,605,40.779404054249056,-73.98086071014404,5173,Candy Store,2013-01-04 18:00:09+00:00,,Retail,Food and Beverage Retail,66.0,9.0,nyc,Rec
+119,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2013-01-04 18:00:09+00:00,,Retail,Food and Beverage Retail,66.0,9.0,nyc,Rec
+120,605,40.78068040599415,-73.98065847906388,27635,Tanning Salon,2013-01-06 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,68.0,9.0,nyc,Rec
+121,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2013-01-09 18:00:09+00:00,,Sports and Recreation,Gym and Studio,71.0,10.0,nyc,Rec
+122,605,40.77930053796968,-73.98270736824254,8078,Pet Store,2013-01-09 18:00:09+00:00,,Retail,Pet Supplies Store,71.0,10.0,nyc,Rec
+123,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2013-01-10 18:00:09+00:00,,Sports and Recreation,Gym and Studio,72.0,10.0,nyc,Rec
+124,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2013-01-10 18:00:09+00:00,,Retail,Food and Beverage Retail,72.0,10.0,nyc,Rec
+125,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2013-01-13 18:00:09+00:00,,Sports and Recreation,Gym and Studio,75.0,10.0,nyc,Rec
+126,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2013-01-13 18:00:09+00:00,,Retail,Food and Beverage Retail,75.0,10.0,nyc,Rec
+127,605,40.77769857525252,-73.9775994526167,6475,Gym / Fitness Center,2013-01-14 18:00:09+00:00,,Sports and Recreation,Gym and Studio,76.0,10.0,nyc,Rec
+128,605,40.781526,-73.980974,29543,Sporting Goods Shop,2013-01-16 18:00:09+00:00,,Retail,Sporting Goods Retail,78.0,11.0,nyc,Rec
+129,605,40.779404054249056,-73.98086071014404,5173,Candy Store,2013-01-16 18:00:09+00:00,,Retail,Food and Beverage Retail,78.0,11.0,nyc,Rec
+130,605,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2013-01-21 18:00:09+00:00,,Retail,Food and Beverage Retail,83.0,11.0,nyc,Rec
+131,605,40.779404054249056,-73.98086071014404,5173,Candy Store,2013-01-21 18:00:09+00:00,,Retail,Food and Beverage Retail,83.0,11.0,nyc,Rec
+132,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2013-01-29 18:00:09+00:00,,Sports and Recreation,Gym and Studio,91.0,13.0,nyc,Rec
+133,605,40.77930053796968,-73.98270736824254,8078,Pet Store,2013-01-29 18:00:09+00:00,,Retail,Pet Supplies Store,91.0,13.0,nyc,Rec
+134,605,40.77824279124029,-73.98089378677447,12487,Clothing Store,2013-01-31 18:00:09+00:00,,Retail,Fashion Retail,93.0,13.0,nyc,Rec
+135,605,40.77930053796968,-73.98270736824254,8078,Pet Store,2013-01-31 18:00:09+00:00,,Retail,Pet Supplies Store,93.0,13.0,nyc,Rec
+136,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2013-02-02 18:00:09+00:00,,Sports and Recreation,Gym and Studio,95.0,13.0,nyc,Rec
+137,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2013-02-03 18:00:09+00:00,,Sports and Recreation,Gym and Studio,96.0,13.0,nyc,Rec
+138,605,40.77806402194491,-73.97823077538116,5462,Coffee Shop,2013-02-03 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",96.0,13.0,nyc,Rec
+139,605,40.77856926162736,-73.97810451099409,4855,Food & Drink Shop,2013-02-04 18:00:09+00:00,,Retail,Food and Beverage Retail,97.0,13.0,nyc,Rec
+140,605,40.777563466993584,-73.97842591108906,9332,Bank,2013-02-05 18:00:09+00:00,,Business and Professional Services,Financial Service,98.0,14.0,nyc,Rec
+141,605,40.77769857525252,-73.9775994526167,6475,Gym / Fitness Center,2013-02-07 18:00:09+00:00,,Sports and Recreation,Gym and Studio,100.0,14.0,nyc,Rec
+142,605,40.78068040599415,-73.98065847906388,27635,Tanning Salon,2013-02-07 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,100.0,14.0,nyc,Rec
+143,605,40.78135679017438,-73.97971724534096,7031,Gym / Fitness Center,2013-02-10 18:00:09+00:00,,Sports and Recreation,Gym and Studio,103.0,14.0,nyc,Rec

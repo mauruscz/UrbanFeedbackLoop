@@ -1,0 +1,200 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,857,40.75660206578703,-73.97396069738724,1308,Hotel,2012-04-20 18:28:06+00:00,New York City,Travel and Transportation,Lodging,,,,
+1,857,40.774956634192655,-73.95693683791761,5905,Sushi Restaurant,2012-08-10 18:34:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,857,40.77843896961532,-73.95451457533076,22216,Clothing Store,2012-08-10 19:10:44+00:00,New York City,Retail,Fashion Retail,,,,
+3,857,40.78220718083842,-73.94855062876583,10004,Tanning Salon,2012-08-10 19:56:10+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+4,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-06 12:08:02+00:00,New York City,Travel and Transportation,Lodging,,,,
+5,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-13 15:49:29+00:00,New York City,Travel and Transportation,Lodging,,,,
+6,857,40.774817,-73.954013,8636,Thai Restaurant,2012-07-13 23:37:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,857,40.773795,-73.957365,34017,Mediterranean Restaurant,2012-07-20 23:28:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+8,857,40.77507280956281,-73.95369375433997,5813,Italian Restaurant,2012-07-27 23:59:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+9,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-08 11:56:49+00:00,New York City,Travel and Transportation,Lodging,,,,
+10,857,40.7563044644599,-73.96760131962147,4565,Bar,2012-06-08 22:47:43+00:00,New York City,Dining and Drinking,Bar,,,,
+11,857,40.772235,-73.955876,1373,Bar,2012-06-08 23:43:49+00:00,New York City,Dining and Drinking,Bar,,,,
+12,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-04 10:23:27+00:00,New York City,Travel and Transportation,Lodging,,,,
+13,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-11 16:21:14+00:00,New York City,Travel and Transportation,Lodging,,,,
+14,857,40.78220718083842,-73.94855062876583,10004,Tanning Salon,2012-05-11 21:12:27+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+15,857,40.771706,-73.953357025,1215,Wings Joint,2012-05-11 23:12:35+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,857,40.77964890592344,-73.9505883790403,293,Mexican Restaurant,2012-05-25 21:13:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-10-12 11:09:46+00:00,New York City,Travel and Transportation,Lodging,,,,
+18,857,40.91922020055109,-74.07471656799316,2616,American Restaurant,2012-10-12 23:29:10+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,857,40.78126097576632,-73.94949201466041,7371,Diner,2012-10-19 14:16:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-10-19 18:54:42+00:00,New York City,Travel and Transportation,Lodging,,,,
+21,857,40.774618722009045,-73.9571664346905,11571,Spa / Massage,2012-10-26 22:18:00+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+22,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-04-09 13:41:07+00:00,New York City,Travel and Transportation,Lodging,,,,
+23,857,40.75554295707458,-73.97036778954721,12655,American Restaurant,2012-04-16 21:35:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+24,857,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-23 22:48:42+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+25,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-08-06 12:37:49+00:00,New York City,Travel and Transportation,Lodging,,,,
+26,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-08-20 09:22:37+00:00,New York City,Travel and Transportation,Lodging,,,,
+27,857,40.57334843776636,-73.98030281066895,2854,Beach,2012-07-02 16:39:19+00:00,New York City,Landmarks and Outdoors,Beach,,,,
+28,857,40.5734135655812,-73.978512000309,13496,Hot Dog Joint,2012-07-02 20:00:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+29,857,40.57312025573819,-73.97970199584961,28482,Ice Cream Shop,2012-07-02 20:36:32+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+30,857,40.60022273510191,-73.94214449089279,1833,Sandwich Place,2012-07-02 22:18:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-09 19:24:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+32,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-16 12:34:34+00:00,New York City,Travel and Transportation,Lodging,,,,
+33,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-30 11:23:20+00:00,New York City,Travel and Transportation,Lodging,,,,
+34,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-04 11:26:26+00:00,New York City,Travel and Transportation,Lodging,,,,
+35,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-25 12:00:44+00:00,New York City,Travel and Transportation,Lodging,,,,
+36,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-07 19:56:49+00:00,New York City,Travel and Transportation,Lodging,,,,
+37,857,40.757078,-73.9671573,26755,Bar,2012-05-14 22:40:23+00:00,New York City,Dining and Drinking,Bar,,,,
+38,857,40.77901864208124,-73.95395779503919,3284,Movie Theater,2012-05-28 00:32:11+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+39,857,40.77437989026007,-73.94455542788516,2980,Park,2012-05-28 16:34:51+00:00,New York City,Landmarks and Outdoors,Park,,,,
+40,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-10-08 11:04:45+00:00,New York City,Travel and Transportation,Lodging,,,,
+41,857,40.77598774225914,-73.94685566425323,8378,Diner,2012-10-29 02:31:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+42,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-04-07 18:52:54+00:00,New York City,Travel and Transportation,Lodging,,,,
+43,857,40.75660206578703,-73.97396069738724,1308,Hotel,2012-04-21 14:14:29+00:00,New York City,Travel and Transportation,Lodging,,,,
+44,857,40.774817,-73.954013,8636,Thai Restaurant,2012-04-21 23:32:08+00:00,New York City,Dining and Drinking,Restaurant,,,,
+45,857,40.75047969122117,-73.99461574510211,2374,BBQ Joint,2012-08-11 16:38:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,857,40.774761,-73.95092106666665,21709,French Restaurant,2012-08-18 00:10:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,857,40.73083612189599,-73.99764060974121,896,Park,2012-08-18 17:06:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+48,857,40.71671,-74.00826799518472,26077,American Restaurant,2012-08-18 18:09:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+49,857,40.78165472653402,-73.9491189049456,13264,Donut Shop,2012-08-18 21:34:30+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+50,857,40.7753842689747,-73.95314271171823,36268,Bar,2012-07-07 23:41:39+00:00,New York City,Dining and Drinking,Bar,,,,
+51,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-14 10:34:40+00:00,New York City,Travel and Transportation,Lodging,,,,
+52,857,40.77507280956281,-73.95369375433997,5813,Italian Restaurant,2012-07-21 00:50:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+53,857,40.774220050327926,-73.94829806103874,1223,Bar,2012-07-28 01:42:36+00:00,New York City,Dining and Drinking,Bar,,,,
+54,857,40.78126097576632,-73.94949201466041,7371,Diner,2012-07-28 15:20:16+00:00,New York City,Dining and Drinking,Restaurant,,,,
+55,857,40.78133756458156,-73.94936573145294,28490,Bar,2012-07-28 18:38:35+00:00,New York City,Dining and Drinking,Bar,,,,
+56,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-02 21:43:37+00:00,New York City,Travel and Transportation,Lodging,,,,
+57,857,40.779611,-73.949873,703,Bar,2012-06-09 04:06:44+00:00,New York City,Dining and Drinking,Bar,,,,
+58,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-09 14:13:40+00:00,New York City,Travel and Transportation,Lodging,,,,
+59,857,40.77921119248215,-73.95450883533594,6602,Clothing Store,2012-06-09 18:31:16+00:00,New York City,Retail,Fashion Retail,,,,
+60,857,40.77418286905642,-73.959634582752,7297,Coffee Shop,2012-06-09 22:11:58+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+61,857,40.779421452844176,-73.95057115870543,12636,Salon / Barbershop,2012-06-09 22:42:42+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+62,857,40.78220718083842,-73.94855062876583,10004,Tanning Salon,2012-06-09 23:15:56+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+63,857,40.75533,-73.968463,10824,Bar,2012-05-05 00:27:55+00:00,New York City,Dining and Drinking,Bar,,,,
+64,857,40.77073168703263,-73.95377985460763,682,Bar,2012-05-12 02:03:46+00:00,New York City,Dining and Drinking,Bar,,,,
+65,857,40.777423,-73.948947,6068,Bar,2012-05-12 02:37:07+00:00,New York City,Dining and Drinking,Bar,,,,
+66,857,40.78133756458156,-73.94936573145294,28490,Bar,2012-05-12 17:32:20+00:00,New York City,Dining and Drinking,Bar,,,,
+67,857,40.77437989026007,-73.94455542788516,2980,Park,2012-05-12 20:13:26+00:00,New York City,Landmarks and Outdoors,Park,,,,
+68,857,40.77436246224558,-73.95435385541136,2767,Bar,2012-05-26 01:04:15+00:00,New York City,Dining and Drinking,Bar,,,,
+69,857,40.72222988826503,-73.98581796494854,30029,Bar,2012-05-26 03:45:25+00:00,New York City,Arts and Entertainment,Night Club,,,,
+70,857,40.91532869189857,-74.07670140266418,8904,Movie Theater,2012-10-13 01:18:43+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+71,857,40.87605449348925,-74.06479982652888,18585,Coffee Shop,2012-10-13 13:21:05+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+72,857,40.77429974650578,-73.95438255540677,16967,Italian Restaurant,2012-10-27 00:22:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+73,857,40.780297,-73.95516,6729,Drugstore / Pharmacy,2012-10-27 17:58:44+00:00,New York City,Retail,Pharmacy,,,,
+74,857,40.77397337337693,-73.95465233515522,7095,Mexican Restaurant,2012-09-15 22:55:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+75,857,40.772301,-73.955844,724,BBQ Joint,2012-04-08 00:03:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+76,857,40.73939794092962,-73.99320973426613,26195,General Entertainment,2012-04-08 18:35:11+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+77,857,40.77242436972753,-73.9569310979948,4355,Italian Restaurant,2012-04-08 23:14:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+78,857,40.71815358787956,-73.99221117337089,1478,Music Venue,2012-04-22 00:54:10+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+79,857,40.75660206578703,-73.97396069738724,1308,Hotel,2012-04-22 13:31:29+00:00,New York City,Travel and Transportation,Lodging,,,,
+80,857,40.774772,-73.954047,1702,Burrito Place,2012-08-05 17:35:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+81,857,40.75533,-73.968463,10824,Bar,2012-08-12 04:00:18+00:00,New York City,Dining and Drinking,Bar,,,,
+82,857,40.78220718083842,-73.94855062876583,10004,Tanning Salon,2012-08-19 14:40:19+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+83,857,40.77507280956281,-73.95369375433997,5813,Italian Restaurant,2012-07-08 00:41:26+00:00,New York City,Dining and Drinking,Restaurant,,,,
+84,857,40.77436246224558,-73.95435385541136,2767,Bar,2012-07-08 17:03:59+00:00,New York City,Dining and Drinking,Bar,,,,
+85,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-15 12:59:57+00:00,New York City,Travel and Transportation,Lodging,,,,
+86,857,40.77138107266706,-73.95646042374283,2621,Bar,2012-07-15 18:44:53+00:00,New York City,Dining and Drinking,Bar,,,,
+87,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-03 12:34:09+00:00,New York City,Travel and Transportation,Lodging,,,,
+88,857,40.780482,-73.952901,943,Bar,2012-06-10 00:53:37+00:00,New York City,Dining and Drinking,Bar,,,,
+89,857,40.78133756458156,-73.94936573145294,28490,Bar,2012-05-06 23:58:19+00:00,New York City,Dining and Drinking,Bar,,,,
+90,857,40.772301,-73.955844,724,BBQ Joint,2012-05-13 00:36:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+91,857,40.7405579801227,-74.00777996246534,5015,Beer Garden,2012-05-13 02:51:29+00:00,New York City,Dining and Drinking,Bar,,,,
+92,857,40.740727951827786,-74.00861104297583,1013,Bar,2012-05-13 05:30:10+00:00,New York City,Dining and Drinking,Bar,,,,
+93,857,40.78133756458156,-73.94936573145294,28490,Bar,2012-10-28 16:59:12+00:00,New York City,Dining and Drinking,Bar,,,,
+94,857,40.78782018739577,-73.79104614257812,37651,Other Great Outdoors,2012-10-28 18:37:04+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+95,857,40.77138107266706,-73.95646042374283,2621,Bar,2012-09-09 15:43:16+00:00,New York City,Dining and Drinking,Bar,,,,
+96,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-04-12 11:44:22+00:00,New York City,Travel and Transportation,Lodging,,,,
+97,857,40.748539,-73.986669,1855,Bar,2012-04-19 03:37:34+00:00,New York City,Dining and Drinking,Bar,,,,
+98,857,40.75641182369775,-73.97400661270841,1308,Hotel,2012-04-19 18:10:05+00:00,New York City,Travel and Transportation,Lodging,,,,
+99,857,40.77555802996236,-73.95638006460952,2937,Turkish Restaurant,2012-04-19 23:25:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+100,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-05 12:07:14+00:00,New York City,Travel and Transportation,Lodging,,,,
+101,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-12 13:11:42+00:00,New York City,Travel and Transportation,Lodging,,,,
+102,857,40.75533,-73.968463,10824,Bar,2012-06-07 02:09:54+00:00,New York City,Dining and Drinking,Bar,,,,
+103,857,40.75611913826422,-73.97253157753975,8,Hotel,2012-06-07 06:04:38+00:00,New York City,Dining and Drinking,Bar,,,,
+104,857,40.78165472653402,-73.9491189049456,13264,Donut Shop,2012-06-07 14:17:31+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+105,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-07 20:08:13+00:00,New York City,Travel and Transportation,Lodging,,,,
+106,857,40.738735,-73.983284,4497,Spa / Massage,2012-06-07 22:12:54+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+107,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-03 10:48:26+00:00,New York City,Travel and Transportation,Lodging,,,,
+108,857,40.779421452844176,-73.95057115870543,12636,Salon / Barbershop,2012-05-10 22:16:41+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+109,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-17 10:44:00+00:00,New York City,Travel and Transportation,Lodging,,,,
+110,857,40.76232480057456,-73.9678144454956,1795,Department Store,2012-10-11 23:24:08+00:00,New York City,Retail,Department Store,,,,
+111,857,40.77970083265281,-73.95599548829432,35859,American Restaurant,2012-10-11 23:45:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+112,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-09-13 15:41:27+00:00,New York City,Travel and Transportation,Lodging,,,,
+113,857,40.75657407756215,-73.97361059270312,1308,Hotel,2012-04-17 23:21:19+00:00,New York City,Travel and Transportation,Lodging,,,,
+114,857,40.75660206578703,-73.97396069738724,1308,Hotel,2012-04-24 17:14:21+00:00,New York City,Travel and Transportation,Lodging,,,,
+115,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-08-14 10:11:58+00:00,New York City,Travel and Transportation,Lodging,,,,
+116,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-03 14:20:04+00:00,New York City,Travel and Transportation,Lodging,,,,
+117,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-17 11:15:45+00:00,New York City,Travel and Transportation,Lodging,,,,
+118,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-24 11:40:08+00:00,New York City,Travel and Transportation,Lodging,,,,
+119,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-05 13:49:34+00:00,New York City,Travel and Transportation,Lodging,,,,
+120,857,40.75533,-73.968463,10824,Bar,2012-06-26 23:09:29+00:00,New York City,Dining and Drinking,Bar,,,,
+121,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-08 18:40:27+00:00,New York City,Travel and Transportation,Lodging,,,,
+122,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-15 12:44:16+00:00,New York City,Travel and Transportation,Lodging,,,,
+123,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-22 12:14:00+00:00,New York City,Travel and Transportation,Lodging,,,,
+124,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-29 21:39:01+00:00,New York City,Travel and Transportation,Lodging,,,,
+125,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-10-16 12:32:51+00:00,New York City,Travel and Transportation,Lodging,,,,
+126,857,40.68184207951205,-73.94923944816297,37683,Other Great Outdoors,2012-10-30 15:16:18+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+127,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-04-04 12:42:20+00:00,New York City,Travel and Transportation,Lodging,,,,
+128,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-04-11 13:36:29+00:00,New York City,Travel and Transportation,Lodging,,,,
+129,857,40.78220718083842,-73.94855062876583,10004,Tanning Salon,2012-04-11 23:14:47+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+130,857,40.77511172410266,-73.95386021482283,32675,Italian Restaurant,2012-04-18 00:43:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+131,857,40.75657407756215,-73.97361059270312,1308,Hotel,2012-04-18 13:00:35+00:00,New York City,Travel and Transportation,Lodging,,,,
+132,857,40.748315,-73.986064,1872,Bar,2012-04-18 22:45:04+00:00,New York City,Dining and Drinking,Bar,,,,
+133,857,40.78133756458156,-73.94936573145294,28490,Bar,2012-07-04 00:59:55+00:00,New York City,Dining and Drinking,Bar,,,,
+134,857,40.77624183727568,-73.94997418614841,4864,Coffee Shop,2012-07-04 14:59:35+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+135,857,40.75671463992893,-73.97383443019756,1308,Hotel,2012-07-11 13:30:00+00:00,New York City,Travel and Transportation,Lodging,,,,
+136,857,40.779421452844176,-73.95057115870543,12636,Salon / Barbershop,2012-07-11 23:59:26+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+137,857,40.774772,-73.954047,1702,Burrito Place,2012-07-18 00:09:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+138,857,40.780335926514944,-73.9500947288325,27446,Bar,2012-07-18 23:50:36+00:00,New York City,Dining and Drinking,Bar,,,,
+139,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-06-06 10:04:54+00:00,New York City,Travel and Transportation,Lodging,,,,
+140,857,40.75673068586622,-73.9737425994621,16504,Spa / Massage,2012-06-06 21:47:46+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+141,857,40.73738738472749,-73.9883947864229,5196,BBQ Joint,2012-06-06 23:59:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+142,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-09 12:07:43+00:00,New York City,Travel and Transportation,Lodging,,,,
+143,857,40.748409014404565,-73.97666394325508,272,Mexican Restaurant,2012-05-09 22:52:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+144,857,40.75662911558263,-73.97388608496698,1308,Hotel,2012-05-16 15:17:15+00:00,New York City,Travel and Transportation,Lodging,,,,
+145,857,40.78057842044792,-73.946426753513,8899,Chinese Restaurant,2012-05-23 23:58:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+146,857,40.76232480057456,-73.9678144454956,1795,Department Store,2012-09-12 18:38:35+00:00,New York City,Retail,Department Store,,,,
+147,857,40.7526195459056,-73.99336294005377,2245,Hotel,2012-10-30 18:00:09+00:00,,Travel and Transportation,Lodging,0.0,0.0,nyc,Rec
+148,857,40.78133756458156,-73.94936573145294,28490,Bar,2012-11-01 18:00:09+00:00,,Dining and Drinking,Bar,2.0,0.0,nyc,Return
+149,857,40.7791942872022,-73.95384873479412,3284,Movie Theater,2012-11-01 18:00:09+00:00,,Arts and Entertainment,Movie Theater,2.0,0.0,nyc,Rec
+150,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-11-02 18:00:09+00:00,,Travel and Transportation,Lodging,3.0,0.0,nyc,Return
+151,857,40.75594942516311,-73.97242784500122,2366,Hotel,2012-11-05 18:00:09+00:00,,Travel and Transportation,Lodging,6.0,0.0,nyc,Rec
+152,857,40.75583617142858,-73.991862,22738,Hotel,2012-11-06 18:00:09+00:00,,Travel and Transportation,Lodging,7.0,1.0,nyc,Explore
+153,857,40.5734135655812,-73.978512000309,13496,Hot Dog Joint,2012-11-06 18:00:09+00:00,,Dining and Drinking,Restaurant,7.0,1.0,nyc,Return
+154,857,40.57560310940747,-73.97970002760799,19025,Bar,2012-11-07 18:00:09+00:00,,Dining and Drinking,Bar,8.0,1.0,nyc,Rec
+155,857,40.613408,-73.970121,29969,Hotel,2012-11-08 18:00:09+00:00,,Travel and Transportation,Lodging,9.0,1.0,nyc,Explore
+156,857,40.682031,-73.958545,29899,Hotel,2012-11-09 18:00:09+00:00,,Travel and Transportation,Lodging,10.0,1.0,nyc,Rec
+157,857,40.67230729295687,-73.95784374357962,2244,Beer Garden,2012-11-10 18:00:09+00:00,,Dining and Drinking,Bar,11.0,1.0,nyc,Explore
+158,857,40.76232480057456,-73.9678144454956,1795,Department Store,2012-11-10 18:00:09+00:00,,Retail,Department Store,11.0,1.0,nyc,Return
+159,857,40.757078,-73.9671573,26755,Bar,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bar,12.0,1.0,nyc,Return
+160,857,40.764346263364224,-73.98278197724018,12107,Hotel,2012-11-12 18:00:09+00:00,,Travel and Transportation,Lodging,13.0,1.0,nyc,Explore
+161,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-11-13 18:00:09+00:00,,Travel and Transportation,Lodging,14.0,2.0,nyc,Return
+162,857,40.779421452844176,-73.95057115870543,12636,Salon / Barbershop,2012-11-16 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,17.0,2.0,nyc,Return
+163,857,40.77915923185563,-73.95073762187819,32150,Vietnamese Restaurant,2012-11-16 18:00:09+00:00,,Dining and Drinking,Restaurant,17.0,2.0,nyc,Rec
+164,857,40.75611913826422,-73.97253157753975,8,Hotel,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Return
+165,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-11-19 18:00:09+00:00,,Travel and Transportation,Lodging,20.0,2.0,nyc,Return
+166,857,40.774817,-73.954013,8636,Thai Restaurant,2012-11-19 18:00:09+00:00,,Dining and Drinking,Restaurant,20.0,2.0,nyc,Return
+167,857,40.7791942872022,-73.95384873479412,3284,Movie Theater,2012-11-20 18:00:09+00:00,,Arts and Entertainment,Movie Theater,21.0,3.0,nyc,Return
+168,857,40.788454291269446,-73.94914186556423,32165,Bakery,2012-11-21 18:00:09+00:00,,Dining and Drinking,Bakery,22.0,3.0,nyc,Rec
+169,857,40.75096868277567,-73.98041743184213,455,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Explore
+170,857,40.57312025573819,-73.97970199584961,28482,Ice Cream Shop,2012-11-25 18:00:09+00:00,,Dining and Drinking,Dessert Shop,26.0,3.0,nyc,Return
+171,857,40.57520598119939,-73.98374615244924,4389,American Restaurant,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Rec
+172,857,40.772235,-73.955876,1373,Bar,2012-12-02 18:00:09+00:00,,Dining and Drinking,Bar,33.0,4.0,nyc,Return
+173,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-12-02 18:00:09+00:00,,Travel and Transportation,Lodging,33.0,4.0,nyc,Return
+174,857,40.758328,-73.985457,1496,Hotel,2012-12-03 18:00:09+00:00,,Travel and Transportation,Lodging,34.0,4.0,nyc,Rec
+175,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-12-05 18:00:09+00:00,,Travel and Transportation,Lodging,36.0,5.0,nyc,Return
+176,857,40.71671,-74.00826799518472,26077,American Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Return
+177,857,40.71933912149095,-74.00487184524536,633,Hotel,2012-12-06 18:00:09+00:00,,Travel and Transportation,Lodging,37.0,5.0,nyc,Rec
+178,857,40.773795,-73.957365,34017,Mediterranean Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Return
+179,857,40.77138107266706,-73.95646042374283,2621,Bar,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bar,39.0,5.0,nyc,Return
+180,857,40.76559120804944,-73.97658359254557,601,Bar,2012-12-09 18:00:09+00:00,,Dining and Drinking,Bar,40.0,5.0,nyc,Explore
+181,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-12-09 18:00:09+00:00,,Travel and Transportation,Lodging,40.0,5.0,nyc,Return
+182,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-12-10 18:00:09+00:00,,Travel and Transportation,Lodging,41.0,5.0,nyc,Return
+183,857,40.772301,-73.955844,724,BBQ Joint,2012-12-10 18:00:09+00:00,,Dining and Drinking,Restaurant,41.0,5.0,nyc,Rec
+184,857,40.780482,-73.952901,943,Bar,2012-12-11 18:00:09+00:00,,Dining and Drinking,Bar,42.0,6.0,nyc,Rec
+185,857,40.77073168703263,-73.95377985460763,682,Bar,2012-12-11 18:00:09+00:00,,Dining and Drinking,Bar,42.0,6.0,nyc,Return
+186,857,40.758328,-73.985457,1496,Hotel,2012-12-12 18:00:09+00:00,,Travel and Transportation,Lodging,43.0,6.0,nyc,Return
+187,857,40.7576491292538,-73.98919250365374,3526,Hotel,2012-12-13 18:00:09+00:00,,Travel and Transportation,Lodging,44.0,6.0,nyc,Rec
+188,857,40.735754595656175,-74.00079059301935,588,Bar,2012-12-15 18:00:09+00:00,,Dining and Drinking,Bar,46.0,6.0,nyc,Rec
+189,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-12-17 18:00:09+00:00,,Travel and Transportation,Lodging,48.0,6.0,nyc,Return
+190,857,40.7405579801227,-74.00777996246534,5015,Beer Garden,2012-12-17 18:00:09+00:00,,Dining and Drinking,Bar,48.0,6.0,nyc,Return
+191,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-12-18 18:00:09+00:00,,Travel and Transportation,Lodging,49.0,7.0,nyc,Return
+192,857,40.75673068586622,-73.97406974625711,1308,Hotel,2012-12-19 18:00:09+00:00,,Travel and Transportation,Lodging,50.0,7.0,nyc,Rec
+193,857,40.87605449348925,-74.06479982652888,18585,Coffee Shop,2012-12-19 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",50.0,7.0,nyc,Return
+194,857,40.78662301411383,-73.95062281970543,32668,Bar,2012-12-20 18:00:09+00:00,,Dining and Drinking,Bar,51.0,7.0,nyc,Rec
+195,857,40.73738738472749,-73.9883947864229,5196,BBQ Joint,2012-12-31 18:00:09+00:00,,Dining and Drinking,Restaurant,62.0,8.0,nyc,Return
+196,857,40.779611,-73.949873,703,Bar,2013-01-01 18:00:09+00:00,,Dining and Drinking,Bar,63.0,9.0,nyc,Return
+197,857,40.78029770972596,-73.94612073898315,11820,Hotel,2013-01-08 18:00:09+00:00,,Travel and Transportation,Lodging,70.0,10.0,nyc,Rec
+198,857,40.75673068586622,-73.97406974625711,1308,Hotel,2013-01-09 18:00:09+00:00,,Travel and Transportation,Lodging,71.0,10.0,nyc,Return

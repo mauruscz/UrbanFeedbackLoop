@@ -1,0 +1,166 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,222,40.70234499714752,-73.99068489671282,2853,Coffee Shop,2012-04-20 19:34:11+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+1,222,40.724169079279605,-73.99721145629883,32242,Office,2012-07-06 23:09:25+00:00,New York City,Business and Professional Services,Office,,,,
+2,222,40.72413519041223,-73.99778927450977,1705,Food & Drink Shop,2012-07-06 23:10:48+00:00,New York City,Retail,Food and Beverage Retail,,,,
+3,222,40.72459188718318,-73.99714708328247,4498,Clothing Store,2012-07-06 23:41:28+00:00,New York City,Retail,Fashion Retail,,,,
+4,222,40.74995544581752,-73.98755550384521,3233,Clothing Store,2012-06-08 21:48:42+00:00,New York City,Retail,Fashion Retail,,,,
+5,222,40.765097,-73.91851925,20632,Salon / Barbershop,2012-06-08 23:04:17+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+6,222,40.74721709041606,-74.00456082513274,2018,Bar,2012-05-04 22:31:48+00:00,New York City,Dining and Drinking,Bar,,,,
+7,222,40.74888256809464,-74.01036500930786,4328,Park,2012-05-04 23:59:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+8,222,40.7635132878014,-73.92092121119487,25033,Laundry Service,2012-10-19 00:53:44+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+9,222,40.729463,-73.985979,2371,Japanese Restaurant,2012-10-26 23:03:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,222,40.74567484103852,-73.98366580469997,13685,Food & Drink Shop,2012-07-02 20:42:47+00:00,New York City,Retail,Food and Beverage Retail,,,,
+11,222,40.74907894406079,-73.98399867372817,5873,Coffee Shop,2012-04-14 21:17:11+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+12,222,40.76208802028737,-73.8030117151592,31206,Korean Restaurant,2012-04-14 22:22:46+00:00,New York City,Dining and Drinking,Restaurant,,,,
+13,222,40.84913659765046,-73.99680221493571,7749,Bar,2012-08-11 01:20:08+00:00,New York City,Dining and Drinking,Bar,,,,
+14,222,40.71641211717547,-73.99903456915965,3000,Chinese Restaurant,2012-07-07 00:46:49+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,222,40.72284169882771,-73.9941164689654,11,Cuban Restaurant,2012-07-07 01:33:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+16,222,40.76432383634019,-73.74890327453613,13519,Athletic & Sport,2012-07-07 12:09:10+00:00,New York City,Sports and Recreation,Golf,,,,
+17,222,40.7632999474836,-73.9211654663086,3792,Burger Joint,2012-07-07 16:54:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,222,40.76489500515031,-73.916954,3860,Bagel Shop,2012-07-07 19:34:48+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+19,222,40.76251983110092,-73.92642259597777,14148,Food & Drink Shop,2012-07-07 23:56:27+00:00,New York City,Retail,Food and Beverage Retail,,,,
+20,222,40.75219736002639,-73.98368302207766,2209,Chinese Restaurant,2012-07-21 23:10:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,222,40.816293899751976,-73.98057103157043,28706,Japanese Restaurant,2012-07-28 17:50:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,222,40.81309872799184,-73.98468554019928,4863,Coffee Shop,2012-07-28 19:13:41+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+23,222,40.81638605190568,-73.97969329829981,22542,Miscellaneous Shop,2012-07-28 22:12:06+00:00,New York City,Retail,Miscellaneous Store,,,,
+24,222,40.76203225371199,-73.98515224456787,22183,Neighborhood,2012-06-09 17:08:05+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+25,222,40.75580720140373,-73.99060249328613,4102,Bakery,2012-06-09 20:40:08+00:00,New York City,Dining and Drinking,Bakery,,,,
+26,222,40.765097,-73.91851925,20632,Salon / Barbershop,2012-06-09 22:20:21+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+27,222,40.815281468378586,-73.9815824906134,14343,Athletic & Sport,2012-05-12 11:48:35+00:00,New York City,Sports and Recreation,Golf,,,,
+28,222,40.85114,-73.97069,34785,Korean Restaurant,2012-05-12 14:20:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+29,222,40.74831361076324,-73.98822069168091,10073,Neighborhood,2012-05-19 00:26:07+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+30,222,40.74798849010256,-73.9875340461731,34910,Korean Restaurant,2012-05-19 00:53:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+31,222,40.74763,-73.9863,6492,Asian Restaurant,2012-05-19 01:54:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+32,222,40.76432383634019,-73.74890327453613,13519,Athletic & Sport,2012-05-19 11:34:24+00:00,New York City,Sports and Recreation,Golf,,,,
+33,222,40.74117519207525,-73.99388117746173,27647,Flea Market,2012-05-19 17:35:39+00:00,New York City,Retail,Flea Market,,,,
+34,222,40.73756768789188,-74.00390089641063,3169,Scandinavian Restaurant,2012-05-19 18:02:37+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,222,40.735208,-74.004943,25667,Food Truck,2012-05-19 19:20:35+00:00,New York City,Dining and Drinking,Food Truck,,,,
+36,222,40.74831361076324,-73.98822069168091,10073,Neighborhood,2012-05-26 02:32:57+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+37,222,40.74790144316556,-73.98689116651354,907,Korean Restaurant,2012-05-26 02:34:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,222,40.73686901343388,-73.9913446019438,348,American Restaurant,2012-10-27 00:49:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,222,40.76392076968141,-73.9731227408518,1652,Electronics Store,2012-10-27 18:03:22+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+40,222,40.76374688503551,-73.97148907184601,7641,Furniture / Home Store,2012-10-27 18:03:47+00:00,New York City,Retail,Furniture and Home Store,,,,
+41,222,40.773883557841096,-73.98221953946711,27055,Department Store,2012-10-27 18:38:36+00:00,New York City,Retail,Department Store,,,,
+42,222,40.74088398082356,-74.00765959043375,2652,Hotel,2012-09-15 16:46:51+00:00,New York City,Travel and Transportation,Lodging,,,,
+43,222,40.730245106692,-74.00222524108362,28307,Cupcake Shop,2012-09-15 17:53:06+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+44,222,40.7217880254322,-73.99983224212427,6092,Clothing Store,2012-09-15 19:31:45+00:00,New York City,Retail,Fashion Retail,,,,
+45,222,40.750224406176784,-73.98646073879884,36813,Korean Restaurant,2012-09-15 22:01:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,222,40.75678244392934,-74.00150299072266,25885,General Entertainment,2012-04-08 17:09:51+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+47,222,40.764841,-73.812308,13040,Korean Restaurant,2012-04-15 14:09:44+00:00,New York City,Dining and Drinking,Restaurant,,,,
+48,222,40.763421839841264,-73.77087593078613,5633,Bakery,2012-04-15 15:18:10+00:00,New York City,Dining and Drinking,Bakery,,,,
+49,222,40.763280802898464,-73.80912369980592,10655,Food & Drink Shop,2012-04-15 15:40:18+00:00,New York City,Retail,Food and Beverage Retail,,,,
+50,222,40.76208802028737,-73.8030117151592,31206,Korean Restaurant,2012-04-22 16:01:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+51,222,40.76803326982161,-73.98186922073364,2490,Plaza,2012-04-29 16:01:16+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+52,222,40.76489500515031,-73.916954,3860,Bagel Shop,2012-08-05 16:02:38+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+53,222,40.661168090780535,-73.97906870966743,26867,Park,2012-08-05 21:40:23+00:00,New York City,Landmarks and Outdoors,Park,,,,
+54,222,40.76489500515031,-73.916954,3860,Bagel Shop,2012-08-19 14:10:59+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+55,222,40.74864830010495,-73.98531866591934,5788,Bank,2012-07-08 14:49:20+00:00,New York City,Business and Professional Services,Financial Service,,,,
+56,222,40.74831361076324,-73.98822069168091,10073,Neighborhood,2012-07-08 14:49:37+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+57,222,40.72173557159932,-73.9959356642583,1564,Dessert Shop,2012-07-08 15:27:55+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+58,222,40.7216130038783,-73.95814221792891,23555,Bar,2012-07-08 18:50:17+00:00,New York City,Dining and Drinking,Bar,,,,
+59,222,40.71735292817359,-73.96039224047603,12179,Coffee Shop,2012-07-08 19:25:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+60,222,40.71697599250837,-73.95915817523549,1697,Breakfast Spot,2012-07-08 19:43:29+00:00,New York City,Dining and Drinking,Breakfast Spot,,,,
+61,222,40.716237,-73.959395,4427,Food & Drink Shop,2012-07-08 19:51:13+00:00,New York City,Retail,Food and Beverage Retail,,,,
+62,222,40.71424858464975,-73.95375967025757,16130,Neighborhood,2012-07-08 20:03:56+00:00,New York City,Landmarks and Outdoors,States and Municipalities,,,,
+63,222,40.70507898542075,-73.93364403923762,2231,Pizza Place,2012-07-08 20:35:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+64,222,40.70548183,-73.933317,4670,Sandwich Place,2012-07-08 21:20:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+65,222,40.75837500818309,-73.98849696722681,3185,Pizza Place,2012-07-08 23:14:21+00:00,New York City,Dining and Drinking,Restaurant,,,,
+66,222,40.76614404424928,-73.91996383666992,6697,Food & Drink Shop,2012-07-15 15:08:23+00:00,New York City,Retail,Food and Beverage Retail,,,,
+67,222,40.76438810873957,-73.97423044974222,36082,Bakery,2012-07-15 23:20:41+00:00,New York City,Dining and Drinking,Bakery,,,,
+68,222,40.77199456125419,-73.98217362610683,26481,Caf�,2012-07-15 23:37:59+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+69,222,40.7635132878014,-73.92092121119487,25033,Laundry Service,2012-07-22 14:17:29+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+70,222,40.76521,-73.91794145107269,6042,Chinese Restaurant,2012-06-03 01:03:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+71,222,40.752313879332334,-73.98978361572186,26823,Deli / Bodega,2012-06-03 16:36:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,222,40.756489872673846,-73.98626804351807,2360,Plaza,2012-06-03 20:48:06+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+73,222,40.765484,-73.91824,5700,Southern / Soul Food Restaurant,2012-06-03 23:32:10+00:00,New York City,Dining and Drinking,Restaurant,,,,
+74,222,40.75580720140373,-73.99060249328613,4102,Bakery,2012-06-10 15:57:19+00:00,New York City,Dining and Drinking,Bakery,,,,
+75,222,40.74812260256768,-73.98759305477142,3424,Korean Restaurant,2012-06-10 16:38:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+76,222,40.747744648563874,-73.9853024482727,10422,Coffee Shop,2012-06-10 18:15:18+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+77,222,40.747631,-73.98613,21568,Bakery,2012-06-10 18:15:45+00:00,New York City,Dining and Drinking,Bakery,,,,
+78,222,40.76402919978805,-73.97267506394739,36123,Other Great Outdoors,2012-06-10 18:41:54+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+79,222,40.75873288606094,-73.97021770477295,12686,Sporting Goods Shop,2012-06-10 19:05:23+00:00,New York City,Retail,Sporting Goods Retail,,,,
+80,222,40.76394157767436,-73.92354482590207,12875,Laundry Service,2012-06-10 21:28:34+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+81,222,40.76750916746532,-73.93837451934814,16290,Food & Drink Shop,2012-06-10 22:02:59+00:00,New York City,Retail,Food and Beverage Retail,,,,
+82,222,40.762935287785695,-73.99905752382375,13927,Building,2012-06-17 16:48:29+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+83,222,40.76002502245829,-73.99152517318726,2663,Pizza Place,2012-06-17 17:36:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+84,222,40.7674486064936,-73.96876645598894,17722,Clothing Store,2012-06-17 19:24:47+00:00,New York City,Retail,Boutique,,,,
+85,222,40.7645026089675,-73.9740800857544,17436,Food & Drink Shop,2012-06-17 19:55:12+00:00,New York City,Dining and Drinking,Food Court,,,,
+86,222,40.76269729005335,-73.92678841436158,33023,Brazilian Restaurant,2012-05-06 17:06:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+87,222,40.75249255272536,-73.98029116889106,2295,Sushi Restaurant,2012-05-06 21:28:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+88,222,40.735734,-74.00059,2580,Bar,2012-05-13 19:13:46+00:00,New York City,Dining and Drinking,Bar,,,,
+89,222,40.7361868327362,-74.00099144439545,1933,Gastropub,2012-05-13 19:22:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+90,222,40.73923249454244,-74.00294534862041,26779,Coffee Shop,2012-05-13 20:50:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+91,222,40.74706188749892,-74.00519371032715,965,Park,2012-05-13 21:28:06+00:00,New York City,Landmarks and Outdoors,Park,,,,
+92,222,40.7353238036913,-74.00177121162415,1965,Italian Restaurant,2012-05-27 17:24:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+93,222,40.743644,-73.992241,6086,Coffee Shop,2012-05-27 20:03:42+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+94,222,40.74426646124106,-73.99242351146776,26874,Flea Market,2012-05-27 20:38:23+00:00,New York City,Retail,Flea Market,,,,
+95,222,40.7410665668052,-73.98150788115005,897,Sushi Restaurant,2012-10-28 17:31:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+96,222,40.72925672221742,-73.9936860574592,22449,Clothing Store,2012-10-28 20:23:46+00:00,New York City,Retail,Fashion Retail,,,,
+97,222,40.75640173106539,-73.96820971683033,18940,Ramen /  Noodle House,2012-10-28 21:10:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+98,222,40.7480325,-73.987227,1962,Bakery,2012-04-12 21:45:26+00:00,New York City,Dining and Drinking,Bakery,,,,
+99,222,40.74763,-73.9863,6492,Asian Restaurant,2012-06-14 01:16:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+100,222,40.7479795170323,-73.98708629342632,9195,Japanese Restaurant,2012-04-17 22:42:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+101,222,40.762996,-73.92097966666667,1886,Sandwich Place,2012-08-14 22:42:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+102,222,40.754675906639335,-73.9914823354124,3445,Japanese Restaurant,2012-07-10 22:13:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+103,222,40.75544236028292,-73.99124704067701,6204,Coffee Shop,2012-07-10 22:42:52+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+104,222,40.76535302789142,-73.91821718611432,6017,Pizza Place,2012-06-05 01:57:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+105,222,40.765097,-73.91851925,20632,Salon / Barbershop,2012-04-18 22:52:56+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+106,222,40.74567484103852,-73.98366580469997,13685,Food & Drink Shop,2012-07-11 20:42:39+00:00,New York City,Retail,Food and Beverage Retail,,,,
+107,222,40.76535302789142,-73.91821718611432,6017,Pizza Place,2012-06-06 23:38:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+108,222,40.747631,-73.98613,21568,Bakery,2012-06-13 21:32:00+00:00,New York City,Dining and Drinking,Bakery,,,,
+109,222,40.76031573300012,-73.98334441336685,5048,Japanese Restaurant,2012-09-05 22:31:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+110,222,40.7635132878014,-73.92092121119487,25033,Laundry Service,2012-10-31 18:00:09+00:00,,Business and Professional Services,Laundry Service,1.0,0.0,nyc,Return
+111,222,40.75335278522429,-73.9084284158856,15228,Fast Food Restaurant,2012-11-01 18:00:09+00:00,,Dining and Drinking,Restaurant,2.0,0.0,nyc,Rec
+112,222,40.757801,-73.91637,23950,Bagel Shop,2012-11-11 18:00:09+00:00,,Dining and Drinking,Bagel Shop,12.0,1.0,nyc,Rec
+113,222,40.72459188718318,-73.99714708328247,4498,Clothing Store,2012-11-15 18:00:09+00:00,,Retail,Fashion Retail,16.0,2.0,nyc,Return
+114,222,40.76208802028737,-73.8030117151592,31206,Korean Restaurant,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Return
+115,222,40.76439892731494,-73.80937644700131,11742,Diner,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Rec
+116,222,40.76333429074544,-73.80931,14387,Asian Restaurant,2012-11-24 18:00:09+00:00,,Dining and Drinking,Restaurant,25.0,3.0,nyc,Rec
+117,222,40.77928630074712,-73.77825166163298,11739,Clothing Store,2012-11-24 18:00:09+00:00,,Retail,Fashion Retail,25.0,3.0,nyc,Rec
+118,222,40.7197747529193,-73.84371260249156,11573,Cosmetics Shop,2012-11-24 18:00:09+00:00,,Retail,Cosmetics Store,25.0,3.0,nyc,Rec
+119,222,40.71961735061842,-73.8435747643426,11388,Clothing Store,2012-11-24 18:00:09+00:00,,Retail,Fashion Retail,25.0,3.0,nyc,Rec
+120,222,40.7217880254322,-73.99983224212427,6092,Clothing Store,2012-11-24 18:00:09+00:00,,Retail,Fashion Retail,25.0,3.0,nyc,Return
+121,222,40.74995544581752,-73.98755550384521,3233,Clothing Store,2012-11-24 18:00:09+00:00,,Retail,Fashion Retail,25.0,3.0,nyc,Return
+122,222,40.7479795170323,-73.98708629342632,9195,Japanese Restaurant,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Return
+123,222,40.729545,-73.986137,21061,Laundry Service,2012-12-06 18:00:09+00:00,,Business and Professional Services,Laundry Service,37.0,5.0,nyc,Rec
+124,222,40.72915518010633,-73.98702890317843,625,Eastern European Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Rec
+125,222,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Rec
+126,222,40.72953528798119,-73.9934778213501,7493,College Academic Building,2012-12-08 18:00:09+00:00,,Community and Government,Education,39.0,5.0,nyc,Explore
+127,222,40.730245106692,-74.00222524108362,28307,Cupcake Shop,2012-12-08 18:00:09+00:00,,Dining and Drinking,Dessert Shop,39.0,5.0,nyc,Return
+128,222,40.754597385692016,-73.98423397734838,34357,Clothing Store,2012-12-08 18:00:09+00:00,,Retail,Fashion Retail,39.0,5.0,nyc,Rec
+129,222,40.75150160315114,-73.98271884655175,3818,Department Store,2012-12-08 18:00:09+00:00,,Retail,Department Store,39.0,5.0,nyc,Rec
+130,222,40.76374688503551,-73.97148907184601,7641,Furniture / Home Store,2012-12-08 18:00:09+00:00,,Retail,Furniture and Home Store,39.0,5.0,nyc,Return
+131,222,40.75206863918968,-73.97502422332764,16020,Caf�,2012-12-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",39.0,5.0,nyc,Explore
+132,222,40.76393850093645,-73.97308830420383,1652,Electronics Store,2012-12-08 18:00:09+00:00,,Retail,Computers and Electronics Retail,39.0,5.0,nyc,Return
+133,222,40.77220968971734,-73.92897605895996,18422,Bakery,2012-12-08 18:00:09+00:00,,Dining and Drinking,Bakery,39.0,5.0,nyc,Rec
+134,222,40.731155872068506,-73.98872764725327,2196,American Restaurant,2012-12-14 18:00:09+00:00,,Dining and Drinking,Restaurant,45.0,6.0,nyc,Return
+135,222,40.756489872673846,-73.98626804351807,2360,Plaza,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,Plaza,46.0,6.0,nyc,Return
+136,222,40.76803326982161,-73.98186922073364,2490,Plaza,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,Plaza,46.0,6.0,nyc,Rec
+137,222,40.74349307584732,-73.99399021502371,2752,Bakery,2012-12-15 18:00:09+00:00,,Dining and Drinking,Bakery,46.0,6.0,nyc,Rec
+138,222,40.73850769149493,-73.98753393677096,32283,Cupcake Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,Dessert Shop,54.0,7.0,nyc,Explore
+139,222,40.76489500515031,-73.916954,3860,Bagel Shop,2012-12-28 18:00:09+00:00,,Dining and Drinking,Bagel Shop,59.0,8.0,nyc,Return
+140,222,40.71961735061842,-73.8435747643426,11388,Clothing Store,2012-12-29 18:00:09+00:00,,Retail,Fashion Retail,60.0,8.0,nyc,Return
+141,222,40.727486422997785,-73.85490417480469,7339,Diner,2012-12-29 18:00:09+00:00,,Dining and Drinking,Restaurant,60.0,8.0,nyc,Rec
+142,222,40.72042060713788,-73.84588122367859,2825,Bakery,2012-12-30 18:00:09+00:00,,Dining and Drinking,Bakery,61.0,8.0,nyc,Rec
+143,222,40.71961735061842,-73.8435747643426,11388,Clothing Store,2013-01-02 18:00:09+00:00,,Retail,Fashion Retail,64.0,9.0,nyc,Rec
+144,222,40.6520548219427,-73.87064662252766,8029,Furniture / Home Store,2013-01-05 18:00:09+00:00,,Retail,Furniture and Home Store,67.0,9.0,nyc,Rec
+145,222,40.6520548219427,-73.87064662252766,8029,Furniture / Home Store,2013-01-05 18:00:09+00:00,,Retail,Furniture and Home Store,67.0,9.0,nyc,Return
+146,222,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-01-05 18:00:09+00:00,,Retail,Computers and Electronics Retail,67.0,9.0,nyc,Return
+147,222,40.71961735061842,-73.8435747643426,11388,Clothing Store,2013-01-05 18:00:09+00:00,,Retail,Fashion Retail,67.0,9.0,nyc,Return
+148,222,40.712792912295455,-73.8594102859497,20631,Plaza,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Plaza,69.0,9.0,nyc,Rec
+149,222,40.76489500515031,-73.916954,3860,Bagel Shop,2013-01-13 18:00:09+00:00,,Dining and Drinking,Bagel Shop,75.0,10.0,nyc,Return
+150,222,40.763280802898464,-73.80912369980592,10655,Food & Drink Shop,2013-01-14 18:00:09+00:00,,Retail,Food and Beverage Retail,76.0,10.0,nyc,Return
+151,222,40.757557292207295,-73.83560296093785,23541,Furniture / Home Store,2013-01-14 18:00:09+00:00,,Retail,Furniture and Home Store,76.0,10.0,nyc,Rec
+152,222,40.78176268850011,-73.82551139115527,23572,Playground,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,Park,76.0,10.0,nyc,Explore
+153,222,40.76393850093645,-73.97308830420383,1652,Electronics Store,2013-01-21 18:00:09+00:00,,Retail,Computers and Electronics Retail,83.0,11.0,nyc,Return
+154,222,40.71961735061842,-73.8435747643426,11388,Clothing Store,2013-01-21 18:00:09+00:00,,Retail,Fashion Retail,83.0,11.0,nyc,Return
+155,222,40.7635132878014,-73.92092121119487,25033,Laundry Service,2013-01-27 18:00:09+00:00,,Business and Professional Services,Laundry Service,89.0,12.0,nyc,Return
+156,222,40.75203612903108,-73.97601127624512,4341,Food & Drink Shop,2013-01-28 18:00:09+00:00,,Retail,Food and Beverage Retail,90.0,12.0,nyc,Rec
+157,222,40.75219736002639,-73.98368302207766,2209,Chinese Restaurant,2013-01-28 18:00:09+00:00,,Dining and Drinking,Restaurant,90.0,12.0,nyc,Return
+158,222,40.740019218226266,-73.99469608826703,5012,Furniture / Home Store,2013-01-28 18:00:09+00:00,,Retail,Furniture and Home Store,90.0,12.0,nyc,Rec
+159,222,40.76374688503551,-73.97148907184601,7641,Furniture / Home Store,2013-01-28 18:00:09+00:00,,Retail,Furniture and Home Store,90.0,12.0,nyc,Return
+160,222,40.765097,-73.91851925,20632,Salon / Barbershop,2013-02-02 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,95.0,13.0,nyc,Return
+161,222,40.74721709041606,-74.00456082513274,2018,Bar,2013-02-03 18:00:09+00:00,,Dining and Drinking,Bar,96.0,13.0,nyc,Return
+162,222,40.73686901343388,-73.9913446019438,348,American Restaurant,2013-02-04 18:00:09+00:00,,Dining and Drinking,Restaurant,97.0,13.0,nyc,Return
+163,222,40.73649425404792,-73.99046080983373,1815,Clothing Store,2013-02-04 18:00:09+00:00,,Retail,Fashion Retail,97.0,13.0,nyc,Rec
+164,222,40.74140750304299,-73.98843795061111,950,Burger Joint,2013-02-06 18:00:09+00:00,,Dining and Drinking,Restaurant,99.0,14.0,nyc,Rec

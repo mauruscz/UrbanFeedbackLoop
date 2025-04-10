@@ -1,0 +1,209 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,800,40.73213693038044,-73.99626731872559,28338,Theater,2012-08-10 21:17:32+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+1,800,40.76052381506102,-73.98799879606251,23223,Theater,2012-08-10 23:37:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+2,800,40.72780185160815,-73.98571466180762,6272,Performing Arts Venue,2012-08-17 21:29:26+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+3,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-07-06 00:02:33+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+4,800,40.77333023500963,-73.9838609348899,10051,Theater,2012-07-06 22:54:31+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+5,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-07-13 01:25:43+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+6,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-05-11 00:30:23+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+7,800,40.760258991409074,-73.98695429583053,5682,Theater,2012-05-18 23:58:36+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+8,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-10-19 00:33:18+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+9,800,40.756931775430665,-73.98897442301349,898,Movie Theater,2012-10-19 14:13:08+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+10,800,40.756931775430665,-73.98897442301349,898,Movie Theater,2012-10-19 17:12:27+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+11,800,40.77364925929136,-73.9840216301916,1600,Movie Theater,2012-09-14 21:21:22+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+12,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-09-14 23:49:52+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+13,800,40.75813665553855,-73.99328433918174,6750,Theater,2012-04-23 23:02:46+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+14,800,40.73262472700583,-74.00813341140747,30192,Theater,2012-08-13 00:28:17+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+15,800,40.774697291507216,-73.98194979831837,2817,Movie Theater,2012-08-13 22:58:34+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+16,800,40.75936676743212,-73.99521589279175,36149,Theater,2012-07-16 00:32:44+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+17,800,40.75990312387116,-73.99047374725342,36151,Theater,2012-07-16 15:38:25+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+18,800,40.76068327096592,-73.99761915206909,36145,Theater,2012-07-16 19:49:58+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+19,800,40.75990312387116,-73.99047374725342,36151,Theater,2012-07-16 22:44:15+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+20,800,40.7311979118086,-74.00157272815704,1357,Movie Theater,2012-07-30 21:50:05+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+21,800,40.75948441560725,-73.99497155029114,11196,Theater,2012-06-04 23:33:24+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+22,800,40.76323946611866,-73.98393554343956,73,Music Venue,2012-06-18 03:35:23+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+23,800,40.75281239893301,-73.97717474340911,31763,Electronics Store,2012-05-14 20:57:43+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+24,800,40.757031390907855,-73.98902607371383,898,Movie Theater,2012-05-28 13:59:17+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+25,800,40.758911673726345,-73.99373531341553,12184,Theater,2012-05-28 22:40:54+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+26,800,40.736055,-74.001797,3215,Theater,2012-04-07 23:48:36+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+27,800,40.758160663911696,-73.98771758502066,2307,Theater,2012-04-14 01:46:52+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+28,800,40.759110777606,-73.98306548595428,33649,Theater,2012-04-14 17:55:20+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+29,800,40.764843900829774,-73.98043155670166,6792,Concert Hall,2012-04-21 01:50:33+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+30,800,40.75845573703489,-73.99320399542526,16744,General Entertainment,2012-04-28 23:37:35+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+31,800,40.759246120542606,-73.9926243716133,6243,Theater,2012-08-11 18:27:02+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+32,800,40.75916766431922,-73.98492157459259,7928,General Entertainment,2012-08-11 23:21:10+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+33,800,40.76069793431174,-73.98598439766978,4917,Theater,2012-08-11 23:33:30+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+34,800,40.72633967487844,-74.00440014704478,5338,Theater,2012-08-18 20:10:32+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+35,800,40.73012815477761,-74.00051513936097,22762,Theater,2012-08-18 23:00:56+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+36,800,40.77364925929136,-73.9840216301916,1600,Movie Theater,2012-07-07 02:40:07+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+37,800,40.77308312955881,-73.98281335830688,1384,Concert Hall,2012-07-21 00:05:04+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+38,800,40.6871589,-73.9912443,6665,Art Gallery,2012-07-28 00:13:45+00:00,New York City,Arts and Entertainment,Art Gallery,,,,
+39,800,40.76224486711165,-73.9792871763928,3335,Hotel,2012-07-28 11:47:15+00:00,New York City,Travel and Transportation,Lodging,,,,
+40,800,40.75990312387116,-73.99047374725342,36151,Theater,2012-07-28 14:42:18+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+41,800,40.75936676743212,-73.99521589279175,36149,Theater,2012-07-28 18:12:29+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+42,800,40.77059959168162,-73.98893425023692,9791,College Theater,2012-07-28 22:54:35+00:00,New York City,Community and Government,Education,,,,
+43,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-06-02 23:58:29+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+44,800,40.74377803397024,-74.0015459060669,6691,Theater,2012-06-09 17:52:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+45,800,40.74157474669489,-74.00213916250293,6489,Theater,2012-06-09 23:02:40+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+46,800,40.77113147017667,-73.96734303720663,2674,Art Museum,2012-06-30 20:46:31+00:00,New York City,Arts and Entertainment,Museum,,,,
+47,800,40.75169333099049,-73.97658359254557,3009,Hotel,2012-05-05 12:36:15+00:00,New York City,Travel and Transportation,Lodging,,,,
+48,800,40.74936729280843,-73.98189814571478,2481,Museum,2012-05-05 16:01:06+00:00,New York City,Arts and Entertainment,Museum,,,,
+49,800,40.7586243464012,-73.97040796620362,3690,Theater,2012-05-12 18:05:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+50,800,40.75845573703489,-73.99320399542526,16744,General Entertainment,2012-05-12 23:34:56+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+51,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-05-19 22:11:23+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+52,800,40.77364925929136,-73.9840216301916,1600,Movie Theater,2012-10-13 03:32:44+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+53,800,40.74377803397024,-74.0015459060669,6691,Theater,2012-10-27 14:21:48+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+54,800,40.7349021,-73.989009,6313,Theater,2012-10-27 20:56:26+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+55,800,40.75169333099049,-73.97658359254557,3009,Hotel,2012-09-15 11:30:37+00:00,New York City,Travel and Transportation,Lodging,,,,
+56,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-09-15 16:52:51+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+57,800,40.75948441560725,-73.99497155029114,11196,Theater,2012-09-15 19:57:12+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+58,800,40.736499,-74.009196,90,Theater,2012-09-15 23:15:44+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+59,800,40.73597641666667,-74.00147069,7614,Chinese Restaurant,2012-04-08 02:37:51+00:00,New York City,Dining and Drinking,Restaurant,,,,
+60,800,40.75875683115667,-73.98730437621178,1837,Theater,2012-04-08 18:49:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+61,800,40.75827778801546,-73.98802757263184,7051,Theater,2012-04-15 01:25:09+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+62,800,40.77361447158453,-73.9641058682518,1176,Art Museum,2012-04-15 15:30:22+00:00,New York City,Arts and Entertainment,Museum,,,,
+63,800,40.77113147017667,-73.96734303720663,2674,Art Museum,2012-04-15 16:34:57+00:00,New York City,Arts and Entertainment,Museum,,,,
+64,800,40.758842449664655,-73.97041370572528,3690,Theater,2012-04-15 17:59:32+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+65,800,40.71873557708732,-74.00445179358778,4648,Theater,2012-04-22 00:08:23+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+66,800,40.72237241543094,-73.99316956237647,2186,Art Museum,2012-04-22 15:18:25+00:00,New York City,Arts and Entertainment,Museum,,,,
+67,800,40.7349021,-73.989009,6313,Theater,2012-04-22 18:57:26+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+68,800,40.75845573703489,-73.99320399542526,16744,General Entertainment,2012-04-22 23:00:07+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+69,800,40.71562118249096,-73.99983224212427,9613,Park,2012-04-29 15:00:22+00:00,New York City,Landmarks and Outdoors,Park,,,,
+70,800,40.71873557708732,-74.00445179358778,4648,Theater,2012-04-29 15:54:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+71,800,40.77199456125419,-73.98217362610683,26481,Caf�,2012-08-05 21:01:27+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+72,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-08-05 21:34:44+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+73,800,40.72780185160815,-73.98571466180762,6272,Performing Arts Venue,2012-08-12 18:07:40+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+74,800,40.7294854,-73.991787,5343,Theater,2012-08-19 20:05:11+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+75,800,40.7294854,-73.991787,5343,Theater,2012-08-19 22:20:11+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+76,800,40.75247132233474,-73.99431158852992,1938,Movie Theater,2012-07-08 14:10:35+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+77,800,40.76873612928359,-73.98292064666748,2660,Music Venue,2012-07-08 23:29:10+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+78,800,40.7311979118086,-74.00157272815704,1357,Movie Theater,2012-07-15 14:40:52+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+79,800,40.77199437487606,-73.98347854614258,3189,Theater,2012-07-15 18:41:59+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+80,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-07-29 00:30:01+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+81,800,40.756931775430665,-73.98897442301349,898,Movie Theater,2012-07-29 13:31:17+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+82,800,40.76068327096592,-73.99761915206909,36145,Theater,2012-07-29 16:41:08+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+83,800,40.76068327096592,-73.99761915206909,36145,Theater,2012-07-29 20:52:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+84,800,40.778936659294864,-73.96229820007625,1277,Art Museum,2012-06-03 13:56:26+00:00,New York City,Arts and Entertainment,Museum,,,,
+85,800,40.68670740090934,-73.97777080535889,22367,Theater,2012-06-03 15:30:47+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+86,800,40.68667485881373,-73.97774934768677,1492,Movie Theater,2012-06-03 18:16:57+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+87,800,40.68670740090934,-73.97777080535889,22367,Theater,2012-06-03 20:16:44+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+88,800,40.73702496764239,-74.0054870079431,4600,Park,2012-06-03 22:53:36+00:00,New York City,Landmarks and Outdoors,Park,,,,
+89,800,40.736499,-74.009196,90,Theater,2012-06-03 23:32:49+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+90,800,40.75061379403183,-73.98856401443481,1028,Department Store,2012-06-10 01:17:31+00:00,New York City,Retail,Department Store,,,,
+91,800,40.77468600154588,-73.9820645818322,2817,Movie Theater,2012-06-10 13:32:48+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+92,800,40.768042071552536,-73.98207032100609,4605,Art Museum,2012-06-17 16:48:05+00:00,New York City,Arts and Entertainment,Museum,,,,
+93,800,40.75688385517346,-73.98814227092512,3303,Theater,2012-05-13 14:21:42+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+94,800,40.756464,-73.987708,7902,Theater,2012-05-13 20:48:35+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+95,800,40.723202,-73.9899354,1189,Movie Theater,2012-05-27 23:10:41+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+96,800,40.75688385517346,-73.98814227092512,3303,Theater,2012-10-28 14:30:01+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+97,800,40.75807495195094,-73.98941058404617,8619,Theater,2012-10-28 18:58:39+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+98,800,40.78299485153325,-73.95890951156616,1103,Art Museum,2012-09-09 13:36:17+00:00,New York City,Arts and Entertainment,Museum,,,,
+99,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-09-09 15:25:23+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+100,800,40.77364925929136,-73.9840216301916,1600,Movie Theater,2012-09-09 17:55:19+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+101,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-09-09 21:56:15+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+102,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-04-12 00:40:35+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+103,800,40.76328876000936,-73.97061458887566,1664,Theater,2012-04-12 22:34:01+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+104,800,40.68842703325036,-73.97879201419794,2351,Theater,2012-04-19 23:29:25+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+105,800,40.75807495195094,-73.98941058404617,8619,Theater,2012-04-26 01:40:19+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+106,800,40.761772210975394,-73.99287700653076,36148,Theater,2012-07-26 21:02:32+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+107,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-06-07 00:20:18+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+108,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-05-03 23:59:03+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+109,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-10-11 18:41:07+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+110,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-10-25 23:53:23+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+111,800,40.748842538752776,-73.98438893323356,1329,College Theater,2012-09-13 15:48:55+00:00,New York City,Community and Government,Education,,,,
+112,800,40.757209,-73.988085,3419,Theater,2012-04-10 23:52:23+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+113,800,40.772124376373135,-73.98369312286377,2306,Theater,2012-04-17 23:33:51+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+114,800,40.774697291507216,-73.98194979831837,2817,Movie Theater,2012-08-14 00:46:51+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+115,800,40.730185708117375,-74.00218963623047,2290,Park,2012-08-14 21:13:32+00:00,New York City,Landmarks and Outdoors,Park,,,,
+116,800,40.761772210975394,-73.99287700653076,36148,Theater,2012-07-17 00:43:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+117,800,40.75990312387116,-73.99047374725342,36151,Theater,2012-07-17 16:07:51+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+118,800,40.76068327096592,-73.99761915206909,36145,Theater,2012-07-24 20:33:13+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+119,800,40.72662345471268,-73.99018534133084,35833,Theater,2012-06-12 22:25:16+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+120,800,40.757700206919,-73.98275328147528,6952,Theater,2012-05-15 23:32:06+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+121,800,40.76320112484665,-73.97080399279693,22194,Theater,2012-10-23 22:38:57+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+122,800,40.738461174451054,-73.99175780205297,8459,Theater,2012-04-04 23:44:26+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+123,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-04-18 23:28:31+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+124,800,40.70391994183744,-73.98639678955078,1137,Performing Arts Venue,2012-04-25 00:06:28+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+125,800,40.75990312387116,-73.99047374725342,36151,Theater,2012-07-18 20:25:30+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+126,800,40.756083521571824,-73.98951888084412,23022,Event Space,2012-07-18 22:18:40+00:00,New York City,Business and Professional Services,Event Space,,,,
+127,800,40.75699098241037,-73.98872764725327,898,Movie Theater,2012-06-06 14:03:30+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+128,800,40.74982540095488,-73.98796319961548,2836,Plaza,2012-06-13 05:08:11+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+129,800,40.73850832201872,-73.98997896387137,2068,Movie Theater,2012-06-13 22:57:56+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+130,800,40.772124376373135,-73.98369312286377,2306,Theater,2012-05-02 00:23:17+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+131,800,40.73290123991655,-73.98829148466851,4354,Theater,2012-05-09 00:55:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+132,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-05-09 23:21:58+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+133,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-05-16 23:37:08+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+134,800,40.75948441560725,-73.99497155029114,11196,Theater,2012-05-23 22:17:26+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+135,800,40.76502267205817,-73.98019552230835,616,Concert Hall,2012-05-23 23:54:00+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+136,800,40.75951304689015,-73.9830493927002,2215,Theater,2012-10-24 22:45:37+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+137,800,40.75948441560725,-73.99497155029114,11196,Theater,2012-09-05 21:14:29+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+138,800,40.75703102046072,-73.98826852871554,8507,Museum,2012-10-31 18:00:09+00:00,,Arts and Entertainment,Museum,1.0,0.0,nyc,Rec
+139,800,40.77114935894503,-73.98270606994629,8154,Performing Arts Venue,2012-11-05 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,6.0,0.0,nyc,Rec
+140,800,40.76401027284417,-73.97051127756735,3105,General College & University,2012-11-06 18:00:09+00:00,,Community and Government,Education,7.0,1.0,nyc,Rec
+141,800,40.76815921628347,-73.96420955657959,2992,University,2012-11-06 18:00:09+00:00,,Community and Government,Education,7.0,1.0,nyc,Explore
+142,800,40.75281239893301,-73.97717474340911,31763,Electronics Store,2012-11-12 18:00:09+00:00,,Retail,Computers and Electronics Retail,13.0,1.0,nyc,Return
+143,800,40.71971101647132,-74.00456656363339,14191,Music Venue,2012-11-13 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,14.0,2.0,nyc,Rec
+144,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-11-16 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,17.0,2.0,nyc,Rec
+145,800,40.75693760857892,-73.988389047438,8229,Museum,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Museum,18.0,2.0,nyc,Explore
+146,800,40.75909046091092,-73.98592472076416,5186,Theater,2012-11-18 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,19.0,2.0,nyc,Explore
+147,800,40.76803326982161,-73.98186922073364,2490,Plaza,2012-11-20 18:00:09+00:00,,Landmarks and Outdoors,Plaza,21.0,3.0,nyc,Rec
+148,800,40.77114935894503,-73.98270606994629,8154,Performing Arts Venue,2012-11-21 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,22.0,3.0,nyc,Rec
+149,800,40.72633967487844,-74.00440014704478,5338,Theater,2012-11-24 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,25.0,3.0,nyc,Return
+150,800,40.725768758926016,-73.99730722279487,2083,Movie Theater,2012-11-24 18:00:09+00:00,,Arts and Entertainment,Movie Theater,25.0,3.0,nyc,Rec
+151,800,40.736499,-74.009196,90,Theater,2012-11-25 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,26.0,3.0,nyc,Return
+152,800,40.741190550641626,-73.98966309787518,17904,Mobile Phone Shop,2012-11-25 18:00:09+00:00,,Retail,Computers and Electronics Retail,26.0,3.0,nyc,Rec
+153,800,40.7294854,-73.991787,5343,Theater,2012-11-25 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,26.0,3.0,nyc,Rec
+154,800,40.756083521571824,-73.98951888084412,23022,Event Space,2012-11-27 18:00:09+00:00,,Business and Professional Services,Event Space,28.0,4.0,nyc,Return
+155,800,40.73169799836348,-73.98922693741638,182,Music Venue,2012-11-28 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,29.0,4.0,nyc,Rec
+156,800,40.726318,-74.000437,5738,Art Gallery,2012-11-30 18:00:09+00:00,,Arts and Entertainment,Art Gallery,31.0,4.0,nyc,Rec
+157,800,40.72501469240076,-73.99909973144531,884,Electronics Store,2012-12-01 18:00:09+00:00,,Retail,Computers and Electronics Retail,32.0,4.0,nyc,Rec
+158,800,40.7294854,-73.991787,5343,Theater,2012-12-01 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,32.0,4.0,nyc,Rec
+159,800,40.70976874782532,-74.01328314735183,4392,History Museum,2012-12-01 18:00:09+00:00,,Arts and Entertainment,Museum,32.0,4.0,nyc,Rec
+160,800,40.70474141222478,-74.00937795639038,12185,Garden,2012-12-02 18:00:09+00:00,,Landmarks and Outdoors,Garden,33.0,4.0,nyc,Rec
+161,800,40.68670740090934,-73.97777080535889,22367,Theater,2012-12-02 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,33.0,4.0,nyc,Rec
+162,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-12-02 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,33.0,4.0,nyc,Return
+163,800,40.76502267205817,-73.98019552230835,616,Concert Hall,2012-12-03 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,34.0,4.0,nyc,Rec
+164,800,40.74324269017522,-73.99245220578715,25800,Electronics Store,2012-12-06 18:00:09+00:00,,Retail,Computers and Electronics Retail,37.0,5.0,nyc,Explore
+165,800,40.74492342607472,-73.9980360386088,3867,Movie Theater,2012-12-07 18:00:09+00:00,,Arts and Entertainment,Movie Theater,38.0,5.0,nyc,Rec
+166,800,40.726318,-74.000437,5738,Art Gallery,2012-12-08 18:00:09+00:00,,Arts and Entertainment,Art Gallery,39.0,5.0,nyc,Return
+167,800,40.757209,-73.988085,3419,Theater,2012-12-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,39.0,5.0,nyc,Return
+168,800,40.75688385517346,-73.98814227092512,3303,Theater,2012-12-09 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,40.0,5.0,nyc,Rec
+169,800,40.76502267205817,-73.98019552230835,616,Concert Hall,2012-12-11 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,42.0,6.0,nyc,Rec
+170,800,40.756931775430665,-73.98897442301349,898,Movie Theater,2012-12-14 18:00:09+00:00,,Arts and Entertainment,Movie Theater,45.0,6.0,nyc,Return
+171,800,40.75951304689015,-73.9830493927002,2215,Theater,2012-12-15 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,46.0,6.0,nyc,Return
+172,800,40.77347312689622,-73.98300647735596,24995,Movie Theater,2012-12-17 18:00:09+00:00,,Arts and Entertainment,Movie Theater,48.0,6.0,nyc,Return
+173,800,40.77364925929136,-73.9840216301916,1600,Movie Theater,2012-12-17 18:00:09+00:00,,Arts and Entertainment,Movie Theater,48.0,6.0,nyc,Return
+174,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-12-19 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,50.0,7.0,nyc,Return
+175,800,40.756070596303616,-73.98452667169322,1155,Concert Hall,2012-12-21 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,52.0,7.0,nyc,Explore
+176,800,40.75234609858383,-73.99408777489505,1938,Movie Theater,2012-12-21 18:00:09+00:00,,Arts and Entertainment,Movie Theater,52.0,7.0,nyc,Return
+177,800,40.75456299512195,-73.99667022402588,17481,General Entertainment,2012-12-21 18:00:09+00:00,,Arts and Entertainment,General Entertainment,52.0,7.0,nyc,Explore
+178,800,40.74656211486993,-73.99408777489505,5404,Museum,2012-12-22 18:00:09+00:00,,Arts and Entertainment,Museum,53.0,7.0,nyc,Explore
+179,800,40.77114935894503,-73.98270606994629,8154,Performing Arts Venue,2012-12-23 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,54.0,7.0,nyc,Rec
+180,800,40.77308312955881,-73.98281335830688,1384,Concert Hall,2012-12-27 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,58.0,8.0,nyc,Rec
+181,800,40.77114935894503,-73.98270606994629,8154,Performing Arts Venue,2012-12-29 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,60.0,8.0,nyc,Rec
+182,800,40.75688385517346,-73.98814227092512,3303,Theater,2012-12-29 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,60.0,8.0,nyc,Rec
+183,800,40.74045,-73.996494,5555,Movie Theater,2012-12-30 18:00:09+00:00,,Arts and Entertainment,Movie Theater,61.0,8.0,nyc,Explore
+184,800,40.74500347332469,-73.99801308382229,34911,Movie Theater,2012-12-30 18:00:09+00:00,,Arts and Entertainment,Movie Theater,61.0,8.0,nyc,Explore
+185,800,40.742788354778206,-74.00067582070984,1747,Theater,2012-12-30 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,61.0,8.0,nyc,Rec
+186,800,40.71994085251552,-73.95129203796387,18161,Stadium,2013-01-01 18:00:09+00:00,,Arts and Entertainment,Stadium,63.0,9.0,nyc,Rec
+187,800,40.717776,-73.957848,915,Music Venue,2013-01-01 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,63.0,9.0,nyc,Rec
+188,800,40.71863980562837,-73.95997166633606,3834,Music Venue,2013-01-02 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,64.0,9.0,nyc,Explore
+189,800,40.742788354778206,-74.00067582070984,1747,Theater,2013-01-03 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,65.0,9.0,nyc,Return
+190,800,40.74377803397024,-74.0015459060669,6691,Theater,2013-01-05 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,67.0,9.0,nyc,Return
+191,800,40.75827778801546,-73.98802757263184,7051,Theater,2013-01-12 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,74.0,10.0,nyc,Return
+192,800,40.77113147017667,-73.96734303720663,2674,Art Museum,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Museum,75.0,10.0,nyc,Return
+193,800,40.73169799836348,-73.98922693741638,182,Music Venue,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,75.0,10.0,nyc,Rec
+194,800,40.75688385517346,-73.98814227092512,3303,Theater,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,75.0,10.0,nyc,Return
+195,800,40.77114935894503,-73.98270606994629,8154,Performing Arts Venue,2013-01-16 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,78.0,11.0,nyc,Rec
+196,800,40.73416736029532,-73.99048715829849,1514,Movie Theater,2013-01-27 18:00:09+00:00,,Arts and Entertainment,Movie Theater,89.0,12.0,nyc,Rec
+197,800,40.756931775430665,-73.98897442301349,898,Movie Theater,2013-01-27 18:00:09+00:00,,Arts and Entertainment,Movie Theater,89.0,12.0,nyc,Rec
+198,800,40.75990312387116,-73.99047374725342,36151,Theater,2013-01-28 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,90.0,12.0,nyc,Rec
+199,800,40.75875683115667,-73.98730437621178,1837,Theater,2013-01-30 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,92.0,13.0,nyc,Return
+200,800,40.76054550762586,-73.98589257273797,33981,Theater,2013-01-31 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,93.0,13.0,nyc,Explore
+201,800,40.76950686568525,-73.99265306590263,2166,Concert Hall,2013-02-01 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,94.0,13.0,nyc,Rec
+202,800,40.73169799836348,-73.98922693741638,182,Music Venue,2013-02-02 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,95.0,13.0,nyc,Rec
+203,800,40.73171417041241,-73.98922920227051,9704,Music Venue,2013-02-02 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,95.0,13.0,nyc,Explore
+204,800,40.75936676743212,-73.99521589279175,36149,Theater,2013-02-03 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,96.0,13.0,nyc,Return
+205,800,40.73169799836348,-73.98922693741638,182,Music Venue,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,101.0,14.0,nyc,Rec
+206,800,40.731155872068506,-73.98872764725327,2196,American Restaurant,2013-02-10 18:00:09+00:00,,Dining and Drinking,Restaurant,103.0,14.0,nyc,Rec
+207,800,40.73169799836348,-73.98922693741638,182,Music Venue,2013-02-10 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,103.0,14.0,nyc,Rec

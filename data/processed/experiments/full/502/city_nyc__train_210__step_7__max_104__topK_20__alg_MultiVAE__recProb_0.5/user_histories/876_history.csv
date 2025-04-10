@@ -1,0 +1,71 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-10-19 13:18:02+00:00,New York City,Retail,Automotive Shop,,,,
+1,876,40.91922020055109,-74.06481385231018,6415,Mexican Restaurant,2012-10-19 16:11:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+2,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-10-19 20:20:09+00:00,New York City,Retail,Automotive Shop,,,,
+3,876,40.91506924984297,-74.05952453613281,16845,Spa / Massage,2012-10-19 21:01:52+00:00,New York City,Business and Professional Services,Health and Beauty Service,,,,
+4,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-10-26 11:42:18+00:00,New York City,Retail,Automotive Shop,,,,
+5,876,40.74036718964624,-74.00580607573977,927,Asian Restaurant,2012-07-02 22:45:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,876,40.7298829253228,-74.00054383246888,23499,Pizza Place,2012-07-09 06:35:41+00:00,New York City,Dining and Drinking,Restaurant,,,,
+7,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-07-16 14:33:08+00:00,New York City,Retail,Automotive Shop,,,,
+8,876,40.91552327277213,-74.06089782714844,10709,Department Store,2012-07-16 19:10:53+00:00,New York City,Retail,Department Store,,,,
+9,876,40.91532869189857,-74.07670140266418,8904,Movie Theater,2012-10-08 21:07:40+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+10,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-10-22 11:29:26+00:00,New York City,Community and Government,Assisted Living,,,,
+11,876,40.9417955094684,-74.07197054619503,22331,Design Studio,2012-10-22 21:55:30+00:00,New York City,Business and Professional Services,Design Studio,,,,
+12,876,40.93604833732571,-74.0698778629303,9128,Food & Drink Shop,2012-10-22 22:38:59+00:00,New York City,Retail,Food and Beverage Retail,,,,
+13,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-09-15 03:46:17+00:00,New York City,Retail,Automotive Shop,,,,
+14,876,40.80122568225166,-73.9648864671582,2800,Thai Restaurant,2012-08-05 18:15:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+15,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-08-12 14:12:03+00:00,New York City,Retail,Automotive Shop,,,,
+16,876,40.74036718964624,-74.00580607573977,927,Asian Restaurant,2012-08-19 04:01:10+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,876,40.76803326982161,-73.98186922073364,2490,Plaza,2012-10-28 00:40:19+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+18,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-10-28 03:56:24+00:00,New York City,Retail,Automotive Shop,,,,
+19,876,40.74036718964624,-74.00580607573977,927,Asian Restaurant,2012-09-16 03:52:42+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,876,40.75828,-73.969253,573,American Restaurant,2012-08-16 18:25:59+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,876,40.75857035140236,-74.00407791137695,12648,Government Building,2012-08-16 20:54:41+00:00,New York City,Community and Government,Government Building,,,,
+22,876,40.8903252197104,-74.21541907075058,18956,Bank,2012-10-11 20:12:08+00:00,New York City,Business and Professional Services,Financial Service,,,,
+23,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-10-25 18:28:55+00:00,New York City,Community and Government,Assisted Living,,,,
+24,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-09-13 17:29:57+00:00,New York City,Retail,Automotive Shop,,,,
+25,876,40.89958122091458,-74.16356533605226,28727,Laundry Service,2012-08-14 05:49:39+00:00,New York City,Business and Professional Services,Laundry Service,,,,
+26,876,40.91864443026314,-74.07766103571305,28926,Parking,2012-07-17 17:11:58+00:00,New York City,Travel and Transportation,Parking,,,,
+27,876,40.76825672305774,-73.981032371521,3869,Park,2012-07-24 20:26:35+00:00,New York City,Landmarks and Outdoors,Park,,,,
+28,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-10-16 12:25:29+00:00,New York City,Community and Government,Assisted Living,,,,
+29,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-10-16 19:14:40+00:00,New York City,Retail,Automotive Shop,,,,
+30,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-10-23 00:39:30+00:00,New York City,Retail,Automotive Shop,,,,
+31,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-10-23 17:12:14+00:00,New York City,Community and Government,Assisted Living,,,,
+32,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-10-23 22:25:30+00:00,New York City,Retail,Automotive Shop,,,,
+33,876,40.907567521272114,-74.16476366797684,29269,Automotive Shop,2012-10-30 14:01:23+00:00,New York City,Retail,Automotive Shop,,,,
+34,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-10-17 13:03:14+00:00,New York City,Community and Government,Assisted Living,,,,
+35,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-10-24 11:06:07+00:00,New York City,Community and Government,Assisted Living,,,,
+36,876,40.92037197471675,-73.99696863812723,22294,Automotive Shop,2012-10-30 18:00:09+00:00,,Retail,Automotive Shop,0.0,0.0,nyc,Rec
+37,876,40.94198726311239,-73.96009376960656,11156,Other Great Outdoors,2012-10-31 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,1.0,0.0,nyc,Rec
+38,876,40.95634251626308,-74.06902771574032,5675,Mall,2012-11-01 18:00:09+00:00,,Retail,Shopping Mall,2.0,0.0,nyc,Explore
+39,876,40.954435,-74.066724,16493,Electronics Store,2012-11-05 18:00:09+00:00,,Retail,Computers and Electronics Retail,6.0,0.0,nyc,Explore
+40,876,40.94114956666667,-74.03036085,25444,Automotive Shop,2012-11-06 18:00:09+00:00,,Retail,Automotive Shop,7.0,1.0,nyc,Rec
+41,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-11-07 18:00:09+00:00,,Community and Government,Assisted Living,8.0,1.0,nyc,Return
+42,876,40.92946910736723,-73.99539622013613,15177,Deli / Bodega,2012-11-09 18:00:09+00:00,,Dining and Drinking,Restaurant,10.0,1.0,nyc,Rec
+43,876,40.91834670718517,-74.0774258475067,28926,Parking,2012-11-16 18:00:09+00:00,,Travel and Transportation,Parking,17.0,2.0,nyc,Return
+44,876,40.94198726311239,-73.96009376960656,11156,Other Great Outdoors,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,18.0,2.0,nyc,Return
+45,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-11-18 18:00:09+00:00,,Community and Government,Assisted Living,19.0,2.0,nyc,Rec
+46,876,40.75638041308672,-74.20408644531419,37667,Home (private),2012-11-21 18:00:09+00:00,,Community and Government,Assisted Living,22.0,3.0,nyc,Explore
+47,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-11-22 18:00:09+00:00,,Community and Government,Assisted Living,23.0,3.0,nyc,Return
+48,876,40.75638041308672,-74.20408644531419,37667,Home (private),2012-11-26 18:00:09+00:00,,Community and Government,Assisted Living,27.0,3.0,nyc,Rec
+49,876,40.76065305007153,-74.16079595568392,4364,Department Store,2012-11-28 18:00:09+00:00,,Retail,Department Store,29.0,4.0,nyc,Rec
+50,876,40.75638041308672,-74.20408644531419,37667,Home (private),2012-11-28 18:00:09+00:00,,Community and Government,Assisted Living,29.0,4.0,nyc,Rec
+51,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-12-03 18:00:09+00:00,,Community and Government,Assisted Living,34.0,4.0,nyc,Return
+52,876,40.85121557428245,-73.95206451416016,3686,Bridge,2012-12-03 18:00:09+00:00,,Landmarks and Outdoors,Bridge,34.0,4.0,nyc,Rec
+53,876,40.85121557428245,-73.95206451416016,3686,Bridge,2012-12-04 18:00:09+00:00,,Landmarks and Outdoors,Bridge,35.0,5.0,nyc,Return
+54,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-12-08 18:00:09+00:00,,Community and Government,Assisted Living,39.0,5.0,nyc,Return
+55,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-12-13 18:00:09+00:00,,Community and Government,Assisted Living,44.0,6.0,nyc,Return
+56,876,40.75638041308672,-74.20408644531419,37667,Home (private),2012-12-14 18:00:09+00:00,,Community and Government,Assisted Living,45.0,6.0,nyc,Rec
+57,876,40.76633906356843,-74.21865463256836,15069,Food & Drink Shop,2012-12-16 18:00:09+00:00,,Retail,Food and Beverage Retail,47.0,6.0,nyc,Rec
+58,876,40.92051512379632,-73.97909740598243,37423,Home (private),2012-12-18 18:00:09+00:00,,Community and Government,Assisted Living,49.0,7.0,nyc,Return
+59,876,40.75638041308672,-74.20408644531419,37667,Home (private),2012-12-21 18:00:09+00:00,,Community and Government,Assisted Living,52.0,7.0,nyc,Return
+60,876,40.780002,-74.18943018,13344,Fast Food Restaurant,2012-12-27 18:00:09+00:00,,Dining and Drinking,Restaurant,58.0,8.0,nyc,Rec
+61,876,40.74339876222266,-73.99335894406833,1194,Electronics Store,2012-12-27 18:00:09+00:00,,Retail,Computers and Electronics Retail,58.0,8.0,nyc,Rec
+62,876,40.75638041308672,-74.20408644531419,37667,Home (private),2013-01-01 18:00:09+00:00,,Community and Government,Assisted Living,63.0,9.0,nyc,Rec
+63,876,40.93604833732571,-74.0698778629303,9128,Food & Drink Shop,2013-01-01 18:00:09+00:00,,Retail,Food and Beverage Retail,63.0,9.0,nyc,Return
+64,876,40.92051512379632,-73.97909740598243,37423,Home (private),2013-01-03 18:00:09+00:00,,Community and Government,Assisted Living,65.0,9.0,nyc,Rec
+65,876,40.75638041308672,-74.20408644531419,37667,Home (private),2013-01-04 18:00:09+00:00,,Community and Government,Assisted Living,66.0,9.0,nyc,Rec
+66,876,40.75638041308672,-74.20408644531419,37667,Home (private),2013-01-11 18:00:09+00:00,,Community and Government,Assisted Living,73.0,10.0,nyc,Return
+67,876,40.91532869189857,-74.07670140266418,8904,Movie Theater,2013-01-15 18:00:09+00:00,,Arts and Entertainment,Movie Theater,77.0,11.0,nyc,Return
+68,876,40.91506924984297,-74.05952453613281,16845,Spa / Massage,2013-01-15 18:00:09+00:00,,Business and Professional Services,Health and Beauty Service,77.0,11.0,nyc,Rec
+69,876,40.9588310093963,-74.05939579262763,20554,High School,2013-02-07 18:00:09+00:00,,Community and Government,Education,100.0,14.0,nyc,Explore

@@ -1,0 +1,74 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+89378,562,40.87993788345708,-73.88086795806885,7254,Medical Center,2012-04-06 13:24:23+00:00,New York City,Health and Medicine,Hospital
+89379,562,40.88659077427038,-73.89664679225575,23014,General Travel,2012-04-06 13:24:41+00:00,New York City,Travel and Transportation,General Travel
+89380,562,40.88106385756113,-73.88291789264353,26331,Sandwich Place,2012-04-06 16:19:40+00:00,New York City,Dining and Drinking,Restaurant
+89381,562,40.89321140143674,-73.85780604433903,20881,Food & Drink Shop,2012-04-20 21:13:09+00:00,New York City,Retail,Food and Beverage Retail
+89382,562,40.89282780339592,-73.85784624423803,15264,Post Office,2012-04-20 21:13:24+00:00,New York City,Community and Government,Government Building
+89383,562,40.89319230755564,-73.85714561625088,35587,Bank,2012-06-01 14:16:31+00:00,New York City,Business and Professional Services,Financial Service
+89384,562,40.73323040283871,-73.98759305477142,33431,Burger Joint,2012-05-04 01:52:26+00:00,New York City,Dining and Drinking,Restaurant
+89385,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-05-04 16:23:21+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89386,562,40.73715523415287,-74.17127122072402,13995,Sandwich Place,2012-05-04 19:58:49+00:00,New York City,Dining and Drinking,Restaurant
+89387,562,40.73308000062968,-74.1708254814148,3114,Stadium,2012-05-04 22:07:31+00:00,New York City,Arts and Entertainment,Stadium
+89388,562,40.748724806910445,-73.99986093533448,21713,College Academic Building,2012-05-11 20:01:16+00:00,New York City,Community and Government,Education
+89389,562,40.75404836175849,-73.98442336785773,31950,Other Great Outdoors,2012-05-25 22:51:54+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+89390,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-09 20:57:08+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89391,562,40.84080388573937,-73.87936349522924,20295,Food & Drink Shop,2012-04-09 20:57:52+00:00,New York City,Retail,Food and Beverage Retail
+89392,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-16 18:58:08+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89393,562,40.86890621142536,-73.86794190146651,34981,Other Great Outdoors,2012-04-23 01:37:38+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+89394,562,40.75404836175849,-73.98442336785773,31950,Other Great Outdoors,2012-04-23 01:58:57+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+89395,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-23 22:05:29+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89396,562,40.737694,-73.997635,12296,Gym / Fitness Center,2012-08-13 21:20:59+00:00,New York City,Sports and Recreation,Gym and Studio
+89397,562,40.737694,-73.997635,12296,Gym / Fitness Center,2012-07-02 12:41:22+00:00,New York City,Sports and Recreation,Gym and Studio
+89398,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-05-07 22:09:17+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89399,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-05-14 22:05:52+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89400,562,40.86703055282099,-73.82539651545649,8424,Movie Theater,2012-05-28 01:16:29+00:00,New York City,Arts and Entertainment,Movie Theater
+89401,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-07 23:12:18+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89402,562,40.72817023363015,-73.9878495820916,1419,Fast Food Restaurant,2012-04-14 05:14:03+00:00,New York City,Dining and Drinking,Restaurant
+89403,562,40.72884268160186,-73.98814227092512,5309,Pizza Place,2012-04-14 05:39:39+00:00,New York City,Dining and Drinking,Restaurant
+89404,562,40.89282780339592,-73.85784624423803,15264,Post Office,2012-04-21 19:33:46+00:00,New York City,Community and Government,Government Building
+89405,562,40.89321140143674,-73.85780604433903,20881,Food & Drink Shop,2012-04-21 19:56:56+00:00,New York City,Retail,Food and Beverage Retail
+89406,562,40.894186249825786,-73.84587779743953,15683,Salon / Barbershop,2012-04-28 14:31:07+00:00,New York City,Business and Professional Services,Health and Beauty Service
+89407,562,40.893203689451056,-73.85680104419436,13810,Bank,2012-04-28 14:31:49+00:00,New York City,Business and Professional Services,Financial Service
+89408,562,40.728803108932176,-73.99501746059,838,Asian Restaurant,2012-04-28 20:01:43+00:00,New York City,Dining and Drinking,Restaurant
+89409,562,40.73083612189599,-73.99764060974121,896,Park,2012-04-28 22:39:02+00:00,New York City,Landmarks and Outdoors,Park
+89410,562,40.73448624021895,-73.99211361254487,19485,Italian Restaurant,2012-07-21 00:18:13+00:00,New York City,Dining and Drinking,Restaurant
+89411,562,40.728803108932176,-73.99501746059,838,Asian Restaurant,2012-05-12 00:35:07+00:00,New York City,Dining and Drinking,Restaurant
+89412,562,40.730132,-73.99423,1471,Bar,2012-04-08 02:02:28+00:00,New York City,Dining and Drinking,Bar
+89413,562,40.72884268160186,-73.98814227092512,5309,Pizza Place,2012-04-08 05:55:46+00:00,New York City,Dining and Drinking,Restaurant
+89414,562,40.77953911885943,-73.95525231957436,6874,Electronics Store,2012-04-15 01:17:38+00:00,New York City,Retail,Computers and Electronics Retail
+89415,562,40.77858682,-73.9532419,22437,Asian Restaurant,2012-04-15 02:31:31+00:00,New York City,Dining and Drinking,Restaurant
+89416,562,40.77851052505935,-73.95342971327985,6122,Movie Theater,2012-04-15 03:51:09+00:00,New York City,Arts and Entertainment,Movie Theater
+89417,562,40.756931775430665,-73.98897442301349,898,Movie Theater,2012-08-05 15:36:54+00:00,New York City,Arts and Entertainment,Movie Theater
+89418,562,40.89281489946538,-73.85790367265092,20881,Food & Drink Shop,2012-06-03 00:08:41+00:00,New York City,Retail,Food and Beverage Retail
+89419,562,40.89281489946538,-73.85790367265092,20881,Food & Drink Shop,2012-06-03 00:09:12+00:00,New York City,Retail,Food and Beverage Retail
+89420,562,40.88414030325988,-73.85666895807934,26419,Drugstore / Pharmacy,2012-06-03 00:09:32+00:00,New York City,Retail,Pharmacy
+89421,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-05-13 07:09:14+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89422,562,40.80023122491412,-73.82881164550781,9362,Bridge,2012-05-27 12:37:17+00:00,New York City,Landmarks and Outdoors,Bridge
+89423,562,40.81456630335208,-73.94783310595132,18024,Food & Drink Shop,2012-04-26 00:31:21+00:00,New York City,Retail,Food and Beverage Retail
+89424,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-05-03 22:02:30+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89425,562,40.71544553287971,-74.0078317425897,27831,Art Gallery,2012-05-03 23:36:18+00:00,New York City,Arts and Entertainment,Art Gallery
+89426,562,40.73718,-73.996748,17142,Sushi Restaurant,2012-05-17 16:10:53+00:00,New York City,Dining and Drinking,Restaurant
+89427,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-05-31 19:19:27+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89428,562,40.856987203438365,-73.86776962497729,34514,Neighborhood,2012-05-31 22:23:26+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89429,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-03 20:07:48+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89430,562,40.80785512034932,-73.94546239164602,17806,Neighborhood,2012-04-10 01:25:42+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89431,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-10 21:11:03+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89432,562,40.67956402987482,-73.98416519165039,4141,Gym / Fitness Center,2012-04-10 21:11:40+00:00,New York City,Sports and Recreation,Gym and Studio
+89433,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-10 21:19:52+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89434,562,40.718477172979526,-74.00781154632568,15118,Neighborhood,2012-04-24 00:17:00+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89435,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-24 19:24:11+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89436,562,40.737694,-73.997635,12296,Gym / Fitness Center,2012-07-24 21:25:55+00:00,New York City,Sports and Recreation,Gym and Studio
+89437,562,40.718477172979526,-74.00781154632568,15118,Neighborhood,2012-06-05 01:31:51+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89438,562,40.718477172979526,-74.00781154632568,15118,Neighborhood,2012-05-08 23:29:12+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89439,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-05-29 22:22:23+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89440,562,40.89281489946538,-73.85790367265092,20881,Food & Drink Shop,2012-05-29 22:45:51+00:00,New York City,Retail,Food and Beverage Retail
+89441,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-04 19:11:54+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89442,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-04-18 18:57:25+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89443,562,40.718477172979526,-74.00781154632568,15118,Neighborhood,2012-04-18 23:45:19+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89444,562,40.81730240823581,-73.93495742443025,34304,Gym / Fitness Center,2012-04-25 22:50:49+00:00,New York City,Sports and Recreation,Gym and Studio
+89445,562,40.81730240823581,-73.93495742443025,34304,Gym / Fitness Center,2012-04-25 22:51:47+00:00,New York City,Sports and Recreation,Gym and Studio
+89446,562,40.737694,-73.997635,12296,Gym / Fitness Center,2012-07-18 23:11:39+00:00,New York City,Sports and Recreation,Gym and Studio
+89447,562,40.83991796598711,-73.87893676757812,31441,Neighborhood,2012-05-09 01:46:23+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+89448,562,40.84080388573937,-73.87936349522924,20295,Food & Drink Shop,2012-05-16 22:23:41+00:00,New York City,Retail,Food and Beverage Retail
+89449,562,40.89319230755564,-73.85714561625088,35587,Bank,2012-05-16 22:39:05+00:00,New York City,Business and Professional Services,Financial Service
+89450,562,40.737694,-73.997635,12296,Gym / Fitness Center,2012-09-05 21:05:48+00:00,New York City,Sports and Recreation,Gym and Studio

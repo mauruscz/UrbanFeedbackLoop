@@ -1,0 +1,47 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+75017,467,40.77112860972069,-74.02786345568236,20609,Park,2012-04-13 19:03:20+00:00,New York City,Landmarks and Outdoors,Park
+75018,467,40.76803326982161,-73.98186922073364,2490,Plaza,2012-04-13 20:58:37+00:00,New York City,Landmarks and Outdoors,Plaza
+75019,467,40.77253079341116,-73.98344197864982,129,Performing Arts Venue,2012-04-13 21:12:38+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+75020,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-04-20 16:06:58+00:00,New York City,Community and Government,Education
+75021,467,40.75174101510873,-73.98659847577252,26040,Bank,2012-04-20 19:54:25+00:00,New York City,Business and Professional Services,Financial Service
+75022,467,40.76456265213541,-74.03109380995517,26452,Other Great Outdoors,2012-04-20 20:32:46+00:00,New York City,Landmarks and Outdoors,Lake
+75023,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-04-23 16:25:35+00:00,New York City,Community and Government,Education
+75024,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-05-14 16:06:32+00:00,New York City,Community and Government,Education
+75025,467,40.77112860972069,-74.02786345568236,20609,Park,2012-04-14 19:27:29+00:00,New York City,Landmarks and Outdoors,Park
+75026,467,40.79188570748643,-74.04950380325317,31750,Sandwich Place,2012-04-14 21:25:21+00:00,New York City,Dining and Drinking,Restaurant
+75027,467,40.77465529233826,-74.03329253196716,19701,American Restaurant,2012-08-11 17:21:43+00:00,New York City,Dining and Drinking,Restaurant
+75028,467,40.77251284155472,-74.02959052579439,24144,Bank,2012-05-12 18:18:04+00:00,New York City,Business and Professional Services,Financial Service
+75029,467,40.77437908181935,-74.02759377886963,18451,Drugstore / Pharmacy,2012-05-12 19:10:37+00:00,New York City,Retail,Pharmacy
+75030,467,40.76407164940772,-74.04349258250758,22166,Food & Drink Shop,2012-05-12 23:35:26+00:00,New York City,Retail,Food and Beverage Retail
+75031,467,40.81342911263693,-74.013542085886,10533,Department Store,2012-04-08 20:37:14+00:00,New York City,Retail,Department Store
+75032,467,40.77336996,-74.02843774,26786,Latin American Restaurant,2012-04-08 23:15:10+00:00,New York City,Dining and Drinking,Restaurant
+75033,467,40.77314457454595,-74.02712327798466,28461,Professional & Other Places,2012-04-08 23:21:44+00:00,New York City,Business and Professional Services,Business and Professional Services
+75034,467,40.77112860972069,-74.02786345568236,20609,Park,2012-04-08 23:26:51+00:00,New York City,Landmarks and Outdoors,Park
+75035,467,40.76456265213541,-74.03109380995517,26452,Other Great Outdoors,2012-04-22 00:13:32+00:00,New York City,Landmarks and Outdoors,Lake
+75036,467,40.76456265213541,-74.03109380995517,26452,Other Great Outdoors,2012-04-22 18:14:34+00:00,New York City,Landmarks and Outdoors,Lake
+75037,467,40.660555887861165,-74.17174136107501,13663,Mall,2012-04-22 19:37:54+00:00,New York City,Retail,Shopping Mall
+75038,467,40.66016404483763,-74.1716194152832,8838,Coffee Shop,2012-04-22 23:22:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+75039,467,40.776885,-74.025538,21429,Cuban Restaurant,2012-06-03 21:03:47+00:00,New York City,Dining and Drinking,Restaurant
+75040,467,40.75574394891052,-73.9871609007229,27882,Ice Cream Shop,2012-06-10 00:32:07+00:00,New York City,Dining and Drinking,Dessert Shop
+75041,467,40.75878778569354,-73.9789252280282,1953,Gift Shop,2012-06-17 03:59:39+00:00,New York City,Retail,Gift Store
+75042,467,40.72696606629052,-74.0383243560791,2861,Mall,2012-05-13 20:27:19+00:00,New York City,Retail,Shopping Mall
+75043,467,40.726891,-74.03802003298999,26369,Burger Joint,2012-05-13 20:42:37+00:00,New York City,Dining and Drinking,Restaurant
+75044,467,40.725179,-74.039051,14869,Department Store,2012-05-13 22:07:21+00:00,New York City,Retail,Department Store
+75045,467,40.77002136356674,-74.02777738865593,16238,Coffee Shop,2012-05-13 23:30:45+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+75046,467,40.77112860972069,-74.02786345568236,20609,Park,2012-04-19 20:31:38+00:00,New York City,Landmarks and Outdoors,Park
+75047,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-04-26 12:12:40+00:00,New York City,Community and Government,Education
+75048,467,40.62515710641076,-73.96192476632201,13956,Donut Shop,2012-05-03 12:05:05+00:00,New York City,Dining and Drinking,Donut Shop
+75049,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-05-03 12:22:09+00:00,New York City,Community and Government,Education
+75050,467,40.76456265213541,-74.03109380995517,26452,Other Great Outdoors,2012-05-10 22:08:22+00:00,New York City,Landmarks and Outdoors,Lake
+75051,467,40.77112860972069,-74.02786345568236,20609,Park,2012-04-10 22:46:05+00:00,New York City,Landmarks and Outdoors,Park
+75052,467,40.77002136356674,-74.02777738865593,16238,Coffee Shop,2012-04-10 23:28:40+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+75053,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-05-01 16:15:06+00:00,New York City,Community and Government,Education
+75054,467,40.76456265213541,-74.03109380995517,26452,Other Great Outdoors,2012-05-08 21:33:13+00:00,New York City,Landmarks and Outdoors,Lake
+75055,467,40.76332470041056,-74.03166184172059,16572,General Travel,2012-04-04 10:53:25+00:00,New York City,Travel and Transportation,General Travel
+75056,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-04-04 16:18:05+00:00,New York City,Community and Government,Education
+75058,467,40.78138632833578,-74.04604911804199,6878,Electronics Store,2012-04-11 22:05:42+00:00,New York City,Retail,Computers and Electronics Retail
+75059,467,40.79310003533683,-74.05133843421936,11440,Department Store,2012-04-11 22:35:47+00:00,New York City,Retail,Department Store
+75060,467,40.77112860972069,-74.02786345568236,20609,Park,2012-04-18 20:37:51+00:00,New York City,Landmarks and Outdoors,Park
+75061,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-04-25 13:48:01+00:00,New York City,Community and Government,Education
+75062,467,40.624996185302734,-73.9607925415039,35057,Chinese Restaurant,2012-04-25 16:11:35+00:00,New York City,Dining and Drinking,Restaurant
+75063,467,40.62738682421878,-73.96217731622924,34479,Nursery School,2012-04-25 16:30:23+00:00,New York City,Community and Government,Education

@@ -1,0 +1,41 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,1022,40.7114673282201,-74.01328325271606,11234,Historic Site,2012-09-14 21:31:00+00:00,New York City,Landmarks and Outdoors,Historic and Protected Site,,,,
+1,1022,40.77229,-73.98509,11623,Event Space,2012-09-15 00:03:22+00:00,New York City,Business and Professional Services,Event Space,,,,
+2,1022,40.72665881338428,-73.99228003980646,29663,Italian Restaurant,2012-09-15 00:26:32+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,1022,40.74946079318199,-73.9848365828663,3068,Bar,2012-09-15 05:40:21+00:00,New York City,Dining and Drinking,Bar,,,,
+4,1022,40.75039771321043,-74.0034245986147,24661,Hotel,2012-09-15 05:53:53+00:00,New York City,Travel and Transportation,Lodging,,,,
+5,1022,40.77253079341116,-73.98344197864982,129,Performing Arts Venue,2012-09-15 06:02:05+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+6,1022,40.80684894365967,-74.06399095229042,37202,Other Great Outdoors,2012-09-15 06:20:52+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+7,1022,40.70627844701678,-74.01308804712747,37210,Building,2012-09-15 10:27:16+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+8,1022,40.64674618651803,-74.0765195097278,17293,Government Building,2012-09-15 11:24:33+00:00,New York City,Landmarks and Outdoors,Monument,,,,
+9,1022,40.70466881817266,-74.00944422692616,19429,Garden,2012-09-15 12:16:53+00:00,New York City,Landmarks and Outdoors,Garden,,,,
+10,1022,40.720480045234375,-73.99355980323412,736,Music Venue,2012-09-15 16:33:29+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+11,1022,40.71403714818288,-73.98725509643553,34899,Pizza Place,2012-09-15 22:52:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,1022,40.73649582303289,-73.99055837150034,36469,Other Great Outdoors,2012-09-15 23:31:45+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+13,1022,40.79318963565758,-73.85139118382254,35665,Mosque,2012-09-15 23:38:49+00:00,New York City,Community and Government,Spiritual Center,,,,
+14,1022,40.79318963565758,-73.85139118382254,35665,Mosque,2012-11-16 18:00:09+00:00,,Community and Government,Spiritual Center,17.0,2.0,nyc,Return
+15,1022,40.79318963565758,-73.85139118382254,35665,Mosque,2012-11-16 18:00:09+00:00,,Community and Government,Spiritual Center,17.0,2.0,nyc,Return
+16,1022,40.82264116120602,-73.8889068201643,16387,School,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Rec
+17,1022,40.82874832242669,-73.92706632614134,16299,Museum,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Museum,18.0,2.0,nyc,Rec
+18,1022,40.828407358942734,-73.92311811447142,5581,Park,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,Park,18.0,2.0,nyc,Rec
+19,1022,40.80684894365967,-74.06399095229042,37202,Other Great Outdoors,2012-11-17 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,18.0,2.0,nyc,Return
+20,1022,40.72039621291847,-74.01405572891235,35345,History Museum,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Museum,18.0,2.0,nyc,Rec
+21,1022,40.74946079318199,-73.9848365828663,3068,Bar,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Return
+22,1022,40.72039621291847,-74.01405572891235,35345,History Museum,2012-11-17 18:00:09+00:00,,Arts and Entertainment,Museum,18.0,2.0,nyc,Return
+23,1022,40.72913372260306,-74.01096488474778,26165,Stadium,2012-11-25 18:00:09+00:00,,Arts and Entertainment,Stadium,26.0,3.0,nyc,Rec
+24,1022,40.74946079318199,-73.9848365828663,3068,Bar,2012-11-25 18:00:09+00:00,,Dining and Drinking,Bar,26.0,3.0,nyc,Return
+25,1022,40.717854,-74.000208,28722,Tea Room,2012-11-26 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",27.0,3.0,nyc,Rec
+26,1022,40.72070531085828,-74.00007326495646,33110,Clothing Store,2012-11-27 18:00:09+00:00,,Retail,Boutique,28.0,4.0,nyc,Explore
+27,1022,40.721183,-74.000452,7145,Music Store,2012-11-29 18:00:09+00:00,,Retail,Music Store,30.0,4.0,nyc,Rec
+28,1022,40.80684894365967,-74.06399095229042,37202,Other Great Outdoors,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,Other Great Outdoors,32.0,4.0,nyc,Return
+29,1022,40.828407358942734,-73.92311811447142,5581,Park,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,Park,32.0,4.0,nyc,Return
+30,1022,40.813644667452,-73.94505483250727,22243,Convention Center,2012-12-01 18:00:09+00:00,,Business and Professional Services,Convention Center,32.0,4.0,nyc,Explore
+31,1022,40.720480045234375,-73.99355980323412,736,Music Venue,2012-12-01 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,32.0,4.0,nyc,Rec
+32,1022,40.74706188749892,-74.00519371032715,965,Park,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,Park,32.0,4.0,nyc,Rec
+33,1022,40.761396839012,-73.97698574930376,7784,Art Museum,2012-12-01 18:00:09+00:00,,Arts and Entertainment,Museum,32.0,4.0,nyc,Rec
+34,1022,40.764480496478825,-73.98192684160738,34957,Bar,2012-12-01 18:00:09+00:00,,Dining and Drinking,Bar,32.0,4.0,nyc,Explore
+35,1022,40.74797331186306,-73.98298858662089,7886,Library,2012-12-01 18:00:09+00:00,,Community and Government,Library,32.0,4.0,nyc,Rec
+36,1022,40.75925299429778,-73.98515224456787,1473,Hotel,2012-12-01 18:00:09+00:00,,Travel and Transportation,Lodging,32.0,4.0,nyc,Rec
+37,1022,40.72665398669788,-73.99226856206892,29663,Italian Restaurant,2012-12-12 18:00:09+00:00,,Dining and Drinking,Restaurant,43.0,6.0,nyc,Return
+38,1022,40.72665398669788,-73.99226856206892,29663,Italian Restaurant,2012-12-12 18:00:09+00:00,,Dining and Drinking,Restaurant,43.0,6.0,nyc,Return
+39,1022,40.72553593075708,-73.99678499873524,3519,Furniture / Home Store,2012-12-12 18:00:09+00:00,,Retail,Furniture and Home Store,43.0,6.0,nyc,Explore

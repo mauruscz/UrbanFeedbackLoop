@@ -1,0 +1,74 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,569,40.78345291250954,-73.97912610229315,240,Bar,2012-04-27 23:42:33+00:00,New York City,Dining and Drinking,Bar,,,,
+1,569,40.69043336578264,-73.98980855941772,1848,Museum,2012-08-17 19:02:18+00:00,New York City,Arts and Entertainment,Museum,,,,
+2,569,40.91615141779696,-74.07502232197021,17446,Seafood Restaurant,2012-07-06 22:55:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,569,40.70748208600183,-74.00406157491777,11864,Drugstore / Pharmacy,2012-06-08 23:55:02+00:00,New York City,Retail,Pharmacy,,,,
+4,569,40.82827721161922,-73.92655344439045,751,Stadium,2012-05-18 23:35:43+00:00,New York City,Arts and Entertainment,Stadium,,,,
+5,569,40.75338271988277,-73.97444280771313,25283,Tea Room,2012-10-12 20:17:48+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+6,569,40.82827721161922,-73.92655344439045,751,Stadium,2012-10-12 21:31:45+00:00,New York City,Arts and Entertainment,Stadium,,,,
+7,569,40.73308000062968,-74.1708254814148,3114,Stadium,2012-04-23 22:03:56+00:00,New York City,Arts and Entertainment,Stadium,,,,
+8,569,40.764088915786,-73.97403530977857,4184,Movie Theater,2012-07-09 22:51:30+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+9,569,40.73394186248392,-74.00254660077628,105,American Restaurant,2012-05-28 19:43:40+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,569,40.783069732658745,-73.97859808949039,13904,Building,2012-04-21 16:37:06+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+11,569,40.7855722,-73.976527,1625,American Restaurant,2012-04-21 16:59:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+12,569,40.74614734033055,-73.99994701493932,2831,Movie Theater,2012-04-21 19:20:05+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+13,569,40.78850252982832,-73.95339488983154,22856,Deli / Bodega,2012-04-28 01:55:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+14,569,40.74421527986642,-73.9885380368106,1643,Bar,2012-04-28 03:40:09+00:00,New York City,Dining and Drinking,Bar,,,,
+15,569,40.73907152609708,-73.98379780455603,6016,Bar,2012-04-28 04:50:01+00:00,New York City,Dining and Drinking,Bar,,,,
+16,569,40.758728399405584,-73.97855791454388,2357,Plaza,2012-04-28 13:52:05+00:00,New York City,Landmarks and Outdoors,Plaza,,,,
+17,569,40.79746292311094,-73.93842470064253,4873,Taco Place,2012-04-28 21:44:05+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,569,40.808262651264165,-73.94514667689515,21736,Southern / Soul Food Restaurant,2012-04-28 22:11:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,569,40.75532586360673,-73.96831876895718,106,Bar,2012-07-14 01:38:37+00:00,New York City,Dining and Drinking,Bar,,,,
+20,569,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-06-09 00:34:47+00:00,New York City,Arts and Entertainment,Movie Theater,,,,
+21,569,40.754023,-73.995567,23341,Bar,2012-05-05 16:51:13+00:00,New York City,Dining and Drinking,Bar,,,,
+22,569,40.75485025788179,-73.98800493858226,929,Bookstore,2012-05-05 19:35:24+00:00,New York City,Retail,Bookstore,,,,
+23,569,40.74995544581752,-73.98755550384521,3233,Clothing Store,2012-05-05 20:49:32+00:00,New York City,Retail,Fashion Retail,,,,
+24,569,40.7442843333705,-74.00648321322095,663,Bar,2012-05-19 04:10:50+00:00,New York City,Dining and Drinking,Bar,,,,
+25,569,40.77137686429133,-73.9688229560852,5696,Park,2012-05-19 19:32:53+00:00,New York City,Landmarks and Outdoors,Park,,,,
+26,569,40.780557679970805,-73.98171901702881,162,Food & Drink Shop,2012-05-19 20:22:28+00:00,New York City,Retail,Food and Beverage Retail,,,,
+27,569,40.75671096305903,-74.00100198012031,1295,Convention Center,2012-04-08 14:46:50+00:00,New York City,Business and Professional Services,Convention Center,,,,
+28,569,40.75678244392934,-74.00150299072266,25885,General Entertainment,2012-04-08 14:47:04+00:00,New York City,Arts and Entertainment,General Entertainment,,,,
+29,569,40.753429,-73.996606,610,Diner,2012-04-08 18:53:14+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,569,40.73907152609708,-73.98379780455603,6016,Bar,2012-04-29 03:42:03+00:00,New York City,Dining and Drinking,Bar,,,,
+31,569,40.7251207,-73.9843896,1100,Bar,2012-04-29 04:57:29+00:00,New York City,Dining and Drinking,Bar,,,,
+32,569,40.783258791664096,-73.97812172886994,1486,French Restaurant,2012-04-29 16:32:30+00:00,New York City,Dining and Drinking,Restaurant,,,,
+33,569,40.76201600107077,-73.98174047470093,1364,American Restaurant,2012-08-19 00:03:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+34,569,40.783258791664096,-73.97812172886994,1486,French Restaurant,2012-08-19 16:43:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+35,569,40.72230706635953,-73.98735165596008,6738,Deli / Bodega,2012-07-15 17:38:36+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,569,40.7224942242332,-73.98759706587661,13556,Pizza Place,2012-07-15 17:38:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+37,569,40.72154512476467,-73.98884242671608,11466,Italian Restaurant,2012-07-15 17:56:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,569,40.75332026820911,-73.97426784038544,1700,Ramen /  Noodle House,2012-07-15 22:27:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,569,40.74561599630371,-74.00990329471303,5954,Athletic & Sport,2012-07-15 23:39:02+00:00,New York City,Sports and Recreation,Golf,,,,
+40,569,40.76401977376754,-73.9975740281675,2277,Bar,2012-04-24 23:06:18+00:00,New York City,Arts and Entertainment,Night Club,,,,
+41,569,40.7575138664349,-73.96661281585693,4905,Ice Cream Shop,2012-08-14 00:33:58+00:00,New York City,Dining and Drinking,Dessert Shop,,,,
+42,569,40.73710647765176,-73.99032307563172,4105,Sandwich Place,2012-08-14 16:39:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,569,40.73019161989554,-73.98417084713711,1667,Mac & Cheese Joint,2012-05-15 00:01:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+44,569,40.740001,-73.990719,9685,Clothing Store,2012-05-29 22:57:11+00:00,New York City,Retail,Fashion Retail,,,,
+45,569,40.71448721403073,-73.99883945440368,15526,Chinese Restaurant,2012-05-29 23:57:15+00:00,New York City,Dining and Drinking,Restaurant,,,,
+46,569,40.76406488952674,-73.9883660914967,4777,Mexican Restaurant,2012-04-25 00:00:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+47,569,40.72230706635953,-73.98735165596008,6738,Deli / Bodega,2012-07-18 00:12:27+00:00,New York City,Dining and Drinking,Restaurant,,,,
+48,569,40.720480045234375,-73.99355980323412,736,Music Venue,2012-07-18 00:36:32+00:00,New York City,Arts and Entertainment,Performing Arts Venue,,,,
+49,569,40.760278,-73.965457,6858,Steakhouse,2012-07-18 23:11:48+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,569,40.740001,-73.990719,9685,Clothing Store,2012-11-06 18:00:09+00:00,,Retail,Fashion Retail,7.0,1.0,nyc,Return
+51,569,40.783258791664096,-73.97812172886994,1486,French Restaurant,2012-11-09 18:00:09+00:00,,Dining and Drinking,Restaurant,10.0,1.0,nyc,Return
+52,569,40.760278,-73.965457,6858,Steakhouse,2012-11-10 18:00:09+00:00,,Dining and Drinking,Restaurant,11.0,1.0,nyc,Return
+53,569,40.78850252982832,-73.95339488983154,22856,Deli / Bodega,2012-11-12 18:00:09+00:00,,Dining and Drinking,Restaurant,13.0,1.0,nyc,Return
+54,569,40.79437893161566,-73.94883189698274,28863,Deli / Bodega,2012-11-15 18:00:09+00:00,,Dining and Drinking,Restaurant,16.0,2.0,nyc,Rec
+55,569,40.79414528367362,-73.96695274312293,23197,Cupcake Shop,2012-11-16 18:00:09+00:00,,Dining and Drinking,Dessert Shop,17.0,2.0,nyc,Rec
+56,569,40.80825990296103,-73.94516389771303,21736,Southern / Soul Food Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Return
+57,569,40.73019000994233,-73.99451818549944,1089,Bar,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Explore
+58,569,40.73019000994233,-73.99451818549944,1089,Bar,2012-11-17 18:00:09+00:00,,Dining and Drinking,Bar,18.0,2.0,nyc,Return
+59,569,40.74561599630371,-74.00990329471303,5954,Athletic & Sport,2012-11-18 18:00:09+00:00,,Sports and Recreation,Golf,19.0,2.0,nyc,Return
+60,569,40.79437893161566,-73.94883189698274,28863,Deli / Bodega,2012-11-20 18:00:09+00:00,,Dining and Drinking,Restaurant,21.0,3.0,nyc,Rec
+61,569,40.77468923616394,-73.94849322703864,17777,Food & Drink Shop,2012-11-20 18:00:09+00:00,,Retail,Food and Beverage Retail,21.0,3.0,nyc,Explore
+62,569,40.76936,-73.987263,36502,Gym / Fitness Center,2012-11-21 18:00:09+00:00,,Sports and Recreation,Gym and Studio,22.0,3.0,nyc,Explore
+63,569,40.75338271988277,-73.97444280771313,25283,Tea Room,2012-11-25 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",26.0,3.0,nyc,Return
+64,569,40.743107753743374,-73.98923841533589,21614,Fried Chicken Joint,2012-11-26 18:00:09+00:00,,Dining and Drinking,Restaurant,27.0,3.0,nyc,Explore
+65,569,40.73416736029532,-73.99048715829849,1514,Movie Theater,2012-12-03 18:00:09+00:00,,Arts and Entertainment,Movie Theater,34.0,4.0,nyc,Return
+66,569,40.75875624280933,-73.97866122153226,2357,Plaza,2012-12-11 18:00:09+00:00,,Landmarks and Outdoors,Plaza,42.0,6.0,nyc,Rec
+67,569,40.76201600107077,-73.98174047470093,1364,American Restaurant,2012-12-15 18:00:09+00:00,,Dining and Drinking,Restaurant,46.0,6.0,nyc,Return
+68,569,40.73599016595973,-73.98752245874952,2461,Sushi Restaurant,2012-12-18 18:00:09+00:00,,Dining and Drinking,Restaurant,49.0,7.0,nyc,Explore
+69,569,40.78850252982832,-73.95339488983154,22856,Deli / Bodega,2013-01-21 18:00:09+00:00,,Dining and Drinking,Restaurant,83.0,11.0,nyc,Return
+70,569,40.77723403273624,-73.96143114509404,9194,American Restaurant,2013-02-01 18:00:09+00:00,,Dining and Drinking,Restaurant,94.0,13.0,nyc,Explore
+71,569,40.77787134925543,-73.95476139494657,25085,Mexican Restaurant,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Rec
+72,569,40.73308000062968,-74.1708254814148,3114,Stadium,2013-02-08 18:00:09+00:00,,Arts and Entertainment,Stadium,101.0,14.0,nyc,Return

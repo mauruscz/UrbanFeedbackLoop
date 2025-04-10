@@ -1,0 +1,77 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,538,40.74071550408981,-73.99223412885216,11494,Medical Center,2012-10-12 13:00:40+00:00,New York City,Health and Medicine,Physician,,,,
+1,538,40.72914503284784,-73.99094581604004,490,Coffee Shop,2012-10-12 13:14:50+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+2,538,40.72241034998236,-73.99948218461356,3723,Gym / Fitness Center,2012-10-19 11:50:08+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+3,538,40.74180746344286,-73.98642630453996,36839,Other Great Outdoors,2012-08-18 15:29:25+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors,,,,
+4,538,40.72589987695666,-74.00858921023485,2005,Bar,2012-10-13 03:44:46+00:00,New York City,Dining and Drinking,Bar,,,,
+5,538,40.78662301411383,-73.95062281970543,32668,Bar,2012-10-27 03:35:29+00:00,New York City,Dining and Drinking,Bar,,,,
+6,538,40.780482,-73.952901,943,Bar,2012-10-27 16:26:55+00:00,New York City,Dining and Drinking,Bar,,,,
+7,538,40.77966047860471,-73.95338953308688,37487,Miscellaneous Shop,2012-10-27 19:25:27+00:00,New York City,Retail,Miscellaneous Store,,,,
+8,538,40.731003,-73.985775,2673,Bar,2012-09-15 03:25:54+00:00,New York City,Dining and Drinking,Bar,,,,
+9,538,40.729470245617904,-73.9879846572876,310,Bar,2012-09-15 05:57:33+00:00,New York City,Dining and Drinking,Bar,,,,
+10,538,40.7405579801227,-74.00777996246534,5015,Beer Garden,2012-08-19 01:56:44+00:00,New York City,Dining and Drinking,Bar,,,,
+11,538,40.74017876390845,-74.00560522941583,3108,Bar,2012-08-19 04:35:51+00:00,New York City,Dining and Drinking,Bar,,,,
+12,538,40.67396595585016,-73.97013187408447,26857,Food Truck,2012-08-19 15:26:14+00:00,New York City,Dining and Drinking,Food Truck,,,,
+13,538,40.735754595656175,-74.00079059301935,588,Bar,2012-10-28 03:07:43+00:00,New York City,Dining and Drinking,Bar,,,,
+14,538,40.71990943,-73.987776,1420,Bar,2012-10-28 05:16:04+00:00,New York City,Dining and Drinking,Bar,,,,
+15,538,40.78411592042216,-73.96772861480713,6969,Other Great Outdoors,2012-10-28 13:43:11+00:00,New York City,Landmarks and Outdoors,Hiking Trail,,,,
+16,538,40.7761672,-73.9561516,420,Bar,2012-10-28 22:17:22+00:00,New York City,Dining and Drinking,Bar,,,,
+17,538,40.775635,-73.953553,2003,Bar,2012-10-28 23:42:06+00:00,New York City,Dining and Drinking,Bar,,,,
+18,538,40.77725923205139,-73.95521879196167,32218,Bar,2012-09-09 21:42:21+00:00,New York City,Dining and Drinking,Juice Bar,,,,
+19,538,40.72612736056984,-73.9862082207571,1034,Indian Restaurant,2012-09-16 00:58:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,538,40.7257627258212,-73.98334980010986,13066,Bar,2012-09-16 03:22:08+00:00,New York City,Dining and Drinking,Bar,,,,
+21,538,40.72697419689535,-73.98404717445374,47,Bar,2012-09-16 04:12:57+00:00,New York City,Dining and Drinking,Bar,,,,
+22,538,40.725730202803845,-74.0009880065918,36606,Snack Place,2012-08-16 22:18:53+00:00,New York City,Dining and Drinking,Snack Place,,,,
+23,538,40.7226384919777,-73.99800160642802,2876,Coffee Shop,2012-10-24 12:35:47+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+24,538,40.72298195042339,-74.00264024734497,28927,Event Space,2012-10-24 22:45:31+00:00,New York City,Business and Professional Services,Event Space,,,,
+25,538,40.7257627258212,-73.98334980010986,13066,Bar,2012-10-30 18:00:09+00:00,,Dining and Drinking,Bar,0.0,0.0,nyc,Return
+26,538,40.78411592042216,-73.96772861480713,6969,Other Great Outdoors,2012-10-31 18:00:09+00:00,,Landmarks and Outdoors,Hiking Trail,1.0,0.0,nyc,Return
+27,538,40.735754595656175,-74.00079059301935,588,Bar,2012-11-01 18:00:09+00:00,,Dining and Drinking,Bar,2.0,0.0,nyc,Rec
+28,538,40.72612736056984,-73.9862082207571,1034,Indian Restaurant,2012-11-01 18:00:09+00:00,,Dining and Drinking,Restaurant,2.0,0.0,nyc,Return
+29,538,40.725730202803845,-74.0009880065918,36606,Snack Place,2012-11-09 18:00:09+00:00,,Dining and Drinking,Snack Place,10.0,1.0,nyc,Return
+30,538,40.72212709991359,-73.99930899378225,3115,Department Store,2012-11-11 18:00:09+00:00,,Retail,Department Store,12.0,1.0,nyc,Rec
+31,538,40.7761672,-73.9561516,420,Bar,2012-11-12 18:00:09+00:00,,Dining and Drinking,Bar,13.0,1.0,nyc,Return
+32,538,40.7761672,-73.9561516,420,Bar,2012-11-16 18:00:09+00:00,,Dining and Drinking,Bar,17.0,2.0,nyc,Return
+33,538,40.72915881812997,-73.98888259951185,376,Bar,2012-11-16 18:00:09+00:00,,Dining and Drinking,Bar,17.0,2.0,nyc,Explore
+34,538,40.7370451623266,-73.97812172886994,12431,Medical Center,2012-11-16 18:00:09+00:00,,Health and Medicine,Hospital,17.0,2.0,nyc,Explore
+35,538,40.737075,-73.978847,9345,Caf�,2012-11-17 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",18.0,2.0,nyc,Explore
+36,538,40.741136037741065,-73.9857892696372,2013,Coffee Shop,2012-11-17 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",18.0,2.0,nyc,Rec
+37,538,40.745901560214506,-73.98814227092512,5949,Coffee Shop,2012-11-20 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",21.0,3.0,nyc,Rec
+38,538,40.72612736056984,-73.9862082207571,1034,Indian Restaurant,2012-11-27 18:00:09+00:00,,Dining and Drinking,Restaurant,28.0,4.0,nyc,Return
+39,538,40.73019161989554,-73.98417084713711,1667,Mac & Cheese Joint,2012-11-28 18:00:09+00:00,,Dining and Drinking,Restaurant,29.0,4.0,nyc,Rec
+40,538,40.725730202803845,-74.0009880065918,36606,Snack Place,2012-11-28 18:00:09+00:00,,Dining and Drinking,Snack Place,29.0,4.0,nyc,Return
+41,538,40.734738,-74.002162,1122,Mexican Restaurant,2012-12-01 18:00:09+00:00,,Dining and Drinking,Restaurant,32.0,4.0,nyc,Rec
+42,538,40.72589987695666,-74.00858921023485,2005,Bar,2012-12-04 18:00:09+00:00,,Dining and Drinking,Bar,35.0,5.0,nyc,Return
+43,538,40.72623949182937,-74.00726937830656,34383,Clothing Store,2012-12-06 18:00:09+00:00,,Retail,Fashion Retail,37.0,5.0,nyc,Explore
+44,538,40.71990943,-73.987776,1420,Bar,2012-12-07 18:00:09+00:00,,Dining and Drinking,Bar,38.0,5.0,nyc,Return
+45,538,40.72914503284784,-73.99094581604004,490,Coffee Shop,2012-12-08 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",39.0,5.0,nyc,Rec
+46,538,40.737561180328825,-74.00389515789001,794,Bar,2012-12-14 18:00:09+00:00,,Dining and Drinking,Bar,45.0,6.0,nyc,Explore
+47,538,40.731003,-73.985775,2673,Bar,2012-12-15 18:00:09+00:00,,Dining and Drinking,Bar,46.0,6.0,nyc,Return
+48,538,40.72612736056984,-73.9862082207571,1034,Indian Restaurant,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Return
+49,538,40.775635,-73.953553,2003,Bar,2012-12-16 18:00:09+00:00,,Dining and Drinking,Bar,47.0,6.0,nyc,Rec
+50,538,40.772301,-73.955844,724,BBQ Joint,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Rec
+51,538,40.722528,-73.983054,7680,Snack Place,2012-12-19 18:00:09+00:00,,Dining and Drinking,Snack Place,50.0,7.0,nyc,Rec
+52,538,40.72263027976205,-73.98305006325245,2750,Tapas Restaurant,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Explore
+53,538,40.7761672,-73.9561516,420,Bar,2012-12-21 18:00:09+00:00,,Dining and Drinking,Bar,52.0,7.0,nyc,Return
+54,538,40.78007502367464,-73.95526897957147,2609,Coffee Shop,2012-12-23 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",54.0,7.0,nyc,Rec
+55,538,40.779702818423466,-73.9518569394892,29785,Music Venue,2013-01-01 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,63.0,9.0,nyc,Explore
+56,538,40.74017876390845,-74.00560522941583,3108,Bar,2013-01-04 18:00:09+00:00,,Dining and Drinking,Bar,66.0,9.0,nyc,Return
+57,538,40.7226384919777,-73.99800160642802,2876,Coffee Shop,2013-01-12 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",74.0,10.0,nyc,Return
+58,538,40.78411592042216,-73.96772861480713,6969,Other Great Outdoors,2013-01-13 18:00:09+00:00,,Landmarks and Outdoors,Hiking Trail,75.0,10.0,nyc,Return
+59,538,40.779702818423466,-73.9518569394892,29785,Music Venue,2013-01-13 18:00:09+00:00,,Arts and Entertainment,Performing Arts Venue,75.0,10.0,nyc,Return
+60,538,40.74667352978544,-73.98154231629059,9296,Gym / Fitness Center,2013-01-15 18:00:09+00:00,,Sports and Recreation,Gym and Studio,77.0,11.0,nyc,Rec
+61,538,40.72263027976205,-73.98305006325245,2750,Tapas Restaurant,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Return
+62,538,40.72522198518015,-74.00795798740558,14683,Event Space,2013-01-17 18:00:09+00:00,,Business and Professional Services,Event Space,79.0,11.0,nyc,Rec
+63,538,40.74667352978544,-73.98154231629059,9296,Gym / Fitness Center,2013-01-18 18:00:09+00:00,,Sports and Recreation,Gym and Studio,80.0,11.0,nyc,Return
+64,538,40.72241034998236,-73.99948218461356,3723,Gym / Fitness Center,2013-01-22 18:00:09+00:00,,Sports and Recreation,Gym and Studio,84.0,12.0,nyc,Return
+65,538,40.7290065334789,-73.98930154388093,1801,Gym / Fitness Center,2013-01-24 18:00:09+00:00,,Sports and Recreation,Gym and Studio,86.0,12.0,nyc,Rec
+66,538,40.74017876390845,-74.00560522941583,3108,Bar,2013-01-24 18:00:09+00:00,,Dining and Drinking,Bar,86.0,12.0,nyc,Return
+67,538,40.725730202803845,-74.0009880065918,36606,Snack Place,2013-01-26 18:00:09+00:00,,Dining and Drinking,Snack Place,88.0,12.0,nyc,Return
+68,538,40.72914503284784,-73.99094581604004,490,Coffee Shop,2013-01-26 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",88.0,12.0,nyc,Return
+69,538,40.775635,-73.953553,2003,Bar,2013-01-26 18:00:09+00:00,,Dining and Drinking,Bar,88.0,12.0,nyc,Return
+70,538,40.78741016272952,-73.95204062176,34896,Bar,2013-01-27 18:00:09+00:00,,Dining and Drinking,Bar,89.0,12.0,nyc,Explore
+71,538,40.769463757397,-73.97914332007753,28098,Other Great Outdoors,2013-01-29 18:00:09+00:00,,Landmarks and Outdoors,Hiking Trail,91.0,13.0,nyc,Rec
+72,538,40.76302644034898,-73.97006933412285,2171,Gym / Fitness Center,2013-02-01 18:00:09+00:00,,Sports and Recreation,Gym and Studio,94.0,13.0,nyc,Rec
+73,538,40.76183722175493,-73.96639823913574,29985,Bakery,2013-02-07 18:00:09+00:00,,Dining and Drinking,Bakery,100.0,14.0,nyc,Rec
+74,538,40.7691229848518,-73.98201866843489,4666,Ice Cream Shop,2013-02-07 18:00:09+00:00,,Dining and Drinking,Dessert Shop,100.0,14.0,nyc,Rec
+75,538,40.72241034998236,-73.99948218461356,3723,Gym / Fitness Center,2013-02-10 18:00:09+00:00,,Sports and Recreation,Gym and Studio,103.0,14.0,nyc,Return

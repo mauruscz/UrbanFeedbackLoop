@@ -1,0 +1,57 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-04-13 10:41:56+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+1,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-04-20 10:04:12+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+2,1011,40.84161435332726,-73.97460579872131,10296,Hot Dog Joint,2012-07-13 23:41:31+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-05-11 10:11:54+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+4,1011,40.82563695757829,-74.13759576015599,34289,Tapas Restaurant,2012-05-11 23:12:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+5,1011,40.7045816286772,-74.00947291869514,29111,Soup Place,2012-10-12 17:37:17+00:00,New York City,Dining and Drinking,Restaurant,,,,
+6,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-10-26 09:31:47+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+7,1011,40.75909046091092,-73.98201942443848,5160,Bar,2012-04-23 21:05:44+00:00,New York City,Dining and Drinking,Bar,,,,
+8,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-08-20 11:02:05+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+9,1011,40.70427309455158,-74.01036236139751,26251,Seafood Restaurant,2012-07-16 16:39:24+00:00,New York City,Dining and Drinking,Restaurant,,,,
+10,1011,40.82409456293457,-73.98823983377046,27824,Medical Center,2012-07-16 23:04:43+00:00,New York City,Health and Medicine,Medical Center,,,,
+11,1011,40.702415,-74.01258301,6910,Coffee Shop,2012-07-30 18:34:43+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+12,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-06-11 09:56:04+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+13,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-05-14 12:31:51+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+14,1011,40.82409456293457,-73.98823983377046,27824,Medical Center,2012-05-21 23:46:16+00:00,New York City,Health and Medicine,Medical Center,,,,
+15,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-10-22 09:29:25+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+16,1011,40.889174650336656,-74.03852015733719,5608,Burger Joint,2012-04-14 21:05:56+00:00,New York City,Dining and Drinking,Restaurant,,,,
+17,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-04-21 10:00:42+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+18,1011,40.81005,-74.00079576666667,19088,Automotive Shop,2012-04-28 11:17:41+00:00,New York City,Retail,Automotive Shop,,,,
+19,1011,40.59223988766792,-74.08715436369619,1369,Italian Restaurant,2012-04-28 18:22:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,1011,40.71529762488199,-74.0147852897644,26896,Burger Joint,2012-05-05 01:11:09+00:00,New York City,Dining and Drinking,Restaurant,,,,
+21,1011,40.827270801334265,-74.13460493087769,19834,Burger Joint,2012-05-12 22:54:08+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,1011,40.84053883,-74.047763,13615,Italian Restaurant,2012-10-27 23:47:00+00:00,New York City,Dining and Drinking,Restaurant,,,,
+23,1011,40.840492266666665,-74.003193,20019,Bakery,2012-04-08 16:23:52+00:00,New York City,Dining and Drinking,Bakery,,,,
+24,1011,40.82458438984084,-73.9737885148353,4643,Food & Drink Shop,2012-04-29 19:57:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+25,1011,40.8938277,-73.9741984,11082,Coffee Shop,2012-08-19 16:41:46+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+26,1011,40.884835891587976,-74.21012257381425,34053,Food & Drink Shop,2012-07-29 15:17:44+00:00,New York City,Retail,Food and Beverage Retail,,,,
+27,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-04-19 10:09:30+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+28,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-04-26 09:17:29+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+29,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-06-14 10:40:28+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+30,1011,40.82409456293457,-73.98823983377046,27824,Medical Center,2012-05-10 22:55:29+00:00,New York City,Health and Medicine,Medical Center,,,,
+31,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-05-17 10:06:39+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+32,1011,40.82409456293457,-73.98823983377046,27824,Medical Center,2012-05-17 23:03:00+00:00,New York City,Health and Medicine,Medical Center,,,,
+33,1011,40.7041715428777,-74.01026480981929,3338,Bar,2012-10-25 22:45:53+00:00,New York City,Dining and Drinking,Bar,,,,
+34,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-06-19 10:05:19+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+35,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-05-15 09:55:08+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+36,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-04-11 10:41:39+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+37,1011,40.70427309455158,-74.01036236139751,26251,Seafood Restaurant,2012-04-18 16:52:39+00:00,New York City,Dining and Drinking,Restaurant,,,,
+38,1011,40.82409456293457,-73.98823983377046,27824,Medical Center,2012-06-06 23:06:57+00:00,New York City,Health and Medicine,Medical Center,,,,
+39,1011,40.82409456293457,-73.98823983377046,27824,Medical Center,2012-06-20 23:19:47+00:00,New York City,Health and Medicine,Medical Center,,,,
+40,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-05-09 10:41:25+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+41,1011,40.82409456293457,-73.98823983377046,27824,Medical Center,2012-05-09 23:29:49+00:00,New York City,Health and Medicine,Medical Center,,,,
+42,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-05-16 10:00:22+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+43,1011,40.827157144502,-73.99534463882446,25719,Gym / Fitness Center,2012-10-24 10:22:34+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+44,1011,40.73289,-73.99,2382,Gym / Fitness Center,2012-11-06 18:00:09+00:00,,Sports and Recreation,Gym and Studio,7.0,1.0,nyc,Rec
+45,1011,40.73675459511588,-73.99521589279175,1675,Gym / Fitness Center,2012-11-12 18:00:09+00:00,,Sports and Recreation,Gym and Studio,13.0,1.0,nyc,Explore
+46,1011,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-11-20 18:00:09+00:00,,Dining and Drinking,Restaurant,21.0,3.0,nyc,Rec
+47,1011,40.758750496736816,-73.98438319412892,22669,Parking,2012-11-21 18:00:09+00:00,,Travel and Transportation,Parking,22.0,3.0,nyc,Rec
+48,1011,40.76307092236224,-73.98605326633982,3081,American Restaurant,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Explore
+49,1011,40.75553088008716,-73.9859676361084,32680,Food & Drink Shop,2012-12-08 18:00:09+00:00,,Retail,Food and Beverage Retail,39.0,5.0,nyc,Rec
+50,1011,40.81005,-74.00079576666667,19088,Automotive Shop,2012-12-08 18:00:09+00:00,,Retail,Automotive Shop,39.0,5.0,nyc,Return
+51,1011,40.731844250688674,-73.98386478424072,2238,Pizza Place,2012-12-08 18:00:09+00:00,,Dining and Drinking,Restaurant,39.0,5.0,nyc,Rec
+52,1011,40.889174650336656,-74.03852015733719,5608,Burger Joint,2013-01-11 18:00:09+00:00,,Dining and Drinking,Restaurant,73.0,10.0,nyc,Return
+53,1011,40.87908693430124,-74.08500908544775,14646,Food & Drink Shop,2013-01-13 18:00:09+00:00,,Retail,Food and Beverage Retail,75.0,10.0,nyc,Rec
+54,1011,40.884835891587976,-74.21012257381425,34053,Food & Drink Shop,2013-01-27 18:00:09+00:00,,Retail,Food and Beverage Retail,89.0,12.0,nyc,Return
+55,1011,40.70427309455158,-74.01036236139751,26251,Seafood Restaurant,2013-02-03 18:00:09+00:00,,Dining and Drinking,Restaurant,96.0,13.0,nyc,Return

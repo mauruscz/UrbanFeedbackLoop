@@ -1,0 +1,215 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-04-13 18:32:56+00:00,New York City,Retail,Pharmacy,,,,
+1,573,40.83260433886108,-73.86046496281456,18661,Food & Drink Shop,2012-04-13 21:38:57+00:00,New York City,Retail,Food and Beverage Retail,,,,
+2,573,40.8325086053792,-73.8605166476987,15636,Pizza Place,2012-04-13 23:32:33+00:00,New York City,Dining and Drinking,Restaurant,,,,
+3,573,40.82749248,-73.8566178,16537,Building,2012-04-20 17:56:10+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+4,573,40.83270053138752,-73.8600285121401,18661,Food & Drink Shop,2012-04-20 19:56:45+00:00,New York City,Retail,Food and Beverage Retail,,,,
+5,573,40.82749248,-73.8566178,16537,Building,2012-08-10 13:30:02+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+6,573,40.83256921011844,-73.85993662766414,25460,Building,2012-08-10 18:59:10+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+7,573,40.82749248,-73.8566178,16537,Building,2012-08-17 19:27:06+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+8,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-08-17 20:33:55+00:00,New York City,Retail,Food and Beverage Retail,,,,
+9,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-08-17 21:23:10+00:00,New York City,Retail,Pharmacy,,,,
+10,573,40.82593,-73.85714,16233,Electronics Store,2012-07-13 17:09:53+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+11,573,40.82749248,-73.8566178,16537,Building,2012-07-13 18:02:38+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+12,573,40.82749248,-73.8566178,16537,Building,2012-06-01 13:01:19+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+13,573,40.82593,-73.85714,16233,Electronics Store,2012-06-08 18:40:24+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+14,573,40.82749248,-73.8566178,16537,Building,2012-05-04 16:04:12+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+15,573,40.83270053138752,-73.8600285121401,18661,Food & Drink Shop,2012-05-04 18:44:33+00:00,New York City,Retail,Food and Beverage Retail,,,,
+16,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-05-04 18:44:57+00:00,New York City,Retail,Pharmacy,,,,
+17,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-05-11 20:35:31+00:00,New York City,Retail,Pharmacy,,,,
+18,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-05-18 22:26:57+00:00,New York City,Retail,Food and Beverage Retail,,,,
+19,573,40.82749248,-73.8566178,16537,Building,2012-05-25 12:50:44+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+20,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-05-25 13:00:31+00:00,New York City,Retail,Food and Beverage Retail,,,,
+21,573,40.82593,-73.85714,16233,Electronics Store,2012-05-25 13:00:56+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+22,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-05-25 14:44:27+00:00,New York City,Retail,Food and Beverage Retail,,,,
+23,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-05-25 16:26:01+00:00,New York City,Retail,Pharmacy,,,,
+24,573,40.82749248,-73.8566178,16537,Building,2012-10-26 22:25:40+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+25,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-10-26 22:26:00+00:00,New York City,Retail,Pharmacy,,,,
+26,573,40.82749248,-73.8566178,16537,Building,2012-09-14 14:48:27+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+27,573,40.82749248,-73.8566178,16537,Building,2012-04-09 16:38:45+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+28,573,40.82749248,-73.8566178,16537,Building,2012-04-16 13:15:54+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+29,573,40.82708616679473,-73.86262423084388,21525,Food & Drink Shop,2012-04-16 13:32:21+00:00,New York City,Retail,Food and Beverage Retail,,,,
+30,573,40.83270053138752,-73.8600285121401,18661,Food & Drink Shop,2012-04-16 17:41:40+00:00,New York City,Retail,Food and Beverage Retail,,,,
+31,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-04-16 19:55:18+00:00,New York City,Retail,Food and Beverage Retail,,,,
+32,573,40.82749248,-73.8566178,16537,Building,2012-04-23 13:09:37+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+33,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-04-23 18:48:39+00:00,New York City,Retail,Pharmacy,,,,
+34,573,40.82593,-73.85714,16233,Electronics Store,2012-08-13 16:00:27+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+35,573,40.82749248,-73.8566178,16537,Building,2012-07-02 20:29:37+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+36,573,40.82593,-73.85714,16233,Electronics Store,2012-07-16 21:21:23+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+37,573,40.82749248,-73.8566178,16537,Building,2012-07-30 18:46:35+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+38,573,40.82749248,-73.8566178,16537,Building,2012-06-04 21:03:36+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+39,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-06-04 21:04:02+00:00,New York City,Retail,Food and Beverage Retail,,,,
+40,573,40.82749248,-73.8566178,16537,Building,2012-06-11 16:07:24+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+41,573,40.82749248,-73.8566178,16537,Building,2012-06-18 16:36:39+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+42,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-06-18 18:35:28+00:00,New York City,Retail,Food and Beverage Retail,,,,
+43,573,40.82593,-73.85714,16233,Electronics Store,2012-05-07 15:24:23+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+44,573,40.823649646199925,-73.8568527300413,20432,Drugstore / Pharmacy,2012-05-07 16:40:03+00:00,New York City,Retail,Pharmacy,,,,
+45,573,40.82749248,-73.8566178,16537,Building,2012-05-07 17:05:11+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+46,573,40.83266493511519,-73.8608497277372,18661,Food & Drink Shop,2012-05-07 19:44:35+00:00,New York City,Retail,Food and Beverage Retail,,,,
+47,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-05-07 20:41:30+00:00,New York City,Retail,Pharmacy,,,,
+48,573,40.82749248,-73.8566178,16537,Building,2012-05-14 15:56:04+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+49,573,40.82749248,-73.8566178,16537,Building,2012-05-28 18:32:14+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+50,573,40.82749248,-73.8566178,16537,Building,2012-04-07 15:35:00+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+51,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-04-07 20:14:08+00:00,New York City,Retail,Food and Beverage Retail,,,,
+52,573,40.83260433886108,-73.86046496281456,18661,Food & Drink Shop,2012-04-07 20:45:43+00:00,New York City,Retail,Food and Beverage Retail,,,,
+53,573,40.82708616679473,-73.86262423084388,21525,Food & Drink Shop,2012-04-07 20:56:55+00:00,New York City,Retail,Food and Beverage Retail,,,,
+54,573,40.83260433886108,-73.86046496281456,18661,Food & Drink Shop,2012-04-14 18:39:06+00:00,New York City,Retail,Food and Beverage Retail,,,,
+55,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-04-14 18:40:33+00:00,New York City,Retail,Pharmacy,,,,
+56,573,40.83270053138752,-73.8600285121401,18661,Food & Drink Shop,2012-04-28 00:17:45+00:00,New York City,Retail,Food and Beverage Retail,,,,
+57,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-04-28 23:04:12+00:00,New York City,Retail,Pharmacy,,,,
+58,573,40.82749248,-73.8566178,16537,Building,2012-08-11 16:53:00+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+59,573,40.82749248,-73.8566178,16537,Building,2012-07-07 16:45:48+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+60,573,40.82749248,-73.8566178,16537,Building,2012-06-02 22:09:51+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+61,573,40.83261031647883,-73.86053387599038,15636,Pizza Place,2012-06-02 22:15:18+00:00,New York City,Dining and Drinking,Restaurant,,,,
+62,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-06-09 20:43:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+63,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-06-09 21:11:42+00:00,New York City,Retail,Pharmacy,,,,
+64,573,40.82749248,-73.8566178,16537,Building,2012-05-05 19:32:55+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+65,573,40.83261031647883,-73.86104498129052,15636,Pizza Place,2012-05-05 20:36:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+66,573,40.825136,-73.85919,13140,Miscellaneous Shop,2012-05-12 15:31:15+00:00,New York City,Retail,Miscellaneous Store,,,,
+67,573,40.82749248,-73.8566178,16537,Building,2012-05-19 13:12:29+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+68,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-05-19 21:49:58+00:00,New York City,Retail,Pharmacy,,,,
+69,573,40.83260433886108,-73.86046496281456,18661,Food & Drink Shop,2012-04-08 23:16:31+00:00,New York City,Retail,Food and Beverage Retail,,,,
+70,573,40.82749248,-73.8566178,16537,Building,2012-04-15 12:05:42+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+71,573,40.82708616679473,-73.86262423084388,21525,Food & Drink Shop,2012-04-15 12:07:02+00:00,New York City,Retail,Food and Beverage Retail,,,,
+72,573,40.82749248,-73.8566178,16537,Building,2012-04-22 02:04:31+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+73,573,40.82749248,-73.8566178,16537,Building,2012-04-22 12:52:25+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+74,573,40.82593,-73.85714,16233,Electronics Store,2012-04-29 00:20:03+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+75,573,40.83261031647883,-73.86104498129052,15636,Pizza Place,2012-04-29 12:32:17+00:00,New York City,Dining and Drinking,Restaurant,,,,
+76,573,40.82593,-73.85714,16233,Electronics Store,2012-04-29 20:36:01+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+77,573,40.82749248,-73.8566178,16537,Building,2012-08-05 14:03:35+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+78,573,40.82593,-73.85714,16233,Electronics Store,2012-08-12 16:57:18+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+79,573,40.82749248,-73.8566178,16537,Building,2012-08-12 17:34:13+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+80,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-08-12 17:36:48+00:00,New York City,Retail,Food and Beverage Retail,,,,
+81,573,40.82749248,-73.8566178,16537,Building,2012-08-19 16:53:10+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+82,573,40.82749248,-73.8566178,16537,Building,2012-07-08 17:47:16+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+83,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-07-08 20:42:26+00:00,New York City,Retail,Pharmacy,,,,
+84,573,40.82749248,-73.8566178,16537,Building,2012-07-15 19:34:39+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+85,573,40.82708616679473,-73.86262423084388,21525,Food & Drink Shop,2012-07-15 23:22:04+00:00,New York City,Retail,Food and Beverage Retail,,,,
+86,573,40.82749248,-73.8566178,16537,Building,2012-07-29 07:58:40+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+87,573,40.82593,-73.85714,16233,Electronics Store,2012-06-10 19:03:39+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+88,573,40.82749248,-73.8566178,16537,Building,2012-06-17 17:11:53+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+89,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-06-17 18:24:47+00:00,New York City,Retail,Food and Beverage Retail,,,,
+90,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-05-06 21:02:22+00:00,New York City,Retail,Food and Beverage Retail,,,,
+91,573,40.82749248,-73.8566178,16537,Building,2012-05-13 19:11:32+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+92,573,40.83266493511519,-73.8608497277372,18661,Food & Drink Shop,2012-05-13 19:28:14+00:00,New York City,Retail,Food and Beverage Retail,,,,
+93,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-05-13 20:23:00+00:00,New York City,Retail,Pharmacy,,,,
+94,573,40.82749248,-73.8566178,16537,Building,2012-05-27 16:58:08+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+95,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-05-27 19:35:29+00:00,New York City,Retail,Food and Beverage Retail,,,,
+96,573,40.82749248,-73.8566178,16537,Building,2012-09-09 20:11:56+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+97,573,40.82749248,-73.8566178,16537,Building,2012-04-19 00:16:49+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+98,573,40.83270053138752,-73.8600285121401,18661,Food & Drink Shop,2012-04-19 00:22:57+00:00,New York City,Retail,Food and Beverage Retail,,,,
+99,573,40.82749248,-73.8566178,16537,Building,2012-04-19 15:01:20+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+100,573,40.83270053138752,-73.8600285121401,18661,Food & Drink Shop,2012-04-19 21:22:19+00:00,New York City,Retail,Food and Beverage Retail,,,,
+101,573,40.82749248,-73.8566178,16537,Building,2012-08-09 14:14:31+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+102,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-08-16 14:45:32+00:00,New York City,Retail,Food and Beverage Retail,,,,
+103,573,40.82749248,-73.8566178,16537,Building,2012-07-05 16:06:47+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+104,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-07-05 19:53:55+00:00,New York City,Retail,Pharmacy,,,,
+105,573,40.82749248,-73.8566178,16537,Building,2012-06-07 17:44:07+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+106,573,40.82593,-73.85714,16233,Electronics Store,2012-06-07 18:36:14+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+107,573,40.83256921011844,-73.85993662766414,25460,Building,2012-06-07 18:39:25+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+108,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-06-07 19:07:03+00:00,New York City,Retail,Pharmacy,,,,
+109,573,40.83111,-73.850822,21037,Post Office,2012-05-03 17:56:30+00:00,New York City,Community and Government,Government Building,,,,
+110,573,40.82749248,-73.8566178,16537,Building,2012-05-03 18:25:42+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+111,573,40.83270053138752,-73.8600285121401,18661,Food & Drink Shop,2012-05-03 20:17:41+00:00,New York City,Retail,Food and Beverage Retail,,,,
+112,573,40.82749248,-73.8566178,16537,Building,2012-05-17 12:17:45+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+113,573,40.83261031647883,-73.86104498129052,15636,Pizza Place,2012-05-17 15:26:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+114,573,40.82749248,-73.8566178,16537,Building,2012-05-31 15:06:57+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+115,573,40.82749248,-73.8566178,16537,Building,2012-10-25 18:38:54+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+116,573,40.82593,-73.85714,16233,Electronics Store,2012-09-13 16:33:00+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+117,573,40.83260433886108,-73.86046496281456,18661,Food & Drink Shop,2012-04-03 20:03:56+00:00,New York City,Retail,Food and Beverage Retail,,,,
+118,573,40.82749248,-73.8566178,16537,Building,2012-04-17 18:43:26+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+119,573,40.82749248,-73.8566178,16537,Building,2012-04-24 19:33:32+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+120,573,40.82749248,-73.8566178,16537,Building,2012-08-14 15:28:25+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+121,573,40.82749248,-73.8566178,16537,Building,2012-07-03 17:02:31+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+122,573,40.83261031647883,-73.86053387599038,15636,Pizza Place,2012-07-03 18:55:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+123,573,40.82749248,-73.8566178,16537,Building,2012-07-10 23:38:34+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+124,573,40.82749248,-73.8566178,16537,Building,2012-07-17 14:39:23+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+125,573,40.82749248,-73.8566178,16537,Building,2012-07-17 18:02:59+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+126,573,40.83261031647883,-73.86053387599038,15636,Pizza Place,2012-07-17 20:27:47+00:00,New York City,Dining and Drinking,Restaurant,,,,
+127,573,40.82593,-73.85714,16233,Electronics Store,2012-06-12 18:18:16+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+128,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-06-12 19:20:57+00:00,New York City,Retail,Food and Beverage Retail,,,,
+129,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-06-26 20:19:21+00:00,New York City,Retail,Food and Beverage Retail,,,,
+130,573,40.82749248,-73.8566178,16537,Building,2012-05-01 17:25:19+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+131,573,40.83283890270004,-73.8602754514565,25460,Building,2012-05-01 19:34:23+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+132,573,40.82749248,-73.8566178,16537,Building,2012-05-08 15:45:16+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+133,573,40.83283890270004,-73.8602754514565,25460,Building,2012-05-08 18:25:03+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+134,573,40.83261031647883,-73.86104498129052,15636,Pizza Place,2012-05-08 19:32:50+00:00,New York City,Dining and Drinking,Restaurant,,,,
+135,573,40.83266493511519,-73.8608497277372,18661,Food & Drink Shop,2012-05-08 22:29:45+00:00,New York City,Retail,Food and Beverage Retail,,,,
+136,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-05-08 22:40:54+00:00,New York City,Retail,Food and Beverage Retail,,,,
+137,573,40.82749248,-73.8566178,16537,Building,2012-05-15 15:59:19+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+138,573,40.82593,-73.85714,16233,Electronics Store,2012-05-15 16:03:17+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+139,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-05-15 16:06:20+00:00,New York City,Retail,Food and Beverage Retail,,,,
+140,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-05-15 17:28:25+00:00,New York City,Retail,Pharmacy,,,,
+141,573,40.83283890270004,-73.8602754514565,25460,Building,2012-05-15 17:44:48+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+142,573,40.83111,-73.850822,21037,Post Office,2012-05-15 19:25:16+00:00,New York City,Community and Government,Government Building,,,,
+143,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-05-22 02:40:06+00:00,New York City,Retail,Food and Beverage Retail,,,,
+144,573,40.82749248,-73.8566178,16537,Building,2012-05-22 15:50:55+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+145,573,40.83256921011844,-73.85993662766414,25460,Building,2012-05-29 19:09:26+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+146,573,40.82749248,-73.8566178,16537,Building,2012-05-29 19:11:27+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+147,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-05-29 19:13:35+00:00,New York City,Retail,Food and Beverage Retail,,,,
+148,573,40.82708616679473,-73.86262423084388,21525,Food & Drink Shop,2012-05-29 19:16:07+00:00,New York City,Retail,Food and Beverage Retail,,,,
+149,573,40.82749248,-73.8566178,16537,Building,2012-10-23 12:46:13+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+150,573,40.82749248,-73.8566178,16537,Building,2012-04-04 12:40:00+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+151,573,40.83260433886108,-73.86046496281456,18661,Food & Drink Shop,2012-04-04 18:56:16+00:00,New York City,Retail,Food and Beverage Retail,,,,
+152,573,40.83261031647883,-73.86104498129052,15636,Pizza Place,2012-04-04 23:44:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+153,573,40.82749248,-73.8566178,16537,Building,2012-04-11 16:20:38+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+154,573,40.82593,-73.85714,16233,Electronics Store,2012-04-11 18:56:46+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+155,573,40.82749248,-73.8566178,16537,Building,2012-04-25 18:35:09+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+156,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-04-25 19:48:30+00:00,New York City,Retail,Food and Beverage Retail,,,,
+157,573,40.83270053138752,-73.8600285121401,18661,Food & Drink Shop,2012-04-25 21:33:36+00:00,New York City,Retail,Food and Beverage Retail,,,,
+158,573,40.82749248,-73.8566178,16537,Building,2012-08-22 15:34:57+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+159,573,40.82749248,-73.8566178,16537,Building,2012-07-04 17:28:18+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+160,573,40.82749248,-73.8566178,16537,Building,2012-07-11 15:27:05+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+161,573,40.82749248,-73.8566178,16537,Building,2012-06-06 18:08:07+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+162,573,40.83261031647883,-73.86053387599038,15636,Pizza Place,2012-06-13 17:49:54+00:00,New York City,Dining and Drinking,Restaurant,,,,
+163,573,40.82749248,-73.8566178,16537,Building,2012-06-13 17:50:25+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+164,573,40.82749248,-73.8566178,16537,Building,2012-05-16 22:59:11+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+165,573,40.83261031647883,-73.86104498129052,15636,Pizza Place,2012-05-16 22:59:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+166,573,40.83266493511519,-73.8608497277372,18661,Food & Drink Shop,2012-05-16 23:23:20+00:00,New York City,Retail,Food and Beverage Retail,,,,
+167,573,40.83256534295196,-73.86053387599038,18661,Food & Drink Shop,2012-05-23 19:42:17+00:00,New York City,Retail,Food and Beverage Retail,,,,
+168,573,40.82749248,-73.8566178,16537,Building,2012-05-23 19:42:32+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+169,573,40.82593,-73.85714,16233,Electronics Store,2012-10-24 19:20:04+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+170,573,40.82749248,-73.8566178,16537,Building,2012-10-24 19:20:29+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+171,573,40.82749248,-73.8566178,16537,Building,2012-09-05 21:38:16+00:00,New York City,Landmarks and Outdoors,Structure,,,,
+172,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-09-05 21:39:31+00:00,New York City,Retail,Pharmacy,,,,
+173,573,40.82749248,-73.8566178,16537,Building,2012-11-01 18:00:09+00:00,,Landmarks and Outdoors,Structure,2.0,0.0,nyc,Rec
+174,573,40.84211698243355,-73.84461429133988,17840,Electronics Store,2012-11-01 18:00:09+00:00,,Retail,Computers and Electronics Retail,2.0,0.0,nyc,Explore
+175,573,40.82749248,-73.8566178,16537,Building,2012-11-01 18:00:09+00:00,,Landmarks and Outdoors,Structure,2.0,0.0,nyc,Rec
+176,573,40.83256921011844,-73.85993662766414,25460,Building,2012-11-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,7.0,1.0,nyc,Rec
+177,573,40.82488396694971,-73.85730743408203,21006,Food & Drink Shop,2012-11-06 18:00:09+00:00,,Retail,Food and Beverage Retail,7.0,1.0,nyc,Rec
+178,573,40.82593,-73.85714,16233,Electronics Store,2012-11-17 18:00:09+00:00,,Retail,Computers and Electronics Retail,18.0,2.0,nyc,Rec
+179,573,40.82749248,-73.8566178,16537,Building,2012-11-20 18:00:09+00:00,,Landmarks and Outdoors,Structure,21.0,3.0,nyc,Return
+180,573,40.83256921011844,-73.85993662766414,25460,Building,2012-11-20 18:00:09+00:00,,Landmarks and Outdoors,Structure,21.0,3.0,nyc,Rec
+181,573,40.82749248,-73.8566178,16537,Building,2012-12-01 18:00:09+00:00,,Landmarks and Outdoors,Structure,32.0,4.0,nyc,Rec
+182,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-12-03 18:00:09+00:00,,Retail,Pharmacy,34.0,4.0,nyc,Return
+183,573,40.84280054599447,-73.93925706731959,6531,Drugstore / Pharmacy,2012-12-05 18:00:09+00:00,,Retail,Pharmacy,36.0,5.0,nyc,Rec
+184,573,40.83595685426248,-73.93840670585631,32407,Building,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,37.0,5.0,nyc,Rec
+185,573,40.83530746910283,-73.93223762512207,24644,Building,2012-12-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,37.0,5.0,nyc,Rec
+186,573,40.83067026831796,-73.90079408884048,19027,Building,2012-12-08 18:00:09+00:00,,Landmarks and Outdoors,Structure,39.0,5.0,nyc,Rec
+187,573,40.82749248,-73.8566178,16537,Building,2012-12-11 18:00:09+00:00,,Landmarks and Outdoors,Structure,42.0,6.0,nyc,Return
+188,573,40.83256921011844,-73.85993662766414,25460,Building,2012-12-13 18:00:09+00:00,,Landmarks and Outdoors,Structure,44.0,6.0,nyc,Rec
+189,573,40.82749248,-73.8566178,16537,Building,2012-12-15 18:00:09+00:00,,Landmarks and Outdoors,Structure,46.0,6.0,nyc,Rec
+190,573,40.85288960924754,-73.88768952663432,21087,Building,2012-12-17 18:00:09+00:00,,Landmarks and Outdoors,Structure,48.0,6.0,nyc,Rec
+191,573,40.83274925601631,-73.86167093990406,14391,Drugstore / Pharmacy,2012-12-17 18:00:09+00:00,,Retail,Pharmacy,48.0,6.0,nyc,Rec
+192,573,40.83256921011844,-73.85993662766414,25460,Building,2012-12-19 18:00:09+00:00,,Landmarks and Outdoors,Structure,50.0,7.0,nyc,Rec
+193,573,40.89656884509741,-73.79472806765762,9920,Food & Drink Shop,2012-12-22 18:00:09+00:00,,Retail,Food and Beverage Retail,53.0,7.0,nyc,Rec
+194,573,40.82749248,-73.8566178,16537,Building,2012-12-27 18:00:09+00:00,,Landmarks and Outdoors,Structure,58.0,8.0,nyc,Rec
+195,573,40.83530746910283,-73.93223762512207,24644,Building,2012-12-28 18:00:09+00:00,,Landmarks and Outdoors,Structure,59.0,8.0,nyc,Rec
+196,573,40.82749248,-73.8566178,16537,Building,2012-12-29 18:00:09+00:00,,Landmarks and Outdoors,Structure,60.0,8.0,nyc,Rec
+197,573,40.83256921011844,-73.85993662766414,25460,Building,2012-12-31 18:00:09+00:00,,Landmarks and Outdoors,Structure,62.0,8.0,nyc,Rec
+198,573,40.83260433886108,-73.86046496281456,18661,Food & Drink Shop,2012-12-31 18:00:09+00:00,,Retail,Food and Beverage Retail,62.0,8.0,nyc,Rec
+199,573,40.82749248,-73.8566178,16537,Building,2013-01-07 18:00:09+00:00,,Landmarks and Outdoors,Structure,69.0,9.0,nyc,Rec
+200,573,40.83256921011844,-73.85993662766414,25460,Building,2013-01-08 18:00:09+00:00,,Landmarks and Outdoors,Structure,70.0,10.0,nyc,Rec
+201,573,40.82749248,-73.8566178,16537,Building,2013-01-09 18:00:09+00:00,,Landmarks and Outdoors,Structure,71.0,10.0,nyc,Rec
+202,573,40.83260433886108,-73.86046496281456,18661,Food & Drink Shop,2013-01-12 18:00:09+00:00,,Retail,Food and Beverage Retail,74.0,10.0,nyc,Rec
+203,573,40.83256921011844,-73.85993662766414,25460,Building,2013-01-14 18:00:09+00:00,,Landmarks and Outdoors,Structure,76.0,10.0,nyc,Rec
+204,573,40.82749248,-73.8566178,16537,Building,2013-01-15 18:00:09+00:00,,Landmarks and Outdoors,Structure,77.0,11.0,nyc,Rec
+205,573,40.84355311386609,-74.002810574406,16614,Building,2013-01-21 18:00:09+00:00,,Landmarks and Outdoors,Structure,83.0,11.0,nyc,Rec
+206,573,40.85539996266924,-74.03313068368115,15466,Food & Drink Shop,2013-01-21 18:00:09+00:00,,Retail,Food and Beverage Retail,83.0,11.0,nyc,Rec
+207,573,40.84355311386609,-74.002810574406,16614,Building,2013-01-25 18:00:09+00:00,,Landmarks and Outdoors,Structure,87.0,12.0,nyc,Rec
+208,573,40.83595685426248,-73.93840670585631,32407,Building,2013-01-26 18:00:09+00:00,,Landmarks and Outdoors,Structure,88.0,12.0,nyc,Rec
+209,573,40.83530746910283,-73.93223762512207,24644,Building,2013-01-27 18:00:09+00:00,,Landmarks and Outdoors,Structure,89.0,12.0,nyc,Rec
+210,573,40.82749248,-73.8566178,16537,Building,2013-02-01 18:00:09+00:00,,Landmarks and Outdoors,Structure,94.0,13.0,nyc,Rec
+211,573,40.79503816378077,-73.97231921746017,10063,Food & Drink Shop,2013-02-04 18:00:09+00:00,,Retail,Food and Beverage Retail,97.0,13.0,nyc,Explore
+212,573,40.78234961494365,-73.98045186717803,36363,Building,2013-02-06 18:00:09+00:00,,Landmarks and Outdoors,Structure,99.0,14.0,nyc,Explore
+213,573,40.82749248,-73.8566178,16537,Building,2013-02-08 18:00:09+00:00,,Landmarks and Outdoors,Structure,101.0,14.0,nyc,Rec

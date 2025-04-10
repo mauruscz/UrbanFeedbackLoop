@@ -1,0 +1,338 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-10 11:52:41+00:00,New York City,Community and Government,Education,,,,
+1,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-10 14:51:11+00:00,New York City,Community and Government,Education,,,,
+2,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-08-10 15:18:48+00:00,New York City,Community and Government,Education,,,,
+3,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-08-17 15:06:48+00:00,New York City,Community and Government,Education,,,,
+4,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-08-17 16:03:58+00:00,New York City,Business and Professional Services,Event Space,,,,
+5,754,40.794582,-73.971846,18427,Electronics Store,2012-08-17 20:34:49+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+6,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-06 11:56:23+00:00,New York City,Community and Government,Education,,,,
+7,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-06 13:04:17+00:00,New York City,Community and Government,Education,,,,
+8,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-07-06 15:58:20+00:00,New York City,Business and Professional Services,Event Space,,,,
+9,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-07-06 18:58:56+00:00,New York City,Community and Government,Education,,,,
+10,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-20 13:25:59+00:00,New York City,Community and Government,Education,,,,
+11,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-08 11:57:34+00:00,New York City,Community and Government,Education,,,,
+12,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-08 13:55:38+00:00,New York City,Community and Government,Education,,,,
+13,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-06-08 15:58:05+00:00,New York City,Business and Professional Services,Event Space,,,,
+14,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-08 17:04:03+00:00,New York City,Community and Government,Education,,,,
+15,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-15 11:47:47+00:00,New York City,Community and Government,Education,,,,
+16,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-06-15 12:58:51+00:00,New York City,Community and Government,Education,,,,
+17,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-06-15 13:29:51+00:00,New York City,Community and Government,Education,,,,
+18,754,40.770983215678605,-73.98713220561226,8070,Diner,2012-10-12 12:01:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-12 12:05:21+00:00,New York City,Community and Government,Education,,,,
+20,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-10-12 13:20:54+00:00,New York City,Community and Government,Education,,,,
+21,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-12 13:55:04+00:00,New York City,Community and Government,Education,,,,
+22,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-10-12 18:15:53+00:00,New York City,Community and Government,Education,,,,
+23,754,40.794582,-73.971846,18427,Electronics Store,2012-10-12 20:59:53+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+24,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-10-19 15:55:31+00:00,New York City,Business and Professional Services,Event Space,,,,
+25,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-10-19 19:12:23+00:00,New York City,Community and Government,Education,,,,
+26,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-26 12:06:06+00:00,New York City,Community and Government,Education,,,,
+27,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-26 14:03:31+00:00,New York City,Community and Government,Education,,,,
+28,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-10-26 15:17:15+00:00,New York City,Community and Government,Education,,,,
+29,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-26 17:05:22+00:00,New York City,Community and Government,Education,,,,
+30,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-10-26 19:10:21+00:00,New York City,Community and Government,Education,,,,
+31,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-14 11:58:48+00:00,New York City,Community and Government,Education,,,,
+32,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-09-14 12:59:23+00:00,New York City,Community and Government,Education,,,,
+33,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-14 14:17:28+00:00,New York City,Community and Government,Education,,,,
+34,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-09-14 18:56:59+00:00,New York City,Community and Government,Education,,,,
+35,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-08-06 13:50:30+00:00,New York City,Community and Government,Education,,,,
+36,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-06 14:14:02+00:00,New York City,Community and Government,Education,,,,
+37,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-13 14:06:30+00:00,New York City,Community and Government,Education,,,,
+38,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-08-13 16:06:03+00:00,New York City,Business and Professional Services,Event Space,,,,
+39,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-08-13 19:33:45+00:00,New York City,Community and Government,Education,,,,
+40,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-20 12:10:52+00:00,New York City,Community and Government,Education,,,,
+41,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-08-20 13:22:45+00:00,New York City,Community and Government,Education,,,,
+42,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-20 14:05:48+00:00,New York City,Community and Government,Education,,,,
+43,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-08-20 15:07:14+00:00,New York City,Community and Government,Education,,,,
+44,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-02 11:46:02+00:00,New York City,Community and Government,Education,,,,
+45,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-02 13:21:10+00:00,New York City,Community and Government,Education,,,,
+46,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-07-02 15:10:30+00:00,New York City,Community and Government,Education,,,,
+47,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-07-02 16:42:15+00:00,New York City,Business and Professional Services,Event Space,,,,
+48,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-02 17:08:52+00:00,New York City,Community and Government,Education,,,,
+49,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-07-02 19:04:54+00:00,New York City,Community and Government,Education,,,,
+50,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-16 12:07:08+00:00,New York City,Community and Government,Education,,,,
+51,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-16 14:04:54+00:00,New York City,Community and Government,Education,,,,
+52,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-30 13:04:12+00:00,New York City,Community and Government,Education,,,,
+53,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-07-30 15:01:21+00:00,New York City,Community and Government,Education,,,,
+54,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-11 11:38:35+00:00,New York City,Community and Government,Education,,,,
+55,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-06-11 13:05:15+00:00,New York City,Community and Government,Education,,,,
+56,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-11 14:03:12+00:00,New York City,Community and Government,Education,,,,
+57,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-06-11 16:27:12+00:00,New York City,Business and Professional Services,Event Space,,,,
+58,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-18 11:44:32+00:00,New York City,Community and Government,Education,,,,
+59,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-06-18 13:10:56+00:00,New York City,Community and Government,Education,,,,
+60,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-18 14:07:31+00:00,New York City,Community and Government,Education,,,,
+61,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-06-18 16:14:56+00:00,New York City,Community and Government,Education,,,,
+62,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-06-18 16:20:28+00:00,New York City,Business and Professional Services,Event Space,,,,
+63,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-06-18 19:37:29+00:00,New York City,Community and Government,Education,,,,
+64,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-25 11:42:02+00:00,New York City,Community and Government,Education,,,,
+65,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-05-14 19:34:19+00:00,New York City,Community and Government,Education,,,,
+66,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-22 11:57:52+00:00,New York City,Community and Government,Education,,,,
+67,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-10-22 13:10:03+00:00,New York City,Community and Government,Education,,,,
+68,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-22 14:09:31+00:00,New York City,Community and Government,Education,,,,
+69,754,40.834293618506855,-73.94444636233645,14520,Fast Food Restaurant,2012-09-15 23:25:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+70,754,40.83409780410722,-73.9452672225881,36360,Deli / Bodega,2012-08-05 23:18:25+00:00,New York City,Dining and Drinking,Restaurant,,,,
+71,754,40.83409780410722,-73.9452672225881,36360,Deli / Bodega,2012-08-19 23:06:53+00:00,New York City,Dining and Drinking,Restaurant,,,,
+72,754,40.834293618506855,-73.94444636233645,14520,Fast Food Restaurant,2012-06-17 00:30:29+00:00,New York City,Dining and Drinking,Restaurant,,,,
+73,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-09 12:27:06+00:00,New York City,Community and Government,Education,,,,
+74,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-08-09 13:52:59+00:00,New York City,Community and Government,Education,,,,
+75,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-09 14:07:24+00:00,New York City,Community and Government,Education,,,,
+76,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-08-09 15:33:07+00:00,New York City,Community and Government,Education,,,,
+77,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-08-09 16:47:23+00:00,New York City,Business and Professional Services,Event Space,,,,
+78,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-09 17:01:47+00:00,New York City,Community and Government,Education,,,,
+79,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-16 17:12:05+00:00,New York City,Community and Government,Education,,,,
+80,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-05 12:01:49+00:00,New York City,Community and Government,Education,,,,
+81,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-05 13:12:49+00:00,New York City,Community and Government,Education,,,,
+82,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-05 14:01:19+00:00,New York City,Community and Government,Education,,,,
+83,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-07-05 15:49:33+00:00,New York City,Community and Government,Education,,,,
+84,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-07-05 16:02:28+00:00,New York City,Business and Professional Services,Event Space,,,,
+85,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-05 17:07:09+00:00,New York City,Community and Government,Education,,,,
+86,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-07-05 19:29:49+00:00,New York City,Community and Government,Education,,,,
+87,754,40.83505211933944,-73.94833250211185,11484,Pizza Place,2012-07-12 11:41:11+00:00,New York City,Dining and Drinking,Restaurant,,,,
+88,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-21 11:45:33+00:00,New York City,Community and Government,Education,,,,
+89,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-06-21 13:08:29+00:00,New York City,Community and Government,Education,,,,
+90,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-21 14:08:57+00:00,New York City,Community and Government,Education,,,,
+91,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-05-03 14:07:22+00:00,New York City,Community and Government,Education,,,,
+92,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-10-11 18:40:30+00:00,New York City,Business and Professional Services,Event Space,,,,
+93,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-10-11 19:16:32+00:00,New York City,Community and Government,Education,,,,
+94,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-18 15:21:12+00:00,New York City,Community and Government,Education,,,,
+95,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-10-18 16:08:16+00:00,New York City,Business and Professional Services,Event Space,,,,
+96,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-10-18 19:19:37+00:00,New York City,Community and Government,Education,,,,
+97,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-10-25 15:12:37+00:00,New York City,Community and Government,Education,,,,
+98,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-10-25 16:02:53+00:00,New York City,Business and Professional Services,Event Space,,,,
+99,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-10-25 18:55:51+00:00,New York City,Community and Government,Education,,,,
+100,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-13 11:47:49+00:00,New York City,Community and Government,Education,,,,
+101,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-09-13 13:08:50+00:00,New York City,Community and Government,Education,,,,
+102,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-13 14:01:37+00:00,New York City,Community and Government,Education,,,,
+103,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-13 17:16:52+00:00,New York City,Community and Government,Education,,,,
+104,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-14 11:48:09+00:00,New York City,Community and Government,Education,,,,
+105,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-08-14 12:59:34+00:00,New York City,Community and Government,Education,,,,
+106,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-14 14:07:17+00:00,New York City,Community and Government,Education,,,,
+107,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-08-14 15:56:54+00:00,New York City,Business and Professional Services,Event Space,,,,
+108,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-08-14 18:57:09+00:00,New York City,Community and Government,Education,,,,
+109,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-03 11:39:47+00:00,New York City,Community and Government,Education,,,,
+110,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-03 13:08:20+00:00,New York City,Community and Government,Education,,,,
+111,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-03 14:08:12+00:00,New York City,Community and Government,Education,,,,
+112,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-07-03 19:30:12+00:00,New York City,Community and Government,Education,,,,
+113,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-17 11:46:44+00:00,New York City,Community and Government,Education,,,,
+114,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-17 13:34:18+00:00,New York City,Community and Government,Education,,,,
+115,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-17 14:05:09+00:00,New York City,Community and Government,Education,,,,
+116,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-07-17 16:38:40+00:00,New York City,Business and Professional Services,Event Space,,,,
+117,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-17 16:55:06+00:00,New York City,Community and Government,Education,,,,
+118,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-07-17 19:13:40+00:00,New York City,Community and Government,Education,,,,
+119,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-24 11:47:22+00:00,New York City,Community and Government,Education,,,,
+120,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-24 13:33:10+00:00,New York City,Community and Government,Education,,,,
+121,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-07-24 15:28:12+00:00,New York City,Community and Government,Education,,,,
+122,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-07-24 16:07:03+00:00,New York City,Business and Professional Services,Event Space,,,,
+123,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-12 11:48:08+00:00,New York City,Community and Government,Education,,,,
+124,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-06-12 13:00:13+00:00,New York City,Community and Government,Education,,,,
+125,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-06-12 13:41:02+00:00,New York City,Community and Government,Education,,,,
+126,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-12 14:05:17+00:00,New York City,Community and Government,Education,,,,
+127,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-06-12 15:57:39+00:00,New York City,Business and Professional Services,Event Space,,,,
+128,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-06-12 19:32:03+00:00,New York City,Community and Government,Education,,,,
+129,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-06-26 15:31:30+00:00,New York City,Community and Government,Education,,,,
+130,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-06-26 15:58:35+00:00,New York City,Business and Professional Services,Event Space,,,,
+131,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-06-26 19:04:39+00:00,New York City,Community and Government,Education,,,,
+132,754,40.77070563930424,-73.9844405851675,21512,Event Space,2012-05-08 16:25:04+00:00,New York City,Business and Professional Services,Event Space,,,,
+133,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-16 11:58:20+00:00,New York City,Community and Government,Education,,,,
+134,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-16 14:13:39+00:00,New York City,Community and Government,Education,,,,
+135,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-10-16 15:24:32+00:00,New York City,Community and Government,Education,,,,
+136,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-16 17:32:57+00:00,New York City,Community and Government,Education,,,,
+137,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-23 12:03:42+00:00,New York City,Community and Government,Education,,,,
+138,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-10-23 13:28:08+00:00,New York City,Community and Government,Education,,,,
+139,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-23 14:13:21+00:00,New York City,Community and Government,Education,,,,
+140,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-10-23 16:17:43+00:00,New York City,Business and Professional Services,Event Space,,,,
+141,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-23 17:06:09+00:00,New York City,Community and Government,Education,,,,
+142,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-08-22 16:54:46+00:00,New York City,Community and Government,Education,,,,
+143,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-07-18 12:58:30+00:00,New York City,Community and Government,Education,,,,
+144,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-07-18 16:25:11+00:00,New York City,Business and Professional Services,Event Space,,,,
+145,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-07-18 17:07:30+00:00,New York City,Community and Government,Education,,,,
+146,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-13 11:51:51+00:00,New York City,Community and Government,Education,,,,
+147,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-06-13 13:14:12+00:00,New York City,Community and Government,Education,,,,
+148,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-13 14:06:11+00:00,New York City,Community and Government,Education,,,,
+149,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-06-13 15:12:32+00:00,New York City,Community and Government,Education,,,,
+150,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-06-13 16:21:31+00:00,New York City,Business and Professional Services,Event Space,,,,
+151,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-06-13 19:32:27+00:00,New York City,Community and Government,Education,,,,
+152,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-06-20 19:45:40+00:00,New York City,Community and Government,Education,,,,
+153,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-06-27 11:44:28+00:00,New York City,Community and Government,Education,,,,
+154,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-06-27 16:24:33+00:00,New York City,Business and Professional Services,Event Space,,,,
+155,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-10-03 15:08:01+00:00,New York City,Community and Government,Education,,,,
+156,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-17 11:44:42+00:00,New York City,Community and Government,Education,,,,
+157,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-24 11:56:54+00:00,New York City,Community and Government,Education,,,,
+158,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-24 12:07:00+00:00,New York City,Community and Government,Education,,,,
+159,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-10-24 13:05:49+00:00,New York City,Community and Government,Education,,,,
+160,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-24 14:06:43+00:00,New York City,Community and Government,Education,,,,
+161,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-10-24 15:43:47+00:00,New York City,Community and Government,Education,,,,
+162,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-10-24 17:38:49+00:00,New York City,Community and Government,Education,,,,
+163,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-10-24 19:39:13+00:00,New York City,Community and Government,Education,,,,
+164,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-05 11:51:01+00:00,New York City,Community and Government,Education,,,,
+165,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-09-05 13:14:33+00:00,New York City,Community and Government,Education,,,,
+166,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-05 14:02:56+00:00,New York City,Community and Government,Education,,,,
+167,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-09-05 15:31:25+00:00,New York City,Community and Government,Education,,,,
+168,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-09-05 16:04:14+00:00,New York City,Business and Professional Services,Event Space,,,,
+169,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-05 17:18:33+00:00,New York City,Community and Government,Education,,,,
+170,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-09-05 18:53:54+00:00,New York City,Community and Government,Education,,,,
+171,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-09-12 17:34:48+00:00,New York City,Community and Government,Education,,,,
+172,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-10-31 18:00:09+00:00,,Business and Professional Services,Event Space,1.0,0.0,nyc,Rec
+173,754,40.77214895320598,-73.98764871694762,10127,College Academic Building,2012-11-01 18:00:09+00:00,,Community and Government,Education,2.0,0.0,nyc,Rec
+174,754,40.834293618506855,-73.94444636233645,14520,Fast Food Restaurant,2012-11-01 18:00:09+00:00,,Dining and Drinking,Restaurant,2.0,0.0,nyc,Return
+175,754,40.84129181677252,-73.94046255754523,14061,College Academic Building,2012-11-01 18:00:09+00:00,,Community and Government,Education,2.0,0.0,nyc,Rec
+176,754,40.84152440520283,-73.94118010768854,18581,Medical School,2012-11-01 18:00:09+00:00,,Community and Government,Education,2.0,0.0,nyc,Rec
+177,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-11-01 18:00:09+00:00,,Community and Government,Education,2.0,0.0,nyc,Return
+178,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-11-01 18:00:09+00:00,,Community and Government,Education,2.0,0.0,nyc,Return
+179,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-11-02 18:00:09+00:00,,Community and Government,Education,3.0,0.0,nyc,Rec
+180,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-11-05 18:00:09+00:00,,Community and Government,Education,6.0,0.0,nyc,Rec
+181,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-11-06 18:00:09+00:00,,Business and Professional Services,Event Space,7.0,1.0,nyc,Rec
+182,754,40.77381437268857,-73.98463726043701,7685,High School,2012-11-06 18:00:09+00:00,,Community and Government,Education,7.0,1.0,nyc,Rec
+183,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Rec
+184,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Rec
+185,754,40.77071303757516,-73.98478493103883,6948,University,2012-11-07 18:00:09+00:00,,Community and Government,Education,8.0,1.0,nyc,Rec
+186,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-11-07 18:00:09+00:00,,Business and Professional Services,Event Space,8.0,1.0,nyc,Rec
+187,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-11-09 18:00:09+00:00,,Community and Government,Education,10.0,1.0,nyc,Rec
+188,754,40.756083521571824,-73.98951888084412,23022,Event Space,2012-11-09 18:00:09+00:00,,Business and Professional Services,Event Space,10.0,1.0,nyc,Rec
+189,754,40.7524077972231,-73.99337042174062,37181,College Academic Building,2012-11-09 18:00:09+00:00,,Community and Government,Education,10.0,1.0,nyc,Rec
+190,754,40.75845677498381,-73.98914046612941,18884,Burger Joint,2012-11-11 18:00:09+00:00,,Dining and Drinking,Restaurant,12.0,1.0,nyc,Rec
+191,754,40.95105710437937,-74.08986568450928,7914,Community College,2012-11-12 18:00:09+00:00,,Community and Government,Education,13.0,1.0,nyc,Rec
+192,754,40.947669894526186,-74.08349275588989,22954,College Academic Building,2012-11-12 18:00:09+00:00,,Community and Government,Education,13.0,1.0,nyc,Rec
+193,754,40.88244673773804,-74.05593644157884,28617,School,2012-11-12 18:00:09+00:00,,Community and Government,Education,13.0,1.0,nyc,Rec
+194,754,40.88244673773804,-74.05593644157884,28617,School,2012-11-13 18:00:09+00:00,,Community and Government,Education,14.0,2.0,nyc,Rec
+195,754,40.88244673773804,-74.05593644157884,28617,School,2012-11-14 18:00:09+00:00,,Community and Government,Education,15.0,2.0,nyc,Rec
+196,754,40.896905775860006,-74.03017044067383,19957,University,2012-11-15 18:00:09+00:00,,Community and Government,Education,16.0,2.0,nyc,Rec
+197,754,40.89839491047176,-74.02952167280056,21249,College Academic Building,2012-11-16 18:00:09+00:00,,Community and Government,Education,17.0,2.0,nyc,Rec
+198,754,40.90514482692817,-74.03167247772217,7392,American Restaurant,2012-11-17 18:00:09+00:00,,Dining and Drinking,Restaurant,18.0,2.0,nyc,Rec
+199,754,40.82723996688574,-73.94570922281969,27555,Deli / Bodega,2012-11-21 18:00:09+00:00,,Dining and Drinking,Restaurant,22.0,3.0,nyc,Rec
+200,754,40.85137,-73.93213,16144,Seafood Restaurant,2012-11-23 18:00:09+00:00,,Dining and Drinking,Restaurant,24.0,3.0,nyc,Rec
+201,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Return
+202,754,40.728363,-73.990079,12760,High School,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Explore
+203,754,40.72802,-73.990129,27951,High School,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Rec
+204,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Rec
+205,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-11-26 18:00:09+00:00,,Business and Professional Services,Event Space,27.0,3.0,nyc,Rec
+206,754,40.77214895320598,-73.98764871694762,10127,College Academic Building,2012-11-26 18:00:09+00:00,,Community and Government,Education,27.0,3.0,nyc,Rec
+207,754,40.72908585083546,-73.99602210429897,12401,College Academic Building,2012-11-27 18:00:09+00:00,,Community and Government,Education,28.0,4.0,nyc,Rec
+208,754,40.70473327890426,-73.98773789405823,12854,General College & University,2012-11-27 18:00:09+00:00,,Community and Government,Education,28.0,4.0,nyc,Rec
+209,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-11-27 18:00:09+00:00,,Business and Professional Services,Event Space,28.0,4.0,nyc,Rec
+210,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-11-27 18:00:09+00:00,,Community and Government,Education,28.0,4.0,nyc,Rec
+211,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-11-27 18:00:09+00:00,,Business and Professional Services,Event Space,28.0,4.0,nyc,Rec
+212,754,40.77099664248197,-73.98434875949755,7920,College Academic Building,2012-11-28 18:00:09+00:00,,Community and Government,Education,29.0,4.0,nyc,Explore
+213,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-11-28 18:00:09+00:00,,Community and Government,Education,29.0,4.0,nyc,Rec
+214,754,40.74579269982819,-73.98022803738444,9908,College Academic Building,2012-11-28 18:00:09+00:00,,Community and Government,Education,29.0,4.0,nyc,Rec
+215,754,40.7435523173049,-73.98197849420325,32384,College Academic Building,2012-11-29 18:00:09+00:00,,Community and Government,Education,30.0,4.0,nyc,Rec
+216,754,40.756083521571824,-73.98951888084412,23022,Event Space,2012-11-30 18:00:09+00:00,,Business and Professional Services,Event Space,31.0,4.0,nyc,Rec
+217,754,40.75962138399058,-73.98122666060476,4507,Event Space,2012-11-30 18:00:09+00:00,,Business and Professional Services,Event Space,31.0,4.0,nyc,Rec
+218,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-12-03 18:00:09+00:00,,Community and Government,Education,34.0,4.0,nyc,Rec
+219,754,40.88244673773804,-74.05593644157884,28617,School,2012-12-03 18:00:09+00:00,,Community and Government,Education,34.0,4.0,nyc,Return
+220,754,40.88244673773804,-74.05593644157884,28617,School,2012-12-03 18:00:09+00:00,,Community and Government,Education,34.0,4.0,nyc,Rec
+221,754,40.77089747711729,-73.98957252502441,30637,College Academic Building,2012-12-04 18:00:09+00:00,,Community and Government,Education,35.0,5.0,nyc,Rec
+222,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-12-04 18:00:09+00:00,,Community and Government,Education,35.0,5.0,nyc,Rec
+223,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-12-04 18:00:09+00:00,,Business and Professional Services,Event Space,35.0,5.0,nyc,Rec
+224,754,40.77111685811769,-73.98942232131958,24791,College Academic Building,2012-12-04 18:00:09+00:00,,Community and Government,Education,35.0,5.0,nyc,Rec
+225,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Rec
+226,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Rec
+227,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-12-05 18:00:09+00:00,,Business and Professional Services,Event Space,36.0,5.0,nyc,Rec
+228,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-12-05 18:00:09+00:00,,Business and Professional Services,Event Space,36.0,5.0,nyc,Rec
+229,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-12-05 18:00:09+00:00,,Community and Government,Education,36.0,5.0,nyc,Rec
+230,754,40.77099921857179,-73.98547936000143,25377,College Academic Building,2012-12-06 18:00:09+00:00,,Community and Government,Education,37.0,5.0,nyc,Explore
+231,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-12-06 18:00:09+00:00,,Business and Professional Services,Event Space,37.0,5.0,nyc,Rec
+232,754,40.76568899694568,-73.93309593200684,19134,High School,2012-12-06 18:00:09+00:00,,Community and Government,Education,37.0,5.0,nyc,Rec
+233,754,40.76880299246493,-73.92494560349267,17660,Pizza Place,2012-12-07 18:00:09+00:00,,Dining and Drinking,Restaurant,38.0,5.0,nyc,Rec
+234,754,40.76568899694568,-73.93309593200684,19134,High School,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+235,754,40.76315449800615,-73.95406685522269,16678,College Academic Building,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+236,754,40.7636,-73.95577,28176,General College & University,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+237,754,40.76162173827517,-73.95653504290809,17075,College Academic Building,2012-12-07 18:00:09+00:00,,Community and Government,Education,38.0,5.0,nyc,Rec
+238,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Rec
+239,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Rec
+240,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-12-10 18:00:09+00:00,,Business and Professional Services,Event Space,41.0,5.0,nyc,Rec
+241,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-12-10 18:00:09+00:00,,Community and Government,Education,41.0,5.0,nyc,Rec
+242,754,40.77099921857179,-73.98547936000143,25377,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Rec
+243,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Rec
+244,754,40.770167849929685,-73.98444632427042,2270,University,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Explore
+245,754,40.76900185093002,-73.96523084802386,27907,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Explore
+246,754,40.74837050671544,-73.98568868637085,9844,College Academic Building,2012-12-11 18:00:09+00:00,,Community and Government,Education,42.0,6.0,nyc,Explore
+247,754,40.746336558522046,-73.98077326334892,18157,Event Space,2012-12-12 18:00:09+00:00,,Business and Professional Services,Event Space,43.0,6.0,nyc,Rec
+248,754,40.7435523173049,-73.98197849420325,32384,College Academic Building,2012-12-12 18:00:09+00:00,,Community and Government,Education,43.0,6.0,nyc,Rec
+249,754,40.74400893580496,-73.9814791851949,27395,College Academic Building,2012-12-13 18:00:09+00:00,,Community and Government,Education,44.0,6.0,nyc,Rec
+250,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-12-13 18:00:09+00:00,,Business and Professional Services,Event Space,44.0,6.0,nyc,Rec
+251,754,40.69342491338439,-73.99171189097369,6159,University,2012-12-13 18:00:09+00:00,,Community and Government,Education,44.0,6.0,nyc,Rec
+252,754,40.71110949732056,-74.00504350662231,2893,University,2012-12-14 18:00:09+00:00,,Community and Government,Education,45.0,6.0,nyc,Rec
+253,754,40.71140759208472,-74.00542733678141,22976,College Academic Building,2012-12-14 18:00:09+00:00,,Community and Government,Education,45.0,6.0,nyc,Rec
+254,754,40.77095773223109,-73.98431432486001,6363,Law School,2012-12-14 18:00:09+00:00,,Community and Government,Education,45.0,6.0,nyc,Rec
+255,754,40.77056711201932,-73.98410197779206,21512,Event Space,2012-12-14 18:00:09+00:00,,Business and Professional Services,Event Space,45.0,6.0,nyc,Return
+256,754,40.77111685811769,-73.98942232131958,24791,College Academic Building,2012-12-14 18:00:09+00:00,,Community and Government,Education,45.0,6.0,nyc,Return
+257,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2012-12-14 18:00:09+00:00,,Community and Government,Education,45.0,6.0,nyc,Rec
+258,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2012-12-14 18:00:09+00:00,,Community and Government,Education,45.0,6.0,nyc,Return
+259,754,40.771142,-73.983464,177,Mexican Restaurant,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Rec
+260,754,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2012-12-19 18:00:09+00:00,,Dining and Drinking,Restaurant,50.0,7.0,nyc,Rec
+261,754,40.74140750304299,-73.98843795061111,950,Burger Joint,2012-12-20 18:00:09+00:00,,Dining and Drinking,Restaurant,51.0,7.0,nyc,Rec
+262,754,40.741190550641626,-73.98966309787518,17904,Mobile Phone Shop,2012-12-21 18:00:09+00:00,,Retail,Computers and Electronics Retail,52.0,7.0,nyc,Rec
+263,754,40.82723996688574,-73.94570922281969,27555,Deli / Bodega,2012-12-22 18:00:09+00:00,,Dining and Drinking,Restaurant,53.0,7.0,nyc,Return
+264,754,40.823307,-73.95287828333333,22930,Chinese Restaurant,2012-12-29 18:00:09+00:00,,Dining and Drinking,Restaurant,60.0,8.0,nyc,Rec
+265,754,40.7370797706936,-73.81808280944824,22488,College Academic Building,2013-01-02 18:00:09+00:00,,Community and Government,Education,64.0,9.0,nyc,Rec
+266,754,40.77056711201932,-73.98410197779206,21512,Event Space,2013-01-02 18:00:09+00:00,,Business and Professional Services,Event Space,64.0,9.0,nyc,Return
+267,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2013-01-03 18:00:09+00:00,,Community and Government,Education,65.0,9.0,nyc,Return
+268,754,40.77056711201932,-73.98410197779206,21512,Event Space,2013-01-03 18:00:09+00:00,,Business and Professional Services,Event Space,65.0,9.0,nyc,Rec
+269,754,40.77089747711729,-73.98957252502441,30637,College Academic Building,2013-01-03 18:00:09+00:00,,Community and Government,Education,65.0,9.0,nyc,Rec
+270,754,40.85137,-73.93213,16144,Seafood Restaurant,2013-01-04 18:00:09+00:00,,Dining and Drinking,Restaurant,66.0,9.0,nyc,Return
+271,754,40.854907,-73.90528,28277,School,2013-01-04 18:00:09+00:00,,Community and Government,Education,66.0,9.0,nyc,Rec
+272,754,40.854907,-73.90528,28277,School,2013-01-04 18:00:09+00:00,,Community and Government,Education,66.0,9.0,nyc,Rec
+273,754,40.756083521571824,-73.98951888084412,23022,Event Space,2013-01-04 18:00:09+00:00,,Business and Professional Services,Event Space,66.0,9.0,nyc,Return
+274,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-01-04 18:00:09+00:00,,Community and Government,Education,66.0,9.0,nyc,Rec
+275,754,40.769668523860375,-73.98251831531525,7761,University,2013-01-06 18:00:09+00:00,,Community and Government,Education,68.0,9.0,nyc,Rec
+276,754,40.76609348850453,-73.98334441336685,14956,Fast Food Restaurant,2013-01-07 18:00:09+00:00,,Dining and Drinking,Restaurant,69.0,9.0,nyc,Rec
+277,754,40.77095773223109,-73.98431432486001,6363,Law School,2013-01-07 18:00:09+00:00,,Community and Government,Education,69.0,9.0,nyc,Rec
+278,754,40.770167849929685,-73.98444632427042,2270,University,2013-01-07 18:00:09+00:00,,Community and Government,Education,69.0,9.0,nyc,Rec
+279,754,40.76972581043701,-73.98197275502662,24996,College Academic Building,2013-01-08 18:00:09+00:00,,Community and Government,Education,70.0,10.0,nyc,Explore
+280,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-01-08 18:00:09+00:00,,Community and Government,Education,70.0,10.0,nyc,Rec
+281,754,40.76568899694568,-73.93309593200684,19134,High School,2013-01-08 18:00:09+00:00,,Community and Government,Education,70.0,10.0,nyc,Rec
+282,754,40.74467151923719,-73.93426855422129,24096,College & University,2013-01-09 18:00:09+00:00,,Community and Government,Education,71.0,10.0,nyc,Rec
+283,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-01-09 18:00:09+00:00,,Community and Government,Education,71.0,10.0,nyc,Rec
+284,754,40.76568899694568,-73.93309593200684,19134,High School,2013-01-09 18:00:09+00:00,,Community and Government,Education,71.0,10.0,nyc,Return
+285,754,40.75378380535466,-73.93065,2197,Bar,2013-01-09 18:00:09+00:00,,Arts and Entertainment,Night Club,71.0,10.0,nyc,Explore
+286,754,40.76162173827517,-73.95653504290809,17075,College Academic Building,2013-01-10 18:00:09+00:00,,Community and Government,Education,72.0,10.0,nyc,Rec
+287,754,40.768522910406574,-73.96591960790946,33984,Nursery School,2013-01-10 18:00:09+00:00,,Community and Government,Education,72.0,10.0,nyc,Rec
+288,754,40.77056711201932,-73.98410197779206,21512,Event Space,2013-01-10 18:00:09+00:00,,Business and Professional Services,Event Space,72.0,10.0,nyc,Rec
+289,754,40.69342491338439,-73.99171189097369,6159,University,2013-01-10 18:00:09+00:00,,Community and Government,Education,72.0,10.0,nyc,Rec
+290,754,40.74379022679562,-73.98389160633087,12503,Deli / Bodega,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Rec
+291,754,40.74484351925524,-73.98396997814501,15947,School,2013-01-14 18:00:09+00:00,,Community and Government,Education,76.0,10.0,nyc,Rec
+292,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-01-14 18:00:09+00:00,,Community and Government,Education,76.0,10.0,nyc,Rec
+293,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2013-01-15 18:00:09+00:00,,Community and Government,Education,77.0,11.0,nyc,Rec
+294,754,40.77018064,-73.98789707,14661,College Academic Building,2013-01-15 18:00:09+00:00,,Community and Government,Education,77.0,11.0,nyc,Rec
+295,754,40.82723996688574,-73.94570922281969,27555,Deli / Bodega,2013-01-16 18:00:09+00:00,,Dining and Drinking,Restaurant,78.0,11.0,nyc,Return
+296,754,40.77095773223109,-73.98431432486001,6363,Law School,2013-01-16 18:00:09+00:00,,Community and Government,Education,78.0,11.0,nyc,Return
+297,754,40.77040183589408,-73.98463726043701,18041,College Academic Building,2013-01-16 18:00:09+00:00,,Community and Government,Education,78.0,11.0,nyc,Return
+298,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-01-16 18:00:09+00:00,,Community and Government,Education,78.0,11.0,nyc,Rec
+299,754,40.742862660166125,-73.99238907827885,6841,Event Space,2013-01-16 18:00:09+00:00,,Business and Professional Services,Event Space,78.0,11.0,nyc,Rec
+300,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-01-16 18:00:09+00:00,,Community and Government,Education,78.0,11.0,nyc,Rec
+301,754,40.71110949732056,-74.00504350662231,2893,University,2013-01-17 18:00:09+00:00,,Community and Government,Education,79.0,11.0,nyc,Rec
+302,754,40.7435523173049,-73.98197849420325,32384,College Academic Building,2013-01-18 18:00:09+00:00,,Community and Government,Education,80.0,11.0,nyc,Rec
+303,754,40.76506594492395,-73.97699108508294,33208,Event Space,2013-01-18 18:00:09+00:00,,Business and Professional Services,Event Space,80.0,11.0,nyc,Rec
+304,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2013-01-22 18:00:09+00:00,,Community and Government,Education,84.0,12.0,nyc,Rec
+305,754,40.76322879409462,-73.9804748240652,6161,French Restaurant,2013-01-22 18:00:09+00:00,,Dining and Drinking,Restaurant,84.0,12.0,nyc,Rec
+306,754,40.768522910406574,-73.96591960790946,33984,Nursery School,2013-01-22 18:00:09+00:00,,Community and Government,Education,84.0,12.0,nyc,Rec
+307,754,40.76677364117037,-73.96748078787097,754,French Restaurant,2013-01-25 18:00:09+00:00,,Dining and Drinking,Restaurant,87.0,12.0,nyc,Rec
+308,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-01-25 18:00:09+00:00,,Community and Government,Education,87.0,12.0,nyc,Rec
+309,754,40.85137,-73.93213,16144,Seafood Restaurant,2013-01-28 18:00:09+00:00,,Dining and Drinking,Restaurant,90.0,12.0,nyc,Return
+310,754,40.83409780410722,-73.9452672225881,36360,Deli / Bodega,2013-01-28 18:00:09+00:00,,Dining and Drinking,Restaurant,90.0,12.0,nyc,Return
+311,754,40.84152440520283,-73.94118010768854,18581,Medical School,2013-01-28 18:00:09+00:00,,Community and Government,Education,90.0,12.0,nyc,Rec
+312,754,40.82723114887419,-73.94560589818066,26907,Deli / Bodega,2013-01-29 18:00:09+00:00,,Dining and Drinking,Restaurant,91.0,13.0,nyc,Rec
+313,754,40.77089747711729,-73.98957252502441,30637,College Academic Building,2013-01-29 18:00:09+00:00,,Community and Government,Education,91.0,13.0,nyc,Rec
+314,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-01-29 18:00:09+00:00,,Community and Government,Education,91.0,13.0,nyc,Rec
+315,754,40.77095885665391,-73.98710351049733,8070,Diner,2013-01-30 18:00:09+00:00,,Dining and Drinking,Restaurant,92.0,13.0,nyc,Explore
+316,754,40.77085290125466,-73.98486527831999,15818,College Academic Building,2013-01-30 18:00:09+00:00,,Community and Government,Education,92.0,13.0,nyc,Rec
+317,754,40.71054128929639,-74.00846870421927,10792,Deli / Bodega,2013-01-31 18:00:09+00:00,,Dining and Drinking,Restaurant,93.0,13.0,nyc,Rec
+318,754,40.72522198518015,-74.00795798740558,14683,Event Space,2013-01-31 18:00:09+00:00,,Business and Professional Services,Event Space,93.0,13.0,nyc,Rec
+319,754,40.72232025867175,-74.01168791026092,21544,College Stadium,2013-02-01 18:00:09+00:00,,Community and Government,Education,94.0,13.0,nyc,Rec
+320,754,40.74400893580496,-73.9814791851949,27395,College Academic Building,2013-02-01 18:00:09+00:00,,Community and Government,Education,94.0,13.0,nyc,Rec
+321,754,40.742411,-73.983743,27311,Event Space,2013-02-01 18:00:09+00:00,,Business and Professional Services,Event Space,94.0,13.0,nyc,Explore
+322,754,40.740225077794776,-73.98348215257546,4006,University,2013-02-01 18:00:09+00:00,,Community and Government,Education,94.0,13.0,nyc,Rec
+323,754,40.77079184896987,-73.98592472076416,11374,College Academic Building,2013-02-04 18:00:09+00:00,,Community and Government,Education,97.0,13.0,nyc,Rec
+324,754,40.77056711201932,-73.98410197779206,21512,Event Space,2013-02-04 18:00:09+00:00,,Business and Professional Services,Event Space,97.0,13.0,nyc,Rec
+325,754,40.82723996688574,-73.94570922281969,27555,Deli / Bodega,2013-02-05 18:00:09+00:00,,Dining and Drinking,Restaurant,98.0,14.0,nyc,Rec
+326,754,40.820056869904384,-73.95030711337873,15432,College Academic Building,2013-02-05 18:00:09+00:00,,Community and Government,Education,98.0,14.0,nyc,Rec
+327,754,40.70172388214517,-73.84065628051758,22631,Event Space,2013-02-05 18:00:09+00:00,,Business and Professional Services,Event Space,98.0,14.0,nyc,Rec
+328,754,40.741778511511214,-73.98538179575334,8971,Deli / Bodega,2013-02-06 18:00:09+00:00,,Dining and Drinking,Restaurant,99.0,14.0,nyc,Rec
+329,754,40.74165443061321,-73.97473551696459,20868,College Academic Building,2013-02-06 18:00:09+00:00,,Community and Government,Education,99.0,14.0,nyc,Rec
+330,754,40.74400893580496,-73.9814791851949,27395,College Academic Building,2013-02-06 18:00:09+00:00,,Community and Government,Education,99.0,14.0,nyc,Rec
+331,754,40.7435523173049,-73.98197849420325,32384,College Academic Building,2013-02-06 18:00:09+00:00,,Community and Government,Education,99.0,14.0,nyc,Rec
+332,754,40.74709440008955,-73.99452924728394,2329,University,2013-02-07 18:00:09+00:00,,Community and Government,Education,100.0,14.0,nyc,Rec
+333,754,40.69342491338439,-73.99171189097369,6159,University,2013-02-07 18:00:09+00:00,,Community and Government,Education,100.0,14.0,nyc,Rec
+334,754,40.68659666929995,-73.99080514490619,35659,General Entertainment,2013-02-07 18:00:09+00:00,,Arts and Entertainment,General Entertainment,100.0,14.0,nyc,Rec
+335,754,40.71110949732056,-74.00504350662231,2893,University,2013-02-07 18:00:09+00:00,,Community and Government,Education,100.0,14.0,nyc,Rec
+336,754,40.713240189310966,-74.01618003845215,3232,Burger Joint,2013-02-08 18:00:09+00:00,,Dining and Drinking,Restaurant,101.0,14.0,nyc,Rec

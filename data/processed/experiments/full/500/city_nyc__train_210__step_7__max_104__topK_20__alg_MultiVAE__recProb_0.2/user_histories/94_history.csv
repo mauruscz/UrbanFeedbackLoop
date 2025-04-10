@@ -1,0 +1,157 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category,step,epoch,city,simulation_state
+0,94,40.607599235207495,-73.9617984912444,22458,Electronics Store,2012-07-13 19:24:18+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+1,94,40.623832,-73.961157,28567,Shop & Service,2012-07-13 19:41:25+00:00,New York City,Retail,Retail,,,,
+2,94,40.62496107723288,-73.96342858134595,18929,Bank,2012-07-13 20:09:53+00:00,New York City,Business and Professional Services,Financial Service,,,,
+3,94,40.60859730324964,-73.95813073815478,9548,Donut Shop,2012-07-20 12:48:47+00:00,New York City,Dining and Drinking,Donut Shop,,,,
+4,94,40.61104428232308,-73.95386021482283,29440,Miscellaneous Shop,2012-07-20 13:38:12+00:00,New York City,Retail,Miscellaneous Store,,,,
+5,94,40.60890272428352,-73.95841598510742,16706,Bank,2012-07-20 14:08:24+00:00,New York City,Business and Professional Services,Financial Service,,,,
+6,94,40.61611954125639,-73.97926958378248,10996,Church,2012-10-12 19:15:38+00:00,New York City,Community and Government,Spiritual Center,,,,
+7,94,40.62704277729574,-73.96544895558725,34129,Synagogue,2012-10-26 01:56:00+00:00,New York City,Community and Government,Spiritual Center,,,,
+8,94,40.6204751551214,-73.96439285351123,10654,Food & Drink Shop,2012-04-09 16:35:39+00:00,New York City,Retail,Food and Beverage Retail,,,,
+9,94,40.62616011817837,-73.96341136215634,34636,Miscellaneous Shop,2012-04-09 17:26:57+00:00,New York City,Retail,Miscellaneous Store,,,,
+10,94,40.63005374686577,-73.97696812777984,19612,Mall,2012-04-09 21:57:31+00:00,New York City,Retail,Shopping Mall,,,,
+11,94,40.75094716932898,-73.99364014684153,29556,Travel Lounge,2012-04-09 22:56:23+00:00,New York City,Travel and Transportation,Travel Lounge,,,,
+12,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-08-06 00:30:08+00:00,New York City,Community and Government,Spiritual Center,,,,
+13,94,40.743302512037154,-73.9738467335701,12479,Medical Center,2012-08-06 13:47:05+00:00,New York City,Health and Medicine,Emergency Service,,,,
+14,94,40.741933755026,-73.97469534121134,3733,Medical Center,2012-08-06 13:48:25+00:00,New York City,Health and Medicine,Hospital,,,,
+15,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2012-08-06 13:49:30+00:00,New York City,Health and Medicine,Medical Center,,,,
+16,94,40.60888712193031,-73.95908929694303,28306,Medical Center,2012-08-13 18:54:33+00:00,New York City,Health and Medicine,Physician,,,,
+17,94,40.6082188,-73.96015802877355,1834,Restaurant,2012-08-13 22:13:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+18,94,40.60972035393082,-73.95755674857774,20038,Pizza Place,2012-08-13 22:21:38+00:00,New York City,Dining and Drinking,Restaurant,,,,
+19,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-08-20 00:09:04+00:00,New York City,Dining and Drinking,Restaurant,,,,
+20,94,40.628339,-73.962563,37011,Synagogue,2012-08-20 01:30:12+00:00,New York City,Community and Government,Spiritual Center,,,,
+21,94,40.75586046621717,-73.99197014065174,4333,Deli / Bodega,2012-07-16 01:17:57+00:00,New York City,Dining and Drinking,Restaurant,,,,
+22,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2012-07-16 16:48:41+00:00,New York City,Health and Medicine,Medical Center,,,,
+23,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-07-30 09:58:22+00:00,New York City,Community and Government,Spiritual Center,,,,
+24,94,40.62257165515679,-73.96476019401996,21805,Bagel Shop,2012-07-30 10:41:12+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+25,94,40.743210194840415,-73.97323179019648,17744,Medical School,2012-07-30 12:56:28+00:00,New York City,Community and Government,Education,,,,
+26,94,40.741933755026,-73.97469534121134,3733,Medical Center,2012-07-30 13:02:52+00:00,New York City,Health and Medicine,Hospital,,,,
+27,94,40.743302512037154,-73.9738467335701,12479,Medical Center,2012-07-30 13:03:48+00:00,New York City,Health and Medicine,Emergency Service,,,,
+28,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2012-07-30 13:04:45+00:00,New York City,Health and Medicine,Medical Center,,,,
+29,94,40.62497,-73.962829,20734,Pizza Place,2012-07-30 17:00:43+00:00,New York City,Dining and Drinking,Restaurant,,,,
+30,94,40.74781736297941,-73.97486178356304,36567,Medical Center,2012-10-22 13:47:59+00:00,New York City,Health and Medicine,Physician,,,,
+31,94,40.743302512037154,-73.9738467335701,12479,Medical Center,2012-10-22 13:48:18+00:00,New York City,Health and Medicine,Emergency Service,,,,
+32,94,40.741933755026,-73.97469534121134,3733,Medical Center,2012-10-22 13:49:00+00:00,New York City,Health and Medicine,Hospital,,,,
+33,94,40.62497,-73.962829,20734,Pizza Place,2012-10-22 16:22:45+00:00,New York City,Dining and Drinking,Restaurant,,,,
+34,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-10-22 22:03:37+00:00,New York City,Community and Government,Spiritual Center,,,,
+35,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-10-22 22:32:06+00:00,New York City,Dining and Drinking,Restaurant,,,,
+36,94,40.61978063447844,-73.96651079151502,20669,Synagogue,2012-08-05 19:04:20+00:00,New York City,Community and Government,Spiritual Center,,,,
+37,94,40.62517395031003,-73.96203956177538,19952,Drugstore / Pharmacy,2012-08-05 20:29:20+00:00,New York City,Retail,Pharmacy,,,,
+38,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-08-05 21:36:01+00:00,New York City,Dining and Drinking,Restaurant,,,,
+39,94,40.7821201289828,-73.97997551115056,13475,General Travel,2012-08-12 11:38:00+00:00,New York City,Travel and Transportation,General Travel,,,,
+40,94,40.62497,-73.962829,20734,Pizza Place,2012-08-19 04:12:55+00:00,New York City,Dining and Drinking,Restaurant,,,,
+41,94,40.59895529445416,-73.94145564623702,24903,Gym / Fitness Center,2012-08-19 16:55:27+00:00,New York City,Sports and Recreation,Gym and Studio,,,,
+42,94,40.60012,-73.94399106502533,22765,Pizza Place,2012-08-19 19:52:52+00:00,New York City,Dining and Drinking,Restaurant,,,,
+43,94,40.63508438314479,-73.97226182280386,26935,Other Great Outdoors,2012-07-29 18:42:22+00:00,New York City,Landmarks and Outdoors,Hiking Trail,,,,
+44,94,40.75094716932898,-73.99364014684153,29556,Travel Lounge,2012-06-10 14:31:32+00:00,New York City,Travel and Transportation,Travel Lounge,,,,
+45,94,40.75082055374632,-73.99179223535523,12461,Bakery,2012-06-10 14:39:29+00:00,New York City,Dining and Drinking,Bakery,,,,
+46,94,40.75051967379404,-73.99154546321914,9153,Bakery,2012-06-10 14:45:46+00:00,New York City,Dining and Drinking,Bakery,,,,
+47,94,40.70301054897061,-73.99486251328726,18994,Park,2012-06-10 15:18:05+00:00,New York City,Landmarks and Outdoors,Park,,,,
+48,94,40.75094716932898,-73.99364014684153,29556,Travel Lounge,2012-06-10 23:53:38+00:00,New York City,Travel and Transportation,Travel Lounge,,,,
+49,94,40.62372782527122,-73.96458800324365,13631,Pizza Place,2012-10-28 02:38:23+00:00,New York City,Dining and Drinking,Restaurant,,,,
+50,94,40.62523861583863,-73.96141966551558,18246,Bagel Shop,2012-10-28 19:29:18+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+51,94,40.58070914157357,-73.95372819445163,12774,Synagogue,2012-10-28 23:12:28+00:00,New York City,Community and Government,Spiritual Center,,,,
+52,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2012-08-09 18:47:38+00:00,New York City,Health and Medicine,Medical Center,,,,
+53,94,40.74785701904198,-73.97662376790451,28649,Coffee Shop,2012-08-09 19:28:13+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+54,94,40.743302512037154,-73.9738467335701,12479,Medical Center,2012-08-16 17:14:39+00:00,New York City,Health and Medicine,Emergency Service,,,,
+55,94,40.743210194840415,-73.97323179019648,17744,Medical School,2012-08-16 17:14:57+00:00,New York City,Community and Government,Education,,,,
+56,94,40.741933755026,-73.97469534121134,3733,Medical Center,2012-08-16 17:15:16+00:00,New York City,Health and Medicine,Hospital,,,,
+57,94,40.74781736297941,-73.97486178356304,36567,Medical Center,2012-08-16 17:16:11+00:00,New York City,Health and Medicine,Physician,,,,
+58,94,40.62475530077222,-73.96525954640155,20644,Playground,2012-07-12 11:52:40+00:00,New York City,Landmarks and Outdoors,Park,,,,
+59,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-07-12 11:53:55+00:00,New York City,Community and Government,Spiritual Center,,,,
+60,94,40.623929877363366,-73.96490942590171,31751,Bagel Shop,2012-07-12 13:12:36+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+61,94,40.60899213426557,-73.95453179531418,36595,Medical Center,2012-07-12 18:54:32+00:00,New York City,Health and Medicine,Dentist,,,,
+62,94,40.6098134741022,-73.95605288779298,13083,Drugstore / Pharmacy,2012-07-12 19:09:19+00:00,New York City,Retail,Pharmacy,,,,
+63,94,40.60950164932503,-73.95642598411837,27513,Department Store,2012-07-12 19:18:32+00:00,New York City,Retail,Department Store,,,,
+64,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-07-19 00:28:04+00:00,New York City,Community and Government,Spiritual Center,,,,
+65,94,40.69238982068587,-73.99091631174088,6807,Coffee Shop,2012-10-25 16:39:45+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+66,94,40.626046,-73.96538,8171,Sandwich Place,2012-09-06 01:09:28+00:00,New York City,Dining and Drinking,Restaurant,,,,
+67,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2012-09-06 17:15:12+00:00,New York City,Health and Medicine,Medical Center,,,,
+68,94,40.74781736297941,-73.97486178356304,36567,Medical Center,2012-09-06 17:15:46+00:00,New York City,Health and Medicine,Physician,,,,
+69,94,40.743210194840415,-73.97323179019648,17744,Medical School,2012-09-06 17:16:58+00:00,New York City,Community and Government,Education,,,,
+70,94,40.743302512037154,-73.9738467335701,12479,Medical Center,2012-09-06 17:17:34+00:00,New York City,Health and Medicine,Emergency Service,,,,
+71,94,40.70634669302747,-74.01650801042607,17797,Caf�,2012-08-14 18:20:16+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House",,,,
+72,94,40.743210194840415,-73.97323179019648,17744,Medical School,2012-08-14 18:29:10+00:00,New York City,Community and Government,Education,,,,
+73,94,40.743302512037154,-73.9738467335701,12479,Medical Center,2012-08-14 18:29:36+00:00,New York City,Health and Medicine,Emergency Service,,,,
+74,94,40.741933755026,-73.97469534121134,3733,Medical Center,2012-08-14 18:32:36+00:00,New York City,Health and Medicine,Hospital,,,,
+75,94,40.74229121578201,-73.9731342197331,25768,College Academic Building,2012-08-14 20:00:52+00:00,New York City,Community and Government,Education,,,,
+76,94,40.61978063447844,-73.96651079151502,20669,Synagogue,2012-07-17 18:33:04+00:00,New York City,Community and Government,Spiritual Center,,,,
+77,94,40.624171671903966,-73.9650127402137,16670,Electronics Store,2012-07-17 19:07:44+00:00,New York City,Retail,Computers and Electronics Retail,,,,
+78,94,40.62737,-73.96559357643127,19857,Gas Station / Garage,2012-07-17 20:25:14+00:00,New York City,Travel and Transportation,Fuel Station,,,,
+79,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-07-17 22:54:34+00:00,New York City,Dining and Drinking,Restaurant,,,,
+80,94,40.60899213426557,-73.95453179531418,36595,Medical Center,2012-07-24 20:14:23+00:00,New York City,Health and Medicine,Dentist,,,,
+81,94,40.61978063447844,-73.96651079151502,20669,Synagogue,2012-10-16 18:50:35+00:00,New York City,Community and Government,Spiritual Center,,,,
+82,94,40.60899213426557,-73.95453179531418,36595,Medical Center,2012-10-23 18:04:36+00:00,New York City,Health and Medicine,Dentist,,,,
+83,94,40.61978063447844,-73.96651079151502,20669,Synagogue,2012-10-23 20:39:07+00:00,New York City,Community and Government,Spiritual Center,,,,
+84,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-10-23 22:05:28+00:00,New York City,Community and Government,Spiritual Center,,,,
+85,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-07-18 00:27:29+00:00,New York City,Community and Government,Spiritual Center,,,,
+86,94,40.62475530077222,-73.96525954640155,20644,Playground,2012-07-18 17:19:29+00:00,New York City,Landmarks and Outdoors,Park,,,,
+87,94,40.623993,-73.965043,12100,Mexican Restaurant,2012-07-18 17:20:13+00:00,New York City,Dining and Drinking,Restaurant,,,,
+88,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-07-18 23:57:03+00:00,New York City,Dining and Drinking,Restaurant,,,,
+89,94,40.623993,-73.965043,12100,Mexican Restaurant,2012-10-24 21:11:02+00:00,New York City,Dining and Drinking,Restaurant,,,,
+90,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-10-24 22:36:22+00:00,New York City,Dining and Drinking,Restaurant,,,,
+91,94,40.623929877363366,-73.96490942590171,31751,Bagel Shop,2012-09-05 19:27:11+00:00,New York City,Dining and Drinking,Bagel Shop,,,,
+92,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-09-05 23:51:08+00:00,New York City,Community and Government,Spiritual Center,,,,
+93,94,40.63243353,-73.9482762,9621,Pizza Place,2012-10-30 18:00:09+00:00,,Dining and Drinking,Restaurant,0.0,0.0,nyc,Explore
+94,94,40.626803,-73.94698528,17295,Chinese Restaurant,2012-11-05 18:00:09+00:00,,Dining and Drinking,Restaurant,6.0,0.0,nyc,Explore
+95,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-11-05 18:00:09+00:00,,Community and Government,Spiritual Center,6.0,0.0,nyc,Return
+96,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-11-07 18:00:09+00:00,,Dining and Drinking,Restaurant,8.0,1.0,nyc,Return
+97,94,40.64603281980551,-74.0204500733279,32474,Medical Center,2012-11-15 18:00:09+00:00,,Health and Medicine,Emergency Service,16.0,2.0,nyc,Rec
+98,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2012-11-15 18:00:09+00:00,,Health and Medicine,Medical Center,16.0,2.0,nyc,Return
+99,94,40.743302512037154,-73.9738467335701,12479,Medical Center,2012-11-15 18:00:09+00:00,,Health and Medicine,Emergency Service,16.0,2.0,nyc,Return
+100,94,40.62497,-73.962829,20734,Pizza Place,2012-11-18 18:00:09+00:00,,Dining and Drinking,Restaurant,19.0,2.0,nyc,Return
+101,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-11-20 18:00:09+00:00,,Dining and Drinking,Restaurant,21.0,3.0,nyc,Return
+102,94,40.626046,-73.96538,8171,Sandwich Place,2012-11-21 18:00:09+00:00,,Dining and Drinking,Restaurant,22.0,3.0,nyc,Return
+103,94,40.638336660691735,-73.97832834325988,30128,Synagogue,2012-11-22 18:00:09+00:00,,Community and Government,Spiritual Center,23.0,3.0,nyc,Explore
+104,94,40.75051967379404,-73.99154546321914,9153,Bakery,2012-11-23 18:00:09+00:00,,Dining and Drinking,Bakery,24.0,3.0,nyc,Return
+105,94,40.75234609858383,-73.99408777489505,1938,Movie Theater,2012-11-25 18:00:09+00:00,,Arts and Entertainment,Movie Theater,26.0,3.0,nyc,Explore
+106,94,40.7625685886431,-73.98399353027344,5502,Church,2012-11-26 18:00:09+00:00,,Community and Government,Spiritual Center,27.0,3.0,nyc,Explore
+107,94,40.6098134741022,-73.95605288779298,13083,Drugstore / Pharmacy,2012-11-27 18:00:09+00:00,,Retail,Pharmacy,28.0,4.0,nyc,Return
+108,94,40.74167304814132,-73.97428784381152,3733,Medical Center,2012-11-27 18:00:09+00:00,,Health and Medicine,Hospital,28.0,4.0,nyc,Return
+109,94,40.736031073752805,-73.9793586730957,220,Bagel Shop,2012-11-28 18:00:09+00:00,,Dining and Drinking,Bagel Shop,29.0,4.0,nyc,Rec
+110,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-11-29 18:00:09+00:00,,Dining and Drinking,Restaurant,30.0,4.0,nyc,Return
+111,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-12-02 18:00:09+00:00,,Community and Government,Spiritual Center,33.0,4.0,nyc,Return
+112,94,40.61000618011367,-74.00673570454957,6310,Diner,2012-12-02 18:00:09+00:00,,Dining and Drinking,Restaurant,33.0,4.0,nyc,Rec
+113,94,40.623993,-73.965043,12100,Mexican Restaurant,2012-12-02 18:00:09+00:00,,Dining and Drinking,Restaurant,33.0,4.0,nyc,Return
+114,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-12-03 18:00:09+00:00,,Community and Government,Spiritual Center,34.0,4.0,nyc,Return
+115,94,40.61978063447844,-73.96651079151502,20669,Synagogue,2012-12-04 18:00:09+00:00,,Community and Government,Spiritual Center,35.0,5.0,nyc,Return
+116,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2012-12-05 18:00:09+00:00,,Community and Government,Spiritual Center,36.0,5.0,nyc,Return
+117,94,40.733269345022535,-73.98280493384901,33742,Medical Center,2012-12-05 18:00:09+00:00,,Health and Medicine,Emergency Service,36.0,5.0,nyc,Explore
+118,94,40.626046,-73.96538,8171,Sandwich Place,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Return
+119,94,40.66363871647445,-73.984595540886,9853,Mexican Restaurant,2012-12-06 18:00:09+00:00,,Dining and Drinking,Restaurant,37.0,5.0,nyc,Rec
+120,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-12-09 18:00:09+00:00,,Dining and Drinking,Restaurant,40.0,5.0,nyc,Return
+121,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2012-12-10 18:00:09+00:00,,Health and Medicine,Medical Center,41.0,5.0,nyc,Return
+122,94,40.74781736297941,-73.97486178356304,36567,Medical Center,2012-12-10 18:00:09+00:00,,Health and Medicine,Physician,41.0,5.0,nyc,Return
+123,94,40.75388918270174,-73.9703893661499,28850,Medical Center,2012-12-10 18:00:09+00:00,,Health and Medicine,Dentist,41.0,5.0,nyc,Explore
+124,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-12-10 18:00:09+00:00,,Dining and Drinking,Restaurant,41.0,5.0,nyc,Return
+125,94,40.66464162434732,-73.94570922281969,3295,Synagogue,2012-12-11 18:00:09+00:00,,Community and Government,Spiritual Center,42.0,6.0,nyc,Explore
+126,94,40.6966104821996,-73.95637432467015,36443,Gas Station / Garage,2012-12-11 18:00:09+00:00,,Travel and Transportation,Fuel Station,42.0,6.0,nyc,Explore
+127,94,40.71359330684276,-73.99729000663976,796,Dim Sum Restaurant,2012-12-11 18:00:09+00:00,,Dining and Drinking,Restaurant,42.0,6.0,nyc,Explore
+128,94,40.743028,-73.978155,20139,Church,2012-12-11 18:00:09+00:00,,Community and Government,Spiritual Center,42.0,6.0,nyc,Explore
+129,94,40.731844250688674,-73.98386478424072,2238,Pizza Place,2012-12-16 18:00:09+00:00,,Dining and Drinking,Restaurant,47.0,6.0,nyc,Rec
+130,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-12-17 18:00:09+00:00,,Dining and Drinking,Restaurant,48.0,6.0,nyc,Return
+131,94,40.607925315648,-73.96418809890747,31753,Medical Center,2012-12-18 18:00:09+00:00,,Health and Medicine,Physician,49.0,7.0,nyc,Rec
+132,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2012-12-21 18:00:09+00:00,,Dining and Drinking,Restaurant,52.0,7.0,nyc,Return
+133,94,40.66464162434732,-73.94570922281969,3295,Synagogue,2012-12-23 18:00:09+00:00,,Community and Government,Spiritual Center,54.0,7.0,nyc,Return
+134,94,40.733269345022535,-73.98280493384901,33742,Medical Center,2012-12-27 18:00:09+00:00,,Health and Medicine,Emergency Service,58.0,8.0,nyc,Return
+135,94,40.74781736297941,-73.97486178356304,36567,Medical Center,2012-12-27 18:00:09+00:00,,Health and Medicine,Physician,58.0,8.0,nyc,Return
+136,94,40.758505337427664,-73.97652626037598,3813,Church,2013-01-01 18:00:09+00:00,,Community and Government,Spiritual Center,63.0,9.0,nyc,Rec
+137,94,40.78885994449482,-73.95403861999512,14659,Medical Center,2013-01-03 18:00:09+00:00,,Health and Medicine,Physician,65.0,9.0,nyc,Rec
+138,94,40.66464162434732,-73.94570922281969,3295,Synagogue,2013-01-07 18:00:09+00:00,,Community and Government,Spiritual Center,69.0,9.0,nyc,Return
+139,94,40.66804190055108,-73.97978782653809,3752,Medical Center,2013-01-08 18:00:09+00:00,,Health and Medicine,Hospital,70.0,10.0,nyc,Explore
+140,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2013-01-10 18:00:09+00:00,,Health and Medicine,Medical Center,72.0,10.0,nyc,Return
+141,94,40.74785701904198,-73.97662376790451,28649,Coffee Shop,2013-01-11 18:00:09+00:00,,Dining and Drinking,"Cafe, Coffee, and Tea House",73.0,10.0,nyc,Return
+142,94,40.62409392010494,-73.9651390131865,23807,Soup Place,2013-01-13 18:00:09+00:00,,Dining and Drinking,Restaurant,75.0,10.0,nyc,Return
+143,94,40.743028,-73.978155,20139,Church,2013-01-14 18:00:09+00:00,,Community and Government,Spiritual Center,76.0,10.0,nyc,Return
+144,94,40.61104428232308,-73.95386021482283,29440,Miscellaneous Shop,2013-01-14 18:00:09+00:00,,Retail,Miscellaneous Store,76.0,10.0,nyc,Return
+145,94,40.74781736297941,-73.97486178356304,36567,Medical Center,2013-01-17 18:00:09+00:00,,Health and Medicine,Physician,79.0,11.0,nyc,Return
+146,94,40.743302512037154,-73.9738467335701,12479,Medical Center,2013-01-17 18:00:09+00:00,,Health and Medicine,Emergency Service,79.0,11.0,nyc,Return
+147,94,40.623929877363366,-73.96490942590171,31751,Bagel Shop,2013-02-05 18:00:09+00:00,,Dining and Drinking,Bagel Shop,98.0,14.0,nyc,Return
+148,94,40.62517395031003,-73.96203956177538,19952,Drugstore / Pharmacy,2013-02-06 18:00:09+00:00,,Retail,Pharmacy,99.0,14.0,nyc,Return
+149,94,40.626092418323694,-73.96528250510065,25227,Spiritual Center,2013-02-06 18:00:09+00:00,,Community and Government,Spiritual Center,99.0,14.0,nyc,Return
+150,94,40.625236922541774,-73.96149428276343,911,Pizza Place,2013-02-07 18:00:09+00:00,,Dining and Drinking,Restaurant,100.0,14.0,nyc,Rec
+151,94,40.74781736297941,-73.97486178356304,36567,Medical Center,2013-02-07 18:00:09+00:00,,Health and Medicine,Physician,100.0,14.0,nyc,Return
+152,94,40.607925315648,-73.96418809890747,31753,Medical Center,2013-02-07 18:00:09+00:00,,Health and Medicine,Physician,100.0,14.0,nyc,Return
+153,94,40.74733337781301,-73.97501674700247,36068,Medical Center,2013-02-07 18:00:09+00:00,,Health and Medicine,Medical Center,100.0,14.0,nyc,Return
+154,94,40.743210194840415,-73.97323179019648,17744,Medical School,2013-02-07 18:00:09+00:00,,Community and Government,Education,100.0,14.0,nyc,Return
+155,94,40.757799,-73.992867,7026,Church,2013-02-10 18:00:09+00:00,,Community and Government,Spiritual Center,103.0,14.0,nyc,Explore

@@ -1,0 +1,142 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+110276,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-04-20 11:44:10+00:00,New York City,Community and Government,Education
+110277,705,40.60556882315072,-74.17900545141173,32075,Caf�,2012-04-20 20:24:29+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+110278,705,40.60248414630208,-74.15037631988525,4896,University,2012-04-27 16:38:47+00:00,New York City,Community and Government,Education
+110279,705,40.62644009732692,-74.17276190554297,16003,Movie Theater,2012-08-10 16:56:23+00:00,New York City,Arts and Entertainment,Movie Theater
+110280,705,40.62776391048118,-74.16406631469727,8008,Department Store,2012-08-17 17:03:39+00:00,New York City,Retail,Department Store
+110281,705,40.625936576817246,-74.1535483551799,17476,Automotive Shop,2012-08-17 17:23:28+00:00,New York City,Retail,Automotive Shop
+110282,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-06 12:01:45+00:00,New York City,Community and Government,Education
+110283,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-13 11:54:34+00:00,New York City,Community and Government,Education
+110284,705,40.59507501844679,-74.08917696695288,31800,Home (private),2012-06-08 19:51:39+00:00,New York City,Community and Government,Assisted Living
+110285,705,40.623659856971535,-74.13994789123535,11876,Pet Store,2012-06-08 22:58:43+00:00,New York City,Retail,Pet Supplies Store
+110286,705,40.60386732766122,-74.14856023677066,19427,College Academic Building,2012-05-04 18:58:32+00:00,New York City,Community and Government,Education
+110287,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-11 11:44:57+00:00,New York City,Community and Government,Education
+110288,705,40.625936576817246,-74.1535483551799,17476,Automotive Shop,2012-05-11 19:08:40+00:00,New York City,Retail,Automotive Shop
+110289,705,40.623659856971535,-74.13994789123535,11876,Pet Store,2012-05-11 19:08:59+00:00,New York City,Retail,Pet Supplies Store
+110290,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-25 12:09:23+00:00,New York City,Community and Government,Education
+110291,705,40.60556882315072,-74.17900545141173,32075,Caf�,2012-05-25 17:05:12+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+110292,705,40.60248414630208,-74.15037631988525,4896,University,2012-04-23 12:05:58+00:00,New York City,Community and Government,Education
+110293,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-04-23 12:06:23+00:00,New York City,Community and Government,Education
+110294,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-08-06 13:36:36+00:00,New York City,Community and Government,Education
+110295,705,40.62963990947728,-74.1123452134556,31150,American Restaurant,2012-08-13 22:14:54+00:00,New York City,Dining and Drinking,Restaurant
+110296,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-02 11:59:19+00:00,New York City,Community and Government,Education
+110297,705,40.59464553547787,-73.98148492438628,2620,Pizza Place,2012-07-02 19:56:08+00:00,New York City,Dining and Drinking,Restaurant
+110298,705,40.6444055420497,-74.0729570388794,3974,Ferry,2012-07-09 14:09:46+00:00,New York City,Travel and Transportation,Pier
+110299,705,40.70145732419213,-74.01321428847186,1097,Ferry,2012-07-09 14:51:23+00:00,New York City,Travel and Transportation,Pier
+110300,705,40.78118443649759,-73.9732030930065,1315,Science Museum,2012-07-09 16:38:57+00:00,New York City,Arts and Entertainment,Museum
+110301,705,40.78075104870434,-73.97487326234062,27079,History Museum,2012-07-09 16:39:28+00:00,New York City,Arts and Entertainment,Museum
+110302,705,40.7801839724239,-73.97425174713135,24497,Science Museum,2012-07-09 16:39:50+00:00,New York City,Arts and Entertainment,Museum
+110303,705,40.78077601699233,-73.97383443019756,27080,History Museum,2012-07-09 16:40:06+00:00,New York City,Arts and Entertainment,Museum
+110304,705,40.78099637745177,-73.97373676300049,14603,History Museum,2012-07-09 16:40:39+00:00,New York City,Arts and Entertainment,Museum
+110305,705,40.780634252302384,-73.97342119154298,27041,Science Museum,2012-07-09 18:16:18+00:00,New York City,Arts and Entertainment,Museum
+110306,705,40.78108416675722,-73.97346136756222,25041,Science Museum,2012-07-09 18:19:31+00:00,New York City,Arts and Entertainment,Museum
+110307,705,40.7813538325162,-73.97277116775513,13012,Planetarium,2012-07-09 18:46:18+00:00,New York City,Arts and Entertainment,Planetarium
+110308,705,40.7714256153356,-73.97350072860723,1056,Park,2012-07-09 21:18:26+00:00,New York City,Landmarks and Outdoors,Park
+110309,705,40.78086639331504,-73.96687030792236,3656,Park,2012-07-09 21:18:51+00:00,New York City,Landmarks and Outdoors,Park
+110310,705,40.60248414630208,-74.15037631988525,4896,University,2012-07-16 19:48:04+00:00,New York City,Community and Government,Education
+110311,705,40.6444055420497,-74.0729570388794,3974,Ferry,2012-07-16 22:23:19+00:00,New York City,Travel and Transportation,Pier
+110312,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-30 12:48:08+00:00,New York City,Community and Government,Education
+110313,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-06-04 12:02:20+00:00,New York City,Community and Government,Education
+110314,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-06-11 11:52:02+00:00,New York City,Community and Government,Education
+110315,705,40.60999924007756,-74.1599817614769,16983,Drugstore / Pharmacy,2012-06-11 15:56:37+00:00,New York City,Retail,Pharmacy
+110316,705,40.625936576817246,-74.1535483551799,17476,Automotive Shop,2012-06-11 16:08:54+00:00,New York City,Retail,Automotive Shop
+110317,705,40.62776391048118,-74.16406631469727,8008,Department Store,2012-06-11 17:06:14+00:00,New York City,Retail,Department Store
+110318,705,40.58980701922603,-74.08958067838337,19363,Automotive Shop,2012-06-18 14:02:47+00:00,New York City,Retail,Automotive Shop
+110319,705,40.59765537591453,-74.08360374288053,33577,Automotive Shop,2012-06-18 14:05:58+00:00,New York City,Retail,Automotive Shop
+110320,705,40.59029692668765,-74.06643390655518,15240,Beach,2012-06-18 15:52:37+00:00,New York City,Landmarks and Outdoors,Beach
+110321,705,40.60248414630208,-74.15037631988525,4896,University,2012-05-07 11:50:16+00:00,New York City,Community and Government,Education
+110322,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-05-07 11:50:34+00:00,New York City,Community and Government,Education
+110323,705,40.60248414630208,-74.15037631988525,4896,University,2012-05-14 11:57:10+00:00,New York City,Community and Government,Education
+110324,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-05-14 11:57:18+00:00,New York City,Community and Government,Education
+110325,705,40.60248414630208,-74.15037631988525,4896,University,2012-05-21 15:01:19+00:00,New York City,Community and Government,Education
+110326,705,40.60999924007756,-74.1599817614769,16983,Drugstore / Pharmacy,2012-05-21 15:03:21+00:00,New York City,Retail,Pharmacy
+110327,705,40.62420837116123,-74.13970029635226,20167,Paper / Office Supplies Store,2012-05-21 15:09:31+00:00,New York City,Retail,Office Supply Store
+110328,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-28 12:42:09+00:00,New York City,Community and Government,Education
+110329,705,40.66265445930958,-74.17535305023193,16084,Diner,2012-09-10 01:45:17+00:00,New York City,Dining and Drinking,Restaurant
+110330,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-04-07 12:45:09+00:00,New York City,Community and Government,Education
+110331,705,40.60748547709819,-74.16196346282959,15900,Fast Food Restaurant,2012-04-21 02:22:55+00:00,New York City,Dining and Drinking,Restaurant
+110332,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-04-21 12:49:08+00:00,New York City,Community and Government,Education
+110333,705,40.6117215697402,-74.15902995246239,14573,American Restaurant,2012-04-28 00:39:00+00:00,New York City,Dining and Drinking,Restaurant
+110334,705,40.62644009732692,-74.17276190554297,16003,Movie Theater,2012-04-28 02:19:46+00:00,New York City,Arts and Entertainment,Movie Theater
+110335,705,40.62644009732692,-74.17276190554297,16003,Movie Theater,2012-04-28 02:20:12+00:00,New York City,Arts and Entertainment,Movie Theater
+110336,705,40.59965600683201,-74.14915034611535,17030,College Academic Building,2012-04-28 23:47:12+00:00,New York City,Community and Government,Education
+110337,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-07 12:55:50+00:00,New York City,Community and Government,Education
+110338,705,40.625936576817246,-74.1535483551799,17476,Automotive Shop,2012-07-07 20:14:38+00:00,New York City,Retail,Automotive Shop
+110339,705,40.60656309127808,-74.1618400812149,17026,Automotive Shop,2012-07-07 20:40:13+00:00,New York City,Retail,Automotive Shop
+110340,705,40.61598851581584,-74.13851327204105,12395,Italian Restaurant,2012-07-14 00:33:34+00:00,New York City,Dining and Drinking,Restaurant
+110341,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-14 13:01:46+00:00,New York City,Community and Government,Education
+110342,705,40.59029692668765,-74.06643390655518,15240,Beach,2012-07-21 01:09:29+00:00,New York City,Landmarks and Outdoors,Beach
+110343,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-28 13:01:56+00:00,New York City,Community and Government,Education
+110344,705,40.59590443423848,-74.08619071231615,15300,Tattoo Parlor,2012-06-09 00:12:41+00:00,New York City,Business and Professional Services,Health and Beauty Service
+110345,705,40.595515738741575,-74.08633984916149,13922,Drugstore / Pharmacy,2012-06-09 00:31:57+00:00,New York City,Retail,Pharmacy
+110346,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-06-09 12:54:19+00:00,New York City,Community and Government,Education
+110347,705,40.60556882315072,-74.17900545141173,32075,Caf�,2012-06-09 14:34:33+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+110348,705,40.6117215697402,-74.15902995246239,14573,American Restaurant,2012-06-16 23:42:12+00:00,New York City,Dining and Drinking,Restaurant
+110349,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-05 13:14:26+00:00,New York City,Community and Government,Education
+110350,705,40.611674956482055,-74.15674215063362,32468,Food & Drink Shop,2012-05-05 16:54:50+00:00,New York City,Retail,Food and Beverage Retail
+110351,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-12 13:38:41+00:00,New York City,Community and Government,Education
+110352,705,40.62644009732692,-74.17276190554297,16003,Movie Theater,2012-05-19 00:49:56+00:00,New York City,Arts and Entertainment,Movie Theater
+110353,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-19 13:01:50+00:00,New York City,Community and Government,Education
+110354,705,40.62776391048118,-74.16406631469727,8008,Department Store,2012-05-19 16:41:43+00:00,New York City,Retail,Department Store
+110355,705,40.60248414630208,-74.15037631988525,4896,University,2012-05-19 17:10:38+00:00,New York City,Community and Government,Education
+110356,705,40.597721848677686,-74.14854252965651,15413,College Academic Building,2012-05-19 17:11:13+00:00,New York City,Community and Government,Education
+110357,705,40.606875664972335,-74.16191403346896,15229,Gas Station / Garage,2012-04-22 00:24:52+00:00,New York City,Travel and Transportation,Fuel Station
+110358,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-04-22 13:04:32+00:00,New York City,Community and Government,Education
+110359,705,40.61757351807828,-74.14593348366331,31849,Church,2012-04-22 14:35:15+00:00,New York City,Community and Government,Spiritual Center
+110360,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-08-05 12:57:16+00:00,New York City,Community and Government,Education
+110361,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-08-12 15:09:24+00:00,New York City,Community and Government,Education
+110362,705,40.58975636959076,-74.164449,12408,Tanning Salon,2012-08-19 14:07:39+00:00,New York City,Business and Professional Services,Health and Beauty Service
+110363,705,40.6444055420497,-74.0729570388794,3974,Ferry,2012-08-19 16:22:29+00:00,New York City,Travel and Transportation,Pier
+110364,705,40.76874793620048,-73.97083842985353,30483,Other Great Outdoors,2012-08-19 17:45:11+00:00,New York City,Landmarks and Outdoors,Other Great Outdoors
+110365,705,40.77527898712509,-73.97253296756483,9731,Other Great Outdoors,2012-08-19 18:52:40+00:00,New York City,Landmarks and Outdoors,Lake
+110366,705,40.756489872673846,-73.98626804351807,2360,Plaza,2012-08-19 21:57:47+00:00,New York City,Landmarks and Outdoors,Plaza
+110367,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-08 12:49:58+00:00,New York City,Community and Government,Education
+110368,705,40.64195472811636,-74.10460248373647,18997,Other Great Outdoors,2012-07-08 16:30:31+00:00,New York City,Landmarks and Outdoors,Lake
+110369,705,40.630362,-74.139446,4883,Ice Cream Shop,2012-07-08 18:30:33+00:00,New York City,Dining and Drinking,Dessert Shop
+110370,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-22 12:58:56+00:00,New York City,Community and Government,Education
+110371,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-29 12:59:06+00:00,New York City,Community and Government,Education
+110372,705,40.60248414630208,-74.15037631988525,4896,University,2012-07-29 19:07:05+00:00,New York City,Community and Government,Education
+110373,705,40.56999082369607,-74.10960674285889,21089,Ice Cream Shop,2012-06-10 04:29:35+00:00,New York City,Dining and Drinking,Dessert Shop
+110374,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-06-17 13:44:28+00:00,New York City,Community and Government,Education
+110375,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-27 12:58:13+00:00,New York City,Community and Government,Education
+110376,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-09-09 13:57:04+00:00,New York City,Community and Government,Education
+110377,705,40.58975636959076,-74.164449,12408,Tanning Salon,2012-09-09 23:09:27+00:00,New York City,Business and Professional Services,Health and Beauty Service
+110378,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-04-19 11:49:27+00:00,New York City,Community and Government,Education
+110379,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-04-26 12:40:28+00:00,New York City,Community and Government,Education
+110380,705,40.60556882315072,-74.17900545141173,32075,Caf�,2012-08-09 16:54:59+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+110381,705,40.60825460759048,-74.13261244501565,27892,Hardware Store,2012-06-07 15:44:29+00:00,New York City,Retail,Hardware Store
+110382,705,40.62844692468166,-74.17228030098777,12694,Hardware Store,2012-06-07 15:44:50+00:00,New York City,Retail,Hardware Store
+110383,705,40.6117215697402,-74.15902995246239,14573,American Restaurant,2012-06-07 20:53:41+00:00,New York City,Dining and Drinking,Restaurant
+110384,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-06-21 12:22:24+00:00,New York City,Community and Government,Education
+110385,705,40.60556882315072,-74.17900545141173,32075,Caf�,2012-06-21 14:21:19+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+110386,705,40.61069431289593,-74.16326145160882,15377,General College & University,2012-05-03 18:01:11+00:00,New York City,Community and Government,Education
+110387,705,40.66013495000427,-74.10709739818067,29691,Department Store,2012-05-03 21:20:34+00:00,New York City,Retail,Department Store
+110388,705,40.60556882315072,-74.17900545141173,32075,Caf�,2012-05-31 15:47:36+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+110389,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-08-14 11:59:55+00:00,New York City,Community and Government,Education
+110390,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-17 11:56:51+00:00,New York City,Community and Government,Education
+110391,705,40.60248414630208,-74.15037631988525,4896,University,2012-07-17 17:44:29+00:00,New York City,Community and Government,Education
+110392,705,40.630362,-74.139446,4883,Ice Cream Shop,2012-07-17 20:56:39+00:00,New York City,Dining and Drinking,Dessert Shop
+110393,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-24 12:10:56+00:00,New York City,Community and Government,Education
+110394,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-08 12:00:11+00:00,New York City,Community and Government,Education
+110395,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-05-22 11:59:22+00:00,New York City,Community and Government,Education
+110396,705,40.57263129162902,-74.08819198608397,17576,Beach,2012-05-29 21:29:35+00:00,New York City,Landmarks and Outdoors,Beach
+110397,705,40.6117215697402,-74.15902995246239,14573,American Restaurant,2012-05-29 23:04:56+00:00,New York City,Dining and Drinking,Restaurant
+110398,705,40.60248414630208,-74.15037631988525,4896,University,2012-04-04 11:51:58+00:00,New York City,Community and Government,Education
+110399,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-04-04 11:52:12+00:00,New York City,Community and Government,Education
+110400,705,40.60248414630208,-74.15037631988525,4896,University,2012-04-25 11:10:09+00:00,New York City,Community and Government,Education
+110401,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-04-25 11:10:21+00:00,New York City,Community and Government,Education
+110402,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-07-04 12:02:06+00:00,New York City,Community and Government,Education
+110403,705,40.6117215697402,-74.15902995246239,14573,American Restaurant,2012-07-11 22:15:16+00:00,New York City,Dining and Drinking,Restaurant
+110404,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-06-13 12:23:52+00:00,New York City,Community and Government,Education
+110405,705,40.60556882315072,-74.17900545141173,32075,Caf�,2012-06-13 14:54:19+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+110406,705,40.60248414630208,-74.15037631988525,4896,University,2012-06-13 21:07:53+00:00,New York City,Community and Government,Education
+110407,705,40.597721848677686,-74.14854252965651,15413,College Academic Building,2012-06-13 21:08:09+00:00,New York City,Community and Government,Education
+110408,705,40.605221077270585,-74.17977333068848,15489,General College & University,2012-06-27 12:01:11+00:00,New York City,Community and Government,Education
+110409,705,40.60248414630208,-74.15037631988525,4896,University,2012-05-02 11:50:33+00:00,New York City,Community and Government,Education
+110410,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-05-02 11:50:42+00:00,New York City,Community and Government,Education
+110411,705,40.60248414630208,-74.15037631988525,4896,University,2012-05-09 11:58:38+00:00,New York City,Community and Government,Education
+110412,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-05-09 11:59:13+00:00,New York City,Community and Government,Education
+110413,705,40.60248414630208,-74.15037631988525,4896,University,2012-05-16 11:07:22+00:00,New York City,Community and Government,Education
+110414,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-05-16 11:07:39+00:00,New York City,Community and Government,Education
+110415,705,40.61069431289593,-74.16326145160882,15377,General College & University,2012-05-23 18:07:26+00:00,New York City,Community and Government,Education
+110416,705,40.601832479552975,-74.15012955665588,14558,College Academic Building,2012-09-05 11:51:52+00:00,New York City,Community and Government,Education

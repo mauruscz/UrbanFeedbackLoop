@@ -1,0 +1,321 @@
+,uid,lat,lng,venueID,venue_descr,time,city_name,First_Category,Second_Category
+137459,880,40.75154847474455,-73.97530317306519,1368,Building,2012-04-13 00:04:45+00:00,New York City,Landmarks and Outdoors,Structure
+137460,880,40.75163065217676,-73.97561364204734,7220,Drugstore / Pharmacy,2012-04-13 00:06:02+00:00,New York City,Retail,Pharmacy
+137461,880,40.790421466158406,-73.9454394305906,11103,Food & Drink Shop,2012-04-13 00:38:34+00:00,New York City,Retail,Food and Beverage Retail
+137462,880,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-13 03:50:51+00:00,New York City,Landmarks and Outdoors,Plaza
+137463,880,40.75576646162976,-73.99123556287765,503,Bar,2012-04-13 04:11:42+00:00,New York City,Dining and Drinking,Bar
+137464,880,40.789864996022565,-73.9448022602158,27127,Electronics Store,2012-04-13 18:37:40+00:00,New York City,Retail,Computers and Electronics Retail
+137465,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-13 21:56:21+00:00,New York City,Dining and Drinking,Restaurant
+137466,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-13 22:06:32+00:00,New York City,Retail,Food and Beverage Retail
+137467,880,40.788859,-73.944057,14353,Playground,2012-04-20 00:17:24+00:00,New York City,Landmarks and Outdoors,Park
+137468,880,40.78957248527097,-73.94351069220885,34543,Deli / Bodega,2012-04-20 01:48:48+00:00,New York City,Dining and Drinking,Restaurant
+137469,880,40.75576646162976,-73.99123556287765,503,Bar,2012-04-20 06:00:00+00:00,New York City,Dining and Drinking,Bar
+137470,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-20 08:50:49+00:00,New York City,Dining and Drinking,Restaurant
+137471,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-20 12:16:11+00:00,New York City,Dining and Drinking,Restaurant
+137472,880,40.791172,-73.944024,29882,School,2012-04-20 12:20:47+00:00,New York City,Community and Government,Education
+137473,880,40.790151163818,-73.94837268335608,12056,Sandwich Place,2012-04-20 14:00:06+00:00,New York City,Dining and Drinking,Restaurant
+137474,880,40.789631,-73.942829,28167,Laundry Service,2012-04-20 17:56:34+00:00,New York City,Business and Professional Services,Laundry Service
+137475,880,40.78993869435254,-73.9459732744243,16448,Video Game Store,2012-04-20 21:21:05+00:00,New York City,Retail,Computers and Electronics Retail
+137476,880,40.7899173699326,-73.94564607999128,33944,Deli / Bodega,2012-04-20 21:26:19+00:00,New York City,Dining and Drinking,Restaurant
+137477,880,40.79052028333346,-73.94551405401076,31278,Furniture / Home Store,2012-04-20 21:32:58+00:00,New York City,Retail,Furniture and Home Store
+137478,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-27 14:22:58+00:00,New York City,Dining and Drinking,Restaurant
+137479,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-27 14:24:36+00:00,New York City,Retail,Food and Beverage Retail
+137480,880,40.78983720304655,-73.94438321909595,15263,Building,2012-04-27 16:46:32+00:00,New York City,Landmarks and Outdoors,Structure
+137481,880,40.80927000313523,-73.94907116889954,29002,Gym / Fitness Center,2012-04-27 16:47:57+00:00,New York City,Sports and Recreation,Gym and Studio
+137482,880,40.78320531800984,-73.94799383129313,18403,Deli / Bodega,2012-04-27 19:46:42+00:00,New York City,Dining and Drinking,Restaurant
+137483,880,40.78207354687825,-73.94545091111864,19017,Building,2012-04-27 19:47:35+00:00,New York City,Landmarks and Outdoors,Structure
+137484,880,40.785473301225935,-73.94141546355645,10889,School,2012-04-27 21:05:35+00:00,New York City,Community and Government,Education
+137485,880,40.789631,-73.942829,28167,Laundry Service,2012-05-04 01:15:30+00:00,New York City,Business and Professional Services,Laundry Service
+137486,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-04 02:14:39+00:00,New York City,Dining and Drinking,Restaurant
+137487,880,40.790151163818,-73.94837268335608,12056,Sandwich Place,2012-05-04 05:35:49+00:00,New York City,Dining and Drinking,Restaurant
+137488,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-05-04 12:08:50+00:00,New York City,Retail,Food and Beverage Retail
+137489,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-04 12:21:34+00:00,New York City,Community and Government,Education
+137490,880,40.7914587487086,-73.94475059766101,11185,Drugstore / Pharmacy,2012-05-04 12:23:34+00:00,New York City,Retail,Pharmacy
+137491,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-04 13:41:08+00:00,New York City,Dining and Drinking,Restaurant
+137492,880,40.79440359530652,-73.94326385823096,14600,College Academic Building,2012-05-04 18:03:23+00:00,New York City,Community and Government,Education
+137493,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-05-04 23:29:45+00:00,New York City,Retail,Food and Beverage Retail
+137494,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-04 23:38:11+00:00,New York City,Retail,Food and Beverage Retail
+137495,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-18 12:17:02+00:00,New York City,Community and Government,Education
+137496,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-18 12:27:11+00:00,New York City,Retail,Food and Beverage Retail
+137497,880,40.78329408730277,-73.94460135020307,35509,Playground,2012-05-18 21:03:48+00:00,New York City,Landmarks and Outdoors,Park
+137498,880,40.761418437456726,-73.9241820661403,16331,Bank,2012-05-25 09:10:20+00:00,New York City,Business and Professional Services,Financial Service
+137499,880,40.78991131559263,-73.94661044094262,8775,Latin American Restaurant,2012-05-25 19:47:42+00:00,New York City,Dining and Drinking,Restaurant
+137500,880,40.79052028333346,-73.94551405401076,31278,Furniture / Home Store,2012-05-25 20:57:59+00:00,New York City,Retail,Furniture and Home Store
+137501,880,40.79060770818952,-73.94558293714226,13171,Clothing Store,2012-05-25 20:59:28+00:00,New York City,Retail,Fashion Retail
+137502,880,40.7904250952121,-73.94555423584045,16997,Fast Food Restaurant,2012-04-09 18:05:42+00:00,New York City,Dining and Drinking,Restaurant
+137503,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-09 18:39:20+00:00,New York City,Dining and Drinking,Restaurant
+137504,880,40.79061449768248,-73.94579887390137,10742,Fast Food Restaurant,2012-04-09 20:09:15+00:00,New York City,Dining and Drinking,Restaurant
+137505,880,40.789864996022565,-73.9448022602158,27127,Electronics Store,2012-04-09 23:25:58+00:00,New York City,Retail,Computers and Electronics Retail
+137506,880,40.78991131559263,-73.94661044094262,8775,Latin American Restaurant,2012-04-09 23:28:46+00:00,New York City,Dining and Drinking,Restaurant
+137507,880,40.79437640045317,-73.94940591248245,24298,Food & Drink Shop,2012-04-16 12:08:08+00:00,New York City,Retail,Food and Beverage Retail
+137508,880,40.791172,-73.944024,29882,School,2012-04-16 12:20:54+00:00,New York City,Community and Government,Education
+137509,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-16 12:27:22+00:00,New York City,Retail,Food and Beverage Retail
+137510,880,40.788859,-73.944057,14353,Playground,2012-04-16 12:45:25+00:00,New York City,Landmarks and Outdoors,Park
+137511,880,40.78938389464528,-73.94362549860294,33285,Drugstore / Pharmacy,2012-04-16 18:35:12+00:00,New York City,Retail,Pharmacy
+137512,880,40.790421466158406,-73.9454394305906,11103,Food & Drink Shop,2012-04-16 19:42:25+00:00,New York City,Retail,Food and Beverage Retail
+137513,880,40.756489872673846,-73.98626804351807,2360,Plaza,2012-04-23 00:32:09+00:00,New York City,Landmarks and Outdoors,Plaza
+137514,880,40.75576646162976,-73.99123556287765,503,Bar,2012-04-23 00:33:32+00:00,New York City,Dining and Drinking,Bar
+137515,880,40.791172,-73.944024,29882,School,2012-04-23 12:43:55+00:00,New York City,Community and Government,Education
+137516,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-04-23 12:45:23+00:00,New York City,Retail,Food and Beverage Retail
+137517,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-23 12:47:22+00:00,New York City,Dining and Drinking,Restaurant
+137518,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-23 16:45:50+00:00,New York City,Retail,Food and Beverage Retail
+137519,880,40.78957248527097,-73.94351069220885,34543,Deli / Bodega,2012-04-23 18:38:51+00:00,New York City,Dining and Drinking,Restaurant
+137520,880,40.79052028333346,-73.94551405401076,31278,Furniture / Home Store,2012-04-23 18:51:43+00:00,New York City,Retail,Furniture and Home Store
+137521,880,40.791172,-73.944024,29882,School,2012-04-23 19:06:38+00:00,New York City,Community and Government,Education
+137522,880,40.79053831277762,-73.94558293714226,13171,Clothing Store,2012-04-23 19:33:55+00:00,New York City,Retail,Fashion Retail
+137523,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-23 20:42:45+00:00,New York City,Arts and Entertainment,Movie Theater
+137524,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-23 20:42:53+00:00,New York City,Arts and Entertainment,Movie Theater
+137525,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-04-23 23:33:38+00:00,New York City,Arts and Entertainment,Movie Theater
+137526,880,40.78664539208868,-73.94223059630244,34756,Department Store,2012-05-07 00:28:11+00:00,New York City,Retail,Department Store
+137527,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-07 12:51:06+00:00,New York City,Community and Government,Education
+137528,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-07 12:56:24+00:00,New York City,Retail,Food and Beverage Retail
+137529,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-07 14:34:07+00:00,New York City,Dining and Drinking,Restaurant
+137530,880,40.7900193348681,-73.94629472806521,13171,Clothing Store,2012-05-07 14:35:55+00:00,New York City,Retail,Fashion Retail
+137531,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-07 16:25:21+00:00,New York City,Arts and Entertainment,Movie Theater
+137532,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-05-07 16:47:35+00:00,New York City,Arts and Entertainment,Movie Theater
+137533,880,40.75576646162976,-73.99123556287765,503,Bar,2012-05-14 04:21:18+00:00,New York City,Dining and Drinking,Bar
+137534,880,40.79013064978667,-73.94853340824946,35514,Deli / Bodega,2012-05-14 06:11:25+00:00,New York City,Dining and Drinking,Restaurant
+137535,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-14 12:18:07+00:00,New York City,Dining and Drinking,Restaurant
+137536,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-14 12:19:45+00:00,New York City,Community and Government,Education
+137537,880,40.78957248527097,-73.94351069220885,34543,Deli / Bodega,2012-05-14 13:04:36+00:00,New York City,Dining and Drinking,Restaurant
+137538,880,40.79061449768248,-73.94579887390137,10742,Fast Food Restaurant,2012-05-14 16:43:44+00:00,New York City,Dining and Drinking,Restaurant
+137539,880,40.79440359530652,-73.94326385823096,14600,College Academic Building,2012-05-14 18:20:43+00:00,New York City,Community and Government,Education
+137540,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-14 19:11:29+00:00,New York City,Community and Government,Education
+137541,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-21 12:28:12+00:00,New York City,Dining and Drinking,Restaurant
+137542,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-21 12:32:31+00:00,New York City,Retail,Food and Beverage Retail
+137543,880,40.790151163818,-73.94837268335608,12056,Sandwich Place,2012-05-21 12:33:08+00:00,New York City,Dining and Drinking,Restaurant
+137544,880,40.78991131559263,-73.94661044094262,8775,Latin American Restaurant,2012-05-21 21:02:16+00:00,New York City,Dining and Drinking,Restaurant
+137545,880,40.79060770818952,-73.94558293714226,13171,Clothing Store,2012-05-21 21:03:19+00:00,New York City,Retail,Fashion Retail
+137546,880,40.787596604189815,-73.94337292444607,35325,Deli / Bodega,2012-05-28 02:37:54+00:00,New York City,Dining and Drinking,Restaurant
+137547,880,40.78991131559263,-73.94661044094262,8775,Latin American Restaurant,2012-05-28 14:31:17+00:00,New York City,Dining and Drinking,Restaurant
+137548,880,40.793442132632215,-73.94301128360219,32559,Performing Arts Venue,2012-05-28 20:45:57+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137549,880,40.79672258044242,-73.94124984741211,18153,Neighborhood,2012-05-28 20:48:37+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+137550,880,40.80435689364969,-73.93747329711914,34027,General Travel,2012-05-28 20:50:33+00:00,New York City,Travel and Transportation,General Travel
+137551,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-07 12:35:20+00:00,New York City,Dining and Drinking,Restaurant
+137552,880,40.76359847983465,-73.97968854911848,7607,Theater,2012-04-07 13:03:46+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137553,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-07 13:05:03+00:00,New York City,Arts and Entertainment,Movie Theater
+137554,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-07 13:05:58+00:00,New York City,Arts and Entertainment,Movie Theater
+137555,880,40.76569097193989,-73.98347641344374,8742,Fast Food Restaurant,2012-04-07 18:21:27+00:00,New York City,Dining and Drinking,Restaurant
+137556,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-04-07 20:50:16+00:00,New York City,Arts and Entertainment,Movie Theater
+137557,880,40.7957631663396,-73.94370586303829,33399,Salon / Barbershop,2012-04-14 01:28:34+00:00,New York City,Business and Professional Services,Health and Beauty Service
+137558,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-14 11:32:38+00:00,New York City,Retail,Food and Beverage Retail
+137559,880,40.76359847983465,-73.97968854911848,7607,Theater,2012-04-14 17:14:50+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137560,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-14 17:15:13+00:00,New York City,Arts and Entertainment,Movie Theater
+137561,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-04-14 17:15:38+00:00,New York City,Arts and Entertainment,Movie Theater
+137562,880,40.76569097193989,-73.98347641344374,8742,Fast Food Restaurant,2012-04-14 18:29:47+00:00,New York City,Dining and Drinking,Restaurant
+137563,880,40.79672258044242,-73.94124984741211,18153,Neighborhood,2012-04-14 23:25:27+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+137564,880,40.793996,-73.942992,24969,Food & Drink Shop,2012-04-14 23:27:21+00:00,New York City,Retail,Food and Beverage Retail
+137565,880,40.789864996022565,-73.9448022602158,27127,Electronics Store,2012-04-21 14:37:55+00:00,New York City,Retail,Computers and Electronics Retail
+137566,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-21 14:39:09+00:00,New York City,Dining and Drinking,Restaurant
+137567,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-21 18:05:54+00:00,New York City,Dining and Drinking,Restaurant
+137568,880,40.78320531800984,-73.94799383129313,18403,Deli / Bodega,2012-04-21 20:04:40+00:00,New York City,Dining and Drinking,Restaurant
+137569,880,40.78207354687825,-73.94545091111864,19017,Building,2012-04-21 20:08:57+00:00,New York City,Landmarks and Outdoors,Structure
+137570,880,40.77352187640244,-73.95678520202637,17922,Neighborhood,2012-04-21 23:35:38+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+137571,880,40.810792,-73.943142,15955,Deli / Bodega,2012-04-28 08:00:02+00:00,New York City,Dining and Drinking,Restaurant
+137572,880,40.81526635358069,-73.94409620410673,6463,Breakfast Spot,2012-04-28 08:00:33+00:00,New York City,Dining and Drinking,Breakfast Spot
+137573,880,40.80774561312955,-73.94624880614921,17806,Neighborhood,2012-04-28 08:15:53+00:00,New York City,Landmarks and Outdoors,States and Municipalities
+137574,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-28 09:22:55+00:00,New York City,Dining and Drinking,Restaurant
+137575,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-28 09:24:18+00:00,New York City,Retail,Food and Beverage Retail
+137576,880,40.79111561311507,-73.951373,17421,Drugstore / Pharmacy,2012-05-05 05:37:01+00:00,New York City,Retail,Pharmacy
+137577,880,40.78830186576738,-73.94058884656324,29049,Shop & Service,2012-05-05 05:54:35+00:00,New York City,Retail,Retail
+137578,880,40.78622701874312,-73.94234540345573,18630,Deli / Bodega,2012-05-05 06:25:42+00:00,New York City,Dining and Drinking,Restaurant
+137579,880,40.790151163818,-73.94837268335608,12056,Sandwich Place,2012-05-05 07:46:12+00:00,New York City,Dining and Drinking,Restaurant
+137580,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-05 16:57:06+00:00,New York City,Dining and Drinking,Restaurant
+137581,880,40.7899173699326,-73.94564607999128,33944,Deli / Bodega,2012-05-05 17:33:51+00:00,New York City,Dining and Drinking,Restaurant
+137582,880,40.78150741065433,-73.95167899712287,13343,Building,2012-05-05 20:09:38+00:00,New York City,Landmarks and Outdoors,Structure
+137583,880,40.778465,-73.952941,8588,Fast Food Restaurant,2012-05-05 20:14:22+00:00,New York City,Dining and Drinking,Restaurant
+137584,880,40.759220487652186,-73.98880004882812,35300,Mexican Restaurant,2012-05-05 20:48:25+00:00,New York City,Dining and Drinking,Restaurant
+137585,880,40.765146,-73.965905,6023,Diner,2012-05-05 20:52:58+00:00,New York City,Dining and Drinking,Restaurant
+137586,880,40.75944803383743,-73.97201478481293,11498,Building,2012-05-05 21:05:02+00:00,New York City,Landmarks and Outdoors,Structure
+137587,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-05-19 00:51:12+00:00,New York City,Retail,Food and Beverage Retail
+137588,880,40.787596604189815,-73.94337292444607,35325,Deli / Bodega,2012-05-19 00:51:46+00:00,New York City,Dining and Drinking,Restaurant
+137589,880,40.790270261151385,-73.94569200205035,18837,Spanish Restaurant,2012-05-19 03:53:44+00:00,New York City,Dining and Drinking,Restaurant
+137590,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-19 03:54:13+00:00,New York City,Retail,Food and Beverage Retail
+137591,880,40.78983720304655,-73.94438321909595,15263,Building,2012-05-19 15:52:02+00:00,New York City,Landmarks and Outdoors,Structure
+137592,880,40.74492342607472,-73.9980360386088,3867,Movie Theater,2012-05-19 21:48:14+00:00,New York City,Arts and Entertainment,Movie Theater
+137593,880,40.788666424731936,-73.94373456461425,33482,Chinese Restaurant,2012-05-26 03:35:15+00:00,New York City,Dining and Drinking,Restaurant
+137594,880,40.789244565934496,-73.9471155804747,10985,Government Building,2012-05-26 03:36:34+00:00,New York City,Community and Government,Government Building
+137595,880,40.79009949267759,-73.94436025791246,34543,Deli / Bodega,2012-05-26 04:12:53+00:00,New York City,Dining and Drinking,Restaurant
+137596,880,40.78423171371541,-73.94749443425805,11431,Drugstore / Pharmacy,2012-04-08 16:28:32+00:00,New York City,Retail,Pharmacy
+137597,880,40.78320531800984,-73.94799383129313,18403,Deli / Bodega,2012-04-08 21:24:03+00:00,New York City,Dining and Drinking,Restaurant
+137598,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-15 00:23:53+00:00,New York City,Dining and Drinking,Restaurant
+137599,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-15 12:32:19+00:00,New York City,Dining and Drinking,Restaurant
+137600,880,40.79061449768248,-73.94579887390137,10742,Fast Food Restaurant,2012-04-15 12:34:02+00:00,New York City,Dining and Drinking,Restaurant
+137601,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-15 19:42:11+00:00,New York City,Arts and Entertainment,Movie Theater
+137602,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-15 19:42:31+00:00,New York City,Arts and Entertainment,Movie Theater
+137603,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-22 02:19:09+00:00,New York City,Arts and Entertainment,Movie Theater
+137604,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-22 02:24:00+00:00,New York City,Arts and Entertainment,Movie Theater
+137605,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-22 02:34:52+00:00,New York City,Arts and Entertainment,Movie Theater
+137606,880,40.76393002190952,-73.97746170919268,7109,Drugstore / Pharmacy,2012-04-22 02:36:49+00:00,New York City,Retail,Pharmacy
+137607,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-04-22 02:37:18+00:00,New York City,Arts and Entertainment,Movie Theater
+137608,880,40.76169464965321,-73.96048981739091,9237,Burger Joint,2012-04-22 07:30:08+00:00,New York City,Dining and Drinking,Restaurant
+137609,880,40.78776042863634,-73.94360253732957,12913,Deli / Bodega,2012-04-22 07:42:46+00:00,New York City,Dining and Drinking,Restaurant
+137610,880,40.7884271820999,-73.94459560991393,26316,School,2012-04-22 07:43:41+00:00,New York City,Community and Government,Education
+137611,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-22 14:39:30+00:00,New York City,Dining and Drinking,Restaurant
+137612,880,40.7899173699326,-73.94564607999128,33944,Deli / Bodega,2012-04-22 14:42:12+00:00,New York City,Dining and Drinking,Restaurant
+137613,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-22 14:55:33+00:00,New York City,Retail,Food and Beverage Retail
+137614,880,40.78423171371541,-73.94749443425805,11431,Drugstore / Pharmacy,2012-04-22 20:15:20+00:00,New York City,Retail,Pharmacy
+137615,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-04-29 04:35:45+00:00,New York City,Retail,Food and Beverage Retail
+137616,880,40.790769677702336,-73.94260945964993,11291,Bank,2012-04-29 04:36:06+00:00,New York City,Business and Professional Services,Financial Service
+137617,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-29 14:21:42+00:00,New York City,Retail,Food and Beverage Retail
+137618,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-29 14:32:09+00:00,New York City,Dining and Drinking,Restaurant
+137619,880,40.788859,-73.944057,14353,Playground,2012-04-29 14:33:06+00:00,New York City,Landmarks and Outdoors,Park
+137620,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-05-06 17:29:34+00:00,New York City,Retail,Food and Beverage Retail
+137621,880,40.787596604189815,-73.94337292444607,35325,Deli / Bodega,2012-05-06 17:41:18+00:00,New York City,Dining and Drinking,Restaurant
+137622,880,40.790151163818,-73.94837268335608,12056,Sandwich Place,2012-05-06 22:24:25+00:00,New York City,Dining and Drinking,Restaurant
+137623,880,40.78423171371541,-73.94749443425805,11431,Drugstore / Pharmacy,2012-05-13 19:10:12+00:00,New York City,Retail,Pharmacy
+137624,880,40.784468581813655,-73.9471500217584,30034,Donut Shop,2012-05-13 19:13:54+00:00,New York City,Dining and Drinking,Donut Shop
+137625,880,40.78272676703888,-73.94368529319763,17678,Scenic Lookout,2012-05-13 20:43:52+00:00,New York City,Landmarks and Outdoors,Scenic Lookout
+137626,880,40.788666424731936,-73.94373456461425,33482,Chinese Restaurant,2012-05-13 22:26:27+00:00,New York City,Dining and Drinking,Restaurant
+137627,880,40.78329408730277,-73.94460135020307,35509,Playground,2012-05-13 22:51:58+00:00,New York City,Landmarks and Outdoors,Park
+137628,880,40.78207354687825,-73.94545091111864,19017,Building,2012-05-13 22:53:47+00:00,New York City,Landmarks and Outdoors,Structure
+137629,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-13 23:59:16+00:00,New York City,Dining and Drinking,Restaurant
+137630,880,40.78938389464528,-73.94362549860294,33285,Drugstore / Pharmacy,2012-05-27 03:39:43+00:00,New York City,Retail,Pharmacy
+137631,880,40.787596604189815,-73.94337292444607,35325,Deli / Bodega,2012-05-27 03:40:03+00:00,New York City,Dining and Drinking,Restaurant
+137632,880,40.790769677702336,-73.94260945964993,11291,Bank,2012-05-27 03:40:24+00:00,New York City,Business and Professional Services,Financial Service
+137633,880,40.78664539208868,-73.94223059630244,34756,Department Store,2012-05-27 03:41:57+00:00,New York City,Retail,Department Store
+137634,880,40.78598065367133,-73.94164507876167,10889,School,2012-05-27 03:42:26+00:00,New York City,Community and Government,Education
+137635,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-27 10:18:37+00:00,New York City,Dining and Drinking,Restaurant
+137636,880,40.79013064978667,-73.94853340824946,35514,Deli / Bodega,2012-05-27 10:19:04+00:00,New York City,Dining and Drinking,Restaurant
+137637,880,40.790421466158406,-73.9454394305906,11103,Food & Drink Shop,2012-04-12 02:43:30+00:00,New York City,Retail,Food and Beverage Retail
+137638,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-12 03:07:06+00:00,New York City,Dining and Drinking,Restaurant
+137639,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-12 19:54:10+00:00,New York City,Dining and Drinking,Restaurant
+137640,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-04-12 22:12:54+00:00,New York City,Arts and Entertainment,Movie Theater
+137641,880,40.75333652297646,-73.98098945617676,3243,Clothing Store,2012-04-12 23:31:28+00:00,New York City,Retail,Fashion Retail
+137642,880,40.790151163818,-73.94837268335608,12056,Sandwich Place,2012-04-19 01:39:49+00:00,New York City,Dining and Drinking,Restaurant
+137643,880,40.79012174466901,-73.94582976816214,12060,Coffee Shop,2012-04-19 01:46:58+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+137644,880,40.79003992928463,-73.94609381960223,22904,Latin American Restaurant,2012-04-19 01:52:57+00:00,New York City,Dining and Drinking,Restaurant
+137645,880,40.78966708627368,-73.94103659787257,28520,Chinese Restaurant,2012-04-19 01:53:38+00:00,New York City,Dining and Drinking,Restaurant
+137646,880,40.7899173699326,-73.94564607999128,33944,Deli / Bodega,2012-04-19 03:48:45+00:00,New York City,Dining and Drinking,Restaurant
+137647,880,40.79089184741702,-73.94282185241433,11291,Bank,2012-04-19 04:26:22+00:00,New York City,Business and Professional Services,Financial Service
+137648,880,40.791172,-73.944024,29882,School,2012-04-19 11:58:26+00:00,New York City,Community and Government,Education
+137649,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-19 13:12:55+00:00,New York City,Dining and Drinking,Restaurant
+137650,880,40.790421466158406,-73.9454394305906,11103,Food & Drink Shop,2012-04-19 14:26:25+00:00,New York City,Retail,Food and Beverage Retail
+137651,880,40.79019210948546,-73.9425802230835,26348,Burger Joint,2012-04-19 18:29:14+00:00,New York City,Dining and Drinking,Restaurant
+137652,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-19 18:30:43+00:00,New York City,Retail,Food and Beverage Retail
+137653,880,40.79332187150367,-73.94335570346881,19165,Playground,2012-04-19 19:22:18+00:00,New York City,Landmarks and Outdoors,Park
+137654,880,40.79440359530652,-73.94326385823096,14600,College Academic Building,2012-04-19 19:24:08+00:00,New York City,Community and Government,Education
+137655,880,40.791511610934,-73.94457838904547,8170,Gym / Fitness Center,2012-04-19 19:45:02+00:00,New York City,Sports and Recreation,Gym and Studio
+137656,880,40.791172,-73.944024,29882,School,2012-04-19 19:48:45+00:00,New York City,Community and Government,Education
+137657,880,40.791172,-73.944024,29882,School,2012-04-26 12:10:20+00:00,New York City,Community and Government,Education
+137658,880,40.78423171371541,-73.94749443425805,11431,Drugstore / Pharmacy,2012-04-26 12:28:34+00:00,New York City,Retail,Pharmacy
+137659,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-26 12:53:22+00:00,New York City,Dining and Drinking,Restaurant
+137660,880,40.788859,-73.944057,14353,Playground,2012-04-26 13:03:54+00:00,New York City,Landmarks and Outdoors,Park
+137661,880,40.67883,-73.82718,32699,Salon / Barbershop,2012-04-26 14:23:51+00:00,New York City,Business and Professional Services,Health and Beauty Service
+137662,880,40.7957631663396,-73.94370586303829,33399,Salon / Barbershop,2012-04-26 14:24:06+00:00,New York City,Business and Professional Services,Health and Beauty Service
+137663,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-03 11:56:05+00:00,New York City,Community and Government,Education
+137664,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-03 11:57:57+00:00,New York City,Retail,Food and Beverage Retail
+137665,880,40.76359847983465,-73.97968854911848,7607,Theater,2012-05-03 16:38:40+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137666,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-03 16:39:08+00:00,New York City,Arts and Entertainment,Movie Theater
+137667,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-03 16:39:29+00:00,New York City,Arts and Entertainment,Movie Theater
+137668,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-05-03 16:39:47+00:00,New York City,Arts and Entertainment,Movie Theater
+137669,880,40.76452195805618,-73.98250075855944,23230,Pizza Place,2012-05-03 19:18:23+00:00,New York City,Dining and Drinking,Restaurant
+137670,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-03 19:26:22+00:00,New York City,Arts and Entertainment,Movie Theater
+137671,880,40.7828933045036,-73.95080924034119,5049,Food & Drink Shop,2012-05-03 23:57:23+00:00,New York City,Retail,Food and Beverage Retail
+137672,880,40.78991131559263,-73.94661044094262,8775,Latin American Restaurant,2012-05-10 18:11:44+00:00,New York City,Dining and Drinking,Restaurant
+137673,880,40.790151163818,-73.94837268335608,12056,Sandwich Place,2012-05-10 19:49:52+00:00,New York City,Dining and Drinking,Restaurant
+137674,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-10 19:53:13+00:00,New York City,Community and Government,Education
+137675,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-10 20:11:38+00:00,New York City,Dining and Drinking,Restaurant
+137676,880,40.7900193348681,-73.94629472806521,13171,Clothing Store,2012-05-10 20:26:15+00:00,New York City,Retail,Fashion Retail
+137678,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-17 03:35:50+00:00,New York City,Retail,Food and Beverage Retail
+137679,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-17 12:18:36+00:00,New York City,Community and Government,Education
+137680,880,40.79440359530652,-73.94326385823096,14600,College Academic Building,2012-05-17 16:24:07+00:00,New York City,Community and Government,Education
+137681,880,40.77764920487461,-73.94910335540771,19725,Electronics Store,2012-05-17 18:05:42+00:00,New York City,Retail,Computers and Electronics Retail
+137682,880,40.76359847983465,-73.97968854911848,7607,Theater,2012-05-17 18:54:53+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137683,880,40.763058737117575,-73.97972298458495,4358,Movie Theater,2012-05-17 18:55:53+00:00,New York City,Arts and Entertainment,Movie Theater
+137684,880,40.761099,-73.978965,29371,Sandwich Place,2012-05-17 19:09:55+00:00,New York City,Dining and Drinking,Restaurant
+137685,880,40.759383020721145,-73.97637605667114,8139,Clothing Store,2012-05-17 19:23:24+00:00,New York City,Retail,Fashion Retail
+137686,880,40.75969124206007,-73.97639993365497,24344,Candy Store,2012-05-17 19:26:50+00:00,New York City,Retail,Food and Beverage Retail
+137687,880,40.76006478255028,-73.97584321657153,23278,Clothing Store,2012-05-17 19:28:48+00:00,New York City,Retail,Fashion Retail
+137688,880,40.76309272996251,-73.97822141647339,7771,Food & Drink Shop,2012-05-24 00:00:07+00:00,New York City,Retail,Food and Beverage Retail
+137689,880,40.76362694663688,-73.97796102863539,30204,Mexican Restaurant,2012-05-24 00:16:29+00:00,New York City,Dining and Drinking,Restaurant
+137690,880,40.763058737117575,-73.97972298458495,4358,Movie Theater,2012-05-24 00:56:31+00:00,New York City,Arts and Entertainment,Movie Theater
+137691,880,40.79013064978667,-73.94853340824946,35514,Deli / Bodega,2012-05-24 01:21:23+00:00,New York City,Dining and Drinking,Restaurant
+137692,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-24 03:01:47+00:00,New York City,Retail,Food and Beverage Retail
+137693,880,40.78991131559263,-73.94661044094262,8775,Latin American Restaurant,2012-05-24 06:33:07+00:00,New York City,Dining and Drinking,Restaurant
+137694,880,40.791172,-73.944024,29882,School,2012-04-03 19:54:09+00:00,New York City,Community and Government,Education
+137695,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-03 20:11:54+00:00,New York City,Dining and Drinking,Restaurant
+137696,880,40.76169464965321,-73.96048981739091,9237,Burger Joint,2012-04-10 00:18:20+00:00,New York City,Dining and Drinking,Restaurant
+137697,880,40.76182992079162,-73.96034058208936,10082,Pizza Place,2012-04-10 03:46:49+00:00,New York City,Dining and Drinking,Restaurant
+137698,880,40.78423171371541,-73.94749443425805,11431,Drugstore / Pharmacy,2012-04-10 15:29:50+00:00,New York City,Retail,Pharmacy
+137699,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-10 16:12:19+00:00,New York City,Arts and Entertainment,Movie Theater
+137700,880,40.790421466158406,-73.9454394305906,11103,Food & Drink Shop,2012-04-17 12:44:26+00:00,New York City,Retail,Food and Beverage Retail
+137701,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-17 20:39:30+00:00,New York City,Retail,Food and Beverage Retail
+137702,880,40.82827721161922,-73.92655344439045,751,Stadium,2012-04-17 23:19:32+00:00,New York City,Arts and Entertainment,Stadium
+137703,880,40.80423128310824,-73.93684032384479,11647,Food & Drink Shop,2012-04-24 03:13:13+00:00,New York City,Retail,Food and Beverage Retail
+137704,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-04-24 12:14:51+00:00,New York City,Retail,Food and Beverage Retail
+137705,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-24 12:15:34+00:00,New York City,Dining and Drinking,Restaurant
+137706,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-24 13:46:43+00:00,New York City,Retail,Food and Beverage Retail
+137707,880,40.777740928194255,-73.95470399506407,10098,Fast Food Restaurant,2012-05-01 18:49:53+00:00,New York City,Dining and Drinking,Restaurant
+137708,880,40.7678666951022,-73.96425247192383,15786,College Academic Building,2012-05-01 18:59:43+00:00,New York City,Community and Government,Education
+137709,880,40.761869727120846,-73.97948741912842,3450,Food Truck,2012-05-01 19:35:13+00:00,New York City,Dining and Drinking,Food Truck
+137710,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-01 19:37:20+00:00,New York City,Arts and Entertainment,Movie Theater
+137711,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-01 19:37:44+00:00,New York City,Arts and Entertainment,Movie Theater
+137712,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-05-01 21:20:44+00:00,New York City,Arts and Entertainment,Movie Theater
+137713,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-05-08 17:10:20+00:00,New York City,Retail,Food and Beverage Retail
+137714,880,40.78950967899254,-73.94341310672033,28520,Chinese Restaurant,2012-05-08 17:46:07+00:00,New York City,Dining and Drinking,Restaurant
+137715,880,40.790569878352166,-73.9451064949808,11103,Food & Drink Shop,2012-05-08 22:51:23+00:00,New York City,Retail,Food and Beverage Retail
+137716,880,40.78957248527097,-73.94351069220885,34543,Deli / Bodega,2012-05-15 04:01:23+00:00,New York City,Dining and Drinking,Restaurant
+137717,880,40.790270261151385,-73.94569200205035,18837,Spanish Restaurant,2012-05-15 05:34:22+00:00,New York City,Dining and Drinking,Restaurant
+137718,880,40.7899173699326,-73.94564607999128,33944,Deli / Bodega,2012-05-15 05:41:35+00:00,New York City,Dining and Drinking,Restaurant
+137719,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-05-15 12:02:22+00:00,New York City,Retail,Food and Beverage Retail
+137720,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-15 12:02:47+00:00,New York City,Community and Government,Education
+137721,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-15 12:11:44+00:00,New York City,Dining and Drinking,Restaurant
+137722,880,40.79012174466901,-73.94582976816214,12060,Coffee Shop,2012-05-15 12:12:15+00:00,New York City,Dining and Drinking,"Cafe, Coffee, and Tea House"
+137723,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-15 20:15:08+00:00,New York City,Community and Government,Education
+137724,880,40.78413298467147,-73.97762240984444,3022,BBQ Joint,2012-05-22 03:47:09+00:00,New York City,Dining and Drinking,Restaurant
+137725,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-05-22 13:08:26+00:00,New York City,Retail,Food and Beverage Retail
+137726,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-22 13:26:35+00:00,New York City,Community and Government,Education
+137727,880,40.791172,-73.944024,29882,School,2012-04-04 12:18:25+00:00,New York City,Community and Government,Education
+137728,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-04 12:23:00+00:00,New York City,Dining and Drinking,Restaurant
+137729,880,40.790421466158406,-73.9454394305906,11103,Food & Drink Shop,2012-04-04 13:24:55+00:00,New York City,Retail,Food and Beverage Retail
+137730,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-04-11 00:39:59+00:00,New York City,Arts and Entertainment,Movie Theater
+137731,880,40.76359847983465,-73.97968854911848,7607,Theater,2012-04-11 03:14:33+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137732,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-11 03:40:18+00:00,New York City,Dining and Drinking,Restaurant
+137733,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-11 16:02:34+00:00,New York City,Arts and Entertainment,Movie Theater
+137734,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-04-11 16:03:24+00:00,New York City,Arts and Entertainment,Movie Theater
+137735,880,40.83758028933198,-73.91987800598145,21378,Government Building,2012-04-18 00:01:16+00:00,New York City,Community and Government,Government Building
+137736,880,40.83585530568526,-73.92148382739764,34379,Pizza Place,2012-04-18 00:44:58+00:00,New York City,Dining and Drinking,Restaurant
+137737,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-18 02:00:42+00:00,New York City,Dining and Drinking,Restaurant
+137738,880,40.78957248527097,-73.94351069220885,34543,Deli / Bodega,2012-04-18 03:03:47+00:00,New York City,Dining and Drinking,Restaurant
+137739,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-18 14:19:12+00:00,New York City,Retail,Food and Beverage Retail
+137740,880,40.790421466158406,-73.9454394305906,11103,Food & Drink Shop,2012-04-18 18:13:26+00:00,New York City,Retail,Food and Beverage Retail
+137741,880,40.76359847983465,-73.97968854911848,7607,Theater,2012-04-18 20:48:50+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137742,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-18 20:50:15+00:00,New York City,Arts and Entertainment,Movie Theater
+137743,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-04-25 12:18:01+00:00,New York City,Dining and Drinking,Restaurant
+137744,880,40.791172,-73.944024,29882,School,2012-04-25 12:20:42+00:00,New York City,Community and Government,Education
+137745,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-04-25 13:44:12+00:00,New York City,Retail,Food and Beverage Retail
+137746,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-25 17:38:26+00:00,New York City,Arts and Entertainment,Movie Theater
+137747,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-04-25 17:38:53+00:00,New York City,Arts and Entertainment,Movie Theater
+137748,880,40.7628041519645,-73.98008455661042,34208,Movie Theater,2012-04-25 22:09:24+00:00,New York City,Arts and Entertainment,Movie Theater
+137749,880,40.761373,-73.960426,11136,Movie Theater,2012-04-25 23:15:12+00:00,New York City,Arts and Entertainment,Movie Theater
+137750,880,40.76803326982161,-73.98186922073364,2490,Plaza,2012-05-02 04:53:15+00:00,New York City,Landmarks and Outdoors,Plaza
+137751,880,40.7676670790896,-73.98207032100609,27501,General Travel,2012-05-02 04:58:48+00:00,New York City,Travel and Transportation,General Travel
+137752,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-09 00:08:59+00:00,New York City,Dining and Drinking,Restaurant
+137753,880,40.78423171371541,-73.94749443425805,11431,Drugstore / Pharmacy,2012-05-09 00:59:21+00:00,New York City,Retail,Pharmacy
+137754,880,40.78423171371541,-73.94749443425805,11431,Drugstore / Pharmacy,2012-05-09 01:08:07+00:00,New York City,Retail,Pharmacy
+137755,880,40.78840150968184,-73.94110548259751,19596,Food & Drink Shop,2012-05-09 01:29:52+00:00,New York City,Retail,Food and Beverage Retail
+137756,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-09 12:02:04+00:00,New York City,Community and Government,Education
+137757,880,40.78748825784393,-73.94453820701312,8056,Food & Drink Shop,2012-05-09 12:09:49+00:00,New York City,Retail,Food and Beverage Retail
+137758,880,40.78957248527097,-73.94351069220885,34543,Deli / Bodega,2012-05-09 12:13:49+00:00,New York City,Dining and Drinking,Restaurant
+137759,880,40.78986319381769,-73.94593309268163,12997,Fast Food Restaurant,2012-05-09 12:20:34+00:00,New York City,Dining and Drinking,Restaurant
+137760,880,40.76359847983465,-73.97968854911848,7607,Theater,2012-05-09 13:43:03+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137761,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-09 13:43:40+00:00,New York City,Arts and Entertainment,Movie Theater
+137762,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-09 13:44:17+00:00,New York City,Arts and Entertainment,Movie Theater
+137763,880,40.76325905651765,-73.97982055170644,4358,Movie Theater,2012-05-09 17:18:42+00:00,New York City,Arts and Entertainment,Movie Theater
+137764,880,40.763463977651824,-73.97774867454807,4311,Bar,2012-05-09 17:45:11+00:00,New York City,Dining and Drinking,Juice Bar
+137765,880,40.790769677702336,-73.94260945964993,11291,Bank,2012-05-16 03:21:01+00:00,New York City,Business and Professional Services,Financial Service
+137766,880,40.787596604189815,-73.94337292444607,35325,Deli / Bodega,2012-05-16 04:20:45+00:00,New York City,Dining and Drinking,Restaurant
+137767,880,40.78957248527097,-73.94351069220885,34543,Deli / Bodega,2012-05-16 04:21:52+00:00,New York City,Dining and Drinking,Restaurant
+137768,880,40.76359847983465,-73.97968854911848,7607,Theater,2012-05-16 10:17:15+00:00,New York City,Arts and Entertainment,Performing Arts Venue
+137769,880,40.763058737117575,-73.97972298458495,4358,Movie Theater,2012-05-16 10:17:52+00:00,New York City,Arts and Entertainment,Movie Theater
+137770,880,40.763058737117575,-73.97972298458495,4358,Movie Theater,2012-05-16 10:18:43+00:00,New York City,Arts and Entertainment,Movie Theater
+137771,880,40.76374688503551,-73.97148907184601,7641,Furniture / Home Store,2012-05-16 20:54:38+00:00,New York City,Retail,Furniture and Home Store
+137772,880,40.76215645567817,-73.96609179749629,822,Candy Store,2012-05-16 20:56:37+00:00,New York City,Retail,Food and Beverage Retail
+137773,880,40.76253281502538,-73.97431080143446,4785,Clothing Store,2012-05-16 20:59:48+00:00,New York City,Retail,Boutique
+137774,880,40.76297490010358,-73.97377967834471,4090,Clothing Store,2012-05-16 21:01:05+00:00,New York City,Retail,Boutique
+137775,880,40.79112636189312,-73.94457264875565,29882,School,2012-05-23 19:21:59+00:00,New York City,Community and Government,Education
+137776,880,40.7904250952121,-73.94555423584045,16997,Fast Food Restaurant,2012-05-23 19:24:33+00:00,New York City,Dining and Drinking,Restaurant
+137777,880,40.79005332987511,-73.94600771591136,22904,Latin American Restaurant,2012-05-23 19:26:02+00:00,New York City,Dining and Drinking,Restaurant
+137778,880,40.763058737117575,-73.97972298458495,4358,Movie Theater,2012-05-23 21:15:30+00:00,New York City,Arts and Entertainment,Movie Theater
+137779,880,40.763058737117575,-73.97972298458495,4358,Movie Theater,2012-05-23 21:26:53+00:00,New York City,Arts and Entertainment,Movie Theater
