@@ -1,0 +1,14 @@
+adoption_rate:
+  description: "Probability an individual follows the recommender"
+  grid: [0.0, 0.2, 0.4, 0.6, 0.8, 1.0]
+retraining_frequency_days:
+  values: [1, 7]
+  default: 7
+training_approach: ["incremental", "sliding_window"]
+optimizer: "Adam"
+learning_rate: 0.001
+epochs: 500
+early_stopping_patience: 5
+batch_size: [16, 32]
+nearest_neighbors_k: 10
+multivae_kl_divergence_coeff: 0.2
