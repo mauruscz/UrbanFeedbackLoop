@@ -5,6 +5,7 @@ import geopandas as gpd
 import pandas as pd
 from scipy.spatial.distance import cdist
 from scipy.spatial.distance import pdist, squareform
+import glob
 
 from tqdm import tqdm
 import os
@@ -101,13 +102,18 @@ def calculate_distance_matrix(training_data, city, data_version, trainWindow):
 
 def calculate_radius_df(training_data, radius_mt, city, category_column, version, trainWindow):
 
-    radius_path = f'data/processed/radius_df_{city}_radius_{radius_mt}_version_{version}_trainWindow_{trainWindow}.csv'
-    if os.path.exists(radius_path):
-        print("Loading radius df from file")
+    pattern = f'data/processed/radius_df_{city}_radius_*_version_{version}_trainWindow_{trainWindow}.csv'
+
+    # Use glob to find matching files
+    matching_files = glob.glob(pattern)
+
+    # If a matching file is found, use the first one (or add logic to choose if multiple)
+    if matching_files:
+        radius_path = matching_files[0]
+        print(f"Loading radius df from file: {radius_path}")
         radius_df = pd.read_csv(radius_path, index_col=0)
         radius_df['venueID'] = radius_df['venueID'].astype(str)
         return radius_df
-
 
     df = training_data.copy()
 

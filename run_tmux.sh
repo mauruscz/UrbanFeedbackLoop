@@ -10,16 +10,21 @@ fi
 rb_values=(0.0 0.2 0.4 0.6 0.8 1.0)
 train_days=210
 max_sim_days=104
-algorithm="PGN"
+city="nyc"
+k=1
+algorithms=("MultiVAE")
 
 # Loop through each seed provided as an argument
-for seed in "$@"; do
-    for rb in "${rb_values[@]}"; do
-        session_name="${seed}__${rb}__alg_${algorithm}"  # Create a unique session name
-        echo "Launching tmux session: $session_name"
-        
-        # Create a new detached tmux session and run the command inside
-        tmux new-session -d -s "$session_name" "python main.py -s $seed -rb $rb -tw $train_days -sd $max_sim_days -rs $algorithm"
+for algorithm in "${algorithms[@]}"; do
+    for seed in "$@"; do
+        for rb in "${rb_values[@]}"; do
+            rb_safe=$(echo "$rb" | sed 's/\./p/g')
+            session_name="${seed}__${rb_safe}__alg_${algorithm}"
+            echo "Launching tmux session: $session_name"
+            
+            # Create a new detached tmux session and run the command inside
+            tmux new-session -d -s "$session_name" "python main.py -c $city -s $seed -rb $rb -tw $train_days -sd $max_sim_days -rs $algorithm -k $k"
+        done
     done
 done
 

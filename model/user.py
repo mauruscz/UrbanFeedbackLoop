@@ -93,6 +93,9 @@ class User:
                                               radius=radius, venues_correct_category_at_radius=venues_correct_category_at_radius,
                                               venues_at_radius=venues_at_radius)
 
+        logging.info(f"User {self.uid} - Epoch {self.simulation.epoch_counter} - State {self.state}")
+
+
         if not simulated:
             if venue_id is None:
                 print(self.state)
@@ -121,7 +124,7 @@ class User:
             'simulation_state': self.state,
         }
 
-        logging.info(f"User {self.uid} - Step {self.simulation.step_counter} - Venue {venue_id} - State {self.state}")
+        #logging.info(f"User {self.uid} - Step {self.simulation.step_counter} - Venue {venue_id} - State {self.state}")
 
         # Append the new interaction to the list
         self.simulation.new_interactions.append(new_interaction)

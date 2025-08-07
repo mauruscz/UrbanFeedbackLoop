@@ -7,10 +7,57 @@ import model.processing_utils as processing_utils
 import numpy as np
 
 
+def update_interaction_matrix(data, initial_X_train):
+    """
+    Build a new interaction matrix from *data* and align it to the
+    exact shape (index & columns) of *initial_X_train*.
+
+    Parameters
+    ----------
+    data : pd.DataFrame
+        Current batch with at least ['uid', 'venueID'] columns.
+    initial_X_train : pd.DataFrame
+        The original interaction matrix whose index = uids and
+        columns = venueIDs.
+
+    Returns
+    -------
+    pd.DataFrame
+        Same index/columns as initial_X_train, but counts reflect *data*.
+    """
+    # fresh counts from the new batch
+    new_mat = (data.groupby(['uid', 'venueID'])
+                     .size()
+                     .unstack(fill_value=0))
+
+    # align to original axes; fill missing cells with 0
+    new_mat = new_mat.reindex(index=initial_X_train.index,
+                              columns=initial_X_train.columns,
+                              fill_value=0)
+
+    # ensure column order is identical
+    return new_mat
+
+def drop_oldest_epochs(df: pd.DataFrame, k_days: int, epoch_counter: int) -> pd.DataFrame:
+    """
+    Excludes the oldest k_days * epoch_counter days worth of rows,
+    where 'oldest' means relative to the minimum timestamp in df['time'].
+    """
+    # ensure time column is datetime
+    df = df.copy()
+    df['time'] = pd.to_datetime(df['time'])
+
+    # compute cutoff: earliest time + k_days * epoch_counter
+    cutoff = df['time'].min() + pd.Timedelta(days=k_days * epoch_counter)
+
+    # keep only rows strictly newer than the cutoff
+    return df[df['time'] > cutoff]
+
+
 class Simulation:
     def __init__(self, city_name, data_file, train_window, k_days, threshold, max_steps, recommender, topK,
                  p, data_version="small", category_attribute_name='Second_Category', seed=31,
-                 selection_strategy='weighted'):
+                 selection_strategy='weighted', sliding_window_training=None):
 
         self.seed = seed
         #np.random.seed(self.seed)
@@ -30,6 +77,11 @@ class Simulation:
         self.recommender = recommender
         self.topK = topK
         self.selection_strategy = selection_strategy
+        if sliding_window_training is not None:
+            self.sliding_window_training, self.sliding_window_width = sliding_window_training
+        else:
+            self.sliding_window_training = None
+            self.sliding_window_width = None
 
         self.strange_return = 0
         self.strange_explore = 0
@@ -141,6 +193,8 @@ class Simulation:
 
         # Prepare interaction matrix
         self.X_train = self.create_interaction_matrix(self.train_data)
+        self.initial_X_train = self.X_train.copy()
+
 
     def filtering_training_data(self, training_dataset):
         # Count the number of rows per user
@@ -175,10 +229,14 @@ class Simulation:
                 self.step()
                 pbar.update(1)
                 if self.days_since_last_epoch % self.k_days == 0:
+                    #print(f"strange return: {self.strange_return}")
+                    #print(f"strange explore: {self.strange_explore}")
+                    #print(f"strange recommender: {self.strange_recommender}")
+                    #log the number of strange returns, explores and recommender calls
+                    logging.info(f"Epoch {self.epoch_counter}: strange return: {self.strange_return}, "
+                                 f"strange explore: {self.strange_explore}, "
+                                 f"strange recommender: {self.strange_recommender}")   
                     self.epoch_counter += 1  # Increment epoch counter
-                    print(f"strange return: {self.strange_return}")
-                    print(f"strange explore: {self.strange_explore}")
-                    print(f"strange recommender: {self.strange_recommender}")
 
     def step(self):
         # active_users is a dictionary where:
@@ -192,7 +250,7 @@ class Simulation:
 
         active_users = self.activate_users()
         print(f"step {self.step_counter}: {len(active_users)} active users, epoch {self.epoch_counter}")
-        logging.info(f"step {self.step_counter}: {len(active_users)} active users")
+        logging.info(f"step {self.step_counter}, epoch {self.epoch_counter}: {len(active_users)} active users")
 
         # Process interactions for each active user
         # For each user, we pass their entire category hierarchy to process_interactions()
@@ -283,8 +341,17 @@ class Simulation:
             new_data = pd.DataFrame(self.new_interactions)
             # Concatenate new data to the training data
             self.train_data = pd.concat([self.train_data, new_data], ignore_index=True)
-            # Update the interaction matrix
-            self.X_train = self.create_interaction_matrix(self.train_data)
+            if self.sliding_window_training is not None:
+                self.train_data_ = drop_oldest_epochs(self.train_data,
+                                                      self.sliding_window_width*self.k_days, self.epoch_counter)
+                self.X_train = update_interaction_matrix(self.train_data_,
+                                                     initial_X_train=self.initial_X_train
+                                                     )
+            else:
+                self.train_data_ = self.train_data
+                # Update the interaction matrix
+                self.X_train = self.create_interaction_matrix(self.train_data_)
+            print("x_train: ", self.X_train.shape)
             # Clear the list
             self.new_interactions = []
             print(f"Training data updated for {self.city_name}.")
